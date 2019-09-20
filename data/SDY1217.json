@@ -1,0 +1,124 @@
+{
+    "study_accession": "SDY1217",
+    "actual_completion_date": "2016-01-29",
+    "actual_enrollment": 24,
+    "actual_start_date": "2014-08-15",
+    "age_unit": "Months",
+    "brief_description": "Mechanistic study of why elevated tumor suppressor ARF expression in aggressive subtypes of Muscle-invasive bladder cancer (MIBC) is associated with poor outcome and attenuated response to chemotherapy (cisplatin).  The study was investigated In both GEMM and murine xenograft models of human MIBC.  Resistance was mediated in part by the integrin-binding protein ITGB3BP (CENPR) and reflected ARF-dependent impairment of protein translation, which was exaggerated by drug treatment.",
+    "brief_title": "AFR in drug resistance of cisplatin in bladder cancer",
+    "clinical_trial": "N",
+    "condition_studied": "Muscle-invasive bladder cancer",
+    "dcl_id": 2,
+    "description": "Mechanistic study of why elevated tumor suppressor ARF expression in aggressive subtypes of Muscle-invasive bladder cancer (MIBC) is associated with poor outcome and attenuated response to chemotherapy (cisplatin).  The study was investigated In both GEMM and murine xenograft models of human MIBC.  Resistance was mediated in part by the integrin-binding protein ITGB3BP (CENPR) and reflected ARF-dependent impairment of protein translation, which was exaggerated by drug treatment.",
+    "doi": "10.21430/M3I9QJDMAU",
+    "endpoints": "Inducible Arf(f/f) GEM model in the context of p53(f/f) and Pten(f/f). RNAseq_GE, cisplatin response report, protein translation assay, and H&E and IHC.",
+    "gender_included": "Not Specified",
+    "hypothesis": "From drug resistance  association studies, we considered the possibility that ARF overexpression might play a causal role in failed MIBC chemotherapy.",
+    "initial_data_release_date": "2018-05-10",
+    "initial_data_release_version": "DR26",
+    "intervention_agent": "Cisplatin",
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "   8.00",
+    "minimum_age": "   3.00",
+    "objectives": "To investigate whether dysregulation of ARF results in adverse outcome or impaired treatment response in MIBC of both GEMM and xenograft models.",
+    "official_title": "ARF Confers a Context-Dependent Response to Chemotherapy in Muscle-Invasive Bladder Cancer",
+    "sponsoring_organization": "NIH/NCI",
+    "target_enrollment": 24,
+    "workspace_id": 5589,
+    "research_focus": [
+        "Oncology"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4228",
+            "description": "C57Bl6-129SJv: double knockout (p53, Pten) treated with vehicle (PBS)",
+            "name": "DKO placebo"
+        },
+        {
+            "arm_accession": "ARM4229",
+            "description": "C57Bl6-129SJv: triple knockout (Arf, p53, Pten) treated with vehicle (PBS)",
+            "name": "TKO placebo"
+        },
+        {
+            "arm_accession": "ARM4230",
+            "description": "C57Bl6-129SJv: double knockout (p53, Pten) treated with cisplatin (4mg/kg)",
+            "name": "DKO treated with cisplatin"
+        },
+        {
+            "arm_accession": "ARM4231",
+            "description": "C57Bl6-129SJv: triple knockout (Arf, p53, Pten) treated with cisplatin (4mg/kg)",
+            "name": "TKO treated with cisplatin"
+        },
+        {
+            "arm_accession": "ARM4232",
+            "description": "C57Bl6-129SJv: Wild Type",
+            "name": "wild type epithelium"
+        },
+        {
+            "arm_accession": "ARM4233",
+            "description": "Xenografted human bladder cancer cell, UMUC3, into Ncr/Nude mice with control vector and no treatment",
+            "name": "Xenograft UMUC3-control placebo"
+        },
+        {
+            "arm_accession": "ARM4234",
+            "description": "Xenografted human bladder cancer cell, UMUC3, into Ncr/Nude mice with control vector and cisplatin treatment",
+            "name": "Xenograft UMUC3-control cisplatin"
+        },
+        {
+            "arm_accession": "ARM4235",
+            "description": "Xenografted human bladder cancer cell, UMUC3, into Ncr/Nude mice with wt-Arf vector and no treatment",
+            "name": "Xenograft UMUC3-Arf placebo"
+        },
+        {
+            "arm_accession": "ARM4236",
+            "description": "Xenografted human bladder cancer cell, UMUC3, into Ncr/Nude mice with wt-Arf  vector and cisplatin treatment",
+            "name": "Xenograft UMUC3-Arf cisplatin"
+        },
+        {
+            "arm_accession": "ARM4237",
+            "description": "Xenografted human bladder cancer cell, UMUC3, into Ncr/Nude mice with shITGB3BP vector and no treatment",
+            "name": "Xenograft UMUC3-shITGB3BP placebo"
+        },
+        {
+            "arm_accession": "ARM4238",
+            "description": "Xenografted human bladder cancer cell, UMUC3, into Ncr/Nude mice with shITGB3BP vector and cisplatin treatment",
+            "name": "Xenograft UMUC3-shITGB3BP cisplatin"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Cory",
+            "last_name": "Abate-Shen",
+            "organization": "Columbia University Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "ARF Confers a Context-Dependent Response to Chemotherapy in Muscle-Invasive Bladder Cancer.",
+            "journal": "Cancer Res.",
+            "month": "Feb",
+            "year": "2017",
+            "doi": "10.1158/0008-5472.CAN-16-2621. Epub 2017 Jan 12.",
+            "pubmed_id": "28082400"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Enhance Applicability of Mouse Models for Translational Research (Oncology Model, OMF)",
+            "contract_name": "Analysis of drug response in organoids and mouse models (Oncology Model, OMF)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 24
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "study_accession": "SDY888",
+    "actual_completion_date": "2016-08-01",
+    "actual_enrollment": 102,
+    "actual_start_date": "2015-01-01",
+    "age_unit": "Years",
+    "brief_description": "T cell human Immune Signature of Dengue infection was studied",
+    "brief_title": "Human Immune Signature of Dengue virus infection- Gene Expression of CD4 subsets",
+    "clinical_trial": "N",
+    "condition_studied": "Dengue virus infection",
+    "dcl_id": 2,
+    "description": "The human Immune Signature of Dengue virus infection was studied in two endemic areas. T cell responses were compared in infected patients and uninfected individuals also from Dengue endemic areas.",
+    "doi": "10.21430/M3C4L4WD2Z",
+    "endpoints": "Compare T cell response of primary and secondary Dengue virus infection by flow cytometry and RNA sequencing",
+    "gender_included": "Female, Male",
+    "hypothesis": "Compare T cell response of Dengue infected patients with non-infected individuals",
+    "initial_data_release_date": "2017-11-07",
+    "initial_data_release_version": "DR24",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "  65.00",
+    "minimum_age": "   3.00",
+    "objectives": "To determine the T cell immune signature of Dengue virus infection",
+    "official_title": "Human immune signatures of Dengue virus and Mycobacterium Tuberculosis exposure in infection - Gene Expression of CD4 subsets.",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 60,
+    "workspace_id": 4876,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3314",
+            "description": "Patients previously infected with one strain of Dengue virus from the Dengue dendemic area Sri Lanka",
+            "name": "DENV infected patients post primary infection-Sri Lanka"
+        },
+        {
+            "arm_accession": "ARM3315",
+            "description": "Patients previously infected with two or more strains of Dengue virus from the Dengue dendemic area Sri Lanka",
+            "name": "DENV infected patients post secondary infections-Sri Lanka"
+        },
+        {
+            "arm_accession": "ARM3316",
+            "description": "Patients previously infected with two or more strains of Dengue virus from the Dengue dendemic area Nicaragua",
+            "name": "DENV infected patients post secondary infections-Nicaragua"
+        },
+        {
+            "arm_accession": "ARM3317",
+            "description": "Individuals from Dengue endemic area Sri Lanka who have not been infected by Dengue virus",
+            "name": "Non-DENV infected individuals from DENV endemic area-Sri Lanka"
+        },
+        {
+            "arm_accession": "ARM3712",
+            "description": "Individuals from non Dengue endemic area who have not been infected by Dengue virus",
+            "name": "Individuals from non Dengue endemic area who have not been infected by Dengue virus"
+        },
+        {
+            "arm_accession": "ARM4754",
+            "description": "DENV endemic area individuals, unknown DENV infection status-Sri Lanka",
+            "name": "DENV endemic area individuals, unknown DENV infection status-Sri Lanka"
+        },
+        {
+            "arm_accession": "ARM4932",
+            "description": "Patients newly infected with  Dengue virus, as determined by clinical evaluation, from the Dengue endemic area Sri Lanka",
+            "name": "Patients newly infected with  Dengue virus, as determined by clinical evaluation, from the Dengue endemic area Sri Lanka"
+        },
+        {
+            "arm_accession": "ARM4933",
+            "description": "Patients newly infected with  Dengue virus, as determined by clinical evaluation, from the Dengue endemic area Nicaragua",
+            "name": "Patients newly infected with  Dengue virus, as determined by clinical evaluation, from the Dengue endemic area Nicaragua"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Alessandro",
+            "last_name": "Sette",
+            "organization": "La Jolla Institute for Allergy and Immunology",
+            "role_in_study": "Principal Investigator",
+            "site_name": "La Jolla Institute for Allergy and Immunology"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Unique phenotypes and clonal expansions of human CD4 effector memory T cells re-expressing CD45RA.",
+            "journal": "Nat Commun.",
+            "month": "Nov",
+            "year": "2017",
+            "doi": "10.1038/s41467-017-01728-5.",
+            "pubmed_id": "29133794"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+            "contract_name": "Human immune signatures of dengue virus and mycobacterium tuberculosis exposure in infection; disease and vaccination (La Jolla)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 24
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 13
+        },
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 74
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 76
+            },
+            {
+                "race": "Unknown",
+                "count": 20
+            },
+            {
+                "race": "White",
+                "count": 6
+            }
+        ],
+        "gender": [
+            {
+                "Female": 2
+            },
+            {
+                "Male": 100
+            }
+        ]
+    }
+}

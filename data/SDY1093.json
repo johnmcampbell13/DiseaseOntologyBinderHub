@@ -1,0 +1,109 @@
+{
+    "study_accession": "SDY1093",
+    "actual_completion_date": "2016-12-30",
+    "actual_enrollment": 20,
+    "actual_start_date": "2014-06-01",
+    "age_unit": "Weeks",
+    "brief_description": "The Adenomatous Polyposis Coli (APC) tumor suppressor is mutated in the vast majority of human colorectal cancers (CRC) and leads to deregulated Wnt signaling. To determine whether Apc disruption is required for tumor maintenance, we developed a mouse model of CRC whereby Apc can be conditionally suppressed using a doxycycline-regulated shRNA. Apc suppression produces adenomas in both the small intestine and colon that, in the presence of Kras and p53 mutations, can progress to invasive carcinoma. In established tumors, Apc restoration drives rapid and widespread tumor-cell differentiation and sustained regression without relapse. Tumor regression is accompanied by the re-establishment of normal crypt-villus homeostasis, such that once aberrantly proliferating cells reacquire self-renewal and multi-lineage differentiation capability. Our study reveals that CRC cells can revert to functioning normal cells given appropriate signals, and provide compelling in vivo validation of the Wnt pathway as a therapeutic target for treatment of CRC",
+    "brief_title": "Apc Restoration in Colorectal Cancer",
+    "clinical_trial": "N",
+    "condition_studied": "Colon cancers",
+    "dcl_id": 2,
+    "description": "The Adenomatous Polyposis Coli (APC) tumor suppressor is mutated in the vast majority of human colorectal cancers (CRC) and leads to deregulated Wnt signaling. To determine whether Apc disruption is required for tumor maintenance, we developed a mouse model of CRC whereby Apc can be conditionally suppressed using a doxycycline-regulated shRNA. Apc suppression produces adenomas in both the small intestine and colon that, in the presence of Kras and p53 mutations, can progress to invasive carcinoma. In established tumors, Apc restoration drives rapid and widespread tumor-cell differentiation and sustained regression without relapse. Tumor regression is accompanied by the re-establishment of normal crypt-villus homeostasis, such that once aberrantly proliferating cells reacquire self-renewal and multi-lineage differentiation capability. Our study reveals that CRC cells can revert to functioning normal cells given appropriate signals, and provide compelling in vivo validation of the Wnt pathway as a therapeutic target for treatment of CRC",
+    "doi": "10.21430/M3PC2VFTG8",
+    "endpoints": "Organoid and IHC images, Western blot, QPCR, RNAseq gene expression profiles and DE signatures",
+    "gender_included": "Not Specified",
+    "hypothesis": "APC disruption, the predominant CRC-associated event, is required for maintenance of CRC, and which leads to hyperactivated Wnt signalling in CRC. The validation of this mechanism can leverage the Wnt pathway as a viable therapeutic target",
+    "initial_data_release_date": "2017-06-16",
+    "initial_data_release_version": "DR22",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "   6.00",
+    "minimum_age": "   6.00",
+    "objectives": "To test the hypothesis by generating shRNA transgenic mice that enable conditional and reversible control of Apc expression by TRE-regulated, GFP-linked short-hairpin RNAs (TG-shRNAs), and to measure the histological, anatomical, and molecular characteristics of colon adenomas formed in shApc/Lgr5 transgenic mice by validating the APC silence and APC restoration functions.",
+    "official_title": "Apc Restoration Promotes Cellular Differentiation and Reestablishes Crypt Homeostasis in Colorectal Cancer",
+    "sponsoring_organization": "NIH/NCI",
+    "target_enrollment": null,
+    "workspace_id": 5643,
+    "research_focus": [
+        "Oncology"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3837",
+            "description": "Induced state of control shRNA (Renilla)",
+            "name": "shRenilla on Dox"
+        },
+        {
+            "arm_accession": "ARM3838",
+            "description": "Off state of control shRNA (Renilla)",
+            "name": "shRenilla off Dox"
+        },
+        {
+            "arm_accession": "ARM3839",
+            "description": "Induced state of shAPC, APC knockdown",
+            "name": "shAPC on Dox"
+        },
+        {
+            "arm_accession": "ARM3840",
+            "description": "Off state of shAPC, APC remain",
+            "name": "shAPC off Dox"
+        },
+        {
+            "arm_accession": "ARM3841",
+            "description": "Induced state of shAPC, APC knockdown, and  Kras(G12D)",
+            "name": "shAPC/Kras on Dox"
+        },
+        {
+            "arm_accession": "ARM3842",
+            "description": "Off state of shAPC, APC remain, and Kras(G12D)",
+            "name": "shAPC/Kras off Dox"
+        },
+        {
+            "arm_accession": "ARM3843",
+            "description": "Induced state of shAPC, APC knockdown, and  Kras(G12D)/p53(flox/flox)",
+            "name": "shAPC/Kras/p53(fl/fl) on Dox"
+        },
+        {
+            "arm_accession": "ARM3844",
+            "description": "Off state of shAPC, APC remain, and  Kras(G12D)/p53(flox/flox)",
+            "name": "shAPC/Kras/p53(fl/fl) off Dox"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Scott",
+            "last_name": "Lowe",
+            "organization": "Memorial Sloan Kettering Cancer Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Cancer Biology and Genetics Program"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Apc Restoration Promotes Cellular Differentiation and Reestablishes Crypt Homeostasis in Colorectal Cancer.",
+            "journal": "Cell.",
+            "month": "Jun",
+            "year": "2015",
+            "doi": "10.1016/j.cell.2015.05.033.",
+            "pubmed_id": "26091037"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Enhance Applicability of Mouse Models for Translational Research (Oncology Model, OMF)",
+            "contract_name": "A scalable platform for target validation in GEMM models of gastrointestinal malignancies."
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 20
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "study_accession": "SDY478",
+    "actual_completion_date": null,
+    "actual_enrollment": 70,
+    "actual_start_date": "2013-01-01",
+    "age_unit": "Years",
+    "brief_description": "Systems biology approach to examine effects of seasonal flu vaccination in adults of different ages on gene expression, cytokine stimulation and serum cytokines with parameters such as immune senescence to uncover new markers and mechanisms behind failure of immune function in many older people.",
+    "brief_title": "T cell responses to H1N1v and a longitudinal study of seasonal influenza vaccination SLVP015 2013",
+    "clinical_trial": "Y",
+    "condition_studied": "Influenza vaccine response",
+    "dcl_id": 2,
+    "description": "Systems biology approach to examine effects of seasonal flu vaccination in adults of different ages on gene expression, cytokine stimulation and serum cytokines with parameters such as immune senescence to uncover new markers and mechanisms behind failure of immune function in many older people.",
+    "doi": "10.21430/M3YEJTSS29",
+    "endpoints": "1. Combinatorial tetramer analysis by FACS and/or CyTOF; Phosphoflow. 2. Luminex; Gene expression profiling (Affymetrix microarray). 3. Luminex; Gene expression profiling (Affymetrix microarry); Microneutralization assays. 4. Gene expression profiling (Affymetrix microarray); Immune phenotyping by CyTOF. 5. Gene expression profiling (Affymetrix microarray). 6. Immune phenotyping by CyTOF; Luminex. 7. ELISA",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "HYPOTHESIS NEEDED",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": "trivalent inactivated influenza vaccine (IIV3)",
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "90 and older",
+    "minimum_age": "18",
+    "objectives": "HYPOTHESIS NEEDED",
+    "official_title": "T cell responses to H1N1v and a longitudinal study of seasonal influenza vaccination - 2013",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 90,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2527",
+            "description": "18-30 year old adults immunized intramuscularly with Fluzone (IIV3)",
+            "name": "SLVP015_2013A"
+        },
+        {
+            "arm_accession": "ARM2528",
+            "description": "60-79 year old adults immunized intramuscularly with Fluzone (IIV3)",
+            "name": "SLVP015_2013B"
+        },
+        {
+            "arm_accession": "ARM2529",
+            "description": "80 years and older, adults immunized intramuscularly with Fluzone (IIV3)",
+            "name": "SLVP015_2013C"
+        },
+        {
+            "arm_accession": "ARM2575",
+            "description": "SLVP015_2013_CyTOFcontrol",
+            "name": "SLVP015_2013_CyTOFcontrol"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark",
+            "last_name": "Davis",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford-LPCH Vaccine Program"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "A clinically meaningful metric of immune age derived from high-dimensional longitudinal monitoring.",
+            "journal": "Nat Med.",
+            "month": "Mar",
+            "year": "2019",
+            "doi": "-",
+            "pubmed_id": "30842675"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 73
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 544
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 138
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 6
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 61
+            }
+        ],
+        "gender": [
+            {
+                "Female": 39
+            },
+            {
+                "Male": 30
+            },
+            {
+                "Not Specified": 1
+            }
+        ]
+    }
+}

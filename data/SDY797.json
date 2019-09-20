@@ -1,0 +1,98 @@
+{
+    "study_accession": "SDY797",
+    "actual_completion_date": null,
+    "actual_enrollment": 49,
+    "actual_start_date": "2011-03-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this trial is to test whether a drug called alefacept will slow or halt destruction of the beta cells in the pancreas. If the destruction of the beta cells is stopped, the patients might be able to produce insulin on their own longer, which could stop or slow the progression of their type 1 diabetes.",
+    "brief_title": "T1DAL ITN045AI: Inducing Remission in New Onset Type 1 Diabetes Mellitus with Alefacept(Amevive) ",
+    "clinical_trial": "Y",
+    "condition_studied": "New-onset Type 1 Diabetes Mellitus",
+    "dcl_id": 2,
+    "description": "T1DM is an autoimmune disease that can emerge suddenly, causing dependence on insulin for life. This means that the immune system (the part of your body that helps fight infections) mistakenly attacks the cells in the pancreas that produce insulin (beta cells). As beta cells are destroyed, one's ability to produce insulin is decreased. Insulin helps keep blood glucose (sugar) levels normal.",
+    "doi": "10.21430/M3F6ZX0TRG",
+    "endpoints": "Primary Outcome: 2-Hour C-peptide Area Under the Curve (AUC) Result in Response to Standardized Mixed Meal Tolerance Test (MMTT) [ Time Frame: Baseline (pre-treatment initiation), Week 52 ] [ Designated as safety issue: No ]; Secondary Outcomes:4-Hour C-peptide Area Under the Curve (AUC) Result in Response to Standardized Mixed Meal Tolerance Test (MMTT) [ Time Frame: Baseline (Pre-treatment initiation), Week 52, and Week 104 ] [ Designated as safety issue: No ];2-Hour C-peptide Area Under the Curve (AUC) Result in Response to Standardized Mixed Meal Tolerance Test (MMTT) [ Time Frame: Baseline (Pre-treatment initiation), Week 52, and Week 104 ] [ Designated as safety issue: No ];Insulin Use in Units Per Kilogram Body Weight Per Day [ Time Frame: Baseline (Pre-treatment initiation), Week 52, and Week 104 ] [ Designated as safety issue: No ];Major Hypoglycemic Events Occurring From Randomization [ Time Frame: Baseline to Week 52 and Week 52 to Week 104 ] [ Designated as safety issue: Yes ];Hemoglobin A1c [ Time Frame: Baseline (Pre-treatment initiation), Week 52, and Week 104 ] [ Designated as safety issue: No ]",
+    "gender_included": "Not Specified",
+    "hypothesis": "Based on previous research, doctors think that giving medicines to affect the immune system soon after diagnosis may stop, delay, or decrease the destruction of beta cells, resulting in better glucose control.",
+    "initial_data_release_date": "2016-06-17",
+    "initial_data_release_version": "DR19",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  34.00",
+    "minimum_age": "  12.00",
+    "objectives": "The primary objective of this trial is to determine whether alefacept will slow the progression of the autoimmune destruction of ? cells and lead to the preservation of C-peptide secretion in T1DM.",
+    "official_title": "T1DAL ITN045AI: Inducing Remission in New Onset Type 1 Diabetes Mellitus with Alefacept(Amevive) ",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3163",
+            "description": "Weekly intramuscular injections of a placebo saline solution of equal volume to the alefacept group for 2 cycles of 12 weeks each, separated by a 12 week pause in treatment.",
+            "name": "Placebo Comparator: Placebo"
+        },
+        {
+            "arm_accession": "ARM3164",
+            "description": "Weekly intramuscular injections of alefacept (15 mg) for 2 cycles of 12 weeks each, separated by a 12 week pause in treatment.",
+            "name": "Experimental: Alefacept"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark R",
+            "last_name": "Rigby",
+            "organization": "Indiana University and Riley Hospital for Children",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Indiana University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Targeting of memory T cells with alefacept in new-onset type 1 diabetes (T1DAL study): 12 month results of a randomised, double-blind, placebo-controlled phase 2 trial.",
+            "journal": "Lancet Diabetes Endocrinol.",
+            "month": "Dec",
+            "year": "2013",
+            "doi": "10.1016/S2213-8587(13)70111-6. Epub 2013 Sep 23.",
+            "pubmed_id": "24622414"
+        },
+        {
+            "title": "Alefacept provides sustained clinical and immunological effects in new-onset type 1 diabetes patients.",
+            "journal": "J Clin Invest.",
+            "month": "Aug",
+            "year": "2015",
+            "doi": "10.1172/JCI81722. Epub 2015 Jul 20.",
+            "pubmed_id": "26193635"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 48
+            }
+        ],
+        "gender": [
+            {
+                "Female": 20
+            },
+            {
+                "Male": 29
+            }
+        ]
+    }
+}

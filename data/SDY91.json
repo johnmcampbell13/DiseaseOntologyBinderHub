@@ -1,0 +1,162 @@
+{
+    "study_accession": "SDY91",
+    "actual_completion_date": "2010-01-01",
+    "actual_enrollment": 197,
+    "actual_start_date": "2005-01-01",
+    "age_unit": "Years",
+    "brief_description": "Antineutrophil cytoplasmic antibodies (ANCA)-associated vasculitis is the most common type of small blood vessel inflammation in adults. ANCA-associated vasculitis includes Wegener's granulomatosis (WG) and microscopic polyangiitis (MPA). Rituximab is a man-made antibody used to treat certain types of cancer. The purpose of this study is to determine the effectiveness of rituximab in treating patients with WG and MPA",
+    "brief_title": "Rituximab for the Treatment of Wegener's Granulomatosis and Microscopic Polyangiitis (RAVE ITN021AI)",
+    "clinical_trial": "Y",
+    "condition_studied": "Vasculitis Wegener's Granulomatosis Microscopic Polyangiitis",
+    "dcl_id": 1,
+    "description": "<p>Current conventional therapies for ANCA-associated vasculitis (AAV) are associated with high incidences of treatment failure, disease relapse, substantial toxicity, and patient morbidity and mortality. Rituximab is a monoclonal antibody used to treat non-Hodgkin's lymphoma. This study will evaluate the efficacy of rituximab with glucocorticoids in inducing disease remission in patients with severe forms of AAV (WG and MPA).</p><p>The study consists of two phases: a 6-month remission induction phase, followed by a 12-month remission maintenance phase. All participants will receive at least 1 g of pulse intravenous methylprednisolone or a dose-equivalent of another glucocorticoid preparation. Depending on the participant's condition, he or she may receive up to 3 days of intravenous methylprednisolone for a total of 3 g of methylprednisolone (or a dose-equivalent). During the remission induction phase, all participants will receive oral prednisone daily (1 mg/kg/day, not to exceed 80 mg/day). Prednisone tapering will be completed by the Month 6 study visit.</p><p>Participants will then be randomly assigned to one of two arms. Arm 1 participants will receive rituximab (375 mg/m^2) infusions once weekly for 4 weeks and cyclophosphamide (CYC) placebo daily for 3 to 6 months. Arm 2 participants will receive rituximab placebo infusions once weekly for 4 weeks and CYC daily for 3 to 6 months. During the remission maintenance phase, participants in Arm 1 will discontinue CYC placebo and start oral azathioprine (AZA) placebo daily until Month 18. Participants in Arm 2 will discontinue CYC and start AZA daily until Month 18. Participants who fail treatment before Month 6 will be crossed over to the other treatment arm unless there are specific contraindications. Participants in either group who reach clinical remission before they complete 6 months of therapy may switch from CYC/placebo to AZA/placebo if directed by their physicians.All participants will be followed for at least 18 months. Initially, study visits are weekly, progressing to monthly and then quarterly visits as the study proceeds. Blood collection will occur at each study visit.</p>",
+    "doi": "10.21430/M3TK42R0QR",
+    "endpoints": "<p><b>Primary endpoint:</b></p><p>The percentage of participants who have a BVAS_WG of 0 and have successfully completed the glucocorticoid taper at 6 months after randomization.</p><p><b>Secondary endpoints</b></p><ol>    <li>The adverse event rate, expressed as adverse events per participant year during the 6, 12, and 18 months after randomization for the following adverse events combined:        <ol>            <li>Death (all causes)            <li>Grade 2 or higher leukopenia or thrombocytopenia            <li>Grade 3 or higher infections            <li>Hemorrhagic cystitis (grade 2 or lower needs confirmation by cystoscopy)            <li>Malignancy            <li>Venous thromboembolic event (deep venous thrombosis or pulmonary embolism).            <li>Hospitalization resulting either from the disease or from a complication due to study treatment.            <li>Infusion reactions (within 24 hours of infusion) that result in the cessation of further infusions (including cytokine-release allergic reaction).            <li>Cerebrovascular accident (CVA).        </ol>    <li>The two-sided 95% CI of the percentage of participants who have a BVAS/WG of 0 and have successfully completed the glucocorticoid taper by 6 months after randomization and two sided 95% CI of the difference between the two arms.<li>The duration of complete remission, the time to limited and/or severe flare after complete remission (see section 3.7 for the definitions of limited and severe flare) in the two treatment groups.<li>The percentage of participants who meet the criteria for clinical tolerance, as defined in section 1.6.4, at 12 and 18 months after randomization and at the common closing date.</ol><p><b>Tertiary endpoints:</b></p><ol>    <li>The percentage of participants in complete remission at 12 and 18 months after randomization.    <li>The cumulative BVAS/WG AUC during the 6, 12, and 18 months after randomization.    <li>The percentage of participants who achieve and maintain partial remission (defined as having a BVAS/WG of 1 or 2) at months 6, 12, and 18.    <li>The percentage of participants who achieve a BVAS of 0 on prednisone <10 mg/day at 6, 12, and 18 months after randomization.    <li>The percentage of participants who achieve complete remission after blinded crossover.    <li>The cumulative steroid dose between groups for participants at 6, 12, and 18 months.    <li>The number of severe flares in participants at 6, 12, and 18 months.    <li>The number of limited flares in participants at 6, 12, and 18 months.    <li>The percentage of participants who withdraw from the study or treatment because of drug intolerance (e.g., emesis, infusion reactions).    <li>Laboratory markers of inflammation (ESR and CRP).</ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Rituximab is not inferior to conventional therapy in its ability to induce disease remission by Month 6.",
+    "initial_data_release_date": "2013-04-05",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Rituximab",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  90.00",
+    "minimum_age": "  15.00",
+    "objectives": "<p><b>Primary Objective</b><p>To determine the efficacy of rituximab given in four weekly infusions combined with glucocorticoid taper in the induction of complete remission defined as a Birmingham Vasculitis Activity Score for Wegener?s Granulomatosis BVAS_WG of 0 off glucocorticoid therapy.</p><p><b>Secondary Objectives: </b><ol><li>To compare the safety profile of rituximab with that of conventional therapy<li>To assess the superiority of rituximab as compared to conventional therapy<li>To determine the duration of complete remission induced by four infusions of rituximab (375 mg/m2)<li>To determine if participants with severe AAV who are treated with rituximab can achieve clinical tolerance</ol><p><b>Tertiary objectives:</b><p><ol><li>To determine the percentage of participants in complete remission at 12 and 18 months after randomization.<li>To assess other measures of efficacy and safety of rituximab in participants with severe AAV.<li>To determine the effect of rituximab on markers of inflammation and specific immune parameters through a series of detailed mechanistic studies.</ol>",
+    "official_title": "Rituximab for the Treatment of Wegener's Granulomatosis and Microscopic Polyangiitis (RAVE ITN021AI)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 200,
+    "workspace_id": 2843,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM568",
+            "description": "Drug: Rituximab plus cyclophosphamide placebo (rituximab group), Methylprednisolone (or other glucocorticoid), Prednisone",
+            "name": "Experimental:  Rituximab"
+        },
+        {
+            "arm_accession": "ARM569",
+            "description": "Drug: Cyclophosphamide plus rituximab placebo (control group), Azathioprine, Methylprednisolone (or other glucocorticoid), Prednisone",
+            "name": "Active Comparator: Cyclophophamide"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Ulrich",
+            "last_name": "Specks",
+            "organization": "Mayo Clinic",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mayo Clinic"
+        },
+        {
+            "first_name": "John H.",
+            "last_name": "Stone",
+            "organization": "Johns Hopkins University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Johns Hopkins University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Rituximab versus cyclophosphamide for ANCA-associated vasculitis.",
+            "journal": "N Engl J Med.",
+            "month": "Jul",
+            "year": "2010",
+            "doi": "10.1056/NEJMoa0909905.",
+            "pubmed_id": "20647199"
+        },
+        {
+            "title": "Circulating markers of vascular injury and angiogenesis in antineutrophil cytoplasmic antibody-associated vasculitis.",
+            "journal": "Arthritis Rheum.",
+            "month": "Dec",
+            "year": "2011",
+            "doi": "10.1002/art.30615.",
+            "pubmed_id": "21953143"
+        },
+        {
+            "title": "Circulating angiopoietin-2 as a biomarker in ANCA-associated vasculitis.",
+            "journal": "PLoS One.",
+            "month": "-",
+            "year": "2012",
+            "doi": "10.1371/journal.pone.0030197. Epub 2012 Jan 18.",
+            "pubmed_id": "22279570"
+        },
+        {
+            "title": "Efficacy of remission-induction regimens for ANCA-associated vasculitis.",
+            "journal": "N Engl J Med.",
+            "month": "Aug",
+            "year": "2013",
+            "doi": "10.1056/NEJMoa1213277.",
+            "pubmed_id": "23902481"
+        },
+        {
+            "title": "Pro: Should all patients with anti-neutrophil cytoplasmic antibody-associated vasculitis be primarily treated with rituximab?",
+            "journal": "Nephrol Dial Transplant.",
+            "month": "Jul",
+            "year": "2015",
+            "doi": "10.1093/ndt/gfv217. Epub 2015 May 21.",
+            "pubmed_id": "25999375"
+        },
+        {
+            "title": "Reanalysis of the Rituximab in ANCA-Associated Vasculitis trial identifies granulocyte subsets as a novel early marker of successful treatment.",
+            "journal": "Arthritis Res Ther.",
+            "month": "Sep",
+            "year": "2015",
+            "doi": "10.1186/s13075-015-0778-z.",
+            "pubmed_id": "26387933"
+        },
+        {
+            "title": "Design of the Rituximab in ANCA-associated Vasculitis (RAVE) Trial.",
+            "journal": "The Open Arthritis Journal",
+            "month": "Nov",
+            "year": "2011",
+            "doi": "10.2174/1876539401104010001",
+            "pubmed_id": "TBD_A"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Rituximab for the Treatment of Wegener's Granulomatosis and Microscopic Polyangiitis (RAVE), Immune Tolerance Network"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 1175
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 1151
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 6
+            },
+            {
+                "race": "Other",
+                "count": 6
+            },
+            {
+                "race": "White",
+                "count": 184
+            }
+        ],
+        "gender": [
+            {
+                "Female": 98
+            },
+            {
+                "Male": 99
+            }
+        ]
+    }
+}

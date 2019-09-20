@@ -1,0 +1,101 @@
+{
+    "study_accession": "SDY296",
+    "actual_completion_date": null,
+    "actual_enrollment": 45,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "This project will contribute to the overall vision and goals of this U19 by analyzing the immune response to Flu vaccination in healthy individuals. The knowledge generated in this Project will be transferred to Projects 3-5 where immune effects of vaccination will be studied in patients with underlying immune system alterations.",
+    "brief_title": "Systems Biology Approach to Analysis of 2011-12 TIV Fluzone Influenza Vaccine Response in Healthy Individuals (see companion studies SDY74, SDY301)",
+    "clinical_trial": "N",
+    "condition_studied": "Vaccine responses in healthy adult population.",
+    "dcl_id": 2,
+    "description": "This project will contribute to the overall vision and goals of this U19 by analyzing the immune response to Flu vaccination in healthy individuals. The knowledge generated in this Project will be transferred to Projects 3-5 where immune effects of vaccination will be studied in patients with underlying immune system alterations.",
+    "doi": "10.21430/M300RMFHZQ",
+    "endpoints": "N/A",
+    "gender_included": "Female, Male",
+    "hypothesis": "That immune responses can be measured longitudinally after vaccination and that the information gained may be useful for developing novel vaccines.",
+    "initial_data_release_date": "2016-02-05",
+    "initial_data_release_version": "DR17",
+    "intervention_agent": "TIV Fluzone",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  58.00",
+    "minimum_age": "  21.00",
+    "objectives": "To measure immune responses to vaccination with flu vaccine in healthy adult subjects.",
+    "official_title": "Systems Biology Approach to Analysis of 2011-12 TIV Fluzone Influenza Vaccine Response in Healthy Individuals (see companion studies SDY74, SDY301)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2799,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2102",
+            "description": "Healthy Adults 2011 - 2012",
+            "name": "AIRFV 2011-12"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "A. Karolina",
+            "last_name": "Palucka",
+            "organization": "Baylor Research Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Baylor Research Institute"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Systems Analysis Vaccine Responses in Healthy and Hyporesponsive Humans"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 975
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 74
+        },
+        {
+            "measurement_technique": "Nanostring",
+            "number_of_expsamples": 36
+        },
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 42
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 219
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 74
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 19
+            },
+            {
+                "race": "White",
+                "count": 26
+            }
+        ],
+        "gender": [
+            {
+                "Female": 30
+            },
+            {
+                "Male": 15
+            }
+        ]
+    }
+}

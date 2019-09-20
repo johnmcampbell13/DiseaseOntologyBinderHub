@@ -1,0 +1,132 @@
+{
+    "study_accession": "SDY1302",
+    "actual_completion_date": null,
+    "actual_enrollment": 225,
+    "actual_start_date": "2013-04-18",
+    "age_unit": "Weeks",
+    "brief_description": "This Clinical Research Study will investigate the relationships between sequential respiratory viral infections, patterns of intestinal and respiratory bacterial colonization, and adaptive cellular immune phenotypes which are associated with increased susceptibility to respiratory infections and long term respiratory morbidity in preterm and full term infants.",
+    "brief_title": "Prematurity, Respiratory outcomes, Immune System, and Microbiome Study (PRISM)",
+    "clinical_trial": "N",
+    "condition_studied": "The relationships between sequential respiratory viral infections, patterns of intestinal and respiratory bacterial colonization, and adaptive cellular immune phenotypes which are associated with increased susceptibility to respiratory infections and long term respiratory morbidity in preterm and full term infants.",
+    "dcl_id": 2,
+    "description": "Enrollment min/max Age Unit is weeks Post-menstrual age at birth.",
+    "doi": "10.21430/M3LBDA3IAM",
+    "endpoints": "Adaptive cellular immune phenotypes up to 1 year",
+    "gender_included": "Female, Male",
+    "hypothesis": "We hypothesize that cellular and molecular immuno-maturity are altered due to factors presented by premature birth in such a way as to promote chronic inflammatory and cytotoxic damage to the lung, with subsequent enhanced, damaging responses to infectious agents and environmental irritants.",
+    "initial_data_release_date": "2019-06-19",
+    "initial_data_release_version": "DR31",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "  41.86",
+    "minimum_age": "  23.14",
+    "objectives": "To determine if viral respiratory infections and patterns of respiratory and gut bacterial community structure (microbiome) in prematurely born babies predict the rate and degree of immunologic maturation, and pulmonary dysfunction, measured from birth to 36 weeks postmenstrual age (PMA). To determine the relationship between respiratory viral infections and disease severity up to one year PMA, and the lymphocyte (Lc) phenotypes documented at term gestation (birth for term infants and 36 wks/NICU discharge in preterm infants) and at one year PMA.",
+    "official_title": "IMPACT OF RESPIRATORY VIRUS INFECTIONS AND BACTERIAL MICROBIOME SHIFTS ON LYMPHOCYTE AND RESPIRATORY FUNCTION IN INFANTS BORN PREMATURELY OR FULL TERM",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 225,
+    "workspace_id": 5775,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4481",
+            "description": "Full-term infants",
+            "name": "Full-Term"
+        },
+        {
+            "arm_accession": "ARM4482",
+            "description": "Preterm infants born 34-35 6/7 weeks PMA",
+            "name": "Preterm 34-35 6/7 wks"
+        },
+        {
+            "arm_accession": "ARM4483",
+            "description": "Preterm infants born 32-33 6/7 weeks PMA",
+            "name": "Preterm 32-33 6/7 wks"
+        },
+        {
+            "arm_accession": "ARM4484",
+            "description": "Preterm infants born 30-31 6/7 weeks PMA",
+            "name": "Preterm 30-31 6/7 wks"
+        },
+        {
+            "arm_accession": "ARM4485",
+            "description": "Preterm infants born 28-29 6/7 weeks PMA",
+            "name": "Preterm 28-29 6/7 wks"
+        },
+        {
+            "arm_accession": "ARM4486",
+            "description": "Preterm infants born 26-27 6/7 weeks PMA",
+            "name": "Preterm 26-27 6/7 wks"
+        },
+        {
+            "arm_accession": "ARM4487",
+            "description": "Preterm infants born 23-25 6/7 weeks PMA",
+            "name": "Preterm 23-25 6/7 wks"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Pryhuber",
+            "last_name": "Gloria",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "T cell developmental arrest in former premature infants increases risk of respiratory morbidity later in infancy.",
+            "journal": "JCI Insight.",
+            "month": "Feb",
+            "year": "2018",
+            "doi": "10.1172/jci.insight.96724. [Epub  ahead of print]",
+            "pubmed_id": "29467329"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Respiratory Pathogens Research Center (RPRC)",
+            "contract_name": "Respiratory Pathogens Research Center (RPRC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 1863
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 62
+            },
+            {
+                "race": "Other",
+                "count": 25
+            },
+            {
+                "race": "Unknown",
+                "count": 13
+            },
+            {
+                "race": "White",
+                "count": 124
+            }
+        ],
+        "gender": [
+            {
+                "Female": 97
+            },
+            {
+                "Male": 128
+            }
+        ]
+    }
+}

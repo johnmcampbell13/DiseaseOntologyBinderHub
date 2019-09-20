@@ -1,0 +1,107 @@
+{
+    "study_accession": "SDY183",
+    "actual_completion_date": null,
+    "actual_enrollment": 76,
+    "actual_start_date": "2008-01-01",
+    "age_unit": "Years",
+    "brief_description": "To comprehensively compare the humoral immune response of young (20-31 years old) to older human subjects (60 to >90 years old) following vaccination with seasonal flu vaccine. We generated a peptide microarray featuring tiled peptides with sequences derived from the hemagglutinin proteins of multiple influenza strains. We probed the microarrays with pre- and post-vaccination serum from each age group. Serum antibody reactivity to the microarray peptides was quantified using fluorescently labeled anti-human secondary antibodies and a fluorescent microarray scanner.",
+    "brief_title": "Effect of age on 2008/2009 trivalent influenza vaccine response",
+    "clinical_trial": "N",
+    "condition_studied": "Immune system aging",
+    "dcl_id": 2,
+    "description": "To comprehensively compare the humoral immune response of young (20-31 years old) to older human subjects (60 to >90 years old) following vaccination with seasonal flu vaccine. We generated a peptide microarray featuring tiled peptides with sequences derived from the hemagglutinin proteins of multiple influenza strains. We probed the microarrays with pre- and post-vaccination serum from each age group. Serum antibody reactivity to the microarray peptides was quantified using fluorescently labeled anti-human secondary antibodies and a fluorescent microarray scanner.",
+    "doi": "10.21430/M37TU3LVTU",
+    "endpoints": "Serum antibody reactivity to the hemagglutinin peptides present on the microarray",
+    "gender_included": "Female, Male",
+    "hypothesis": "Older subjects subjects serum antibodies will bind to fewer peptide antigens on the microarrays and those that are bound will correspond to sequences derived from historical strains.",
+    "initial_data_release_date": "2015-02-18",
+    "initial_data_release_version": "DR12",
+    "intervention_agent": null,
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  90.00",
+    "minimum_age": "  20.68",
+    "objectives": "To comprehensively compare the humoral immune response of young (20-31 years old) to older human subjects (60 to > 90 years old) following vaccination with seasonal flu vaccine.",
+    "official_title": "MEASURING THE EFFECT OF AGE ON INFLUENZA VACCINE RESPONSES",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM790",
+            "description": "Young human subjects (20-31 years old)",
+            "name": "Young"
+        },
+        {
+            "arm_accession": "ARM791",
+            "description": "Older human subjects (60 to >90 years old)",
+            "name": "Older"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "PJ",
+            "last_name": "Utz",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Apoptosis and other immune biomarkers predict influenza vaccine responsiveness.",
+            "journal": "Mol Syst Biol.",
+            "month": "Apr",
+            "year": "2013",
+            "doi": "10.1038/msb.2013.15.",
+            "pubmed_id": "23591775"
+        },
+        {
+            "title": "Characterization of influenza vaccine immunogenicity using influenza antigen microarrays.",
+            "journal": "PLoS One.",
+            "month": "May",
+            "year": "2013",
+            "doi": "10.1371/journal.pone.0064555. Print 2013.",
+            "pubmed_id": "23734205"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Protein microarray",
+            "number_of_expsamples": 152
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 5
+            },
+            {
+                "race": "Other",
+                "count": 6
+            },
+            {
+                "race": "White",
+                "count": 65
+            }
+        ],
+        "gender": [
+            {
+                "Female": 46
+            },
+            {
+                "Male": 30
+            }
+        ]
+    }
+}

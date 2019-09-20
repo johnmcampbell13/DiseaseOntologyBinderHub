@@ -1,0 +1,335 @@
+{
+    "study_accession": "SDY288",
+    "actual_completion_date": null,
+    "actual_enrollment": 876,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "Alveolar macrophages from mice and macaques following infection with viral and bacterial pathogens were used to determine the similarities and differences to invading pulmonary pathogens",
+    "brief_title": "Modeling Pulmonary Immunity:  Evaluation of the Innate Immune Response to Pathogens 1) Francisella tularensis 2) Mycobacterium tuberculosis and 3) Influenza A virus in mice (C57BL/6 and BALB/c)",
+    "clinical_trial": "N",
+    "condition_studied": "Immune response to pathogen",
+    "dcl_id": 2,
+    "description": "A greater understanding of how alveolar macrophages respond to pathogens is important for the design of novel therapeutic agents for treatment of potentially lethal pulmonary infections. To increase understanding of early pulmonary infection response of mice following infection with viral and bacterial pathogen, alveolar macrophages were used to determine the similarities and differences between species to invading pulmonary pathogens",
+    "doi": "10.21430/M3H9VMI0DF",
+    "endpoints": "Assay lung APC immune response to pathogens and validate mathematical models",
+    "gender_included": "Not Specified",
+    "hypothesis": "Innate immune cells infected with pulmonary pathogens have both species-specific and cross-species responses",
+    "initial_data_release_date": "2014-05-30",
+    "initial_data_release_version": "DR10",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-05-30",
+    "latest_data_release_version": "DR10",
+    "maximum_age": "8",
+    "minimum_age": "6",
+    "objectives": "To develop and validate mathematical models of in vivo infection and ex vivo innate immune response of lung APCs to Francisella tularensis, Mycobacterium tuberculosis and influenza A virus",
+    "official_title": "Innate Immune Response to Pathogens:  Francisella tularensis, Mycobacterium tuberculosis and Influenza A virus",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 876,
+    "workspace_id": 1305,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2041",
+            "description": "Arm_E16G Elderly Lethal PR8",
+            "name": "Arm_E16G Elderly Lethal PR8"
+        },
+        {
+            "arm_accession": "ARM2042",
+            "description": "Arm_Acute Infection Exp. 1",
+            "name": "Arm_Acute Infection Exp. 1"
+        },
+        {
+            "arm_accession": "ARM2043",
+            "description": "Arm_Acute infection Exp. 2",
+            "name": "Arm_Acute infection Exp. 2"
+        },
+        {
+            "arm_accession": "ARM2044",
+            "description": "Arm_Acute Infection Exp. 3",
+            "name": "Arm_Acute Infection Exp. 3"
+        },
+        {
+            "arm_accession": "ARM2045",
+            "description": "Arm_Acute Infection Exp. 4",
+            "name": "Arm_Acute Infection Exp. 4"
+        },
+        {
+            "arm_accession": "ARM2046",
+            "description": "Arm_Acute Infection Exp. 5",
+            "name": "Arm_Acute Infection Exp. 5"
+        },
+        {
+            "arm_accession": "ARM2047",
+            "description": "Arm_Acute Infection Exp. 6",
+            "name": "Arm_Acute Infection Exp. 6"
+        },
+        {
+            "arm_accession": "ARM2048",
+            "description": "Arm_Acute Infection Exp. 7",
+            "name": "Arm_Acute Infection Exp. 7"
+        },
+        {
+            "arm_accession": "ARM2049",
+            "description": "Arm_Acute Infection Exp. 8",
+            "name": "Arm_Acute Infection Exp. 8"
+        },
+        {
+            "arm_accession": "ARM2050",
+            "description": "Arm_Adenovirus Exp. 2",
+            "name": "Arm_Adenovirus Exp. 2"
+        },
+        {
+            "arm_accession": "ARM2051",
+            "description": "Arm_Adult",
+            "name": "Arm_Adult"
+        },
+        {
+            "arm_accession": "ARM2052",
+            "description": "Arm_Advenovirus Exp. 1",
+            "name": "Arm_Advenovirus Exp. 1"
+        },
+        {
+            "arm_accession": "ARM2053",
+            "description": "Arm_Aged",
+            "name": "Arm_Aged"
+        },
+        {
+            "arm_accession": "ARM2054",
+            "description": "Arm_E16K Adult Sublethal PR8",
+            "name": "Arm_E16K Adult Sublethal PR8"
+        },
+        {
+            "arm_accession": "ARM2055",
+            "description": "Arm_Elderly",
+            "name": "Arm_Elderly"
+        },
+        {
+            "arm_accession": "ARM2056",
+            "description": "Arm_Experiment 6",
+            "name": "Arm_Experiment 6"
+        },
+        {
+            "arm_accession": "ARM2057",
+            "description": "Arm_experiment 7",
+            "name": "Arm_experiment 7"
+        },
+        {
+            "arm_accession": "ARM2058",
+            "description": "Arm_experiment 9",
+            "name": "Arm_experiment 9"
+        },
+        {
+            "arm_accession": "ARM2059",
+            "description": "Arm_expt 4",
+            "name": "Arm_expt 4"
+        },
+        {
+            "arm_accession": "ARM2060",
+            "description": "Arm_expt 5",
+            "name": "Arm_expt 5"
+        },
+        {
+            "arm_accession": "ARM2061",
+            "description": "Arm_Francisella Tularensis Live Vaccine Strain",
+            "name": "Arm_Francisella Tularensis Live Vaccine Strain"
+        },
+        {
+            "arm_accession": "ARM2062",
+            "description": "Arm_Francisella Tularensis N/A",
+            "name": "Arm_Francisella Tularensis N/A"
+        },
+        {
+            "arm_accession": "ARM2063",
+            "description": "Arm_Francisella Tularensis Schu S4",
+            "name": "Arm_Francisella Tularensis Schu S4"
+        },
+        {
+            "arm_accession": "ARM2064",
+            "description": "Arm_HIV-1 VLP (ADA)",
+            "name": "Arm_HIV-1 VLP (ADA)"
+        },
+        {
+            "arm_accession": "ARM2065",
+            "description": "Arm_Influenza A A/Brisbane/59/2007",
+            "name": "Arm_Influenza A A/Brisbane/59/2007"
+        },
+        {
+            "arm_accession": "ARM2066",
+            "description": "Arm_Influenza A A/Mexico/4108/2009",
+            "name": "Arm_Influenza A A/Mexico/4108/2009"
+        },
+        {
+            "arm_accession": "ARM2067",
+            "description": "Arm_Influenza A A/PR",
+            "name": "Arm_Influenza A A/PR"
+        },
+        {
+            "arm_accession": "ARM2068",
+            "description": "Arm_Influenza A A/PR-DelNS1",
+            "name": "Arm_Influenza A A/PR-DelNS1"
+        },
+        {
+            "arm_accession": "ARM2069",
+            "description": "Arm_Influenza A A/WS/Mongolia/244/2005",
+            "name": "Arm_Influenza A A/WS/Mongolia/244/2005"
+        },
+        {
+            "arm_accession": "ARM2070",
+            "description": "Arm_Influenza A Fujian",
+            "name": "Arm_Influenza A Fujian"
+        },
+        {
+            "arm_accession": "ARM2071",
+            "description": "Arm_Influenza A H5-Indo",
+            "name": "Arm_Influenza A H5-Indo"
+        },
+        {
+            "arm_accession": "ARM2072",
+            "description": "Arm_Influenza A H5-PR8",
+            "name": "Arm_Influenza A H5-PR8"
+        },
+        {
+            "arm_accession": "ARM2073",
+            "description": "Arm_Influenza A HINI (A/CA/07)",
+            "name": "Arm_Influenza A HINI (A/CA/07)"
+        },
+        {
+            "arm_accession": "ARM2074",
+            "description": "Arm_Influenza A New Caledonia",
+            "name": "Arm_Influenza A New Caledonia"
+        },
+        {
+            "arm_accession": "ARM2075",
+            "description": "Arm_Influenza A New Caledonia (M/A)",
+            "name": "Arm_Influenza A New Caledonia (M/A)"
+        },
+        {
+            "arm_accession": "ARM2076",
+            "description": "Arm_Influenza A Shanghai-B",
+            "name": "Arm_Influenza A Shanghai-B"
+        },
+        {
+            "arm_accession": "ARM2077",
+            "description": "Arm_Influenza A Solomon Island",
+            "name": "Arm_Influenza A Solomon Island"
+        },
+        {
+            "arm_accession": "ARM2078",
+            "description": "Arm_Influenza A Vietnam",
+            "name": "Arm_Influenza A Vietnam"
+        },
+        {
+            "arm_accession": "ARM2079",
+            "description": "Arm_Influenza A Wisconsin",
+            "name": "Arm_Influenza A Wisconsin"
+        },
+        {
+            "arm_accession": "ARM2080",
+            "description": "Arm_Mycobacterium Tuberculosis Erdman",
+            "name": "Arm_Mycobacterium Tuberculosis Erdman"
+        },
+        {
+            "arm_accession": "ARM2081",
+            "description": "Arm_Mycobacterium Tuberculosis H37Rv",
+            "name": "Arm_Mycobacterium Tuberculosis H37Rv"
+        },
+        {
+            "arm_accession": "ARM2082",
+            "description": "Arm_Rift Valley Fever virus MP12",
+            "name": "Arm_Rift Valley Fever virus MP12"
+        },
+        {
+            "arm_accession": "ARM2083",
+            "description": "Arm_Rift Valley Fever virus ZH501",
+            "name": "Arm_Rift Valley Fever virus ZH501"
+        },
+        {
+            "arm_accession": "ARM2084",
+            "description": "Arm_Uninfected PBS",
+            "name": "Arm_Uninfected PBS"
+        },
+        {
+            "arm_accession": "ARM2085",
+            "description": "Arm_Vaccination Exp. 1",
+            "name": "Arm_Vaccination Exp. 1"
+        },
+        {
+            "arm_accession": "ARM2086",
+            "description": "Arm_Vaccination Exp. 2",
+            "name": "Arm_Vaccination Exp. 2"
+        },
+        {
+            "arm_accession": "ARM2087",
+            "description": "Arm_Vaccination Exp. 3",
+            "name": "Arm_Vaccination Exp. 3"
+        },
+        {
+            "arm_accession": "ARM2088",
+            "description": "Arm_Vaccination Exp. 4",
+            "name": "Arm_Vaccination Exp. 4"
+        },
+        {
+            "arm_accession": "ARM2089",
+            "description": "Arm_Vaccination Exp. 5",
+            "name": "Arm_Vaccination Exp. 5"
+        },
+        {
+            "arm_accession": "ARM2090",
+            "description": "Arm_Vaccination Exp. 6",
+            "name": "Arm_Vaccination Exp. 6"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Penelope",
+            "last_name": "Morel",
+            "organization": "University of Pittsburgh",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Pittsburgh"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Large scale comparison of innate responses to viral and bacterial pathogens in mouse and macaque.",
+            "journal": "PLoS One.",
+            "month": "-",
+            "year": "2011",
+            "doi": "10.1371/journal.pone.0022401. Epub 2011 Jul 18.",
+            "pubmed_id": "21789257"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "University of Pittsburgh Center for Modeling Immunity for Biodefense"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Cell Culture",
+            "number_of_expsamples": 52
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 12
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 1427
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 148
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 381
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

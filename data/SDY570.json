@@ -1,0 +1,106 @@
+{
+    "study_accession": "SDY570",
+    "actual_completion_date": "2013-09-02",
+    "actual_enrollment": 997,
+    "actual_start_date": "2010-07-15",
+    "age_unit": "Years",
+    "brief_description": "HLA Genotyping",
+    "brief_title": "UT_SSc",
+    "clinical_trial": "N",
+    "condition_studied": "Systemic Sclerosis",
+    "dcl_id": 2,
+    "description": "HLA Genotyping",
+    "doi": "10.21430/M3IJD4LQR5",
+    "endpoints": "Specific alleles of HLA-DRB1, -DPB1 and -DRQA1 are associated with SSc",
+    "gender_included": "Not Specified",
+    "hypothesis": "HLA class II gene alleles are associated with SSc",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  88.00",
+    "minimum_age": "  11.00",
+    "objectives": "to identify the associations of HLA class II alleles with SSc",
+    "official_title": "UT_SSc",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 1000,
+    "workspace_id": 2508,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2709",
+            "description": "Limited Systemic Sclerosis",
+            "name": "Limited_SSc"
+        },
+        {
+            "arm_accession": "ARM2710",
+            "description": "Diffuse Systemic Sclerosis",
+            "name": "Diffuse_SSc"
+        },
+        {
+            "arm_accession": "ARM2711",
+            "description": "Sine Systemic Sclerosis",
+            "name": "SINE_SSc"
+        },
+        {
+            "arm_accession": "ARM2712",
+            "description": "Unspecified Systemic Sclerosis",
+            "name": "Unspec_SSc"
+        },
+        {
+            "arm_accession": "ARM2713",
+            "description": "Control Subjects",
+            "name": "Control_SSc"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Xiaodong",
+            "last_name": "Zhou",
+            "organization": "UT Health",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Texas Health Science Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Association of the HLA-DRB1 with scleroderma in Chinese population.",
+            "journal": "PLoS One.",
+            "month": "Sep",
+            "year": "2014",
+            "doi": "10.1371/journal.pone.0106939. eCollection 2014.",
+            "pubmed_id": "25184637"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "HLA Region Genetics in Immune-mediated Diseases II",
+            "contract_name": "Studies of HLA Region Genomics in Systemic Sclerosis and Ankylosing Spondyilitis"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 997
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 997
+            }
+        ],
+        "gender": [
+            {
+                "Female": 893
+            },
+            {
+                "Male": 104
+            }
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "study_accession": "SDY19",
+    "actual_completion_date": null,
+    "actual_enrollment": 8,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "To map, isolate and validate human genes that confer susceptibility or resistance to  mycobacterium tuberculosis infections.",
+    "brief_title": "Susceptibility and Resistance to Tuberculosis",
+    "clinical_trial": "N",
+    "condition_studied": "Susceptibility or resistance to tuberculosis",
+    "dcl_id": 1,
+    "description": "In Iceland tuberculosis was relatively common around the Second World War and a few thousand cases have been documented by the central universal access healthcare system since the 1930s. Extensive surveillance has been performed on exposed members and we also have information on those who convert but did not develop an infection. The BCG vaccine has never been used in Iceland; therefore, Iceland has an ideal population because this allows for very accurate documentation of those who were exposed and converted by a positive Mantoux skin test but did not come down with an infection.  Mapping genes involved in these responses could yield valuable information about host susceptibility or resistance factors that determine vulnerability to mycobacterium tuberculosis infections.<br/><br/>Therefore, our initial functional validation of the host genes that we find in GWAS will be to look for differences in amounts of mRNA and protein expressed in cultured peripheral blood mononuclear cells (PBMNs) from human volunteers with or without in vitro stimulation with M.tb. pathogen.",
+    "doi": "10.21430/M30B3LE7S5",
+    "endpoints": "<ol><li>Genetic association analysis results: Genome wide SNP genotyping were assayed with the Illumina HumanHap300 or Illumina HumanHap CNV370 bead chips. Only SNPs present on both chips were included in the analysis.</li></ol>",
+    "gender_included": "Not Specified",
+    "hypothesis": "<p>All common diseases have a significant genetic component, the clinical expression which is in part brought out by environmental exposure.  Over the years deCODE has built a system of information for about 50 common diseases in Iceland and has collected blood samples from over 100,000 Icelanders or half of the adult population, all with specific informed consent. As a resource for determining all family relationships among patients, deCODE has assembled a genealogy database that includes the entire nation along with most of their ancestors extending to the time Iceland was settled between 874 and 930AD.</p><p>This study combines the human population genetics infrastructure of deCODE Genetics with the capabilities of other collaborators, to discover and validate human genes that confer susceptibility or resistance to  mycobacterium tuberculosis infections.</p>",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Not Applicable\r",
+    "latest_data_release_date": "2012-11-16",
+    "latest_data_release_version": "DR1",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "To map, isolate, and validate human host genes that confer susceptibility or resistance to tuberculosis.",
+    "official_title": "Susceptibility and Resistance to Tuberculosis",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 60000,
+    "workspace_id": 1054,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM107",
+            "description": "TB-case",
+            "name": "TB_case"
+        },
+        {
+            "arm_accession": "ARM108",
+            "description": "TB-case, bacteriologically confirmed",
+            "name": "TB_BactConf"
+        },
+        {
+            "arm_accession": "ARM109",
+            "description": "TB-case, has had pulmonary TB",
+            "name": "TB_Pulm"
+        },
+        {
+            "arm_accession": "ARM110",
+            "description": "TB-case or tuberculin skin test positive without TB disease",
+            "name": "TB_OR_TST_pos"
+        },
+        {
+            "arm_accession": "ARM111",
+            "description": "tuberculin skin test positive",
+            "name": "TB_TST_pos"
+        },
+        {
+            "arm_accession": "ARM112",
+            "description": "tuberculin skin test negative",
+            "name": "TB_TST_neg"
+        },
+        {
+            "arm_accession": "ARM113",
+            "description": "population controls, excluding all TB_case, TB_TST_pos, TB_TST_neg",
+            "name": "TB_Ctrl"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jeffrey",
+            "last_name": "Gulcher",
+            "organization": "deCODE",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Population Genetics Analysis Program (1)",
+            "contract_name": "Population Genetics Analysis Program: Immunity to Vaccines/Infections"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "SNP microarray",
+            "number_of_expsamples": 6
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 7
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 8
+            }
+        ]
+    }
+}

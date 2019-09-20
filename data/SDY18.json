@@ -1,0 +1,112 @@
+{
+    "study_accession": "SDY18",
+    "actual_completion_date": null,
+    "actual_enrollment": 10,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "To map, isolate and validate human host genes that confer risk of either adverse reactions to smallpox vaccination or lack of specific immune response to the vaccine (specific anergy).",
+    "brief_title": "Immunity to Smallpox Vaccination",
+    "clinical_trial": "N",
+    "condition_studied": "Reaction to Smallpox vaccination.",
+    "dcl_id": 1,
+    "description": "We propose to put together a program that combines one of the largest collections of recorded vaccine responses in the world with our extensive genealogy and genotyping capacity, thereby facilitating the mapping and isolation of key host response genes to smallpox virus vaccine.<br/><br/>Variants for a relatively common trait that correlates to smallpox vaccine response will likely alter expression or splicing rather than be coding mutations. Therefore, our initial functional validation of the host genes that we find in GWAS will be to look for differences in amounts of mRNA in the cultured peripheral blood mononuclear cells (PBMNs) from human volunteers with or without in vitro stimulation with vaccinia.",
+    "doi": "10.21430/M39S5FJE1X",
+    "endpoints": "<ol><li>Genetic association analysis results: Genome wide SNP genotyping were assayed with the Illumina HumanHap300 or Illumina HumanHap CNV370 bead chips. Only SNPs present on both chips were included in the analysis.</li><li>Two-color spotted array gene expression assay.</li></ol>",
+    "gender_included": "Not Specified",
+    "hypothesis": "<p>All common diseases have a significant genetic component, the clinical expression which is in part brought out by environmental exposure.  Over the years deCODE has built a system of information for about 50 common diseases in Iceland and has collected blood samples from over 100,000 Icelanders or half of the adult population, all with specific informed consent. As a resource for determining all family relationships among patients, deCODE has assembled a genealogy database that includes the entire nation along with most of their ancestors extending to the time Iceland was settled between 874 and 930AD.</p><p>This study combines the human population genetics infrastructure of deCODE Genetics with the capabilities of other collaborators, to discover and validate human genes that confer risk of either adverse reactions to smallpox vaccination or lack of specific immune response to the vaccine (specific anergy).</p>",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Not Applicable\r",
+    "latest_data_release_date": "2012-11-16",
+    "latest_data_release_version": "DR1",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "To map, isolate and validate human genes that confer risk for either adverse reactions to smallpox vaccination or lack of an immune response.",
+    "official_title": "Immunity to Smallpox Vaccination",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 60000,
+    "workspace_id": 1054,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM100",
+            "description": "non-responders to smallpox vaccine",
+            "name": "SP_NR"
+        },
+        {
+            "arm_accession": "ARM101",
+            "description": "negative response to smallpox vaccine",
+            "name": "SP_Neg"
+        },
+        {
+            "arm_accession": "ARM102",
+            "description": "prolonged absenteeism after the school vaccination",
+            "name": "SP_AE"
+        },
+        {
+            "arm_accession": "ARM103",
+            "description": "increased absenteeism after the school vaccination",
+            "name": "SP_IA"
+        },
+        {
+            "arm_accession": "ARM104",
+            "description": "Combination of subset of subjects from non-responders (SP_NR) and negative response (SP_Neg) cohorts.",
+            "name": "SP_LoR"
+        },
+        {
+            "arm_accession": "ARM105",
+            "description": "Combination of subset of subjects from prolonged absenteeism (SP_AE) and increased absenteeism  (SP_IA)cohorts.",
+            "name": "SP_Adv"
+        },
+        {
+            "arm_accession": "ARM106",
+            "description": "population controls, excluding all SP-NR, SP-Neg, SP-AE and SP-IA",
+            "name": "SP_Ctrl"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jeffrey",
+            "last_name": "Gulcher",
+            "organization": "deCODE",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Population Genetics Analysis Program (1)",
+            "contract_name": "Population Genetics Analysis Program: Immunity to Vaccines/Infections"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "SNP microarray",
+            "number_of_expsamples": 4
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 8
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 9
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 10
+            }
+        ]
+    }
+}

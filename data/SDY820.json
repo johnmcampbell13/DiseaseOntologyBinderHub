@@ -1,0 +1,133 @@
+{
+    "study_accession": "SDY820",
+    "actual_completion_date": "2016-12-30",
+    "actual_enrollment": 60,
+    "actual_start_date": "2010-01-01",
+    "age_unit": "Years",
+    "brief_description": "T cell immune signature associated with latent TB infection as well as BCG vaccination was studied",
+    "brief_title": "Human Immune Signature of Mycobacterium Tuberculosis infection. (See SDY1324 for sorted cell gene expression data)",
+    "clinical_trial": "N",
+    "condition_studied": "latent Mycobacterium Tuberculosis infection",
+    "dcl_id": 2,
+    "description": "The human immune signature of latent Mycobacterium tuberculosis infected patients as well as BCG vaccinated and BCG non-vaccinated individuals was studied by flow cytometry",
+    "doi": "10.21430/M3D02NOSVH",
+    "endpoints": "Compare T cell response of latent TB infection vs. BCG vaccination by flow cytometry and RNA sequencing",
+    "gender_included": "Not Specified",
+    "hypothesis": "Compare T cell response of latent TB infection vs. BCG vaccination",
+    "initial_data_release_date": "2017-01-31",
+    "initial_data_release_version": "DR20",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  67.00",
+    "minimum_age": "  19.00",
+    "objectives": "To determine the T cell immune signature of latent TB infection",
+    "official_title": "Human immune signatures of Dengue virus and Mycobacterium Tuberculosis exposure infection",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 60,
+    "workspace_id": 4876,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3205",
+            "description": "Patients with latent  Mycobacterium Tuberculosis infection",
+            "name": "Latent TB infected patients"
+        },
+        {
+            "arm_accession": "ARM3206",
+            "description": "Healthy individuals that had been BCG vaccinated",
+            "name": "BCG vaccinated individuals"
+        },
+        {
+            "arm_accession": "ARM3207",
+            "description": "Healthy individuals that had not been BCG vaccinated",
+            "name": "Non-BCG vaccinated individuals"
+        },
+        {
+            "arm_accession": "ARM4981",
+            "description": "Patients with active TB as defined by clinical evaluation and culture positivity.",
+            "name": "Patients with active TB as defined by clinical evaluation and culture positivity."
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Bjoern",
+            "last_name": "Peters",
+            "organization": "La Jolla Institute for Allergy and Immunology",
+            "role_in_study": "Principal Investigator",
+            "site_name": "La Jolla Institute for Allergy and Immunology"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "An Integrated Workflow To Assess Technical and Biological Variability of Cell Population Frequencies in Human Peripheral Blood by Flow Cytometry.",
+            "journal": "J Immunol.",
+            "month": "Feb",
+            "year": "2017",
+            "doi": "10.4049/jimmunol.1601750. Epub 2017 Jan 9.",
+            "pubmed_id": "28069807"
+        },
+        {
+            "title": "Transcriptomic Analysis of CD4+ T Cells Reveals Novel Immune Signatures of Latent Tuberculosis.",
+            "journal": "J Immunol.",
+            "month": "Mar",
+            "year": "2018",
+            "doi": "-",
+            "pubmed_id": "29602771"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+            "contract_name": "Human immune signatures of dengue virus and mycobacterium tuberculosis exposure in infection; disease and vaccination (La Jolla)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 60
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 60
+        },
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 85
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 9
+            },
+            {
+                "race": "Black or African American",
+                "count": 8
+            },
+            {
+                "race": "Other",
+                "count": 11
+            },
+            {
+                "race": "Unknown",
+                "count": 13
+            },
+            {
+                "race": "White",
+                "count": 19
+            }
+        ],
+        "gender": [
+            {
+                "Female": 22
+            },
+            {
+                "Male": 38
+            }
+        ]
+    }
+}

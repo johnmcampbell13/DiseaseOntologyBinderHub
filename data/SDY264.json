@@ -1,0 +1,178 @@
+{
+    "study_accession": "SDY264",
+    "actual_completion_date": null,
+    "actual_enrollment": 21,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "They explored strategies to overcome original antigenic sin responses in mice sequentially exposed to two closely related H1N1 influenza strains A/PR/8/34 and A/FM/1/47.",
+    "brief_title": "Strategies to alleviate original antigenic sin",
+    "clinical_trial": "N",
+    "condition_studied": "mice sequentially exposed to two closely related hemagglutinin 1 neuraminidase 1 (H1N1) influenza strains A/PR/8/34 and A/FM/1/47",
+    "dcl_id": 2,
+    "description": "They found that dendritic cell-activating adjuvants [Bordetella pertussis toxin (PT) or CpG ODN or a squalenebased oil-in-water nanoemulsion (NE)], upon administration during the second viral exposure, completely protected mice from a lethal challenge and enhanced neutralizing-Ab titers against the second virus.",
+    "doi": "10.21430/M3EQ20FG3W",
+    "endpoints": "lung viral titers by plaque assay, neutralization titer, ELISPOT assay",
+    "gender_included": "Unknown",
+    "hypothesis": "explored strategies to overcome original antigenic sin responses in mice",
+    "initial_data_release_date": "2014-04-01",
+    "initial_data_release_version": "DR8",
+    "intervention_agent": "H1N1 influenza strains A/PR/8/34 and A/FM/1/47",
+    "latest_data_release_date": "2014-04-01",
+    "latest_data_release_version": "DR8",
+    "maximum_age": "   4.00",
+    "minimum_age": "   4.00",
+    "objectives": "Show that dendritic cell-activating adjuvants [Bordetella pertussis toxin (PT) or CpG ODN or a  squalenebased oil-in-water nanoemulsion (NE)], upon administration during the second viral exposure, completely protected mice from a lethal challenge and enhanced neutralizing-Ab titers against the second virus.",
+    "official_title": "Strategies to alleviate original antigenic sin responses to influenza viruses",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2149,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1836",
+            "description": "naive control that received PBS first, a month later PBS, then challenged the mice with 100x LD50 of live mouse-adapted FM1",
+            "name": "PBS_PBS_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1837",
+            "description": "control group of mice received PBS first and, a month later, were immunized with Whole inactive FM1 (1,400 HAU, immune control), then challenged the mice with 100x LD50 of live mouse-adapted FM1",
+            "name": "PBS_WI.FM1_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1838",
+            "description": "mice received Whole inactive PR8 (1,400 HAU) first and, a month later, were immunized with Whole inactive FM1 (1,400 HAU), then challenged the mice with 100x LD50 of live mouse-adapted FM2",
+            "name": "WI.PR8_WI.FM1_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1839",
+            "description": "mice received Whole inactive PR8 (1,400 HAU) first and, a month later, were immunized with Whole inactive FM1 (1,400 HAU) with 250 ng of PT i.p, then challenged the mice with 100x LD50 of live mouse-adapted FM2",
+            "name": "WI.PR8_WI.FM1.PT_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1840",
+            "description": "mice received Whole inactive PR8 (1,400 HAU) first and, a month later, were immunized with Whole inactive FM1 (1,400 HAU) with 50 micrograms of CpG s.c., then challenged the mice with 100x LD50 of live mouse-adapted FM2",
+            "name": "WI.PR8_WI.FM1.CpG_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1841",
+            "description": "control group of mice received PBS first and, a month later, were immunized with Whole inactive FM1 (0.1x LD50, immune control), then challenged the mice with 100x LD50 of live mouse-adapted FM1",
+            "name": "PBS_LV.FM1_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1842",
+            "description": "mice received Whole inactive PR8 (0.1x LD50) first and, a month later, were immunized with Whole inactive FM1 (0.1x LD50), then challenged the mice with 100x LD50 of live mouse-adapted FM2",
+            "name": "LV.PR8_LV.FM1_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1843",
+            "description": "mice received Whole inactive PR8 (0.1x LD50) first and, a month later, were immunized with Whole inactive FM1 (0.1x LD50) with 250 ng of PT i.p, then challenged the mice with 100x LD50 of live mouse-adapted FM2",
+            "name": "LV.PR8_LV.FM1.PT_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1844",
+            "description": "mice received Whole inactive PR8 (0.1x LD50) first and, a month later, were immunized with Whole inactive FM1 (0.1x LD50) with 50 micrograms of CpG s.c., then challenged the mice with 100x LD50 of live mouse-adapted FM2",
+            "name": "LV.PR8_LV.FM1.CpG_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1845",
+            "description": "mice received Whole inactive PR8 (0.1x LD50) with 250 ng of PT i.p, a month later, were immunized with Whole inactive FM1 (0.1x LD50) , then challenged the mice with 100x LD50 of live mouse-adapted FM2",
+            "name": "LV.PR8_LV.FM1.PT_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1846",
+            "description": "mice received Whole inactive PR8 (0.1x LD50) with 50 micrograms of CpG s.c., a month later, were immunized with Whole inactive FM1 (0.1x LD50) , then challenged the mice with 100x LD50 of live mouse-adapted FM2",
+            "name": "LV.PR8_LV.FM1.CpG_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1847",
+            "description": "BALB/c mice (three to four mice/group) got PBS",
+            "name": "PBS"
+        },
+        {
+            "arm_accession": "ARM1848",
+            "description": "BALB/c mice (three to four mice/group) were immunized with 10 micrograms of formalin-inactivated PR8 virus",
+            "name": "WI.PR8"
+        },
+        {
+            "arm_accession": "ARM1849",
+            "description": "BALB/c mice (three to four mice/group) were immunized with 10 micrograms of formalin-inactivated PR8 virus then the mice received 250 ng of PT i.p.",
+            "name": "WI.PR8.PT"
+        },
+        {
+            "arm_accession": "ARM1850",
+            "description": "BALB/c mice (three to four mice/group) were immunized with 10 micrograms of formalin-inactivated PR8 virus then the mice received 50 micrograms of CpG s.c.",
+            "name": "WI.PR8.CpG"
+        },
+        {
+            "arm_accession": "ARM1851",
+            "description": "BALB/c mice (5-10 mice/group) were sequentially immunized (i.m.) with 1,400 HAU PR8, and then with FM1 mixed with oil-in-water emulsion (NE) at a 1:1 ratio immediately before injection. The mice were lethally challenged with live FM1",
+            "name": "WI.PR8_WI.FM1.NE_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1852",
+            "description": "BALB/c mice (5-10 mice/group) were sequentially immunized (i.m.) with 1,400 HAU PR8  mixed with oil-in-water emulsion (NE) at a 1:1 ratio immediately before injection, and then with FM1. The mice were lethally challenged with live FM1",
+            "name": "WI.PR8.NE_WI.FM1_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1853",
+            "description": "Mice sequentially immunized with PBS then FM1-HA using a gene gun, then boosted these mice with the same dose of FM1 Ag one month later",
+            "name": "PBS_WI.FM1.HA_FM1.AG"
+        },
+        {
+            "arm_accession": "ARM1854",
+            "description": "Mice sequentially immunized with HA-encoding DNA vaccines 2 ?g PR8-HA then FM1-HA using a gene gun, then boosted these mice with the same dose of FM1 Ag one month later",
+            "name": "WI.PR8.HA_WI.FM1.HA_LV.FM1"
+        },
+        {
+            "arm_accession": "ARM1855",
+            "description": "mice received PBS first and, a month later, were immunized with Whole inactive FM1 (1,400 HAU), then boosted these mice with 2 micrograms of FM1 Ag one month later",
+            "name": "PBS_WI.FM1_FM1.AG"
+        },
+        {
+            "arm_accession": "ARM1856",
+            "description": "mice were immunized  with Whole inactive PR8 (1,400 HAU) first and, a month later, were immunized with Whole inactive FM1 (1,400 HAU), then boosted these mice with 2 micrograms of FM1 Ag one month later",
+            "name": "WI.PR8_WI.FM1_FM1.AG"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Joshy",
+            "last_name": "Jacob",
+            "organization": "Emory Vaccine Center, Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory Vaccine Center, Emory University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Strategies to alleviate original antigenic sin responses to influenza viruses.",
+            "journal": "Proc Natl Acad Sci U S A.",
+            "month": "Aug",
+            "year": "2012",
+            "doi": "10.1073/pnas.0912458109. Epub 2012 Aug 6.",
+            "pubmed_id": "22869731"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "Influenza Pathogenesis & Immunology Research Center (IPIRC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 8
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 72
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

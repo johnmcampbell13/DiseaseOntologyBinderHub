@@ -1,0 +1,139 @@
+{
+    "study_accession": "SDY1028",
+    "actual_completion_date": "2015-12-31",
+    "actual_enrollment": 513,
+    "actual_start_date": "2011-09-29",
+    "age_unit": "Years",
+    "brief_description": "A three-armed prospective randomized double-blind placebo-controlled trial investigating the efficacy of standard care plus 4-5 months of treatment with (a) a boost of inhaled corticosteroid therapy Flovent Diskus (fluticasone) versus (b) Xolair(omalizumab) or (c) placebo Xolair (omalizumab) and placebo Flovent Diskus (fluticasone) in reducing the exacerbations during the fall season.",
+    "brief_title": "Preventative Omalizumab or Step-up Therapy for Severe Fall Exacerbations (PROSE/ICAC-20)",
+    "clinical_trial": "Y",
+    "condition_studied": "Asthma",
+    "dcl_id": 2,
+    "description": "A three-armed prospective randomized double-blind placebo-controlled trial investigating the efficacy of standard care plus 4-5 months of treatment with (a) a boost of inhaled corticosteroid therapy Flovent Diskus (fluticasone) versus (b) Xolair(omalizumab) or (c) placebo Xolair (omalizumab) and placebo Flovent Diskus (fluticasone) in reducing the exacerbations during the fall season.",
+    "doi": "10.21430/M3HZZOS3Y5",
+    "endpoints": "The primary endpoint is the occurrence of >= 1 asthma exacerbation defined as a prescription of a course of systemic steroids by a clinician or initiation of a course of systemic steroids by a participant or a hospitalization during the fall outcome period (90 day period beginning on the first day of the participant's school year) to prevent a serious asthma outcome.",
+    "gender_included": "Female, Male",
+    "hypothesis": "1) The percentage of participants with fall exacerbations will differ between Xolair (omalizumab) and standard care. 2) The percentage of participants with fall exacerbations will differ between Xolair (omalizumab) and corticosteroid therapy boost in participants who are eligible to receive a steroid boost.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Not applicable",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "  17.00",
+    "minimum_age": "    .00",
+    "objectives": "The primary objective of this trial is to compare the efficacy of 4 to 5 months of 3 treatments - Xolair (omalizumab), inhaled corticosteroid (ICS) therapy boost, and placebo - in reducing fall exacerbations in inner-city children and adolescents with allergic persistent asthma when initiated approximately 4 to 6 weeks prior to the first day of each participant's school year. The secondary objectives are to 1) To compare the efficacy of the 3 treatment strategies in reducing exacerbations and/or the duration or intensity of asthma symptoms associated with viral respiratory infection. 2) To compare the efficacy of the Xolair (omalizumab) vs. placebo in reducing exacerbations in participants taking 1000 mcg of Flovent Diskus (fluticasone) daily. 3) To compare the efficacy of the 3 treatment strategies in improving asthma control (as measured by the CACT or ACT questionnaire) and in reducing asthma severity (as measured by the Composite Asthma Severity Index) during the fall season. 4) To measure the pharmacoeconomic impact of utilizing these treatment strategies. 5) To determine if response to each treatment strategy is associated with specific pre-randomization asthma characteristics: degree of atopy, total IgE level, allergen-specific IgE levels, dust mite sensitivity and/or exposure, cockroach sensitivity and exposure, demographic characteristics, eNO, and viral detection by RT-PCR. 6) To identify risk factors and predictors of exacerbations. 7) To explore the interaction of allergen sensitivity and exposure with viral illnesses as determinants of exacerbations. 8) To determine the safety of each treatment regimen. 9) To measure time of onset of exacerbations between groups.",
+    "official_title": "Preventative Omalizumab or Step-up Therapy for Severe Fall Exacerbations",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 500,
+    "workspace_id": 3134,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3629",
+            "description": "This group uses ICS therapy as a treatment to reduce exacerbations.",
+            "name": "ICS Therapy"
+        },
+        {
+            "arm_accession": "ARM3630",
+            "description": "This group uses Xolair (omalizumab) as a treatment for reducing exacerbations.",
+            "name": "Xolair (omalizumab)"
+        },
+        {
+            "arm_accession": "ARM3631",
+            "description": "This group uses a Placebo as a treatment for reducing exacerbations.",
+            "name": "Placebo"
+        },
+        {
+            "arm_accession": "ARM3632",
+            "description": "Unknown",
+            "name": "Unknown"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "William",
+            "last_name": "Busse",
+            "organization": "University of Wisconsin-Madison",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Wisconsin-Madison"
+        },
+        {
+            "first_name": "Samuel",
+            "last_name": "Arbes",
+            "organization": "Rho",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Rho"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Preseasonal treatment with either omalizumab or an inhaled corticosteroid boost to prevent fall asthma exacerbations.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Dec",
+            "year": "2015",
+            "doi": "10.1016/j.jaci.2015.09.008",
+            "pubmed_id": "26518090"
+        },
+        {
+            "title": "A computerized decision support tool to implement asthma guidelines for children and adolescents.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "May",
+            "year": "2019",
+            "doi": "10.1016/j.jaci.2018.10.060",
+            "pubmed_id": "30529451"
+        },
+        {
+            "title": "Distinct nasal airway bacterial microbiotas differentially relate to exacerbation in pediatric patients with asthma.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Jun",
+            "year": "2019",
+            "doi": "-",
+            "pubmed_id": "31201890"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Inner City Asthma Consortium (ICAC) RFA-AI-13-036",
+            "contract_name": "Inner City Asthma Consortium (ICAC)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 8
+            },
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 328
+            },
+            {
+                "race": "Not Specified",
+                "count": 68
+            },
+            {
+                "race": "Other",
+                "count": 35
+            },
+            {
+                "race": "White",
+                "count": 71
+            }
+        ],
+        "gender": [
+            {
+                "Female": 184
+            },
+            {
+                "Male": 329
+            }
+        ]
+    }
+}

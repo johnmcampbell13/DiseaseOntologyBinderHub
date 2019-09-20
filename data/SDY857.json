@@ -1,0 +1,107 @@
+{
+    "study_accession": "SDY857",
+    "actual_completion_date": "2016-09-05",
+    "actual_enrollment": 362,
+    "actual_start_date": "2011-09-01",
+    "age_unit": "Years",
+    "brief_description": "This is a phase 2, prospective, multi-center, randomized, placebo-controlled clinical trial in which 300 primary heart transplant recipients with a negative PRA will be randomized (1:1) to placebo (IV day 0 and 12 post-transplant) plus conventional immunosuppression (tacrolimus or equivalent, MMF or equivalent, and rapid steroid taper) versus induction therapy with anti-CD20 mAb (1gm IV on day 0 and day 12 post-transplant) plus conventional immunosuppression.",
+    "brief_title": "Prevention of Cardiac Allograft Vasculopathy Using Rituximab (Rituxan) Therapy in Cardiac Transplantation (CTOT-11)",
+    "clinical_trial": "Y",
+    "condition_studied": "Cardiac Transplantation",
+    "dcl_id": 2,
+    "description": "All people who have a heart transplant are at risk for developing cardiac allograft vasculopathy (CAV). CAV means narrowing of the heart transplant vessels, which is associated with poor heart transplant function. People who develop antibodies after transplant have a higher risk of developing CAV. Infections, high cholesterol, and rejection also increase the risk of developing CAV. People who develop CAV usually have to receive another transplant. The purpose of this research study is to see if a study drug called Rituximab prevents CAV. Rituximab destroys certain types of white blood cells called B cells. B cells are important cells in the immune system that help the body fight infection by producing substances called antibodies. B cells and the antibodies they produce are also involved in some kinds of rejection after organ transplantation. Rituximab decreases the number of B cells in the blood and other tissues. The goal of this study is to determine if decreasing B cells with Rituximab can prevent injury to the transplanted heart.",
+    "doi": "10.21430/M33887D0YT",
+    "endpoints": "The primary endpoint will be the nominal change from baseline to 1 year in percent atheroma volume (PAV) measured by IVUS in a target coronary artery. The following secondary clinical endpoints will be assessed: 1. Post-transplant outcomes at 6 and 12 months including; a) Death, b) Re-transplantation or re-listed for transplantation, c) Number of episodes of biopsy proven acute rejection (BPAR) of any grade per subject, d) Incidence of BPAR (any grade), e) Incidence of AMR, f) Incidence of Cellular Rejection, g) Incidence of any treated rejection; h) Episodes of rejection associated with hemodynamic compromise (HDC). 2. Development of angiographically evident cardiac allograft vasculopathy at 1 year; 3. Post-transplant safety outcomes including; a) Serious infections requiring intravenous antimicrobial therapy, b) Incidence of PTLD, c) Safety and tolerability of Rituximab. The following secondary mechanistic endpoints will be assessed: (1) Development of post-transplant anti-HLA antibodies, including DSA (Anti-HLA Ab by Luminex); (2) Complement binding antibody (Luminex); (3) B cell depletion and recovery profile (Lineage Specific Markers- Intragraft and peripheral B cells); (4) To measure indirect alloreactivity to donor HLA peptides in human heart transplant recipients using both fresh and frozen PBLs (ELISPOT- Indirect); (5) To develop a set of surrogate biomarkers of cellular, humoral, and molecular assays to monitor development of or protection from chronic allograft dysfunction, and explore mechanisms of action of novel therapies in humans (Gene Expression- Intragraft and PBLs); (6) Total atheroma volume (TAV), change in average maximal intimal thickness (MIT), percentage of subjects with rapidly progressive CAV (change in maximal intimal thickness) =0.5 mm in the first year (IVUS); (7) Histological changes of Antibody Mediated Rejection (Immunohistochemistry).",
+    "gender_included": "Female, Male",
+    "hypothesis": "We hypothesize that B cells, by promoting indirect T cell alloreactivity and humoral alloimmunity, play a critical role in development of coronary allograft vasculopathy (CAV) in unsensitized heart transplant recipients. The corollary hypothesis, supported by preliminary data in primates, is that the addition of induction therapy with the B cell depleting anti-CD20 mAb (Rituximab) to conventional immunosuppression will attenuate the development of clinical CAV, as assessed by intravascular ultrasound (IVUS), in primary heart transplant recipients.",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "Rituximab",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  72.00",
+    "minimum_age": "  18.00",
+    "objectives": "The primary objective of this study is to determine the cumulative impact of rituximab on the development of coronary allograft vasculopathy (CAV) in heart transplant recipients in the first year post transplant. Using intravascular ultrasound a volumetric measure of CAV will be obtained and quantified by a core lab to compare CAV development in patients treated with rituximab and placebo. The secondary objective of this study is to determine whether rituximab treatment is associated with measurable changes in the phenotype of T cells (effector/memory and T Regs), T cell alloreactivity, humoral alloimmunity, phenotypic differentiation of T and B cells, as well as molecular mediators of acute and chronic allograft dysfunction in cardiac transplant recipients; this insight will facilitate the understanding of the mechanism of rituximab to reduce the development of coronary allograft vasculopathy and facilitate the development of novel biomarkers to predict short and long term clinical outcomes.",
+    "official_title": "Prevention of Cardiac Allograft Vasculopathy Using Rituximab (Rituxan) Therapy in Cardiac Transplantation",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 350,
+    "workspace_id": 4059,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3280",
+            "description": "Induction therapy with anti-CD20 mAb (1gm IV on day 0 and day 12 post-transplant) plus conventional immunosuppression",
+            "name": "Rituximab"
+        },
+        {
+            "arm_accession": "ARM3281",
+            "description": "Placebo (IV day 0 and 12 post-transplant) plus conventional immunosuppression (tacrolimus or equivalent, MMF or equivalent, and rapid steroid taper)",
+            "name": "Placebo"
+        },
+        {
+            "arm_accession": "ARM3282",
+            "description": "Not Randomized",
+            "name": "Not Randomized"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mohamed",
+            "last_name": "Sayegh",
+            "organization": "Brigham and Women's Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Brigham and Women's Hospital"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Accelerated Allograft Vasculopathy With Rituximab After Cardiac Transplantation.",
+            "journal": "J Am Coll Cardiol.",
+            "month": "Jul",
+            "year": "2019",
+            "doi": "10.1016/j.jacc.2019.04.056.",
+            "pubmed_id": "31272550"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Clinical Trials in Organ Transplantation (CTOT)",
+            "contract_name": "NOVEL THERAPIES OF CHRONIC ALLOGRAFT DYSFUNCTION (CTOT-02)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 2
+            },
+            {
+                "race": "Asian",
+                "count": 9
+            },
+            {
+                "race": "Black or African American",
+                "count": 56
+            },
+            {
+                "race": "Unknown",
+                "count": 23
+            },
+            {
+                "race": "White",
+                "count": 272
+            }
+        ],
+        "gender": [
+            {
+                "Female": 40
+            },
+            {
+                "Male": 322
+            }
+        ]
+    }
+}

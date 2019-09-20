@@ -1,0 +1,82 @@
+{
+    "study_accession": "SDY282",
+    "actual_completion_date": null,
+    "actual_enrollment": 24,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Differences in gene expression changes between neonatal and adult plasmacytoid dendritic cells upon stimulation with TLR7/8 may point to specific signaling pathways which, in turn, may account for the known differential immune response of babies to vaccination or infection when compared to adults.",
+    "brief_title": "Gene expression changes in neonatal and adult plasmacytoid dendritic cells (pDC) and myeloid dendritic cells (mDC) upon TLR7/8 stimulation",
+    "clinical_trial": "N",
+    "condition_studied": "Not applicable",
+    "dcl_id": 2,
+    "description": "Differences in gene expression changes between neonatal and adult plasmacytoid dendritic cells upon stimulation with TLR7/8 may point to specific signaling pathways which, in turn, may account for the known differential immune response of babies to vaccination or infection when compared to adults.  Total RNA obtained from MACS-purified human pDC and mDC (using Miltenyi's Dendritic Cell Isolation Kits) that had been stimulated with the synthetic TLR7/8 ligand 3M-003 (at final concentration of 5 uM) for 1 or 6 hours in vitro compared to unstimulated pDC.",
+    "doi": "10.21430/M36NXB3CP1",
+    "endpoints": "Illumina Expression Bead Chip GPL 6102",
+    "gender_included": "Female, Male",
+    "hypothesis": "none",
+    "initial_data_release_date": "2014-08-07",
+    "initial_data_release_version": "DR11",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-08-07",
+    "latest_data_release_version": "DR11",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "Assess gene expression changes in dendritic cells upon stimulation with agonists",
+    "official_title": "Gene expression changes in neonatal and adult plasmacytoid dendritic cells (pDC) and myeloid dendritic cells (mDC) upon TLR7/8 stimulation",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 431,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1908",
+            "description": "Neonate human",
+            "name": "Neonate human"
+        },
+        {
+            "arm_accession": "ARM1909",
+            "description": "Adult human",
+            "name": "Adult human"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Christopher",
+            "last_name": "Wilson",
+            "organization": "University of Washington",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Washington"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "TLRs in Innate Immunity and the Induction of Adaptive Immunity in the Neonate and Infant"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 72
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 24
+            }
+        ],
+        "gender": [
+            {
+                "Female": 12
+            },
+            {
+                "Male": 12
+            }
+        ]
+    }
+}

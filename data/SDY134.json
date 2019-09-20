@@ -1,0 +1,97 @@
+{
+    "study_accession": "SDY134",
+    "actual_completion_date": "2009-10-31",
+    "actual_enrollment": 35,
+    "actual_start_date": "2005-01-01",
+    "age_unit": "Years",
+    "brief_description": "This is a multicenter, open label, single arm trial to evaluate the safety of alemtuzumab after kidney transplantation as part of a multitherapy regimen to prevent kidney graft loss and death and to avoid steroids and chronic use of calcineurin inhibitors in pediatric renal transplant recipients 1 to 20 years of age.",
+    "brief_title": "Safety in Immunomodulatory Functions of Campath-1H (PC01)",
+    "clinical_trial": "Y",
+    "condition_studied": "Pediatric kidney transplantation immunosuppression",
+    "dcl_id": 1,
+    "description": "Kidney transplantation is widely considered to be the treatment of choice for children with End Stage Renal Disease (ESRD). Improvements in surgical techniques, donor selection, and immunosuppression practices, as well as the enhanced experience of specialized pediatric transplant teams, have all led to marked improvements in patient and kidney graft survival in infants and young children ages 1 to 10. However, young children now have more infections following transplant previously. Also, improved graft survival is not observed in pediatric renal transplant recipients 11 to 17 years of age. Some studies do indicate that the poor long term outcome of patient and kidney survival observed in this age group may be caused by noncompliance with immunosuppressive medications. Therefore, protocols that minimize the use of immunosuppressive medications while retaining kidney function are necessary for improving graft and patient survival in children. This study will evaluate the safety of a regimen containing alemtuzumab after kidney transplantation, followed by steroid avoidance and calcineurin inhibitor withdrawal in pediatric renal transplant recipients 1 to 20 years of age.",
+    "doi": "10.21430/M3TUS7C3AN",
+    "endpoints": "<p><b>Primary Endpoint</b></p><p>The primary endpoint is the safety of Campath-1H defined by the proportion of participants who have graft loss or death within 12 months after transplantation. Graft loss is defined as the need for dialysis for more than 30 days duration, or allograft nephrectomy or the decision to withdraw immunosuppression due to graft failure.</p><p><b>Secondary Endpoints: </b></p><ol><li>Longer term patient and graft survival<li>Occurrence, severity and treatment for acute rejection and humoral rejection<li>Incidence of chronic allograft nephropathy at 6 months and 2 years<li>Change in serum creatinine in the first 72 hours and between month 6 and year 1<li>Renal function at 1 year as determined by the Schwartz method<li>Incidence and severity of hyperlipidemia, hypertension, anemia, leukopenia, neutropenia and the requirement for treatment (reference NCI-CTC guidelines)<li>Infectious complications-bacterial, viral, fungal<li>Surgical complications<li>Incidence and duration of re-hospitalizations post transplantation<li>Incidence of biopsy proven PTLD<li>Incidence of opportunistic infections especially CMV and EBV-viremia and treatment for viremia and disease<li>Incidence of delayed graft function</ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Campath-1H is safe and effective in pediatric recipients of living donor renal transplants",
+    "initial_data_release_date": "2013-04-05",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Campath-1H",
+    "latest_data_release_date": "2013-04-05",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  19.30",
+    "minimum_age": "   1.00",
+    "objectives": "<p><b>Primary Objective:</b></p><p>To evaluate the safety of Campath-1H post-transplantation when given as part of a multitherapy regimen to prevent graft loss and death and to avoid steroids and chronic use of calcineurin inhibitors.</p><p><b>Secondary objective:</b></p><p>To gather additional safety information about the combination of Campath-1H with Tacrolimus (short term), Sirolimus and MMF in pediatric renal allograft recipients.</p>",
+    "official_title": "A Phase II Exploratory Study to Determine the Safety and Study the Immunomodulatory Functions of Induction Therapy With Campath-1H, Combined with Chronic Immunosuppression with MMF and Sirolimus",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 35,
+    "workspace_id": 2872,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM673",
+            "description": "Pre- and post-transplant treatment with Campath-1H",
+            "name": "Campath-1H"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "William",
+            "last_name": "Harmon",
+            "organization": "Boston Children's Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Boston Children's Hospital"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Immune profile of pediatric renal transplant recipients following alemtuzumab induction.",
+            "journal": "J Am Soc Nephrol.",
+            "month": "Jan",
+            "year": "2012",
+            "doi": "10.1681/ASN.2011040360. Epub 2011 Nov 3.",
+            "pubmed_id": "22052056"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Cooperative Clinical Trials in Pediatric Transplantation (CCTPT)",
+            "contract_name": "Data Coordinating Center for Cooperative Clinical Trials in Pediatric Transplantation"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 4
+            },
+            {
+                "race": "White",
+                "count": 27
+            }
+        ],
+        "gender": [
+            {
+                "Female": 20
+            },
+            {
+                "Male": 15
+            }
+        ]
+    }
+}

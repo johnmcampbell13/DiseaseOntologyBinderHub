@@ -1,0 +1,106 @@
+{
+    "study_accession": "SDY211",
+    "actual_completion_date": null,
+    "actual_enrollment": 419,
+    "actual_start_date": "2006-10-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to find out if adding omalizumab to standard asthma treatment results in a safer, more effective, and longer lasting asthma treatment strategy than standard treatment alone, in inner-city children with mild to severe asthma.",
+    "brief_title": "Inner-City Anti-IgE Therapy for Asthma (ICATA/ICAC-08)",
+    "clinical_trial": "Y",
+    "condition_studied": "Asthma",
+    "dcl_id": 2,
+    "description": "This study is testing a medication called omalizumab for the treatment of asthma. Immunoglobulin E (IgE) is produced when one is exposed to allergens and it can cause inflammation in the lungs. Omalizumab can reduce inflammation and asthma attacks by blocking IgE. Unlike other medications for asthma, omalizumab is not an inhaler medication or pill. Instead, omalizumab is dissolved in a liquid and given by injection. Studies indicate that people living in the inner-city areas are more likely to be exposed to indoor allergens that are difficult to avoid than people living in other areas. The purpose of this study is to find out if adding omalizumab to standard asthma treatment results in a safer, more effective, and longer lasting asthma treatment strategy than standard treatment alone. This study will recruit inner-city children and adolescents with moderate to severe allergic asthma. This study will last about 1.5 to 2 years. Participants will be randomly assigned to receive either omalizumab or placebo injections once every 2 or 4 weeks. The injection schedule will be determined based on the participant's weight and total IgE. Both groups will receive standardized specialist care and basic asthma education including environmental control measures. Participants must have some form of health care insurance to cover the costs of asthma controller medications prescribed during the study. Participants will complete a series of questionnaires about topics including perceived stress, home environment, physical activity, diet and nutrition, smoking habits, and quality of life. At study entry and monthly throughout the study, participants will complete questionnaires about their asthma symptoms and medical resource utilization. Some visits will include a physical examination, vital signs measurement, lung function tests, asthma medication evaluation, and an asthma action plan. Blood collection is required up to eight times during the study for safety labs.",
+    "doi": "10.21430/M3V7CAZ3NP",
+    "endpoints": "<p><b>Primary Endpoint</b></p><p>At all visits (Visits 1-24), data regarding the participant's asthma symptoms are collected from the caretaker/participant by questionnaires in order to calculate the number of maximum symptom days, which is the largest value among the following three variables:</p><ol><li>the number of days in the two weeks prior to the visit that the participant experienced wheezing, tightness in the chest, or cough</li><li>the number of days in the two weeks prior to the visit that the participant's sleep was disturbed due to asthma</li><li>the number of days in the two weeks prior to the visit that the participant had to slow down or discontinue play or physical activities such as basketball, gym, or running because of asthma For example, if at baseline the caretaker reports that the child experienced 4 days of wheezing, 1 day of sleep loss, and 4 days of slowed play, then the maximum symptom days at baseline would be 4. The primary efficacy analysis will include 12 months of assessments starting 12 weeks after the initiation of treatment (Visits 5-17).</li></ol></p><p><b>Secondary Endpoints</b></p><p>Secondary outcomes include economic outcomes, asthma related medical care resource utilization, spirometry measurements, eNO, adult and child asthma specific quality of life, asthma control measurements, and asthma medication use (including ability to reduce ICS). These data are assessed over the treatment period (Visits 2-22), the one-month follow-up visit (Visit 23) and at the Final Clinical Evaluation (Visit 24). Both phenotypic and genotypic predictors of response will be evaluated. Refer to Section 8, Statistical Considerations and Analytical Plan, for details of the intended data analysis.</p>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Juvenile and adolescent asthma patients exibit greater symptom control with standard of care treatment and omalizumab than with standard of care treatment alone.",
+    "initial_data_release_date": "2013-09-30",
+    "initial_data_release_version": "DR4",
+    "intervention_agent": "Omalizumab",
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  18.00",
+    "minimum_age": "   6.00",
+    "objectives": "The primary objective of this trial is to evaluate the efficacy of Xolair(tm), compared to placebo, when administered to inner-city children and adolescents with moderate-to-severe allergic asthma receiving standardized specialist care and basic asthma education. Efficacy will be measured by differences in the maximum number of asthma symptom days defined as the highest value among the following three variables: number of days with wheezing, tightness in the chest, or cough; number of nights with disturbed sleep as a result of asthma; and number of days on which the participant had to slow down or discontinue play/physical activities over a two-week period, evaluated monthly. The secondary objectives of this trial are to:<ol><li>Evaluate the effects of Xolair(tm), compared to placebo, on safety as measured by adverse events (AE) and serious adverse events (SAE).</li><li>Evaluate the effects of Xolair(tm), compared to placebo, on asthma related medical resource utilization (hospitalizations or unscheduled visits to an ED or clinic and concomitant medication use).</li><li>Evaluate the effects of Xolair(tm), compared to placebo, on asthma exacerbations severe enough to require an unscheduled visit (clinic, urgent care, ED, or hospitalization)</li><li>Evaluate the effects of Xolair(tm), compared to placebo, on asthma Control Test or Childhood Asthma Control Test.</li><li>Evaluate the effects of Xolair(tm), compared to placebo, on pulmonary function measurements.</li><li>Evaluate the effects of Xolair(tm), compared to placebo, on exhaled nitric oxide.</li><li>Evaluate the effects of Xolair(tm), compared to placebo, on number of missed school/work days (when applicable) for the participant.</li><li>Evaluate the effects of Xolair(tm), compared to placebo, on number of missed work days (when applicable) for the caretaker.</li><li>Evaluate the effects of Xolair(tm), compared to placebo, on rescue beta-agonist and inhaled corticosteroid use.</li><li>Evaluate the effects of Xolair(tm), compared to placebo, on asthma specific Quality of Life (QOL) and asthma control measures for the participants.</li><li>Evaluate the effects of Xolair(tm), compared to placebo, on asthma specific Quality of Life (QOL) for the caretakers.</li></ol>Exploratory objectives of this trial are to: <ol><li>Explore the impact of estimated adherence to inhaled corticosteroids on response to treatment with Xolair(tm).</li><li>Explore the effects of Xolair(tm) treatment on the Asthma Burden Index (ABI), as compared to placebo.</li><li>Identify predictors of response to Xolair(tm) therapy.</li><li>Determine whether Xolair(tm) treatment modifies levels of inflammatory markers, independently of obesity.</li></ol>",
+    "official_title": "Inner-City Anti-IgE Therapy for Asthma",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 500,
+    "workspace_id": 3134,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM892",
+            "description": "Omalizumab was administered subcutaneously every 2 or 4 weeks over a period of 60 weeks to participants classified as having moderate to severe asthma. Doses (mg) and dosing frequency were determined by serum total IgE level (IU/mL) and body weight (kg). Also, participants continued with their conventional asthma therapy according to the National Asthma Education and Prevention Program (NAEPP-II, 2002) guidelines, under the management of an asthma specialist health care provider.",
+            "name": "Experimental: Omalizumab (Xolair) + Conventional Therapy"
+        },
+        {
+            "arm_accession": "ARM893",
+            "description": "Placebo was administered subcutaneously every 2 or 4 weeks over a period of 60 weeks to participants classified as having moderate to severe asthma. Doses (mg) and dosing frequency were determined by serum total IgE level (IU/mL) and body weight (kg). Also, participants continued with their conventional asthma therapy according to the National Asthma Education and Prevention Program (NAEPP-II, 2002) guidelines, under the management of an asthma specialist health care provider.",
+            "name": "Placebo Comparator: Placebo + Conventional Therapy"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "William",
+            "last_name": "Busse",
+            "organization": "University of Wisconsin, Madison",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Wisconsin, Madison"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Randomized trial of omalizumab (anti-IgE) for asthma in inner-city children.",
+            "journal": "N Engl J Med.",
+            "month": "Mar",
+            "year": "2011",
+            "doi": "10.1056/NEJMoa1009705.",
+            "pubmed_id": "21410369"
+        },
+        {
+            "title": "A computerized decision support tool to implement asthma guidelines for children and adolescents.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "May",
+            "year": "2019",
+            "doi": "10.1016/j.jaci.2018.10.060. Epub 2018 Dec 5.",
+            "pubmed_id": "30529451"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Inner City Asthma Consortium (ICAC) RFA-AI-13-036",
+            "contract_name": "Inner City Asthma Consortium (ICAC)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 225
+            },
+            {
+                "race": "Other",
+                "count": 186
+            },
+            {
+                "race": "White",
+                "count": 7
+            }
+        ],
+        "gender": [
+            {
+                "Female": 177
+            },
+            {
+                "Male": 242
+            }
+        ]
+    }
+}

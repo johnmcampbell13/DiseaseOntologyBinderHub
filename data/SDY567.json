@@ -1,0 +1,93 @@
+{
+    "study_accession": "SDY567",
+    "actual_completion_date": null,
+    "actual_enrollment": 34,
+    "actual_start_date": "2001-04-01",
+    "age_unit": "Years",
+    "brief_description": "Phase 1,single-arm study testing whether islet transplantation procedures and results from a previous study conducted in Edmonton, Canada, can be repeated.",
+    "brief_title": "Shapiro ITN005CT:  Islet Transplantation in Type 1 Diabetic Patients",
+    "clinical_trial": "Y",
+    "condition_studied": "Insulin Dependent Diabetes Mellitus",
+    "dcl_id": 2,
+    "description": "The transplanting of islet cells has been studied in Type 1 diabetic patients whose blood sugar levels will not stay normal, despite intensive insulin therapy. A recent study conducted in Edmonton, Canada, was able to demonstrate that islet transplantation led to insulin independence in a majority of the patients treated. This study extends the results obtained from the Edmonton study, which used islet transplantation in Type 1 diabetic patients with steroid-free immunosuppression.",
+    "doi": "10.21430/M3V0RG6S52",
+    "endpoints": "Change in mean C-peptide Area Under the Curve (AUC) response to a Mixed Meal Tolerance Test (MMTT) between Baseline (pre-treatment) and Month 24",
+    "gender_included": "Female, Male",
+    "hypothesis": "Does anti-CD3 mAb treatment halt the progression of newly diagnosed type 1 diabetes",
+    "initial_data_release_date": "2015-06-19",
+    "initial_data_release_version": "DR14",
+    "intervention_agent": "Islet tranplantation",
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  40.00",
+    "minimum_age": "  40.00",
+    "objectives": "Blood glycosylated hemoglobin (HbA1c) level less than 6.5 percent, blood glucose level post overnight fast not to exceed 140mg per dL and 2 hour postprandial blood glucose level of 180 mg/dL",
+    "official_title": "Islet Transplantation in Type1 Diabetic Patients Using the Edmonton Protocol of Steroid free Immunosuppression (ITN005CT)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 36,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2704",
+            "description": "Portal vein islet transfusions with sirolimus, tacrolius, daclizumab",
+            "name": "Islet Transplantation"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "James",
+            "last_name": "Shapiro",
+            "organization": "University of Alberta, Clinical Islet Transplant Program",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Alberta"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Portal vein thrombosis complicating islet transplantation in a recipient with the Factor V Leiden mutation.",
+            "journal": "Transplantation.",
+            "month": "Jul",
+            "year": "2004",
+            "doi": "-",
+            "pubmed_id": "15257060"
+        },
+        {
+            "title": "International trial of the Edmonton protocol for islet transplantation.",
+            "journal": "N Engl J Med.",
+            "month": "Sep",
+            "year": "2006",
+            "doi": "-",
+            "pubmed_id": "17005949"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 33
+            }
+        ],
+        "gender": [
+            {
+                "Female": 21
+            },
+            {
+                "Male": 13
+            }
+        ]
+    }
+}

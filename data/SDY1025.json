@@ -1,0 +1,156 @@
+{
+    "study_accession": "SDY1025",
+    "actual_completion_date": "2015-12-31",
+    "actual_enrollment": 717,
+    "actual_start_date": "2017-08-02",
+    "age_unit": "Years",
+    "brief_description": "This study looks to define the phenotypic characteristics of Difficult-to-Treat asthma, among 650 children between the ages of 6 to 17 years, receiving one year of guidelines-based therapy for asthma and rhinitis/rhinosinusitis.",
+    "brief_title": "Asthma Phenotypes in the Inner City (APIC/ICAC-19)",
+    "clinical_trial": "Y",
+    "condition_studied": "Asthma and Allergic Rhinitis",
+    "dcl_id": 2,
+    "description": "This study looks to define the phenotypic characteristics of Difficult-to-Treat asthma, among 650 children between the ages of 6 to 17 years, receiving one year of guidelines-based therapy for asthma and rhinitis/rhinosinusitis.",
+    "doi": "10.21430/M39SEUM79K",
+    "endpoints": "This study is not a clinical trial with a single disease outcome or endpoint. Our objective is to determine distinct characteristics that will discriminate Difficult-to-Treat from Easy-to-Treat asthmatic children in a variety of domains, and to identify specific phenotypes of Difficult-to-Treat asthma.",
+    "gender_included": "Female, Male",
+    "hypothesis": "1) The factors that we have chosen to test as partial predictors of treatment response will turn out to be predictors. 2) Difficult-to-Treat asthma is associated with Difficult-to-Treat rhinitis. 3) Difficult-to-Treat asthma is associated with a specific pattern of gene expression profiling in nasal epithelium.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Not applicable",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "  17.00",
+    "minimum_age": "   6.00",
+    "objectives": "The primary objective is to determine distinct characteristics that will discriminate Difficult-to-Treat from Easy-to-Treat phenotypes in a subject population adherent to study-directed asthma treatment and management. The secondary objectives are 1) To identify a set of asthma phenotypes using cluster analysis",
+    "official_title": "Asthma Phenotypes in the Inner City",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 700,
+    "workspace_id": 3134,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3619",
+            "description": "This cohort contains participants that have asthma that is more difficult to treat. Requires 250 mcg bid or more of fluticasone.",
+            "name": "Difficult-to-Treat Asthma"
+        },
+        {
+            "arm_accession": "ARM3620",
+            "description": "This cohort contains participants that have asthma that is easier to treat. Requires 50 mcg bid or less of fluticasone.",
+            "name": "Easy-to-Treat Asthma"
+        },
+        {
+            "arm_accession": "ARM3621",
+            "description": "Unclassifiable",
+            "name": "Unclassifiable"
+        },
+        {
+            "arm_accession": "ARM3622",
+            "description": "Unknown",
+            "name": "Unknown"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "William",
+            "last_name": "Busse",
+            "organization": "University of Wisconsin-Madison",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Wisconsin-Madison"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Asthma phenotypes in inner-city children.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Oct",
+            "year": "2016",
+            "doi": "10.1016/j.jaci.2016.06.061",
+            "pubmed_id": "27720016"
+        },
+        {
+            "title": "Distinguishing characteristics of difficult-to-control asthma in inner-city children and adolescents.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Oct",
+            "year": "2016",
+            "doi": "10.1016/j.jaci.2016.06.059",
+            "pubmed_id": "27720017"
+        },
+        {
+            "title": "Pathways through which asthma risk factors contribute to asthma severity in inner-city children.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Oct",
+            "year": "2016",
+            "doi": "10.1016/j.jaci.2016.06.060",
+            "pubmed_id": "27720018"
+        },
+        {
+            "title": "Obstruction phenotype as a predictor of asthma severity and instability in children.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Nov",
+            "year": "2017",
+            "doi": "10.1016/j.jaci.2017.09.047",
+            "pubmed_id": "29146272"
+        },
+        {
+            "title": "Expression of Corticosteroid Regulated Genes By Peripheral Blood Mononuclear Cells in Children with Asthma.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Jul",
+            "year": "2018",
+            "doi": "10.1016/j.jaci.2018.06.043",
+            "pubmed_id": "30059697"
+        },
+        {
+            "title": "Rhinitis in Children and Adolescents with Asthma: Ubiquitous, Difficult to Control, and Associated with Asthma Outcomes.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Sep",
+            "year": "2018",
+            "doi": "10.1016/j.jaci.2018.07.041",
+            "pubmed_id": "30213627"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Inner City Asthma Consortium (ICAC) RFA-AI-13-036",
+            "contract_name": "Inner City Asthma Consortium (ICAC)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 9
+            },
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 495
+            },
+            {
+                "race": "Not Specified",
+                "count": 77
+            },
+            {
+                "race": "Other",
+                "count": 61
+            },
+            {
+                "race": "White",
+                "count": 72
+            }
+        ],
+        "gender": [
+            {
+                "Female": 302
+            },
+            {
+                "Male": 415
+            }
+        ]
+    }
+}

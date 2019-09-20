@@ -1,0 +1,111 @@
+{
+    "study_accession": "SDY598",
+    "actual_completion_date": null,
+    "actual_enrollment": 674,
+    "actual_start_date": "2012-11-30",
+    "age_unit": "Days",
+    "brief_description": "Eight to thirteen-weeks-old wild-type and  LysMcre mice were infected with two doses (days 0 and 2) of 5x10e7 CFU of either H. pylori strain SS1 or mutant ChePep resuspended in 1X PBS. An uninfected group receiving 1X PBS was included.",
+    "brief_title": "HP45",
+    "clinical_trial": "N",
+    "condition_studied": "Helicobacter pylori infection",
+    "dcl_id": 2,
+    "description": "Eight to thirteen-weeks-old wild-type and  LysMcre mice were infected with two doses (days 0 and 2) of 5x10e7 CFU of either H. pylori strain SS1 or mutant ChePep resuspended in 1X PBS. An uninfected group receiving 1X PBS was included.",
+    "doi": "10.21430/M3XE9NAP4K",
+    "endpoints": "Mice were euthanized at days 13, 16, 18 and 24 and weeks 10, 16, 22 and 25 post-infection by cervical dislocation+ thoracotomy. Spleen, stomach, and blood were collected for immunophenotyping purposes. Stomach was also collected to assess bacterial loads and histopathology.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Bacterial localization within the stomach might affect the immune response to H. pylori as well as the extent of colonization.",
+    "initial_data_release_date": "2017-04-21",
+    "initial_data_release_version": "DR21",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "  70.00",
+    "minimum_age": "  70.00",
+    "objectives": "To compare immunological responses to H. pylori SS1 and mutant ChePep",
+    "official_title": "Immune responses to H. pylori at the epithelial barrier",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2763",
+            "description": "Control",
+            "name": "Control"
+        },
+        {
+            "arm_accession": "ARM2764",
+            "description": "Case",
+            "name": "Case"
+        },
+        {
+            "arm_accession": "ARM2765",
+            "description": "H. pylori SS1",
+            "name": "H. pylori SS1"
+        },
+        {
+            "arm_accession": "ARM2766",
+            "description": "H. pylori ChePep",
+            "name": "H. pylori ChePep"
+        },
+        {
+            "arm_accession": "ARM2767",
+            "description": "Uninfected",
+            "name": "Uninfected"
+        },
+        {
+            "arm_accession": "ARM2778",
+            "description": "H. pylori SS1",
+            "name": "H. pylori SS1"
+        },
+        {
+            "arm_accession": "ARM2779",
+            "description": "H. pylori ChePep",
+            "name": "H. pylori ChePep"
+        },
+        {
+            "arm_accession": "ARM2780",
+            "description": "Uninfected",
+            "name": "Uninfected"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        },
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 1640
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 241
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

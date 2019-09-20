@@ -1,0 +1,117 @@
+{
+    "study_accession": "SDY620",
+    "actual_completion_date": "2015-12-31",
+    "actual_enrollment": 368,
+    "actual_start_date": "2012-10-01",
+    "age_unit": "Years",
+    "brief_description": "Atopic dermatitis, also called eczema, is a disease in which the skin is dry and scaly with severe itching. People who have atopic dermatitis often have complications from skin infections; these can include eczema herpeticum after herpes simplex virus infection or eczema vaccinatum after smallpox vaccination. People with atopic dermatitis may suffer from skin infections and may therefore respond differently to vaccinations.",
+    "brief_title": "Atopic Dermatitis Research Network (ADRN) Influenza Vaccine Study (ADRN-05)",
+    "clinical_trial": "Y",
+    "condition_studied": "Atopic Dermatitis",
+    "dcl_id": 2,
+    "description": "This is a multi-site, randomized, open label, mechanistic study designed to compare the immune response in non-atopic and AD participants receiving a single dose of the 2012-2013 seasonal Fluzone Intradermal vaccine administered per label. A secondary objective is to compare the immune response of AD participants receiving intradermal influenza vaccination to the response of AD participants receiving intramuscular influenza vaccination.",
+    "doi": "10.21430/M3UT5M218G",
+    "endpoints": "The primary endpoint of this study is to examine the difference in proportion of participants achieving a serum HAI antibody titer of 1:40 or greater (seroprotection) between non-atopic controls and moderate to severe AD participants for each influenza strain, following a single dose of the seasonal 2012-2013 Fluzone Intradermal vaccine.",
+    "gender_included": "Female, Male",
+    "hypothesis": "The immunogenicity of Fluzone Intradermal vaccine is reduced in patients with atopic dermatitis.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Fluzone Influenza Vaccine",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "  64.00",
+    "minimum_age": "  18.00",
+    "objectives": "The primary objective of this study is to compare the antibody response of non-atopic controls and participants with moderate to severe AD, following administration per label of a single dose of the seasonal 2012-2013 Fluzone Intradermal vaccine.",
+    "official_title": "A Randomized Open Label Mechanistic Study in Atopic Dermatitis to Assess the Immunogenicity of Fluzone Intradermal and Intramuscular Vaccines",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 316,
+    "workspace_id": 1089,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2821",
+            "description": "Non-atopic controls who will receive a single dose of the seasonal 2012-2013 Fluzone Intradermal influenza vaccine via a single-dose pre-filled microinjection system (0.1mL).",
+            "name": "Non-atopic controls vaccinated with Fluzone Intradermal"
+        },
+        {
+            "arm_accession": "ARM2822",
+            "description": "Moderate to severe atopic dermatitis participants who will receive a single dose of the seasonal 2012-2013 Fluzone Intradermal influenza vaccine via a single-dose pre-filled microinjection system (0.1mL).",
+            "name": "Moderate to severe AD vaccinated with Fluzone Intradermal"
+        },
+        {
+            "arm_accession": "ARM2823",
+            "description": "Moderate to severe atopic dermatitis participants who will receive a single dose of the seasonal 2012-2013 Fluzone (Intramuscular) influenza vaccine from 0.5 mL single dose vials.",
+            "name": "Moderate to severe AD vaccinated with Fluzone (Intramuscular)"
+        },
+        {
+            "arm_accession": "ARM2824",
+            "description": "Non-atopic controls who will receive a single dose of the seasonal 2012-2013 Fluzone (Intramuscular) influenza vaccine from 0.5 mL single dose vials.",
+            "name": "Non-atopic controls vaccinated with Fluzone (Intramuscular)"
+        },
+        {
+            "arm_accession": "ARM2825",
+            "description": "Mild atopic dermatitis participants who will receive a single dose of the seasonal 2012-2013 Fluzone Intradermal influenza vaccine via a single-dose pre-filled microinjection system (0.1mL).",
+            "name": "Mild AD participants vaccinated with Fluzone Intradermal"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Donald",
+            "last_name": "Leung",
+            "organization": "National Jewish Health",
+            "role_in_study": "Principal Investigator",
+            "site_name": "National Jewish Health"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "A clinical trial of intradermal and intramuscular seasonal influenza vaccination in patients with atopic dermatitis.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Jan",
+            "year": "2017",
+            "doi": "-",
+            "pubmed_id": "28209343"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Atopic Dermatitis Research Network (ADRN) 2011-2015",
+            "contract_name": "Atopic Dermatitis Research Network (ADRN)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 5
+            },
+            {
+                "race": "Asian",
+                "count": 18
+            },
+            {
+                "race": "Black or African American",
+                "count": 111
+            },
+            {
+                "race": "Other",
+                "count": 19
+            },
+            {
+                "race": "White",
+                "count": 215
+            }
+        ],
+        "gender": [
+            {
+                "Female": 207
+            },
+            {
+                "Male": 161
+            }
+        ]
+    }
+}

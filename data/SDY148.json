@@ -1,0 +1,79 @@
+{
+    "study_accession": "SDY148",
+    "actual_completion_date": null,
+    "actual_enrollment": 243,
+    "actual_start_date": null,
+    "age_unit": "Days",
+    "brief_description": "Enteroaggregative Escherichia coli (EAEC) is recognized as an emerging cause of persistent diarrhea and enteric disease worldwide. Mucosal immunity towards EAEC infections is incompletely understood;due in part to the lack of appropriate animal models. This study presents a new mouse model and investigates the role of peroxisome proliferator-activated receptor gamma (PPARg) in the modulation of host responses to EAEC in nourished and malnourished mice. Methods/Principal Findings: Wild-type and T cell-specific PPARg null C57BL/6 mice were fed protein-deficient diets at weaning and challenged with 5x10^9 cfu EAEC strain JM221 to measure colonic gene expression and immune responses to EAEC. Antigen-specific responses to E. coli antigens were measured in nourished and malnourished mice following infection and demonstrated the immunosuppressive effects of malnutrition at the cellular level. At the molecular level, both pharmacological blockade and deletion of PPARg in T cells resulted in upregulation of Tgfb1, IL-6, IL-17 and anti-microbial peptides, enhanced Th17 responses, fewer colonic lesions, faster clearance of EAEC, and improved recovery. The beneficial effects of PPAR gamma blockade on weight loss and EAEC clearance were abrogated by neutralizing IL-17 in vivo. Conclusions: Our studies provide in vivo evidence in support of supporting the beneficial role of mucosal innate and effector T cell responses on the EAEC burden and suggest pharmacological blockade of PPARg as a novel therapeutic intervention for EAEC infection. ",
+    "brief_title": "The Role of Peroxisome Proliferator-Activated Receptor gamma in Immune Responses to Enteroaggregative Escherichia coli Infection",
+    "clinical_trial": "N",
+    "condition_studied": "Wild-type and T cell-specific PPARg null C57BL/6 mice were fed protein-deficient diets (2% protein) at weaning. After three days on diet mice were challenged with 5x10^9 cfu EAEC strain JM221 by orogastric gavage. Mice were monitored daily for weight and disease activity until the designated project endpoint. ",
+    "dcl_id": 2,
+    "description": "Background: Enteroaggregative Escherichia coli (EAEC) is recognized as an emerging cause of persistent diarrhea and enteric disease worldwide. Mucosal immunity towards EAEC infections is incompletely understood;due in part to the lack of appropriate animal models. This study presents a new mouse model and investigates the role of peroxisome proliferator-activated receptor gamma (PPARg) in the modulation of host responses to EAEC in nourished and malnourished mice. Methods/Principal Findings: Wild-type and T cell-specific PPARg null C57BL/6 mice were fed protein-deficient diets at weaning and challenged with 5x10^9 cfu EAEC strain JM221 to measure colonic gene expression and immune responses to EAEC. Antigen-specific responses to E. coli antigens were measured in nourished and malnourished mice following infection and demonstrated the immunosuppressive effects of malnutrition at the cellular level. At the molecular level, both pharmacological blockade and deletion of PPARg in T cells resulted in upregulation of Tgfb1, IL-6, IL-17 and anti-microbial peptides, enhanced Th17 responses, fewer colonic lesions, faster clearance of EAEC, and improved recovery. The beneficial effects of PPAR gamma blockade on weight loss and EAEC clearance were abrogated by neutralizing IL-17 in vivo. Conclusions: Our studies provide in vivo evidence in support of supporting the beneficial role of mucosal innate and effector T cell responses on the EAEC burden and suggest pharmacological blockade of PPARg as a novel therapeutic intervention for EAEC infection. ",
+    "doi": "10.21430/M36I96JIIZ",
+    "endpoints": "Mice were sacrificed on day 5 or day 14 post infection.",
+    "gender_included": "Unknown",
+    "hypothesis": "We hypothesize that malnourished hosts are unable to mount sufficient immune responses towards EAEC and therefore experience chronic burden; however, pharmacological inhibition of peroxisome proliferator-activated receptor gamma during infection will potentiate proinflammatory responses and enhance bacterial clearance in malnourished hosts.",
+    "initial_data_release_date": "2013-11-01",
+    "initial_data_release_version": "DR5",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-11-01",
+    "latest_data_release_version": "DR5",
+    "maximum_age": " 587.00",
+    "minimum_age": "  21.00",
+    "objectives": "The objectives of this study were to elucidate novel host defense mechanisms against EAEC infection and identify the role of peroxisome proliferator-activated receptor gamma in immune responses to EAEC infection.",
+    "official_title": "The Role of Peroxisome Proliferator-Activated Receptor gamma in Immune Responses to Enteroaggregative Escherichia coli Infection",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM708",
+            "description": "treated or infected",
+            "name": "Case"
+        },
+        {
+            "arm_accession": "ARM709",
+            "description": "control",
+            "name": "Control"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "The role of peroxisome proliferator-activated receptor gamma in immune responses to enteroaggregative Escherichia coli infection.",
+            "journal": "PLoS One.",
+            "month": "-",
+            "year": "2013",
+            "doi": "10.1371/journal.pone.0057812. Epub 2013 Feb 28.",
+            "pubmed_id": "23469071"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 345
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

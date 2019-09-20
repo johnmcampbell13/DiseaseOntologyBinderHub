@@ -1,0 +1,72 @@
+{
+    "study_accession": "SDY1426",
+    "actual_completion_date": "2018-06-01",
+    "actual_enrollment": 25,
+    "actual_start_date": "2004-08-01",
+    "age_unit": "Years",
+    "brief_description": "To study the potential impact of previous exposure to dengue virus on Zika virus (ZIKV) infection outcome, we analyzed the 2016 Zika epidemic in Managua, Nicaragua, in a pediatric cohort with well-characterized dengue virus (DENV) immune histories.",
+    "brief_title": "Prior dengue virus infection and risk of Zika: a pediatric cohort in Nicaragua",
+    "clinical_trial": "N",
+    "condition_studied": "Zika virus and Dengue virus immunity",
+    "dcl_id": 2,
+    "description": "We describe the introduction of ZIKV into the Pediatric Dengue Cohort Study, a long-standing pediatric dengue cohort established in 2004 in Managua, Nicaragua, in which the DENV immune history of the participants is well-characterized. The incidence of symptomatic and inapparent ZIKV infections in 2016 was estimated, together with associated demographic risk factors. The effect of previous DENV infection on ZIKV infection and disease was also analyzed.  \n\nData are available upon request (eharris@berkeley.edu), as is required by the IRB-approved protocol for the Pediatric Dengue Cohort Study. The materials and data used in this study are covered by standard material transfer agreements.",
+    "doi": "10.21430/M3IBGBX9JO",
+    "endpoints": "RT-PCR for ZIKV, DENV and CHIKV RNA; Zika and dengue IgM antibody capture enzyme-linked immunosorbent assays (MAC-ELISA); Zika and dengue Inhibition ELISAs (iELISA); pre- and  post-infection annual samples were analyzed using a ZIKV NS1 blockade-of-binding (BOB) test",
+    "gender_included": "Not Specified",
+    "hypothesis": "Prior dengue immunity protects from symptomatic Zika infection.",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "NA",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "14",
+    "minimum_age": "2",
+    "objectives": "1. Describe the epidemiology of ZIKV infection in a pediatric cohort in Managua, Nicaraga; 2. Examine the relation between documented prior DENV infection and incidence of symptomatic and inapparent ZIKV infection; 3. Determine the effective reproductive number of Zika in the cohort",
+    "official_title": "Prior dengue virus infection and risk of Zika: a pediatric cohort in Nicaragua",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 25,
+    "workspace_id": 4845,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4745",
+            "description": "The overall aim of the project is to maintain a pediatric cohort in Nicaragua to characterize the natural history of dengue transmission and the range of clinical manifestations over time and to establish a potential trial site for antiviral therapies or a safe tetravalent dengue vaccine.",
+            "name": "Pediatric Cohort Study of Dengue"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Eva",
+            "last_name": "Harris",
+            "organization": "University of California, Berkeley",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of California, Berkeley"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Prior dengue virus infection and risk of Zika: A pediatric cohort in Nicaragua.",
+            "journal": "PLoS Med.",
+            "month": "Jan",
+            "year": "2019",
+            "doi": "10.1371/journal.pmed.1002726. eCollection 2019 Jan.",
+            "pubmed_id": "30668565"
+        },
+        {
+            "title": "-",
+            "journal": "-",
+            "month": "-",
+            "year": "-",
+            "doi": "-",
+            "pubmed_id": "668565"
+        }
+    ],
+    "program": [],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

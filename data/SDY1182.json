@@ -1,0 +1,77 @@
+{
+    "study_accession": "SDY1182",
+    "actual_completion_date": "2017-02-28",
+    "actual_enrollment": 800,
+    "actual_start_date": "2011-11-01",
+    "age_unit": "Months",
+    "brief_description": "In this secondary analysis of MARC-35 data,  we detected an association between the microbiota profiles of nasal swabs (NS) and nasopharyngeal aspirates (NPA) collected from infants (age <1 year) hospitalized for bronchiolitis. Study data is available by request.",
+    "brief_title": "35th Multicenter Airway Research Collaboration (MARC-35)",
+    "clinical_trial": "N",
+    "condition_studied": "Bronchiolitis is a lung infection in young children",
+    "dcl_id": 2,
+    "description": "For enrolled infants hospitalized for bronchiolitis, structured interviews of the parents/guardians were performed by site investigators and clinical details were collected via emergency department and hospital inpatient chart reviews. Site teams collected both NS and NPA samples from infants within 24 hours of hospitalization. The composition of NS and NPA microbiota were characterized by sequencing the bacterial 16S rRNA gene V4 region on the Illumina MiSeq platform. Results indicated that there was considerable overlap between NS and NPA microbiota. Additionally, microbiota from both specimen types were associated with bronchiolitis severity.",
+    "doi": "10.21430/M30E3B8H7H",
+    "endpoints": "Bacterial 16S rRNA gene was sequenced for NS and NPA pairs. Bronchiolitis severity outcomes were defined as 1) intensive care use (i.e., admission to intensive care unit and/or use of continuous positive airway pressure and/or intubation during inpatient stay) and 2) hospital length-of-stay of 5 or more days.",
+    "gender_included": "Not Specified",
+    "hypothesis": "NS and NPA samples would have shared and divergent microbial compositions and would both be associated with bronchiolitis severity.",
+    "initial_data_release_date": "2017-11-07",
+    "initial_data_release_version": "DR24",
+    "intervention_agent": "n/a",
+    "latest_data_release_date": "2017-11-07",
+    "latest_data_release_version": "DR24",
+    "maximum_age": "11.9",
+    "minimum_age": "0",
+    "objectives": "The objectives were to 1) compare the microbial composition between the anterior nares and nasopharynx of infants hospitalized with bronchiolitis and 2) assess if associations between NPA microbial composition and bronchiolitis severity would be replicated or enhanced using NS microbial data.",
+    "official_title": "The association between anterior nares and nasopharyngeal microbiota in infants hospitalized for bronchiolitis",
+    "sponsoring_organization": "NIH",
+    "target_enrollment": 815,
+    "workspace_id": 6069,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4119",
+            "description": "Infants hospitalized for bronchiolitis",
+            "name": "Infants hospitalized for bronchiolitis"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Carlos A.",
+            "last_name": "Camargo",
+            "organization": "Massachusetts General Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Massachusetts General Hospital"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Association of nasopharyngeal microbiota profiles with bronchiolitis severity in infants hospitalised for bronchiolitis.",
+            "journal": "European Respiratory Journal",
+            "month": "November",
+            "year": "2016",
+            "doi": "10.1183/13993003.00152-2016",
+            "pubmed_id": "27799386"
+        },
+        {
+            "title": "The association between anterior nares and nasopharyngeal microbiota in infants hospitalized for bronchiolitis.",
+            "journal": "Microbiome.",
+            "month": "Jan",
+            "year": "2018",
+            "doi": "10.1186/s40168-017-0385-0.",
+            "pubmed_id": "29298732"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Program Research Project Grant (Parent R01)",
+            "contract_name": "Prospective Cohort Study Of Severe Bronchiolitis And Risk Of Recurrent Wheezing (MARC-35 WIND)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

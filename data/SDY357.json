@@ -1,0 +1,79 @@
+{
+    "study_accession": "SDY357",
+    "actual_completion_date": null,
+    "actual_enrollment": 7,
+    "actual_start_date": "1998-02-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to find out whether Varivax is safe for use in children with kidney transplants and whether it protects children from serious infection. Varivax is a vaccine against varicella zoster virus (VZV), the virus that causes chicken pox (varicella) and shingles (zoster). Healthy children are already receiving Varivax shots to protect them from chicken pox. Few children with kidney transplants have received Varivax because doctors have been concerned that Varivax might cause serious reactions in them. On the other hand, VZV infection can be a life-threatening disease in these children. For this reason, doctors want to learn whether Varivax might safely prevent VZV infections in children who have had kidney transplants.",
+    "brief_title": "VZV A Study of the Safety and Effectiveness of Varivax (the Chicken Pox Vaccine) in Children Who Have Received Kidney Transplants",
+    "clinical_trial": "Y",
+    "condition_studied": "Chickenpox,Kidney Transplantation,Varicella Zoster",
+    "dcl_id": 2,
+    "description": "Pediatric renal transplant patients face a lifetime of immunosuppressive therapy that places them at high risk for potentially life-threatening infection by primary varicella-zoster virus (VZV). Treatment for acute episodes of VZV infection is possible but expensive and provides no long-term protection from VZV. Furthermore, therapy to overcome VZV infections can lead to renal graft rejection. Varivax has proven safe, immunogenic, and effective in the normal host and has been recommended for universal administration in the general population at age 12 months. It is not currently labeled for use in immunocompromised patients. However, recent studies in pediatric leukemia and pediatric renal transplant patients suggest that attenuated live vaccine can confer protection with minimal adverse events even in the presence of immunosuppression, providing encouragement for more careful studies of VZV immunization in renal transplant patients. This study endeavors to quantify the immunogenicity and safety of Varivax in the population of pediatric renal transplant patients least susceptible to VZV infection, i.e., those on minimal maintenance immunosuppression and at least 1 year from transplant. Patient enrollment is staged to allow study physicians to closely monitor patients for signs of disseminated varicella reactions or graft rejection. Initially only 1 patient will be enrolled in the study. If the first patient reaches Week 8 without a severe adverse reaction, 3 study centers will then enroll 3 additional patients. If 8 weeks later these 3 patients have had no severe adverse reactions, the same 3 study centers will enroll 3 more patients. At the end of this period, having ascertained the safety of the vaccine in the first 7 patients, the study will be opened to the remaining centers. Patients receive 2 doses of Varivax 6 to 8 weeks apart. Each week for 6 to 8 weeks after the first vaccine dose, the patient undergoes venipuncture and clinical assessment to characterize renal graft and liver function and identify any signs of varicella infection. Additional telephone follow-up occurs on Day 4 and twice weekly thereafter. Parents or guardians monitor the patient for evidence of rash or fever and immediately report any rashes or fevers to study physicians. If, after 6 to 8 weeks, the patient demonstrates no severe reactions to the vaccine and requires no antiviral therapy, the patient receives the second vaccine dose. The patient again receives weekly on-site and telephone follow-up for 6 weeks. Other visits occur 9 weeks and 14 weeks after the second vaccine dose and 1 year after the first vaccine dose. At these visits the patient undergoes venipuncture and clinical assessment to identify potential rejection events or varicella infection and to characterize VZV antibody responses and cytokine changes in response to the vaccine.",
+    "doi": "10.21430/M3ZY0O1Z91",
+    "endpoints": "Immediate adverse reactions. Varicella related adverse reactions. Rejection events.",
+    "gender_included": "Female, Not Specified, Unknown",
+    "hypothesis": "Careful consideration of the merits of active immunization against VZV should be considered in the renal transplant patient.",
+    "initial_data_release_date": "2014-08-07",
+    "initial_data_release_version": "DR11",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-08-07",
+    "latest_data_release_version": "DR11",
+    "maximum_age": "21",
+    "minimum_age": "2",
+    "objectives": "The goal of this project would be to determine whether live attenuated varicella vaccine can be safely administered to VZV susceptible pediatric renal transplant recipients and can induce immunity. The efficacy of immunization in preventing VZV disease in this population and the durability of immunity to VZV will necessarily require a project of larger scope.",
+    "official_title": "VZV Evaluation of the Safety and Immunogenicity of Varivax (Live-Attenuated Varicella-Zoster Virus Vaccine) in Pediatric Renal Transplant Recipients",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 50,
+    "workspace_id": 3709,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2227",
+            "description": "ALL SUBJECTS",
+            "name": "ALL SUBJECTS"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Ikle",
+            "organization": "PPD",
+            "role_in_study": "Principal Investigator",
+            "site_name": "-"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Cooperative Clinical Trials in Pediatric Transplantation (CCTPT)",
+            "contract_name": "Data Coordinating Center for Cooperative Clinical Trials in Pediatric Transplantation"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 6
+            }
+        ],
+        "gender": [
+            {
+                "Female": 1
+            },
+            {
+                "Not Specified": 5
+            },
+            {
+                "Unknown": 1
+            }
+        ]
+    }
+}

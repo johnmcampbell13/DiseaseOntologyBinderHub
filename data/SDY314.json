@@ -1,0 +1,124 @@
+{
+    "study_accession": "SDY314",
+    "actual_completion_date": "2009-01-01",
+    "actual_enrollment": 92,
+    "actual_start_date": "2008-01-01",
+    "age_unit": "Years",
+    "brief_description": "Systems biology approach to examine effects of seasonal flu vaccination in adults of different ages on gene expression, cytokine stimulation and serum cytokines with parameters such as immune senescence to uncover new markers and mechanisms behind failure of immune function in many older people.",
+    "brief_title": "T cell responses to H1N1v and a longitudinal study of seasonal influenza vaccination (TIV) SLVP015 2008 (See companion studies SDY315 2012 / SDY312 2009 / SDY311 2010 / SDY112 2011)",
+    "clinical_trial": "Y",
+    "condition_studied": "Aging, Immune responses to influenza vaccine.",
+    "dcl_id": 2,
+    "description": "Systems biology approach to examine effects of seasonal flu vaccination in adults of different ages on gene expression, cytokine stimulation and serum cytokines with parameters such as immune senescence to uncover new markers and mechanisms behind failure of immune function in many older people.",
+    "doi": "10.21430/M3WZ7XK2GG",
+    "endpoints": "1. Combinatorial tetramer analysis by FACS and/or CyTOF; Phosphoflow. 2. Luminex; Gene expression profiling (Affymetrix microarray). 3. Luminex; Gene expression profiling (Affymetrix microarry); Microneutralization assays. 4. Gene expression profiling (Affymetrix microarray); Immune phenotyping by CyTOF. 5. Gene expression profiling (Affymetrix microarray). 6. Immune phenotyping by CyTOF; Luminex. 7. ELISA",
+    "gender_included": "Female, Male",
+    "hypothesis": "HYPOTHESIS NEEDED",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": "Fluzone single-dose syringe 49281-008-50",
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "90",
+    "minimum_age": "18",
+    "objectives": "1. Compare lymphocyte responses at Days 6-8 and the lymphocyte and serology responses at Day 28 post-immunization following administration of seasonal trivalent inactivated influenza vaccine. 2. Evaluate changes in cytokine profile in the immune response (CD4, CD8, gamma-delta cells, B cell responses) from Day 0 to Day 6-8 for T cells and antibody-secreting cells (ASCs). 3. Evaluate changes in cytokine profile in the immune response (CD4, CD8, gamma-delta cells, B cell, and serology responses) from Day 0 to Day 28 for HAI responses. 4. Evaluate any potential gene expression signatures either at Day 0 or during the early response period Day 6-8 that are associated with immune senescence, potentially providing insight into mechanism. 5. Compare cell specific gene expression differences between age groups for both whole blood and whole PBMC. 6. Determine the effect of cell subset frequency variation on serum cytokine abundance. 7. Evaluate CMV and EBV seroreactivity at Day 0 and additional timepoints throughout the study as able.",
+    "official_title": "T cell responses to H1N1v and a longitudinal study of seasonal influenza vaccination - 2008 (See companion studies SDY315 2012 / SDY312 2009 / SDY311 2010)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 90,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2134",
+            "description": "18-30 year old adults immunized intramuscularly with Fluzone (TIV)",
+            "name": "Group A"
+        },
+        {
+            "arm_accession": "ARM2135",
+            "description": "60-79 year old adults immunized intramuscularly with Fluzone (TIV)",
+            "name": "Group B"
+        },
+        {
+            "arm_accession": "ARM2136",
+            "description": "80-90 year old adults immunized intramuscularly with Fluzone (TIV)",
+            "name": "Group C"
+        },
+        {
+            "arm_accession": "ARM2296",
+            "description": "flow cytometry technical control samples",
+            "name": "flow cytometry technical control samples"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark",
+            "last_name": "Davis",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford-LPCH Vaccine Program"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 445
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 178
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 81
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 91
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 178
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 8
+            },
+            {
+                "race": "Other",
+                "count": 7
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 75
+            }
+        ],
+        "gender": [
+            {
+                "Female": 54
+            },
+            {
+                "Male": 38
+            }
+        ]
+    }
+}

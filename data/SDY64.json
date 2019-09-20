@@ -1,0 +1,267 @@
+{
+    "study_accession": "SDY64",
+    "actual_completion_date": null,
+    "actual_enrollment": 36,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "A comparison between large and small droplet flu vaccination",
+    "brief_title": "Aerosol vaccination in mice",
+    "clinical_trial": "N",
+    "condition_studied": null,
+    "dcl_id": 2,
+    "description": "Evaluation of the parameters required for effective aerosol delivery of influenza virus in mice using controlled 20 and 30 m MMAD particle aerosols as proof of concept for LAIV aerosol delivery",
+    "doi": "10.21430/M3DU77M662",
+    "endpoints": "HAI, levels of IgA and IgG antibodies of lung homogenates",
+    "gender_included": "Not Specified",
+    "hypothesis": "Demonstrating the feasibility of nasal vaccination using aerosolized particles",
+    "initial_data_release_date": "2013-06-12",
+    "initial_data_release_version": "DR2",
+    "intervention_agent": "A/Hong Kong/1/68 x A/Puerto Rico/8/34 (X31;N3N2)",
+    "latest_data_release_date": "2013-06-12",
+    "latest_data_release_version": "DR2",
+    "maximum_age": "   6.00",
+    "minimum_age": "   6.00",
+    "objectives": "Demonstrating the feasibility of nasal vaccination using aerosolized particles",
+    "official_title": "Aerosol vaccination induces robust protective immunity to homologous and heterologous influenza infection in mice",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2149,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM496",
+            "description": "mice were inoculated with 100 ul of live X31 influenza virus with 10*2(TCID50/ml) titer by intranasal delivery",
+            "name": "live X31 - intranasal"
+        },
+        {
+            "arm_accession": "ARM497",
+            "description": "mice were inoculated with live X31 influenza virus with 10*2(TCID50/ml) titer by mask aerosol delivery (20 micron droplets) for 15 sec and a flow rate of 1 cm*3/min",
+            "name": "live X31 -aerosol -20 M- 15 sec"
+        },
+        {
+            "arm_accession": "ARM498",
+            "description": "mice were inoculated with live X31 influenza virus with 10*2(TCID50/ml) titer by mask aerosol delivery (20 micron droplets) for 30 sec and a flow rate of 1 cm*3/min",
+            "name": "live X31 -aerosol -20 M- 30 sec"
+        },
+        {
+            "arm_accession": "ARM499",
+            "description": "mice were inoculated with live X31 influenza virus with 10*2(TCID50/ml) titer by mask aerosol delivery (20 micron droplets) for 45 sec and a flow rate of 1 cm*3/min",
+            "name": "live X31 -aerosol -20 M- 45 sec"
+        },
+        {
+            "arm_accession": "ARM500",
+            "description": "mice were inoculated with live X31 influenza virus with 10*2(TCID50/ml) titer by mask aerosol delivery (30 micron droplets) for 15 sec and a flow rate of 1 cm*3/min.",
+            "name": "live X31 -aerosol -30 M- 15 sec"
+        },
+        {
+            "arm_accession": "ARM501",
+            "description": "mice were inoculated with live X31 influenza virus with 10*2(TCID50/ml) titer by mask aerosol delivery (30 micron droplets) for 30 sec and a flow rate of 1 cm*3/min",
+            "name": "live X31 -aerosol -30 M- 30 sec"
+        },
+        {
+            "arm_accession": "ARM502",
+            "description": "mice were inoculated with live X31 influenza virus with 10*2(TCID50/ml) titer by mask aerosol delivery (30 micron droplets) for 15 sec and a flow rate of 1 cm*3/min.",
+            "name": "live X31 -aerosol -30 M- 45 sec"
+        },
+        {
+            "arm_accession": "ARM503",
+            "description": "mice were inoculated with 100 ul of live X31 influenza virus with 10*1(TCID50/ml) titer by intranasal delivery",
+            "name": "live X31 -intranasal-10*1(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM504",
+            "description": "mice were inoculated with 100 ul of live X31 influenza virus with 10*2(TCID50/ml) titer by intranasal delivery",
+            "name": "live X31 -intranasal-10*2(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM505",
+            "description": "mice were inoculated with 100 ul of live X31 influenza virus with 10*3(TCID50/ml) titer by intranasal delivery",
+            "name": "live X31 -intranasal-10*3(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM506",
+            "description": "mice were inoculated with 100 ul of live X31 influenza virus with 10*4(TCID50/ml) titer by intranasal delivery",
+            "name": "live X31 -intranasal-10*4(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM507",
+            "description": "mice were inoculated with 100 ul of live X31 influenza virus with 10*5(TCID50/ml) titer by intranasal delivery",
+            "name": "live X31 -intranasal-10*5(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM508",
+            "description": "mice were inoculated with live X31 influenza virus with 10*1(TCID50/ml) titer by mask aerosol delivery (30 micron droplets) for 15 sec and a flow rate of 1 cm*3/min.",
+            "name": "live X31 -aerosol -30 M-10*1(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM509",
+            "description": "mice were inoculated with live X31 influenza virus with 10*2(TCID50/ml) titer by mask aerosol delivery (30 micron droplets) for 15 sec and a flow rate of 1 cm*3/min.",
+            "name": "live X31 -aerosol -30 M-10*2(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM510",
+            "description": "mice were inoculated with live X31 influenza virus with 10*3(TCID50/ml) titer by mask aerosol delivery (30 micron droplets) for 15 sec and a flow rate of 1 cm*3/min.",
+            "name": "live X31 -aerosol -30 M-10*3(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM511",
+            "description": "mice were inoculated with live X31 influenza virus with 10*4(TCID50/ml) titer by mask aerosol delivery (30 micron droplets) for 15 sec and a flow rate of 1 cm*3/min.",
+            "name": "live X31 -aerosol -30 M-10*4(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM512",
+            "description": "mice were inoculated with live X31 influenza virus with 10*5(TCID50/ml) titer by mask aerosol delivery (30 micron droplets) for 15 sec and a flow rate of 1 cm*3/min.",
+            "name": "live X31 -aerosol -30 M-10*5(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM513",
+            "description": "mice were inoculated with live X31 influenza virus with 10*3(TCID50/ml) titer by mask aerosol delivery (30 micron droplets) for 15 sec and a flow rate of 0.1 cm*3/min.",
+            "name": "live X31 -aerosol -30 M-10*3(TCID50/ml)-0.1 cc/min"
+        },
+        {
+            "arm_accession": "ARM514",
+            "description": "mice were inoculated with live X31 influenza virus with 10*3(TCID50/ml) titer by mask aerosol delivery (30 micron droplets) for 15 sec and a flow rate of 0.5 cm*3/min.",
+            "name": "live X31 -aerosol -30 M-10*3(TCID50/ml)-0.5 cc/min"
+        },
+        {
+            "arm_accession": "ARM515",
+            "description": "mice were inoculated with live X31 influenza virus with 10*3(TCID50/ml) titer by mask aerosol delivery (30 micron droplets) for 15 sec and a flow rate of 1 cm*3/min.",
+            "name": "live X31 -aerosol -30 M-10*3(TCID50/ml)-1 cc/min"
+        },
+        {
+            "arm_accession": "ARM516",
+            "description": "mice were inoculated with live X31 influenza virus with 10*3(TCID50/ml) titer by mask aerosol delivery (30 micron droplets) for 15 sec and a flow rate of 2 cm*3/min.",
+            "name": "live X31 -aerosol -30 M-10*3(TCID50/ml)-2 cc/min"
+        },
+        {
+            "arm_accession": "ARM517",
+            "description": "mice were inoculated with live X31 influenza virus with 10*2(TCID50/ml) titer by mask aerosol delivery (30 micron droplets)",
+            "name": "live X31 -aerosol -30 M-10*2(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM518",
+            "description": "mice were inoculated with live X31 influenza virus with 10*3(TCID50/ml) titer by mask aerosol delivery (30 micron droplets)",
+            "name": "live X31 -aerosol -30 M-10*3(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM519",
+            "description": "mice were inoculated with live X31 influenza virus with 10*4(TCID50/ml) titer by mask aerosol delivery (30 micron droplets)",
+            "name": "live X31 -aerosol -30 M-10*4(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM520",
+            "description": "mice were inoculated with live X31 influenza virus with 10*5(TCID50/ml) titer by mask aerosol delivery (30 micron droplets)",
+            "name": "live X31 -aerosol -30 M-10*5(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM521",
+            "description": "mice were inoculated with live X31 influenza virus with 10*6(TCID50/ml) titer by mask aerosol delivery (30 micron droplets)",
+            "name": "live X31 -aerosol -30 M-10*6(TCID50/ml)"
+        },
+        {
+            "arm_accession": "ARM522",
+            "description": "Mice primary immunized with X31 intramuscular. then 14 days later infected with lethal dose X31",
+            "name": "Vaccinated:  X31 i.m. inoculation , 14 dpi: live virus X31"
+        },
+        {
+            "arm_accession": "ARM523",
+            "description": "Mice primary immunized with  X31 intramuscular. then 14 days later infected with lethal dose PR8",
+            "name": "Vaccinated:  X31 i.m. inoculation , 14 dpi: live virus PR8"
+        },
+        {
+            "arm_accession": "ARM524",
+            "description": "Mice primary immunized with X31 intranasal. then 14 days later infected with lethal dose X31",
+            "name": "Vaccinated:  X31 i.n. inoculation , 14 dpi: live virus X31"
+        },
+        {
+            "arm_accession": "ARM525",
+            "description": "Mice primary immunized with X31 intranasal. then 14 days later infected with lethal dose PR8",
+            "name": "Vaccinated:  X31 i.n. inoculation , 14 dpi: live virus PR8"
+        },
+        {
+            "arm_accession": "ARM526",
+            "description": "Mice primary immunized with X31 aerosol. then 14 days later infected with lethal dose X31",
+            "name": "Vaccinated: X31 aerosol  inoculation , 14 dpi: live virus X31"
+        },
+        {
+            "arm_accession": "ARM527",
+            "description": "Mice primary immunized with X31 aerosol. then 14 days later infected with lethal dose PR8",
+            "name": "Vaccinated:  X31 aerosol  inoculation , 14 dpi: live virus PR8"
+        },
+        {
+            "arm_accession": "ARM528",
+            "description": "Naive group challenged with lethal dose of X31",
+            "name": "Naive, challenged live virus X31"
+        },
+        {
+            "arm_accession": "ARM529",
+            "description": "Naive group challenged with lethal dose of PR8",
+            "name": "Naive, challenged live virus PR8"
+        },
+        {
+            "arm_accession": "ARM530",
+            "description": "Vaccinated: X31 i.m.",
+            "name": "Vaccinated: X31 i.m."
+        },
+        {
+            "arm_accession": "ARM531",
+            "description": "Vaccinated:  X31 i.n.",
+            "name": "Vaccinated:  X31 i.n."
+        },
+        {
+            "arm_accession": "ARM532",
+            "description": "Vaccinated:  X31 aerosal",
+            "name": "Vaccinated:  X31 aerosal"
+        },
+        {
+            "arm_accession": "ARM533",
+            "description": "Naive",
+            "name": "Naive"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Ralph",
+            "last_name": "Tripp",
+            "organization": "College of Veterinary Medicine, University of Georgia",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Aerosol vaccination induces robust protective immunity to homologous and heterologous influenza infection in mice.",
+            "journal": "Vaccine.",
+            "month": "Mar",
+            "year": "2011",
+            "doi": "10.1016/j.vaccine.2011.01.059. Epub 2011 Feb 5.",
+            "pubmed_id": "21300100"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "Influenza Pathogenesis & Immunology Research Center (IPIRC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 168
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 14
+        },
+        {
+            "measurement_technique": "TCID50",
+            "number_of_expsamples": 62
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

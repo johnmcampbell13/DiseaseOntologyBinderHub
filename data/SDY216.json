@@ -1,0 +1,91 @@
+{
+    "study_accession": "SDY216",
+    "actual_completion_date": null,
+    "actual_enrollment": 91,
+    "actual_start_date": null,
+    "age_unit": "Days",
+    "brief_description": "Th17 cells mediate inflammatory and effector responses during infectious and immune-mediated diseases. The mechanisms of action modulating the plasticity between Th17 and Treg cells are incompletely understood. To gain a better understanding of the differentiation process we have constructed a computational model in COPASI that mimics CD4+ T cell differentiation and contemplates the plasticity between effector Th17 and Treg. Our computer simulations predicted that activation of peroxisome proliferator activated receptor gamma (PPARg) induces a switch from already differentiated Th17 into Treg. Experimental validation approaches support this in silico prediction. The conclusion of this project is that PPARg promotes differentiation of naive CD4+ T cells into Treg, downregulates Th17 differentiation and favors phenotype switch from Th17 into Treg cells.",
+    "brief_title": "CD4+ T cell differentiation studies",
+    "clinical_trial": "N",
+    "condition_studied": "To investigate the role of PPAR g in modulating CD4+ T cell differentiation, six-week-old SCID and RAG2-/- mice were administered intraperitoneally (i.p.) 4 x 105 CD4+ CD45RBhigh CD25- from either CD4 null PPAR g fl/fl or C57BL/6J (wild-type), or B6.129P2(Cg)-Rorctm2Litt/J  mice. Mice were weighed on a weekly basis and clinical signs of disease were recorded daily for 14 wk. Mice that developed severe signs of wasting disease were sacrificed. Otherwise, mice were sacrificed 90 days after transfer.",
+    "dcl_id": 2,
+    "description": "Differentiation of CD4+ T cells into effector or regulatory phenotypes is tightly controlled by the cytokine milieu, complex intracellular signaling networks and numerous transcriptional regulators. We combined experimental approaches and computational modeling to investigate the mechanisms controlling differentiation and plasticity of CD4+ T cells in the gut of mice. Our computational model encompasses the major intracellular pathways involved in CD4+ T cell differentiation into T helper 1 (Th1), Th2, Th17 and induced regulatory T cells (iTreg). Our modeling efforts predicted a critical role for peroxisome proliferator-activated receptor gamma (PPARg) in modulating plasticity between Th17 and iTreg cells. PPARg regulates differentiation, activation and cytokine production, thereby controlling the induction of effector and regulatory responses, and is a promising therapeutic target for dysregulated immune responses and inflammation. Our modeling efforts predict that following PPARg activation, Th17 cells undergo phenotype switch and become iTreg cells. This prediction was validated by results of adoptive transfer studies showing an increase of colonic iTreg and a decrease of Th17 cells in the gut mucosa of mice with colitis following pharmacological activation of PPAR?. Deletion of PPARg in CD4+ T cells impaired mucosal iTreg and enhanced colitogenic Th17 responses in mice with CD4+ T cell-induced colitis. Thus, for the first time we provide novel molecular evidence in vivo demonstrating that PPARg in addition to regulating CD4+ T cell differentiation also plays a major role controlling Th17 and iTreg plasticity in the gut mucosa.",
+    "doi": "10.21430/M36YGDV91N",
+    "endpoints": "Mice were sacrificed at the end of the PBS/PIO treatment (14 days)",
+    "gender_included": "Not Specified",
+    "hypothesis": "We hypothesize that PPARg drives and modulates Th17 differentiation and plasticity by re-structuring the effector machine and triggering a plasticity towards a FOXP3+ Treg phenptype",
+    "initial_data_release_date": "2013-11-01",
+    "initial_data_release_version": "DR5",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-11-01",
+    "latest_data_release_version": "DR5",
+    "maximum_age": "  44.00",
+    "minimum_age": "    .00",
+    "objectives": "The objectives of this study were to elucidate the role of peroxisome proliferator-activated receptor gamma in cytokine-driven CD4+ T cell differentiation",
+    "official_title": "CD4+ T cell differentiation studies",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM906",
+            "description": "treated or infected",
+            "name": "Case"
+        },
+        {
+            "arm_accession": "ARM907",
+            "description": "control",
+            "name": "Control"
+        },
+        {
+            "arm_accession": "ARM908",
+            "description": "unknown",
+            "name": "Unknown"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        },
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Systems modeling of molecular mechanisms controlling cytokine-driven CD4+ T cell differentiation and phenotype plasticity.",
+            "journal": "PLoS Comput Biol.",
+            "month": "Apr",
+            "year": "2013",
+            "doi": "10.1371/journal.pcbi.1003027. Epub 2013 Apr 4.",
+            "pubmed_id": "23592971"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 300
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

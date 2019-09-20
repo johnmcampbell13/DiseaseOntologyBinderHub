@@ -1,0 +1,149 @@
+{
+    "study_accession": "SDY180",
+    "actual_completion_date": null,
+    "actual_enrollment": 46,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Systems approach to study immune response to seasonal influenza and 23-valent pneumoccocal vaccination in healthy adults.",
+    "brief_title": "Systems scale interactive exploration reveals quantitative and qualitative differences in response to 2009-2010 Fluzone influenza vaccine and pneumococcal vaccine",
+    "clinical_trial": "N",
+    "condition_studied": "Healthy adults- longitudinal follow-up",
+    "dcl_id": 2,
+    "description": "Systems immunology approaches were employed to investigate innate and adaptive immune responses to influenza and pneumococcal vaccines. These two non-live vaccines show different magnitudes of transcriptional responses at different time points af- ter vaccination. Software solutions were developed to explore correlates of vaccine efficacy measured as antibody titers at day 28. These enabled a further dissection of transcriptional responses. Thus, the innate response, measured within hours in the peripheral blood, was dominated by an interferon transcriptional signature after influenza vaccination and by an inflammation signature after pneumo- coccal vaccination. Day 7 plasmablast responses induced by both vaccines was more pronounced after pneumococcal vaccination. Together, these results suggest that comparing global immune responses elicited by different vaccines will be critical to our understanding of the immune mechanisms underpinning successful vaccination.",
+    "doi": "10.21430/M3I44H8R17",
+    "endpoints": "Serological outcome",
+    "gender_included": "Female, Male",
+    "hypothesis": "Systems biology approaches will permit us to gain a comprehensive view of the immunobiology associated with a potent response to vaccination. This will lead to the identification of biomarker signatures indicative of the quality of vaccine-induced antibody responses.",
+    "initial_data_release_date": "2013-12-18",
+    "initial_data_release_version": "DR6",
+    "intervention_agent": "TIV Fluzone, Pneumovax",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  49.00",
+    "minimum_age": "  22.00",
+    "objectives": "Our aim is to apply systems biology approaches to study immune responses to vaccination with seasonal influenza and 23-valent pneumococcal vaccine in healthy adults. This in turn will permit us to define vaccine responders and non-responders and develop biomarker signatures predictive of vaccine response.",
+    "official_title": "Systems scale interactive exploration reveals quantitative and qualitative differences in response to 2009-2010 Fluzone influenza vaccine and pneumococcal vaccine",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2799,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM773",
+            "description": "2009-2010 Fluzone vaccine, Samples at Day -7,0,1,3,7,10,14,21,28",
+            "name": "Study group 1 2009-2010 Fluzone"
+        },
+        {
+            "arm_accession": "ARM774",
+            "description": "Pneunomax23, Samples at Day -7,0,1,3,7,10,14,21,28",
+            "name": "Study group 1 Pneunomax23"
+        },
+        {
+            "arm_accession": "ARM775",
+            "description": "Saline, Samples at Day -7,0,1,3,7,10,14,21,28",
+            "name": "Study group 1 Saline"
+        },
+        {
+            "arm_accession": "ARM776",
+            "description": "2009-2010 Fluzone vaccine, Samples at Hour -168,0,1.5,3,6,9,12,15,24,36,48",
+            "name": "Study group 2 2009-2010 Fluzone"
+        },
+        {
+            "arm_accession": "ARM777",
+            "description": "Pneunomax23, Samples at Hour -168,0,1.5,3,6,9,12,15,24,36,48",
+            "name": "Study group 2 Pneunomax23"
+        },
+        {
+            "arm_accession": "ARM778",
+            "description": "Saline, Samples at Hour -168,0,1.5,3,6,9,12,15,24,36,48",
+            "name": "Study group 2 Saline"
+        },
+        {
+            "arm_accession": "ARM779",
+            "description": "2009-2010 Fluzone vaccine, Samples at Day 0,1,28",
+            "name": "Study group 3 2009-2010 Fluzone"
+        },
+        {
+            "arm_accession": "ARM780",
+            "description": "Saline, Samples at Day 0,1,28",
+            "name": "Study group 3 Pneunomax23"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "A. Karolina",
+            "last_name": "Palucka",
+            "organization": "Baylor Reasearch Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Baylor Reasearch Institute"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Systems scale interactive exploration reveals quantitative and qualitative differences in response to influenza and pneumococcal vaccines.",
+            "journal": "Immunity.",
+            "month": "Apr",
+            "year": "2013",
+            "doi": "10.1016/j.immuni.2012.12.008.",
+            "pubmed_id": "23601689"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Systems Analysis Vaccine Responses in Healthy and Hyporesponsive Humans"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 2208
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 66
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 229
+        },
+        {
+            "measurement_technique": "Nanostring",
+            "number_of_expsamples": 18
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 703
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 89
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 8
+            },
+            {
+                "race": "Black or African American",
+                "count": 5
+            },
+            {
+                "race": "White",
+                "count": 33
+            }
+        ],
+        "gender": [
+            {
+                "Female": 23
+            },
+            {
+                "Male": 23
+            }
+        ]
+    }
+}

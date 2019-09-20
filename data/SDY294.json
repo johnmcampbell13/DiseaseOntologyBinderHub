@@ -1,0 +1,89 @@
+{
+    "study_accession": "SDY294",
+    "actual_completion_date": null,
+    "actual_enrollment": 162,
+    "actual_start_date": "2010-08-01",
+    "age_unit": "Years",
+    "brief_description": "The Live Lung Donor Cross-sectional Cohort Study (RELIVE-05) aimed to determine the effects of live lung donation on lung function, quality of life, morbidity, psychosocial status, satisfaction with live lung donation, and decision-making associated with live lung donation. This study built on the separate but related RELIVE-02 retrospective study that assessed the effects of live lung donation on survival and short-term morbidity. This multicenter cross-sectional cohort study invited the RELIVE-02 living former live lung donors to undergo questionnaire and pulmonary function test assessments to further determine the long-term outcomes of live lung donation. This study used preoperative donor pulmonary function data and normative data to assist with assessing the effects of live lung donation on lung donors.",
+    "brief_title": "Live Lung Donor Cross-sectional Cohort Study (RELIVE-05)",
+    "clinical_trial": "Y",
+    "condition_studied": "Lung Transplantation",
+    "dcl_id": 2,
+    "description": "The Live Lung Donor Cross-sectional Cohort Study (RELIVE-05) aimed to determine the effects of live lung donation on lung function, quality of life, morbidity, psychosocial status, satisfaction with live lung donation, and decision-making associated with live lung donation. This study built on the separate but related RELIVE-02 retrospective study that assessed the effects of live lung donation on survival and short-term morbidity. This multicenter cross-sectional cohort study invited the RELIVE-02 living former live lung donors to undergo questionnaire and pulmonary function test assessments to further determine the long-term outcomes of live lung donation. This study used preoperative donor pulmonary function data and normative data to assist with assessing the effects of live lung donation on lung donors. ",
+    "doi": "10.21430/M38LFF1QAA",
+    "endpoints": "The primary endpoint of this study is spirometric lung function (forced expiratory volume in 1 second [FEV1]).The secondary endpoints of this study are:<ol><li>Quality of life (general and disease-specific).</li><li>Morbidity (short and long-term).</li><li>Psychosocial status.</li><li>Anxiety symptoms.</li><li>Depression symptoms.</li><li>Satisfaction with live lung donation.</li><li>Decision-making associated with live lung donation.</li><li>Representiveness of participating live lung donor study sample.</li><li>Predictors of donor outcome/status.</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Overall mortality rates and incidence of end stage lung disease of subjects who underwent living donor lobectomy are similar to comparable rates in the general US population.",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-01-31",
+    "latest_data_release_version": "DR20",
+    "maximum_age": "  58.00",
+    "minimum_age": "  18.00",
+    "objectives": "The primary objective of this study is to determine the effects of live lung donation on lung function, relative to baseline lung function, normative values, and expected decline associated with aging. The secondary objectives of this study are:<ol><li>To estimate quality of life (general and disease-specific) following live lung donation and compare current status to normative data.</li><li>To estimated long-term morbidity after live lung donation and determine whether live lung donation is associated with increased risk of long-term morbidity relative to normative data.</li><li>To assess the post-donation psychosocial status and compare current status to normative data.</li><li>To assess satisfaction with live lung donation.</li><li>To assess decision-making associated with live lung donation.</li><li>To assess the representiveness of the participating live lung donor study sample by comparing baseline donor characteristics, short-term safety (i.e., morbidity) and recipient outcomes from RELIVE-02, for donors that participate fully, partially, or not at all in RELIVE-05.</li><li>To conduct exploratory multivariable analyses, after adjusting for key variables, to assess for predictors of donor outcome / status.</li></ol>",
+    "official_title": "Live Lung Donor Cross-sectional Cohort Study (RELIVE-05)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3546,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2100",
+            "description": "Live lung donors who participated in donation from 1993 through 2006",
+            "name": "Live lung donors"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark",
+            "last_name": "Barr",
+            "organization": "University of Southern California",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Southern California"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Morbidity and mortality of live lung donation: results from the RELIVE study.",
+            "journal": "Am J Transplant.",
+            "month": "Aug",
+            "year": "2014",
+            "doi": "-",
+            "pubmed_id": "25039865"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "RELIVE ",
+            "contract_name": "CLINICAL OUTCOMES OF LIVE ORGAN DONORS - DATA COORDINATING CENTER "
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 160
+            }
+        ],
+        "gender": [
+            {
+                "Female": 63
+            },
+            {
+                "Male": 99
+            }
+        ]
+    }
+}

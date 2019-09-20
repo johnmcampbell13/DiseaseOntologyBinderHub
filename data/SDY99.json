@@ -1,0 +1,116 @@
+{
+    "study_accession": "SDY99",
+    "actual_completion_date": null,
+    "actual_enrollment": 266,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "In this study, a mouse model of primary and secondary influenza infection is developed by using a widely circulating seasonal H1N1 virus and the pandemic strain of H1N1 that emerged in Mexico in 2009, and several key issues are evaluated. The specificity of CD4 T cell reactivity toward epitopes conserved among H1N1 viruses or unique to the seasonal or pandemic strain was assessed by ELISpot assays. It was observed that  a secondary challenge with the pandemic virus was associated with rapid expansion of memory CD4 T cells specific for shared determinants, decreased viral titers and accelerated neutralizing anti-influenza antibody responses to the serologically distant novel pandemic strain.",
+    "brief_title": "Primary seasonal influenza virus infection elicits CD4 T cells specific for genetically conserved epitopes that can be mobilized for cross protective immunity to pandemic H1N1 influenza",
+    "clinical_trial": "N",
+    "condition_studied": "Exposure to seasonal vaccines and infection elicits memory CD4 T cells that promote the ability of the mammalian host to mount a protective immune response to pandemic strains of influenza virus.",
+    "dcl_id": 2,
+    "description": "In this study, a mouse model of primary and secondary influenza infection is developed by using a widely circulating seasonal H1N1 virus and the pandemic strain of H1N1 that emerged in Mexico in 2009, and several key issues are evaluated. The specificity of CD4 T cell reactivity toward epitopes conserved among H1N1 viruses or unique to the seasonal or pandemic strain was assessed by ELISpot assays. It was observed that a secondary challenge with the pandemic virus was associated with rapid expansion of memory CD4 T cells specific for shared determinants, decreased viral titers and accelerated neutralizing anti-influenza antibody responses to the serologically distant novel pandemic strain.",
+    "doi": "10.21430/M3P4JJNFS2",
+    "endpoints": "Mouse model of primary and secondary infection were used with two inbred mouse strains BALB/c and A/J that differ in their major histocompatibility complex (MHC) haplotypes, background genes, and susceptibilities to the pathological effects of pandemic H1N1 virus infection. Elispot assays quantified CD4 T cell responses; microneutralization assays determined antibody titers; body weight and survival assessed the severity of influenza infection.",
+    "gender_included": "Female",
+    "hypothesis": "The encounter with seasonal viruses and vaccines influences the ability of the immune system to respond to novel pandemic strains of influenza virus.",
+    "initial_data_release_date": "2013-09-30",
+    "initial_data_release_version": "DR4",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-09-30",
+    "latest_data_release_version": "DR4",
+    "maximum_age": "   7.00",
+    "minimum_age": "   7.00",
+    "objectives": "Evaluation of the ability of a previously widely circulating seasonal strain of influenza A H1N1 virus to potentiate responses to the novel pandemic strain of H1N1 that arose in Mexico in the spring of 2009. The study focuses on the specificity of influenza virus-specific CD4 T cells generated after infection with a seasonal strain of human H1N1 virus that was circulating widely in the United States for a decade (A/New Caledonia/20/99)  and on the specificity of CD4 T cells generated after infection with the pandemic strain.",
+    "official_title": "Infection with Seasonal Influenza Virus Elicits CD4 T Cells Specific for Genetically Conserved Epitopes That Can Be Rapidly Mobilized for Protective Immunity to Pandemic H1N1 Influenza Virus",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2014,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM619",
+            "description": "A/J mice infected with A/California/04/2009 influenza virus",
+            "name": "AJ_Ca"
+        },
+        {
+            "arm_accession": "ARM620",
+            "description": "A/J mice rechallenged with A/California/04/2009 influenza virus after A/New Caledonia/20/99 primary infection",
+            "name": "AJ_Ca_rechallenged"
+        },
+        {
+            "arm_accession": "ARM621",
+            "description": "A/J mice infected with A/New Caledonia/20/99 influenza virus",
+            "name": "AJ_NC"
+        },
+        {
+            "arm_accession": "ARM622",
+            "description": "BALB/c mice infected with A/California/04/2009 influenza virus",
+            "name": "BALBc_Ca"
+        },
+        {
+            "arm_accession": "ARM623",
+            "description": "BALB/c mice infected with A/New Caledonia/20/99 influenza virus",
+            "name": "BALBc_NC"
+        },
+        {
+            "arm_accession": "ARM624",
+            "description": "A/J mice infected with a higher dosage of A/California/04/2009 influenza virus",
+            "name": "AJ_Ca_Hi"
+        },
+        {
+            "arm_accession": "ARM625",
+            "description": "BALB/c mice infected with a higher dosage of A/California/04/2009 influenza virus",
+            "name": "BALBc_Ca_Hi"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Andrea",
+            "last_name": "Sant",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "ROC034"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Infection with seasonal influenza virus elicits CD4 T cells specific for genetically conserved epitopes that can be rapidly mobilized for protective immunity to pandemic H1N1 influenza virus.",
+            "journal": "J Virol.",
+            "month": "Dec",
+            "year": "2011",
+            "doi": "10.1128/JVI.05728-11. Epub 2011 Oct 5.",
+            "pubmed_id": "21976658"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "New York Influenza Center of Excellence"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 691
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 331
+        },
+        {
+            "measurement_technique": "TCID50",
+            "number_of_expsamples": 8
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 51
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

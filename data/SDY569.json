@@ -1,0 +1,77 @@
+{
+    "study_accession": "SDY569",
+    "actual_completion_date": null,
+    "actual_enrollment": 11,
+    "actual_start_date": "2002-05-01",
+    "age_unit": "Years",
+    "brief_description": "This is a phase II study examining clinical and immunological effects of humanized FcR non-binding anti-CD3 mAb in participants with Type 1 diabetes mellitus (T1DM), and to develop this therapy to prevent immune destruction leading to beta cell loss.",
+    "brief_title": "Herold II ITN007AI:  Treatment with hOKT3-gamma-1 (Ala-Ala) in Type 1 Diabetes Mellitus",
+    "clinical_trial": "Y",
+    "condition_studied": "Diabetes Mellitus",
+    "dcl_id": 2,
+    "description": "This open-label phase II trial involving 2 arms where treatment is 0 or 3 cycles of hOKT3gamma1 (Ala-Ala) 6 months apart over the first year of disease in participants with new onset T1DM.  Cycles consist of 12 daily doses hOKT3gamma1 (Ala-Ala).",
+    "doi": "10.21430/M3WGK6K01J",
+    "endpoints": "change in 4 hour C-peptide AUC, change in insulin usage",
+    "gender_included": "Female, Male",
+    "hypothesis": "Treatment with hOKT3gamma1 (Ala-Ala) prevents destruction of pancreatic beta cells.",
+    "initial_data_release_date": "2015-06-19",
+    "initial_data_release_version": "DR14",
+    "intervention_agent": "hOKT3gamma1 (Ala-Ala)",
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  18.00",
+    "minimum_age": "    .00",
+    "objectives": "Study the effects of humanized FcR non-binding anti-CD3 mAb in participants with Type 1 diabetes mellitus (T1DM) and develop this therapy to prevent immune destruction leading to beta cell loss.",
+    "official_title": "Phase II Multiple Dose Treatment of Type 1 Diabetes Mellitus with hOKT3gamma1 (Ala-Ala)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 11,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2707",
+            "description": "3 cycles, six  months apart, each consisting of 12 daily infusions with 455-1818 ug per meter squared hOKT3gamma1 (Ala-Ala) (teplizumab)",
+            "name": "hOKT3gamma1 (Ala-Ala) (teplizumab)"
+        },
+        {
+            "arm_accession": "ARM2708",
+            "description": "no treatment",
+            "name": "Control"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Kevan",
+            "last_name": "Herold",
+            "organization": "Yale University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Benaroya Research Institute"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 11
+            }
+        ],
+        "gender": [
+            {
+                "Female": 3
+            },
+            {
+                "Male": 8
+            }
+        ]
+    }
+}

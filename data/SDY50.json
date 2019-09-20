@@ -1,0 +1,74 @@
+{
+    "study_accession": "SDY50",
+    "actual_completion_date": "2011-12-30",
+    "actual_enrollment": 2,
+    "actual_start_date": "2010-01-01",
+    "age_unit": "Years",
+    "brief_description": "Analysis of the activation kinetics of signaling pathways involved with dendritic cell maturation.  Analysis of activation measured by the analysis of cells treated with cytokines, cytokine or receptor antagonists or viral infection.",
+    "brief_title": "Measuring the Activation Kinetics of Signaling Pathways in virus infected or cytokine treated dendritic cells.",
+    "clinical_trial": "N",
+    "condition_studied": "Activation kinetics of signaling pathways involved with dendritic cell maturation",
+    "dcl_id": 0,
+    "description": "Analysis of the activation kinetics of signaling pathways involved with dendritic cell maturation.  Analysis of activation measured by the  treatment of cells with cytokines, cytokine/receptor antagonists or infection with NDV, SeV or PR8 influenza.   Assay methods include flow cytometry, imaging flow cytometry, ELISA, qPCR and Western blot.",
+    "doi": "10.21430/M3TLD5BC4S",
+    "endpoints": "Collection of flow cytometry, imaging flow cytometry, ELISA, qPCR and Western blot data.",
+    "gender_included": "Not Specified",
+    "hypothesis": null,
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "\r",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "To measure the activation kinetics and identify signaling pathways driving dendritic cell maturation mediated by viral infection and cytokine stimulation.",
+    "official_title": "Measuring the Activation Kinetics of Signaling Pathways in virus infected or cytokine treated dendritic cells.",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 27,
+    "workspace_id": 1281,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM400",
+            "description": "Cells isolated from healthy subjects or commercial cell lines for in vitro studies.",
+            "name": "Healthy pseudo subjects"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Joanna",
+            "last_name": "Gonzalez",
+            "organization": "Mount Sinai School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mount Sinai School of Medicine\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "Modeling Viral Immunity and Antagonism"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 36
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 2
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 2
+            }
+        ]
+    }
+}

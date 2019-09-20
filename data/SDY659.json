@@ -1,0 +1,79 @@
+{
+    "study_accession": "SDY659",
+    "actual_completion_date": null,
+    "actual_enrollment": 3,
+    "actual_start_date": "2011-04-01",
+    "age_unit": "Months",
+    "brief_description": "The chronic and systemic administration of rapamycin extends life span in mammals. Rapamycin is a pharmacological inhibitor of mTOR. Metformin also inhibits mTOR signaling but by activating the upstream kinase AMPK. Here we report the effects of chronic and systemic administration of the two mTOR inhibitors, rapamycin and metformin, on adult neural stem cells of the subventricular region and the dendate gyrus of the mouse hippocampus. While rapamycin decreased the number of neural progenitors, metformin-mediated inhibition of mTOR had no such effect. Adult-born neurons are considered important for cognitive and behavioral health, and may contribute to improved health span. Our results demonstrate that distinct approaches of inhibiting mTOR signaling can have significantly different effects on organ function. These results underscore the importance of screening individual mTOR inhibitors on different organs and physiological processes for potential adverse effects that may compromise health span.",
+    "brief_title": "Contrasting effects of chronic, systemic treatment with mTOR inhibitors rapamycin and metformin on adult neural progenitors in mice",
+    "clinical_trial": "N",
+    "condition_studied": "Effects of metformin and rapamycin on neuronal progenitors",
+    "dcl_id": 2,
+    "description": "The chronic and systemic administration of rapamycin extends life span in mammals. Rapamycin is a pharmacological inhibitor of mTOR. Metformin also inhibits mTOR signaling but by activating the upstream kinase AMPK. Here we report the effects of chronic and systemic administration of the two mTOR inhibitors, rapamycin and metformin, on adult neural stem cells of the subventricular region and the dendate gyrus of the mouse hippocampus. While rapamycin decreased the number of neural progenitors, metformin-mediated inhibition of mTOR had no such effect. Adult-born neurons are considered important for cognitive and behavioral health, and may contribute to improved health span. Our results demonstrate that distinct approaches of inhibiting mTOR signaling can have significantly different effects on organ function. These results underscore the importance of screening individual mTOR inhibitors on different organs and physiological processes for potential adverse effects that may compromise health span.\n",
+    "doi": "10.21430/M310W5KAMB",
+    "endpoints": "weight loss, serum concentrations of drugs",
+    "gender_included": "Male",
+    "hypothesis": "Distinct approaches of inhibiting mTOR signaling can have significantly different effects on organ function.",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": null,
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "   3.00",
+    "minimum_age": "   3.00",
+    "objectives": "Determine the effects of metformin and rapamycin treatment on neuronal progenitors.",
+    "official_title": "Contrasting effects of chronic, systemic treatment with mTOR inhibitors rapamycin and metformin on adult neural progenitors in mice",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3365,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2912",
+            "description": "3 months old C57BL/6 mice",
+            "name": "Kusne_Goldberg_AGE_2014_Adult"
+        },
+        {
+            "arm_accession": "ARM2913",
+            "description": "3 months old C57BL/6 mice treatmed with Metformin",
+            "name": "Kusne_Goldberg_AGE_2014_Adult_Met"
+        },
+        {
+            "arm_accession": "ARM2914",
+            "description": "3 months old C57BL/6 mice treated with Rapamycin",
+            "name": "Kusne_Goldberg_AGE_2014_Adult_Rapa"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Janko",
+            "last_name": "Nikolich-Zugich",
+            "organization": "University of Arizona",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Arizona"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Contrasting effects of chronic, systemic treatment with mTOR inhibitors rapamycin and metformin on adult neural progenitors in mice.",
+            "journal": "Age (Dordr).",
+            "month": "Feb",
+            "year": "2014",
+            "doi": "10.1007/s11357-013-9572-5. Epub 2013 Aug 16.",
+            "pubmed_id": "23949159"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Immunological basis of age-related vulnerability in biodefense and emerging infections SP2 UAz"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

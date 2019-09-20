@@ -1,0 +1,79 @@
+{
+    "study_accession": "SDY283",
+    "actual_completion_date": null,
+    "actual_enrollment": 89,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "The study will perform expression microarrays on RNA from purified subsets of neonatal and adult APCs either stimulated or not stimulated with TLR ligands of interest.  Arrays will be performed on cells from neonatal and adult individuals and the arrays for all will be run in parallel on the same day.",
+    "brief_title": "Exploration of molecular mechanism(s) for TLR ligand response differences between adults and neonates",
+    "clinical_trial": "N",
+    "condition_studied": "Cell mediated immune response mechanisms.",
+    "dcl_id": 2,
+    "description": "The study performed expression microarrays on RNA from purified subsets of neonatal and adult APCs, which were stimulated or not stimulated with a TLR ligands of interest. Arrays were performed on cells from neonatal and adult individuals, and the arrays for all will be run in parallel on the same day.  This study used ELISA to assess the abundance and activation induced modifications of relevant TLRs, adaptors and downstream signaling pathway components.",
+    "doi": "10.21430/M30USX09NF",
+    "endpoints": "ELISA",
+    "gender_included": "Not Specified",
+    "hypothesis": "none",
+    "initial_data_release_date": "2014-08-07",
+    "initial_data_release_version": "DR11",
+    "intervention_agent": "Not applicable.",
+    "latest_data_release_date": "2014-08-07",
+    "latest_data_release_version": "DR11",
+    "maximum_age": "80",
+    "minimum_age": "0.003",
+    "objectives": "To explore the molecular mechanism(s) for TLR ligand response differences between adults and neonates and to assess abundance and activation induced modifications of relevant TLRs, adaptors and downstream signaling pathway components.",
+    "official_title": "Exploration of molecular mechanism(s) for TLR ligand response differences between adults and neonates",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 431,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1910",
+            "description": "Neonate human",
+            "name": "Neonate human"
+        },
+        {
+            "arm_accession": "ARM1911",
+            "description": "Adult human",
+            "name": "Adult human"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Christopher",
+            "last_name": "Wilson",
+            "organization": "University of Washington",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Washington"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "TLRs in Innate Immunity and the Induction of Adaptive Immunity in the Neonate and Infant"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 948
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 89
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 89
+            }
+        ]
+    }
+}

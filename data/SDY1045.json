@@ -1,0 +1,92 @@
+{
+    "study_accession": "SDY1045",
+    "actual_completion_date": "2016-12-30",
+    "actual_enrollment": 831,
+    "actual_start_date": "2010-07-01",
+    "age_unit": "Years",
+    "brief_description": "Our goal is to carry out case/control association analyses for Multiple Sclerosis using our high resolution NGS HLA and MALDI-TOF KIR genotyping methods.",
+    "brief_title": "KIR and HLA in MS",
+    "clinical_trial": "N",
+    "condition_studied": "Autoimmune diseases, HLA-associated diseases, KIR-associated diseases, Multiple Sclereosis",
+    "dcl_id": 2,
+    "description": "The association of specific alleles and haplotypes at the HLA class I and class II loci with a variety of autoimmune diseases is well established. Recently, polymorphisms in the Killer Immunoglobulin-like Receptors (KIR) genes that encode the stimulatory and inhibitory receptors on NK cells have been reported to be associated with a few of the same HLA-associated diseases, (e.g. psoriatic arthritis, scleroderma, and T1D). The ligands recognized by many of these receptors are epitopes on HLA class I molecules.  In this study, we examine the role of HLA and KIR alleles, haplotypes, and KIR gene-HLA ligand pairs with a clinically well-defined Multiple Sclerosis cohort and ethnically matched controls using our Roche 454 GS FLX sequencing system for allelic resolution typing of HLA and our high-throughput MALDI-TOF KIR genotyping assay.",
+    "doi": "10.21430/M3QW34U2SG",
+    "endpoints": "1. High-resolution NGS HLA class I and II genotyping. 2. High throughput MALDI-TOF KIR genotyoping. 3. Case-Contol analyses of HLA, KIR and KIR-HLA ligand polymophism.",
+    "gender_included": "Not Specified",
+    "hypothesis": "Polymorphisms at the HLA and KIR loci, and interactions between KIR and their HLA class I ligands are associated with Multiple Sclerosis.",
+    "initial_data_release_date": "2018-01-04",
+    "initial_data_release_version": "DR25",
+    "intervention_agent": "NA",
+    "latest_data_release_date": "2018-01-04",
+    "latest_data_release_version": "DR25",
+    "maximum_age": "  80.00",
+    "minimum_age": "  18.00",
+    "objectives": "Peform high-resolution next-generation sequencing (NGS) genotyping of the classical Human Leukocyte Antigen (HLA) loci (HLA-A, -B -C, -DRB1, -DQA1, -DQB1 and -DPB1), and high-throughput MALDI-TOF genotyping of the Killer-cell Immunoglobulin-like Receptor (KIR) loci.  Perform case/control association analyses for Multiple Sclerosis (MS) using these high resolution HLA an KIR genotyping data using BIGDAWG (Bridging ImmunoGenomic Data-Analysis Workflow Gaps) software at multiple levels of polymorphism (genotype, allele, haplotype, amino-acid) and via stratification. Test previous hypotheses regaring MS associations with HLA and KIR polymorphism, and KIR-HLA ligand combinations. Identify specific HLA allele, haplotype, genotype and amino-acid polymorphisms, KIR polymorphisms and haplotypes, and KIR-HLA ligand combinations that display significant predisposing and protective associations with MS.",
+    "official_title": "The Role of KIR and HLA in Multiple Sclerosis",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 831,
+    "workspace_id": 1079,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3683",
+            "description": "Subjects with Multiple Scleosis",
+            "name": "Multiple Sclerosis"
+        },
+        {
+            "arm_accession": "ARM3684",
+            "description": "Healthy indiviuals no history of chronic diseases",
+            "name": "Healthy Indiviuals"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Elizabeth",
+            "last_name": "Trachtenberg",
+            "organization": "Children's Hospital & Research Center Oakland",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Children's Hospital & Research Center Oakland"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "High resolution HLA analysis reveals independent class I haplotypes and amino-acid motifs protective for multiple sclerosis.",
+            "journal": "Genes Immun.",
+            "month": "Jan",
+            "year": "2018",
+            "doi": "-",
+            "pubmed_id": "29307888"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "HLA Region Genetics in Immune-mediated Diseases I",
+            "contract_name": "The Role of HLA and KIR in Rheumatoid Arthritis and Crohn's Disease"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 1662
+        },
+        {
+            "measurement_technique": "KIR Typing",
+            "number_of_expsamples": 831
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 831
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 831
+            }
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "study_accession": "SDY33",
+    "actual_completion_date": null,
+    "actual_enrollment": 116,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "A prospective longitudinal study to determine biological mechanisms that underlie the immunosuppressed state associated with immunosuppressive regimens after renal transplantation.",
+    "brief_title": "Impact of immunosuppressive regimens on protective immunity in renal transplant recipients",
+    "clinical_trial": "N",
+    "condition_studied": "Assessment of vaccine response in chronically immunosuppressed renal transplant patients.",
+    "dcl_id": 2,
+    "description": "A prospective longitudinal study comparing renal transplant patients with controls to determine the biological mechanisms that underlie the immunosuppressed state associated with immunosuppressive regimens after transplantation.",
+    "doi": "10.21430/M3TJ6DJLEY",
+    "endpoints": "<ol><li>HLA genotyping of enrolled subjects.</li><li>FCM experiment to measure frequency and phenotypic profile of B and T cell subsets in chronically immunosuppressed patients.</li><li>CD107A degranulation assay to assess numbers and function of antigen-specific memory T cells in chronic immunosuppression.</li><li>CFSE proliferation assay to assess numbers and function of antigen-specific memory T cells in chronic immunosuppression.</li><li>ELISPOT assay to assess memory B cell function in renal transplant patients with tacrolimus and sirolimus treatment.</li><li>ELISA serum antibody titers to assess memory B cell function in renal transplant patients with tacrolimus and sirolimus treatment.</li><li>Effects of chronic immunosuppression on dendritic cell function.</li><li>Microarray experiment to define the transcriptional signatures associated with specific immunosuppressive regimens.</li><li>Viral monitoring by PCR.</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Not provided.",
+    "initial_data_release_date": "2013-04-10",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "\r",
+    "latest_data_release_date": "2013-04-10",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  60.00",
+    "minimum_age": "  21.00",
+    "objectives": "<ol><li>To determine the effects of chronic immunosuppressive therapies on adaptive immunity: Effects on the phenotype and functional properties of T cell and B cell subsets and antigen-specific T cells.</li><li>To determine the effects of chronic immunosuppressive therapies on innate immunity, dendritic cell phenotype, function and TLR signaling.</li><li>To define the transcriptional signatures associated with specific immunosuppressive regimens.</li></ol>",
+    "official_title": "Impact of immunosuppressive regimens on protective immunity in renal transplant recipients",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM219",
+            "description": "De novo Renal Transplant Patients, No Induction Therapy, Tacrolimus Maintenance",
+            "name": "De novo transplant, No Induction, Tacrolimus Maintenance"
+        },
+        {
+            "arm_accession": "ARM220",
+            "description": "De novo Renal Transplant Patients, No Induction Therapy, Sirolimus Maintenance",
+            "name": "De novo transplant, No Induction, Sirolimus Maintenance"
+        },
+        {
+            "arm_accession": "ARM221",
+            "description": "De novo Renal Transplant Patients, With Induction Therapy,  Tacrolimus Maintenance",
+            "name": "De novo transplant, With Induction, Tacrolimus Maintenance"
+        },
+        {
+            "arm_accession": "ARM222",
+            "description": "De novo Renal Transplant Patients, With Induction Therapy, Sirolimus Maintenance",
+            "name": "De novo transplant, With Induction, Sirolimus Maintenance"
+        },
+        {
+            "arm_accession": "ARM223",
+            "description": "De novo Renal Transplant Patients, With Induction, Efalizumab Maintenance",
+            "name": "De novo transplant, With Induction, Efalizumab Maintenance"
+        },
+        {
+            "arm_accession": "ARM224",
+            "description": "Healthy donor (surgical) controls ",
+            "name": "Donor (surgical) Controls "
+        },
+        {
+            "arm_accession": "ARM225",
+            "description": "Healthy controls ",
+            "name": "Healthy Controls "
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Christian",
+            "last_name": "Larsen",
+            "organization": "Emory Transplant Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\"Emory Transplant Center, GA\"\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Rapid cloning of high-affinity human monoclonal antibodies against influenza virus.",
+            "journal": "Nature.",
+            "month": "May",
+            "year": "2008",
+            "doi": "10.1038/nature06890. Epub 2008 Apr 30.",
+            "pubmed_id": "18449194"
+        },
+        {
+            "title": "Rapid generation of fully human monoclonal antibodies specific to a vaccinating antigen.",
+            "journal": "Nat Protoc.",
+            "month": "-",
+            "year": "2009",
+            "doi": "10.1038/nprot.2009.3.",
+            "pubmed_id": "19247287"
+        },
+        {
+            "title": "Broadly cross-reactive antibodies dominate the human B cell response against 2009 pandemic H1N1 influenza virus infection.",
+            "journal": "J Exp Med.",
+            "month": "Jan",
+            "year": "2011",
+            "doi": "10.1084/jem.20101352. Epub 2011 Jan 10.",
+            "pubmed_id": "21220454"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "Protective Immunity in Transplant Recipients"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 12
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 2223
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 113
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 129
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 4
+            },
+            {
+                "race": "Black or African American",
+                "count": 41
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 70
+            }
+        ],
+        "gender": [
+            {
+                "Female": 48
+            },
+            {
+                "Male": 68
+            }
+        ]
+    }
+}

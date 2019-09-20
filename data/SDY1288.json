@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY1288",
+    "actual_completion_date": "2017-12-29",
+    "actual_enrollment": 43,
+    "actual_start_date": "2014-11-03",
+    "age_unit": "Years",
+    "brief_description": "Immunoprofiling of acute and convalescent blood samples from CHIKV infected children",
+    "brief_title": "Chikungunya virus infection immunoprofiling in pediatric cohort",
+    "clinical_trial": "N",
+    "condition_studied": "CHIKV infection in children",
+    "dcl_id": 2,
+    "description": "Serum/plasma, PAXgene and PBMC were collected from CHIKV-infected patients at acute (day 1-2 post symptom onset) and convalescent (day 15-17 post symptom onset) time points. RNA-seq (PAXgene samples), Luminex (serum/plasma samples) and CyTOF (PBMCs) was used to analyse the immune profile of CHIKV infection in a pediatric cohort from Nicaragua",
+    "doi": "10.21430/M3K4G9JI49",
+    "endpoints": "Compare the immune profile of acute versus convalescent samples",
+    "gender_included": "Female, Male",
+    "hypothesis": "Acute CHIKV infection leads to the activation and upregulation of several biomarkers that are important for the innate immune response",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": "n/a",
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "  14.00",
+    "minimum_age": "   1.00",
+    "objectives": "Identify biomarkers of acute CHIKV infection and correlate these with severity of disease",
+    "official_title": "Comprehensive innate immune profiling of chikungunya virus infection in pediatric cases",
+    "sponsoring_organization": "NIH",
+    "target_enrollment": 42,
+    "workspace_id": 4875,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4453",
+            "description": "CHIKV symptoms confirmed by Q-RT PCR",
+            "name": "CHIKV patient"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Eva",
+            "last_name": "Harris",
+            "organization": "University of California, Berkeley",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of California, Berkeley"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Comprehensive innate immune profiling of chikungunya virus infection in pediatric cases.",
+            "journal": "Mol Syst Biol.",
+            "month": "Aug",
+            "year": "2018",
+            "doi": "10.15252/msb.20177862.",
+            "pubmed_id": "30150281"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+            "contract_name": "Dengue Human Immunology Project Consortium (DHIPC MSSM)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 84
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 90
+        },
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 172
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 43
+            }
+        ],
+        "gender": [
+            {
+                "Female": 11
+            },
+            {
+                "Male": 32
+            }
+        ]
+    }
+}

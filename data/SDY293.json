@@ -1,0 +1,101 @@
+{
+    "study_accession": "SDY293",
+    "actual_completion_date": null,
+    "actual_enrollment": 369,
+    "actual_start_date": "2007-10-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to determine the mortality, the early postoperative morbidity, and the occurrence of end stage lung disease for participants who underwent donor lobectomy between 1993 and 2006. Participants in this study have had donor lobectomy at the University of Southern California in Los Angeles or the Washington University Medical Center and Barnes-Jewish Hospital in St. Louis.",
+    "brief_title": "Live Lung Donor Retrospective Study (RELIVE-02)",
+    "clinical_trial": "Y",
+    "condition_studied": "Lung Transplantation",
+    "dcl_id": 2,
+    "description": "The purpose of this study is to determine the mortality, the early postoperative morbidity, and the occurrence of end stage lung disease for participants who underwent donor lobectomy between 1993 and 2006. Participants in this study have had donor lobectomy at the University of Southern California in Los Angeles or the Washington University Medical Center and Barnes-Jewish Hospital in St. Louis. ",
+    "doi": "10.21430/M3495BHP30",
+    "endpoints": "The primary endpoint of this study is overall mortality. The secondary endpoints of this study are:<ol><li>Perioperative morbid events / complications</li><li>Cause of death</li><li>Lung transplantation</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Overall mortality rates and incidence of end stage lung disease of subjects who underwent living donor lobectomy are similar to comparable rates in the general US population.",
+    "initial_data_release_date": "2016-06-17",
+    "initial_data_release_version": "DR19",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-01-31",
+    "latest_data_release_version": "DR20",
+    "maximum_age": "  58.00",
+    "minimum_age": "  18.00",
+    "objectives": "The primary objective of this study is to ascertain the survival status (mortality) for live lung donors who had donor lobectomy at the University of Southern California in Los Angeles (USC) and the Washington University Medical Center and Barnes-Jewish Hospital in St. Louis (WASHU). The secondary objectives of this study are:<ol><li>To determine patient characteristics at the time of donor evaluation and donor lobectomy for live lung donors who had donor lobectomy at USC and WASHU.</li><li>To ascertain the types and rates of morbidity following live lung donation for live lung donors who had donor lobectomy at USC and WASHU.</li><li>To ascertain cause of death for live lung donors who had donor lobectomy at USC and WASHU.</li><li>To determine the proportion of patients that developed end-stage lung disease and underwent lung transplantation for live lung donors who had donor lobectomy at USC and WASHU.</li></ol>",
+    "official_title": "Live Lung Donor Retrospective Study (RELIVE-02)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3546,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2099",
+            "description": "Participants had a living donor lobectomy at one of the two participating study centers, the University of Southern California and the Washington University Medical Center between 1993 and 2006.",
+            "name": "Live Lung Donors"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Akinlolu",
+            "last_name": "Ojo",
+            "organization": "University of Michigan",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Michigan"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Morbidity and mortality of live lung donation: results from the RELIVE study.",
+            "journal": "Am J Transplant.",
+            "month": "Aug",
+            "year": "2014",
+            "doi": "-",
+            "pubmed_id": "25039865"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "RELIVE ",
+            "contract_name": "CLINICAL OUTCOMES OF LIVE ORGAN DONORS - DATA COORDINATING CENTER "
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 6
+            },
+            {
+                "race": "Black or African American",
+                "count": 7
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 7
+            },
+            {
+                "race": "White",
+                "count": 347
+            }
+        ],
+        "gender": [
+            {
+                "Female": 137
+            },
+            {
+                "Male": 232
+            }
+        ]
+    }
+}

@@ -1,0 +1,1761 @@
+Study_accession	Field	DOID	Name	Match	Match Type
+SDY1264	brief_title	9682	yellow fever	YELLOW FEVER	PREF
+SDY1264	condition_studied	9682	yellow fever	YELLOW FEVER	PREF
+SDY1264	description	9682	yellow fever	YELLOW FEVER	PREF
+SDY404	brief_title	8469	influenza	INFLUENZA	PREF
+SDY404	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY404	endpoints	8469	influenza	FLU	SYN
+SDY404	endpoints	8469	influenza	FLU	SYN
+SDY404	description	8469	influenza	INFLUENZA	PREF
+SDY475	description	1969	cerebral palsy	CEREBRAL PALSY	PREF
+SDY1205	description	0111144	preterm premature rupture of the membranes	PPROM	SYN
+SDY290	endpoints	10763	hypertension	HYPERTENSION	PREF
+SDY290	endpoints	576	proteinuria	PROTEINURIA	PREF
+SDY290	endpoints	4	disease	DISEASE	PREF
+SDY290	endpoints	2355	anemia	ANEMIA	PREF
+SDY290	endpoints	5844	myocardial infarction	MYOCARDIAL INFARCTION	PREF
+SDY290	endpoints	6713	cerebrovascular disease	STROKE	SYN
+SDY290	hypothesis	10763	hypertension	HYPERTENSION	PREF
+SDY290	hypothesis	576	proteinuria	PROTEINURIA	PREF
+SDY290	hypothesis	576	proteinuria	PROTEINURIA	PREF
+SDY290	hypothesis	1074	kidney failure	RENAL FAILURE	SYN
+SDY290	hypothesis	2355	anemia	ANEMIA	PREF
+SDY290	hypothesis	783	end stage renal failure	END STAGE RENAL DISEASE	SYN
+SDY290	hypothesis	4	disease	DISEASE	PREF
+SDY290	hypothesis	5844	myocardial infarction	MYOCARDIAL INFARCTION	PREF
+SDY290	hypothesis	6713	cerebrovascular disease	STROKE	SYN
+SDY290	description	10763	hypertension	HYPERTENSION	PREF
+SDY290	description	576	proteinuria	PROTEINURIA	PREF
+SDY290	description	1074	kidney failure	RENAL FAILURE	SYN
+SDY290	description	2355	anemia	ANEMIA	PREF
+SDY290	description	5844	myocardial infarction	MYOCARDIAL INFARCTION	PREF
+SDY290	description	6000	congestive heart failure	CONGESTIVE HEART FAILURE	PREF
+SDY290	description	6000	congestive heart failure	CHF	SYN
+SDY601	condition_studied	3686	obsolete Helicobacter pylori infectious disease	HELICOBACTER PYLORI INFECTION	SYN
+SDY406	brief_title	8469	influenza	INFLUENZA	PREF
+SDY406	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY406	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY406	description	8469	influenza	INFLUENZA	PREF
+SDY1099	brief_title	4	disease	DISEASE	PREF
+SDY1099	condition_studied	9119	acute myeloid leukemia	ACUTE MYELOID LEUKEMIA	PREF
+SDY1099	condition_studied	8692	myeloid leukemia	MYELOID LEUKEMIA	PREF
+SDY1099	condition_studied	1240	leukemia	LEUKEMIA	PREF
+SDY1099	description	9119	acute myeloid leukemia	ACUTE MYELOID LEUKEMIA	PREF
+SDY1099	description	8692	myeloid leukemia	MYELOID LEUKEMIA	PREF
+SDY1099	description	1240	leukemia	LEUKEMIA	PREF
+SDY1099	description	2226	myeloproliferative neoplasm	MYELOPROLIFERATIVE NEOPLASM	PREF
+SDY1099	description	14566	disease of cellular proliferation	NEOPLASM	SYN
+SDY289	endpoints	783	end stage renal failure	END STAGE RENAL DISEASE	SYN
+SDY289	endpoints	4	disease	DISEASE	PREF
+SDY289	hypothesis	783	end stage renal failure	END STAGE RENAL DISEASE	SYN
+SDY289	hypothesis	4	disease	DISEASE	PREF
+SDY289	description	1074	kidney failure	RENAL FAILURE	SYN
+SDY471	condition_studied	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY471	endpoints	4	disease	DISEASE	PREF
+SDY471	description	4	disease	DISEASE	PREF
+SDY471	description	4	disease	DISEASE	PREF
+SDY471	description	4	disease	DISEASE	PREF
+SDY400	brief_title	8469	influenza	INFLUENZA	PREF
+SDY400	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY400	endpoints	8469	influenza	FLU	SYN
+SDY400	endpoints	8469	influenza	FLU	SYN
+SDY400	description	8469	influenza	INFLUENZA	PREF
+SDY625	condition_studied	9074	systemic lupus erythematosus	SYSTEMIC LUPUS ERYTHEMATOSUS	PREF
+SDY625	condition_studied	8857	lupus erythematosus	LUPUS ERYTHEMATOSUS	PREF
+SDY625	condition_studied	8857	lupus erythematosus	LUPUS	SYN
+SDY625	endpoints	8857	lupus erythematosus	LUPUS	SYN
+SDY625	endpoints	8857	lupus erythematosus	LUPUS ERYTHEMATOSUS	PREF
+SDY625	endpoints	8857	lupus erythematosus	LUPUS	SYN
+SDY625	endpoints	8857	lupus erythematosus	LUPUS	SYN
+SDY625	endpoints	8857	lupus erythematosus	LUPUS ERYTHEMATOSUS	PREF
+SDY625	endpoints	8857	lupus erythematosus	LUPUS	SYN
+SDY625	endpoints	4	disease	DISEASE	PREF
+SDY625	endpoints	4	disease	DISEASE	PREF
+SDY625	endpoints	9074	systemic lupus erythematosus	SYSTEMIC LUPUS ERYTHEMATOSUS	PREF
+SDY625	endpoints	9074	systemic lupus erythematosus	SYSTEMIC LUPUS ERYTHEMATOSUS	PREF
+SDY625	hypothesis	9074	systemic lupus erythematosus	SYSTEMIC LUPUS ERYTHEMATOSUS	PREF
+SDY625	hypothesis	9074	systemic lupus erythematosus	SYSTEMIC LUPUS ERYTHEMATOSUS	PREF
+SDY625	hypothesis	8857	lupus erythematosus	LUPUS ERYTHEMATOSUS	PREF
+SDY625	hypothesis	8857	lupus erythematosus	LUPUS	SYN
+SDY625	hypothesis	8857	lupus erythematosus	LUPUS ERYTHEMATOSUS	PREF
+SDY625	hypothesis	8857	lupus erythematosus	LUPUS	SYN
+SDY625	hypothesis	4	disease	DISEASE	PREF
+SDY625	description	8567	Hodgkin's lymphoma	HODGKIN'S LYMPHOMA	PREF
+SDY625	description	0060058	lymphoma	LYMPHOMA	PREF
+SDY625	description	0060058	lymphoma	LYMPHOMA	PREF
+SDY789	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY789	endpoints	8469	influenza	INFLUENZA	PREF
+SDY789	endpoints	8469	influenza	INFLUENZA	PREF
+SDY789	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY789	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY789	description	8469	influenza	INFLUENZA	PREF
+SDY789	description	8469	influenza	INFLUENZA	PREF
+SDY680	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY680	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY680	description	8469	influenza	INFLUENZA	PREF
+SDY673	hypothesis	0050117	disease by infectious agent	INFECTIOUS DISEASE	SYN
+SDY673	hypothesis	4	disease	DISEASE	PREF
+SDY1371	brief_title	8469	influenza	INFLUENZA	PREF
+SDY1371	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY1371	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY1371	description	8469	influenza	INFLUENZA	PREF
+SDY1371	description	8469	influenza	INFLUENZA	PREF
+SDY1371	description	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY131	endpoints	10763	hypertension	HYPERTENSION	PREF
+SDY839	brief_title	8622	measles	MEASLES	PREF
+SDY839	condition_studied	8622	measles	MEASLES	PREF
+SDY1387	brief_title	2841	asthma	ASTHMA	PREF
+SDY1387	condition_studied	2841	asthma	ASTHMA	PREF
+SDY1387	hypothesis	2841	asthma	ASTHMA	PREF
+SDY1387	hypothesis	2841	asthma	ASTHMA	PREF
+SDY1387	hypothesis	2841	asthma	ASTHMA	PREF
+SDY1387	description	2841	asthma	ASTHMA	PREF
+SDY1387	description	2841	asthma	ASTHMA	PREF
+SDY1387	description	2841	asthma	ASTHMA	PREF
+SDY1387	description	2841	asthma	ASTHMA	PREF
+SDY291	endpoints	4	disease	DISEASE	PREF
+SDY291	endpoints	4	disease	DISEASE	PREF
+SDY291	hypothesis	10763	hypertension	HYPERTENSION	PREF
+SDY291	hypothesis	576	proteinuria	PROTEINURIA	PREF
+SDY1079	brief_title	1324	lung cancer	LUNG CANCER	PREF
+SDY1079	brief_title	162	cancer	CANCER	PREF
+SDY1079	condition_studied	1324	lung cancer	LUNG CANCER	PREF
+SDY1079	condition_studied	162	cancer	CANCER	PREF
+SDY1079	hypothesis	162	cancer	CANCER	PREF
+SDY1079	description	1324	lung cancer	LUNG CANCER	PREF
+SDY1079	description	1324	lung cancer	LUNG CANCER	PREF
+SDY1079	description	162	cancer	CANCER	PREF
+SDY1079	description	162	cancer	CANCER	PREF
+SDY1079	description	162	cancer	CANCER	PREF
+SDY1079	description	3910	lung adenocarcinoma	LUNG ADENOCARCINOMA	PREF
+SDY1079	description	299	adenocarcinoma	ADENOCARCINOMA	PREF
+SDY230	brief_title	3686	obsolete Helicobacter pylori infectious disease	HELICOBACTER PYLORI INFECTION	SYN
+SDY230	description	3686	obsolete Helicobacter pylori infectious disease	HELICOBACTER PYLORI INFECTION	SYN
+SDY230	description	4029	gastritis	GASTRITIS	PREF
+SDY230	description	4	disease	DISEASE	PREF
+SDY230	description	4	disease	DISEASE	PREF
+SDY299	brief_title	2043	hepatitis B	HEPATITIS B	PREF
+SDY299	brief_title	2237	hepatitis	HEPATITIS	PREF
+SDY299	hypothesis	4	disease	DISEASE	PREF
+SDY299	hypothesis	783	end stage renal failure	END STAGE RENAL FAILURE	PREF
+SDY299	hypothesis	1074	kidney failure	RENAL FAILURE	SYN
+SDY823	brief_title	12894	Sjogren's syndrome	SJOGREN'S SYNDROME	PREF
+SDY823	brief_title	225	syndrome	SYNDROME	PREF
+SDY823	condition_studied	12894	Sjogren's syndrome	SJOGREN'S SYNDROME	PREF
+SDY823	condition_studied	225	syndrome	SYNDROME	PREF
+SDY823	endpoints	4	disease	DISEASE	PREF
+SDY823	description	12894	Sjogren's syndrome	SJOGREN'S SYNDROME	PREF
+SDY823	description	12894	Sjogren's syndrome	SJOGREN'S SYNDROME	PREF
+SDY823	description	12894	Sjogren's syndrome	SJOGREN'S SYNDROME	PREF
+SDY823	description	225	syndrome	SYNDROME	PREF
+SDY823	description	225	syndrome	SYNDROME	PREF
+SDY823	description	225	syndrome	SYNDROME	PREF
+SDY961	brief_title	12894	Sjogren's syndrome	SJOGREN'S SYNDROME	PREF
+SDY961	brief_title	225	syndrome	SYNDROME	PREF
+SDY961	condition_studied	12894	Sjogren's syndrome	SJOGREN'S SYNDROME	PREF
+SDY961	condition_studied	225	syndrome	SYNDROME	PREF
+SDY961	endpoints	1205	allergic hypersensitivity disease	HYPERSENSITIVITY	SYN
+SDY961	hypothesis	12894	Sjogren's syndrome	SJOGREN'S SYNDROME	PREF
+SDY961	hypothesis	225	syndrome	SYNDROME	PREF
+SDY961	description	12894	Sjogren's syndrome	SJOGREN'S SYNDROME	PREF
+SDY961	description	225	syndrome	SYNDROME	PREF
+SDY465	description	1969	cerebral palsy	CEREBRAL PALSY	PREF
+SDY241	brief_title	8469	influenza	INFLUENZA	PREF
+SDY241	brief_title	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY241	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY241	hypothesis	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY241	description	8469	influenza	INFLUENZA	PREF
+SDY241	description	8469	influenza	INFLUENZA	PREF
+SDY661	brief_title	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY661	condition_studied	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY661	description	2378	relapsing-remitting multiple sclerosis	RELAPSING-REMITTING MULTIPLE SCLEROSIS	PREF
+SDY661	description	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY773	brief_title	8469	influenza	INFLUENZA	PREF
+SDY773	hypothesis	2938	obsolete Epstein-Barr virus infectious disease	EBV INFECTION	SYN
+SDY1324	brief_title	399	tuberculosis	TUBERCULOSIS	PREF
+SDY1324	condition_studied	399	tuberculosis	TUBERCULOSIS	PREF
+SDY1324	description	399	tuberculosis	TUBERCULOSIS	PREF
+SDY355	brief_title	4	disease	DISEASE	PREF
+SDY355	condition_studied	4	disease	DISEASE	PREF
+SDY355	hypothesis	4	disease	DISEASE	PREF
+SDY355	description	4	disease	DISEASE	PREF
+SDY660	condition_studied	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	condition_studied	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	endpoints	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	endpoints	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	endpoints	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	endpoints	2841	asthma	ASTHMA	PREF
+SDY660	endpoints	2841	asthma	ASTHMA	PREF
+SDY660	endpoints	3044	food allergy	FOOD ALLERGY	PREF
+SDY660	endpoints	6195	conjunctivitis	CONJUNCTIVITIS	PREF
+SDY660	hypothesis	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	hypothesis	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	2723	dermatitis	ECZEMA	SYN
+SDY660	description	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	description	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	description	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	description	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	description	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	description	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	description	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	description	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	description	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	description	4378	peanut allergy	PEANUT ALLERGY	PREF
+SDY660	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY660	description	12017	obsolete group B streptococcal pneumonia	GROUP B	SYN
+SDY113	brief_title	8469	influenza	INFLUENZA	PREF
+SDY113	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY113	description	8469	influenza	INFLUENZA	PREF
+SDY739	brief_title	8469	influenza	INFLUENZA	PREF
+SDY739	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY739	endpoints	8469	influenza	INFLUENZA	PREF
+SDY739	description	8469	influenza	INFLUENZA	PREF
+SDY224	brief_title	8469	influenza	INFLUENZA	PREF
+SDY224	description	8469	influenza	INFLUENZA	PREF
+SDY224	description	8469	influenza	INFLUENZA	PREF
+SDY210	brief_title	2841	asthma	ASTHMA	PREF
+SDY210	brief_title	2841	asthma	ASTHMA	PREF
+SDY210	condition_studied	2841	asthma	ASTHMA	PREF
+SDY210	endpoints	2841	asthma	ASTHMA	PREF
+SDY210	endpoints	2841	asthma	ASTHMA	PREF
+SDY210	hypothesis	2841	asthma	ASTHMA	PREF
+SDY210	description	2841	asthma	ASTHMA	PREF
+SDY210	description	2841	asthma	ASTHMA	PREF
+SDY210	description	2841	asthma	ASTHMA	PREF
+SDY210	description	2841	asthma	ASTHMA	PREF
+SDY210	description	2841	asthma	ASTHMA	PREF
+SDY210	description	2841	asthma	ASTHMA	PREF
+SDY210	description	2841	asthma	ASTHMA	PREF
+SDY210	description	2841	asthma	ASTHMA	PREF
+SDY210	description	2841	asthma	ASTHMA	PREF
+SDY89	brief_title	2043	hepatitis B	HEPATITIS B	PREF
+SDY89	brief_title	2237	hepatitis	HEPATITIS	PREF
+SDY89	hypothesis	4	disease	DISEASE	PREF
+SDY89	hypothesis	783	end stage renal failure	END STAGE RENAL FAILURE	PREF
+SDY89	hypothesis	1074	kidney failure	RENAL FAILURE	SYN
+SDY314	brief_title	8469	influenza	INFLUENZA	PREF
+SDY314	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY314	description	8469	influenza	FLU	SYN
+SDY162	brief_title	1883	hepatitis C	HEPATITIS C	PREF
+SDY162	brief_title	2237	hepatitis	HEPATITIS	PREF
+SDY162	brief_title	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY162	condition_studied	1883	hepatitis C	HEPATITIS C	PREF
+SDY162	condition_studied	2237	hepatitis	HEPATITIS	PREF
+SDY162	condition_studied	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY1086	brief_title	8469	influenza	INFLUENZA	PREF
+SDY1086	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY1086	description	12017	obsolete group B streptococcal pneumonia	GROUP B	SYN
+SDY1086	description	8469	influenza	INFLUENZA	PREF
+SDY305	brief_title	8469	influenza	INFLUENZA	PREF
+SDY305	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY305	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY305	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY305	description	8469	influenza	INFLUENZA	PREF
+SDY40	hypothesis	4	disease	DISEASE	PREF
+SDY1368	brief_title	8659	chickenpox	VARICELLA	SYN
+SDY1368	condition_studied	8659	chickenpox	VARICELLA	SYN
+SDY1368	hypothesis	8659	chickenpox	VARICELLA	SYN
+SDY1368	description	8659	chickenpox	VARICELLA	SYN
+SDY939	brief_title	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY939	brief_title	848	arthritis	ARTHRITIS	PREF
+SDY939	condition_studied	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY939	condition_studied	848	arthritis	ARTHRITIS	PREF
+SDY939	hypothesis	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY939	hypothesis	848	arthritis	ARTHRITIS	PREF
+SDY1064	brief_title	3910	lung adenocarcinoma	LUNG ADENOCARCINOMA	PREF
+SDY1064	brief_title	299	adenocarcinoma	ADENOCARCINOMA	PREF
+SDY1064	condition_studied	3910	lung adenocarcinoma	LUNG ADENOCARCINOMA	PREF
+SDY1064	condition_studied	299	adenocarcinoma	ADENOCARCINOMA	PREF
+SDY1064	endpoints	3910	lung adenocarcinoma	LUNG ADENOCARCINOMA	PREF
+SDY1064	endpoints	3910	lung adenocarcinoma	LUNG ADENOCARCINOMA	PREF
+SDY1064	endpoints	299	adenocarcinoma	ADENOCARCINOMA	PREF
+SDY1064	endpoints	299	adenocarcinoma	ADENOCARCINOMA	PREF
+SDY1064	hypothesis	3910	lung adenocarcinoma	LUNG ADENOCARCINOMA	PREF
+SDY1064	hypothesis	299	adenocarcinoma	ADENOCARCINOMA	PREF
+SDY1064	hypothesis	162	cancer	CANCER	PREF
+SDY1064	description	162	cancer	CANCER	PREF
+SDY1064	description	162	cancer	CANCER	PREF
+SDY1064	description	162	cancer	CANCER	PREF
+SDY1064	description	162	cancer	CANCER	PREF
+SDY1064	description	3910	lung adenocarcinoma	LUNG ADENOCARCINOMA	PREF
+SDY1064	description	299	adenocarcinoma	ADENOCARCINOMA	PREF
+SDY1364	brief_title	399	tuberculosis	TUBERCULOSIS	PREF
+SDY1364	condition_studied	399	tuberculosis	TUBERCULOSIS	PREF
+SDY1364	description	4	disease	DISEASE	PREF
+SDY1364	description	3298	vaccinia	VACCINIA	PREF
+SDY1364	description	399	tuberculosis	TUBERCULOSIS	PREF
+SDY7	brief_title	3298	vaccinia	VACCINIA	PREF
+SDY7	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY7	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY7	condition_studied	2723	dermatitis	ECZEMA	SYN
+SDY7	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY7	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY7	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY7	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY7	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY7	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY7	endpoints	11405	diphtheria	DIPHTHERIA	PREF
+SDY7	endpoints	11338	tetanus	TETANUS	PREF
+SDY7	endpoints	1116	pertussis	PERTUSSIS	PREF
+SDY7	endpoints	8622	measles	MEASLES	PREF
+SDY7	endpoints	10264	mumps	MUMPS	PREF
+SDY7	endpoints	8781	rubella	RUBELLA	PREF
+SDY7	endpoints	8659	chickenpox	VARICELLA	SYN
+SDY7	hypothesis	8736	smallpox	SMALLPOX	PREF
+SDY7	hypothesis	8736	smallpox	SMALLPOX	PREF
+SDY7	description	2723	dermatitis	ECZEMA	SYN
+SDY614	brief_title	8736	smallpox	SMALLPOX	PREF
+SDY614	condition_studied	3298	vaccinia	VACCINIA	PREF
+SDY614	condition_studied	8736	smallpox	SMALLPOX	PREF
+SDY614	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY614	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY614	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY614	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY614	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY614	hypothesis	8736	smallpox	SMALLPOX	PREF
+SDY614	description	8736	smallpox	SMALLPOX	PREF
+SDY261	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY261	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY261	hypothesis	4	disease	DISEASE	PREF
+SDY261	description	8469	influenza	INFLUENZA	PREF
+SDY261	description	8469	influenza	INFLUENZA	PREF
+SDY997	brief_title	8857	lupus erythematosus	LUPUS	SYN
+SDY997	brief_title	8857	lupus erythematosus	LUPUS	SYN
+SDY997	brief_title	0080162	lupus nephritis	LUPUS NEPHRITIS	PREF
+SDY997	brief_title	10952	nephritis	NEPHRITIS	PREF
+SDY997	condition_studied	0080162	lupus nephritis	LUPUS NEPHRITIS	PREF
+SDY997	condition_studied	8857	lupus erythematosus	LUPUS	SYN
+SDY997	condition_studied	10952	nephritis	NEPHRITIS	PREF
+SDY997	hypothesis	8857	lupus erythematosus	LUPUS	SYN
+SDY997	description	0080162	lupus nephritis	LUPUS NEPHRITIS	PREF
+SDY997	description	0080162	lupus nephritis	LUPUS NEPHRITIS	PREF
+SDY997	description	0080162	lupus nephritis	LUPUS NEPHRITIS	PREF
+SDY997	description	8857	lupus erythematosus	LUPUS	SYN
+SDY997	description	8857	lupus erythematosus	LUPUS	SYN
+SDY997	description	8857	lupus erythematosus	LUPUS	SYN
+SDY997	description	10952	nephritis	NEPHRITIS	PREF
+SDY997	description	10952	nephritis	NEPHRITIS	PREF
+SDY997	description	10952	nephritis	NEPHRITIS	PREF
+SDY18	brief_title	8736	smallpox	SMALLPOX	PREF
+SDY18	condition_studied	8736	smallpox	SMALLPOX	PREF
+SDY18	hypothesis	8736	smallpox	SMALLPOX	PREF
+SDY18	description	8736	smallpox	SMALLPOX	PREF
+SDY18	description	8736	smallpox	SMALLPOX	PREF
+SDY18	description	3298	vaccinia	VACCINIA	PREF
+SDY112	brief_title	8469	influenza	INFLUENZA	PREF
+SDY112	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY112	hypothesis	8469	influenza	FLU	SYN
+SDY112	description	8469	influenza	FLU	SYN
+SDY63	brief_title	8469	influenza	INFLUENZA	PREF
+SDY63	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY63	endpoints	8469	influenza	FLU	SYN
+SDY63	endpoints	8469	influenza	FLU	SYN
+SDY63	description	8469	influenza	INFLUENZA	PREF
+SDY1426	brief_title	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY1426	endpoints	0060578	Noonan syndrome 1	NS1	SYN
+SDY1426	description	4	disease	DISEASE	PREF
+SDY368	brief_title	8469	influenza	INFLUENZA	PREF
+SDY368	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY751	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY10	brief_title	3298	vaccinia	VACCINIA	PREF
+SDY10	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY10	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	endpoints	3298	vaccinia	VACCINIA	PREF
+SDY10	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY10	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY10	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY10	hypothesis	8736	smallpox	SMALLPOX	PREF
+SDY10	description	37	skin disease	SKIN DISEASE	PREF
+SDY10	description	4	disease	DISEASE	PREF
+SDY10	description	8893	psoriasis	PSORIASIS	PREF
+SDY10	description	2841	asthma	ASTHMA	PREF
+SDY62	description	8469	influenza	INFLUENZA	PREF
+SDY62	description	8469	influenza	INFLUENZA	PREF
+SDY620	brief_title	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY620	brief_title	2723	dermatitis	DERMATITIS	PREF
+SDY620	brief_title	8469	influenza	INFLUENZA	PREF
+SDY620	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY620	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY620	endpoints	8469	influenza	INFLUENZA	PREF
+SDY620	hypothesis	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY620	hypothesis	2723	dermatitis	DERMATITIS	PREF
+SDY620	description	8469	influenza	INFLUENZA	PREF
+SDY620	description	8469	influenza	INFLUENZA	PREF
+SDY478	brief_title	8469	influenza	INFLUENZA	PREF
+SDY478	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY478	description	8469	influenza	FLU	SYN
+SDY56	brief_title	8469	influenza	INFLUENZA	PREF
+SDY56	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY56	description	8469	influenza	INFLUENZA	PREF
+SDY56	description	635	acquired immunodeficiency syndrome	AIDS	SYN
+SDY1409	condition_studied	12365	malaria	MALARIA	PREF
+SDY1409	hypothesis	12365	malaria	MALARIA	PREF
+SDY1409	description	12365	malaria	MALARIA	PREF
+SDY1409	description	12365	malaria	MALARIA	PREF
+SDY1409	description	12365	malaria	MALARIA	PREF
+SDY1409	description	4	disease	DISEASE	PREF
+SDY1409	description	4	disease	DISEASE	PREF
+SDY1409	description	4	disease	DISEASE	PREF
+SDY311	brief_title	8469	influenza	INFLUENZA	PREF
+SDY311	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY311	description	8469	influenza	FLU	SYN
+SDY618	brief_title	8469	influenza	INFLUENZA	PREF
+SDY618	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY618	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY618	endpoints	8469	influenza	INFLUENZA	PREF
+SDY618	hypothesis	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY618	hypothesis	2723	dermatitis	DERMATITIS	PREF
+SDY20	brief_title	4	disease	DISEASE	PREF
+SDY20	hypothesis	9588	encephalitis	ENCEPHALITIS	PREF
+SDY20	hypothesis	9471	meningitis	MENINGITIS	PREF
+SDY20	hypothesis	4	disease	DISEASE	PREF
+SDY20	description	10554	meningoencephalitis	MENINGOENCEPHALITIS	PREF
+SDY20	description	10554	meningoencephalitis	MENINGOENCEPHALITIS	PREF
+SDY20	description	2366	West Nile fever	WEST NILE FEVER	PREF
+SDY1249	hypothesis	162	cancer	CANCER	PREF
+SDY1249	description	8712	neurofibromatosis	NEUROFIBROMATOSIS TYPE 1	SYN
+SDY1249	description	8712	neurofibromatosis	NEUROFIBROMATOSIS	PREF
+SDY1249	description	3069	astrocytoma	ASTROCYTOMA	PREF
+SDY200	brief_title	8469	influenza	INFLUENZA	PREF
+SDY200	brief_title	8857	lupus erythematosus	LUPUS	SYN
+SDY200	condition_studied	8857	lupus erythematosus	LUPUS	SYN
+SDY200	endpoints	8469	influenza	INFLUENZA	PREF
+SDY200	description	8469	influenza	INFLUENZA	PREF
+SDY200	description	8469	influenza	INFLUENZA	PREF
+SDY200	description	8469	influenza	INFLUENZA	PREF
+SDY200	description	8469	influenza	INFLUENZA	PREF
+SDY200	description	8469	influenza	INFLUENZA	PREF
+SDY200	description	8469	influenza	INFLUENZA	PREF
+SDY200	description	8469	influenza	INFLUENZA	PREF
+SDY200	description	8469	influenza	INFLUENZA	PREF
+SDY200	description	8469	influenza	INFLUENZA	PREF
+SDY200	description	4	disease	DISEASE	PREF
+SDY200	description	4	disease	DISEASE	PREF
+SDY200	description	8857	lupus erythematosus	LUPUS	SYN
+SDY200	description	8857	lupus erythematosus	LUPUS	SYN
+SDY200	description	8857	lupus erythematosus	LUPUS	SYN
+SDY200	description	8857	lupus erythematosus	LUPUS	SYN
+SDY200	description	8857	lupus erythematosus	LUPUS	SYN
+SDY39	brief_title	8469	influenza	INFLUENZA	PREF
+SDY39	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY39	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY1108	brief_title	162	cancer	CANCER	PREF
+SDY1108	condition_studied	162	cancer	CANCER	PREF
+SDY1108	endpoints	1909	melanoma	MELANOMA	PREF
+SDY1108	endpoints	1909	melanoma	MELANOMA	PREF
+SDY1108	endpoints	4358	obsolete metastatic melanoma	METASTATIC MELANOMA	PREF
+SDY1108	hypothesis	162	cancer	CANCER	PREF
+SDY1108	description	1612	breast cancer	BREAST CANCER	PREF
+SDY1108	description	162	cancer	CANCER	PREF
+SDY3	description	2723	dermatitis	SKIN INFLAMMATION	SYN
+SDY3	description	8736	smallpox	SMALLPOX	PREF
+SDY3	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY568	condition_studied	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY547	brief_title	225	syndrome	SYNDROME	PREF
+SDY547	brief_title	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY547	condition_studied	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY547	description	14200	obsolete diplopia	DOUBLE VISION	SYN
+SDY547	description	0111084	Fanconi anemia complementation group E	FACE	SYN
+SDY547	description	4	disease	DISEASE	PREF
+SDY1464	brief_title	8469	influenza	INFLUENZA	PREF
+SDY1464	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY1464	hypothesis	8469	influenza	FLU	SYN
+SDY1464	description	8469	influenza	FLU	SYN
+SDY352	description	4	disease	DISEASE	PREF
+SDY358	condition_studied	4	disease	DISEASE	PREF
+SDY358	endpoints	557	kidney disease	NEPHROPATHY	SYN
+SDY1370	brief_title	8736	smallpox	SMALLPOX	PREF
+SDY1370	brief_title	3298	vaccinia	VACCINIA	PREF
+SDY1370	hypothesis	8736	smallpox	SMALLPOX	PREF
+SDY1370	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY1370	description	8736	smallpox	SMALLPOX	PREF
+SDY1370	description	3298	vaccinia	VACCINIA	PREF
+SDY689	hypothesis	557	kidney disease	NEPHROPATHY	SYN
+SDY67	brief_title	8469	influenza	INFLUENZA	PREF
+SDY67	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY41	brief_title	8469	influenza	INFLUENZA	PREF
+SDY41	endpoints	8469	influenza	INFLUENZA	PREF
+SDY41	endpoints	8469	influenza	INFLUENZA	PREF
+SDY41	description	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY41	description	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY41	description	8469	influenza	INFLUENZA	PREF
+SDY41	description	8469	influenza	INFLUENZA	PREF
+SDY644	brief_title	8469	influenza	INFLUENZA	PREF
+SDY644	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY644	description	4492	avian influenza	AVIAN INFLUENZA	PREF
+SDY644	description	8469	influenza	INFLUENZA	PREF
+SDY87	description	8469	influenza	INFLUENZA	PREF
+SDY269	brief_title	8469	influenza	INFLUENZA	PREF
+SDY269	brief_title	8469	influenza	INFLUENZA	PREF
+SDY269	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY269	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY269	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY269	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY269	description	8469	influenza	INFLUENZA	PREF
+SDY269	description	8469	influenza	INFLUENZA	PREF
+SDY1039	brief_title	419	scleroderma	SCLERODERMA	PREF
+SDY1039	brief_title	418	systemic scleroderma	SCLERODERMA	SYN
+SDY1039	condition_studied	419	scleroderma	SCLERODERMA	PREF
+SDY1039	condition_studied	418	systemic scleroderma	SCLERODERMA	SYN
+SDY180	brief_title	8469	influenza	INFLUENZA	PREF
+SDY180	description	8469	influenza	INFLUENZA	PREF
+SDY180	description	8469	influenza	INFLUENZA	PREF
+SDY226	brief_title	8469	influenza	INFLUENZA	PREF
+SDY226	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY226	endpoints	8469	influenza	INFLUENZA	PREF
+SDY226	endpoints	8469	influenza	INFLUENZA	PREF
+SDY226	description	8469	influenza	INFLUENZA	PREF
+SDY226	description	8469	influenza	INFLUENZA	PREF
+SDY226	description	8469	influenza	INFLUENZA	PREF
+SDY226	description	8469	influenza	INFLUENZA	PREF
+SDY226	description	8469	influenza	INFLUENZA	PREF
+SDY226	description	8469	influenza	INFLUENZA	PREF
+SDY1267	brief_title	12365	malaria	MALARIA	PREF
+SDY1267	condition_studied	12365	malaria	MALARIA	PREF
+SDY1267	hypothesis	12365	malaria	MALARIA	PREF
+SDY1267	hypothesis	12365	malaria	MALARIA	PREF
+SDY1267	description	12365	malaria	MALARIA	PREF
+SDY1267	description	12365	malaria	MALARIA	PREF
+SDY23	brief_title	1498	cholera	CHOLERA	PREF
+SDY23	condition_studied	1498	cholera	CHOLERA	PREF
+SDY23	endpoints	13250	diarrhea	DIARRHEA	PREF
+SDY23	hypothesis	4	disease	DISEASE	PREF
+SDY23	hypothesis	1498	cholera	CHOLERA	PREF
+SDY23	hypothesis	1498	cholera	CHOLERA	PREF
+SDY23	hypothesis	1498	cholera	CHOLERA	PREF
+SDY23	hypothesis	1498	cholera	CHOLERA	PREF
+SDY23	hypothesis	1498	cholera	CHOLERA	PREF
+SDY23	hypothesis	13258	typhoid fever	TYPHOID	SYN
+SDY23	description	1498	cholera	CHOLERA	PREF
+SDY524	condition_studied	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY524	description	417	autoimmune hypersensitivity disease	AUTOIMMUNE DISEASE	SYN
+SDY524	description	4	disease	DISEASE	PREF
+SDY524	description	9744	type 1 diabetes mellitus	TYPE 1 DIABETES MELLITUS	PREF
+SDY524	description	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY508	hypothesis	4	disease	DISEASE	PREF
+SDY508	description	4	disease	DISEASE	PREF
+SDY212	brief_title	8469	influenza	INFLUENZA	PREF
+SDY212	endpoints	8469	influenza	INFLUENZA	PREF
+SDY212	description	8469	influenza	INFLUENZA	PREF
+SDY212	description	8469	influenza	INFLUENZA	PREF
+SDY133	condition_studied	783	end stage renal failure	END STAGE RENAL DISEASE	SYN
+SDY133	condition_studied	4	disease	DISEASE	PREF
+SDY133	endpoints	10763	hypertension	HYPERTENSION	PREF
+SDY133	description	0111084	Fanconi anemia complementation group E	FACE	SYN
+SDY133	description	4	disease	DISEASE	PREF
+SDY545	brief_title	2841	asthma	ASTHMA	PREF
+SDY545	condition_studied	2841	asthma	ASTHMA	PREF
+SDY545	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY545	endpoints	2841	asthma	ASTHMA	PREF
+SDY545	description	2841	asthma	ASTHMA	PREF
+SDY545	description	2841	asthma	ASTHMA	PREF
+SDY545	description	2841	asthma	ASTHMA	PREF
+SDY545	description	2841	asthma	ASTHMA	PREF
+SDY545	description	2841	asthma	ASTHMA	PREF
+SDY545	description	2841	asthma	ASTHMA	PREF
+SDY545	description	2841	asthma	ASTHMA	PREF
+SDY545	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY545	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY545	description	4	disease	DISEASE	PREF
+SDY545	description	2723	dermatitis	ECZEMA	SYN
+SDY545	description	2723	dermatitis	ECZEMA	SYN
+SDY545	description	4481	allergic rhinitis	ALLERGIC RHINITIS	PREF
+SDY545	description	4483	rhinitis	RHINITIS	PREF
+SDY300	description	8469	influenza	FLU	SYN
+SDY753	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY364	brief_title	8469	influenza	INFLUENZA	PREF
+SDY364	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY1424	condition_studied	12365	malaria	MALARIA	PREF
+SDY1424	description	12365	malaria	MALARIA	PREF
+SDY1424	description	4	disease	DISEASE	PREF
+SDY1424	description	4	disease	DISEASE	PREF
+SDY1424	description	1398	parasitic infectious disease	PARASITEMIA	SYN
+SDY461	condition_studied	8577	ulcerative colitis	ULCERATIVE COLITIS	PREF
+SDY461	condition_studied	0060180	colitis	COLITIS	PREF
+SDY461	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY293	hypothesis	850	lung disease	LUNG DISEASE	PREF
+SDY293	hypothesis	4	disease	DISEASE	PREF
+SDY293	description	850	lung disease	LUNG DISEASE	PREF
+SDY293	description	4	disease	DISEASE	PREF
+SDY1092	brief_title	12365	malaria	MALARIA	PREF
+SDY1092	condition_studied	12365	malaria	MALARIA	PREF
+SDY1092	description	12365	malaria	MALARIA	PREF
+SDY201	brief_title	8469	influenza	INFLUENZA	PREF
+SDY201	brief_title	8857	lupus erythematosus	LUPUS	SYN
+SDY201	condition_studied	8857	lupus erythematosus	LUPUS	SYN
+SDY201	endpoints	8469	influenza	INFLUENZA	PREF
+SDY201	description	8469	influenza	INFLUENZA	PREF
+SDY201	description	8469	influenza	INFLUENZA	PREF
+SDY201	description	8469	influenza	INFLUENZA	PREF
+SDY201	description	8469	influenza	INFLUENZA	PREF
+SDY201	description	8469	influenza	INFLUENZA	PREF
+SDY201	description	8469	influenza	INFLUENZA	PREF
+SDY201	description	8469	influenza	INFLUENZA	PREF
+SDY201	description	8469	influenza	INFLUENZA	PREF
+SDY201	description	8469	influenza	INFLUENZA	PREF
+SDY201	description	4	disease	DISEASE	PREF
+SDY201	description	4	disease	DISEASE	PREF
+SDY201	description	8857	lupus erythematosus	LUPUS	SYN
+SDY201	description	8857	lupus erythematosus	LUPUS	SYN
+SDY201	description	8857	lupus erythematosus	LUPUS	SYN
+SDY201	description	8857	lupus erythematosus	LUPUS	SYN
+SDY201	description	8857	lupus erythematosus	LUPUS	SYN
+SDY1446	condition_studied	399	tuberculosis	TUBERCULOSIS	PREF
+SDY1446	description	399	tuberculosis	TUBERCULOSIS	PREF
+SDY1446	description	399	tuberculosis	TUBERCULOSIS	PREF
+SDY951	endpoints	557	kidney disease	NEPHROPATHY	SYN
+SDY522	brief_title	8469	influenza	INFLUENZA	PREF
+SDY522	brief_title	8469	influenza	INFLUENZA	PREF
+SDY522	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY522	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY1485	condition_studied	2841	asthma	ASTHMA	PREF
+SDY1485	description	2841	asthma	ASTHMA	PREF
+SDY1217	brief_title	11054	urinary bladder cancer	BLADDER CANCER	SYN
+SDY1217	brief_title	162	cancer	CANCER	PREF
+SDY1217	condition_studied	11054	urinary bladder cancer	BLADDER CANCER	SYN
+SDY1217	condition_studied	162	cancer	CANCER	PREF
+SDY1217	description	11054	urinary bladder cancer	BLADDER CANCER	SYN
+SDY1217	description	162	cancer	CANCER	PREF
+SDY472	brief_title	8469	influenza	INFLUENZA	PREF
+SDY472	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY472	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY472	description	8469	influenza	INFLUENZA	PREF
+SDY472	description	8469	influenza	INFLUENZA	PREF
+SDY472	description	8469	influenza	INFLUENZA	PREF
+SDY472	description	8469	influenza	INFLUENZA	PREF
+SDY472	description	8469	influenza	INFLUENZA	PREF
+SDY983	description	4	disease	DISEASE	PREF
+SDY132	endpoints	557	kidney disease	NEPHROPATHY	SYN
+SDY132	endpoints	10763	hypertension	HYPERTENSION	PREF
+SDY132	endpoints	2355	anemia	ANEMIA	PREF
+SDY132	endpoints	615	leukopenia	LEUKOPENIA	PREF
+SDY132	endpoints	1227	neutropenia	NEUTROPENIA	PREF
+SDY132	endpoints	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY132	endpoints	4	disease	DISEASE	PREF
+SDY132	description	557	kidney disease	KIDNEY DISEASE	PREF
+SDY132	description	4	disease	DISEASE	PREF
+SDY132	description	83	cataract	CATARACT	PREF
+SDY1260	condition_studied	4	disease	DISEASE	PREF
+SDY583	brief_title	8469	influenza	INFLUENZA	PREF
+SDY583	description	8469	influenza	INFLUENZA	PREF
+SDY301	brief_title	8469	influenza	INFLUENZA	PREF
+SDY301	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY301	description	8469	influenza	FLU	SYN
+SDY356	condition_studied	1074	kidney failure	KIDNEY FAILURE	PREF
+SDY356	hypothesis	326	ischemia	ISCHEMIA	PREF
+SDY356	description	4	disease	DISEASE	PREF
+SDY356	description	326	ischemia	ISCHEMIA	PREF
+SDY564	brief_title	8469	influenza	INFLUENZA	PREF
+SDY19	brief_title	399	tuberculosis	TUBERCULOSIS	PREF
+SDY19	condition_studied	399	tuberculosis	TUBERCULOSIS	PREF
+SDY19	hypothesis	399	tuberculosis	TUBERCULOSIS	PREF
+SDY19	description	399	tuberculosis	TUBERCULOSIS	PREF
+SDY19	description	399	tuberculosis	TUBERCULOSIS	PREF
+SDY387	brief_title	8469	influenza	INFLUENZA	PREF
+SDY387	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY34	brief_title	8469	influenza	INFLUENZA	PREF
+SDY34	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY34	description	8469	influenza	INFLUENZA	PREF
+SDY1182	condition_studied	2942	bronchiolitis	BRONCHIOLITIS	PREF
+SDY1182	endpoints	2942	bronchiolitis	BRONCHIOLITIS	PREF
+SDY1182	hypothesis	2942	bronchiolitis	BRONCHIOLITIS	PREF
+SDY1182	description	2942	bronchiolitis	BRONCHIOLITIS	PREF
+SDY1182	description	2942	bronchiolitis	BRONCHIOLITIS	PREF
+SDY549	brief_title	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY549	condition_studied	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY549	description	417	autoimmune hypersensitivity disease	AUTOIMMUNE DISEASE	SYN
+SDY549	description	4	disease	DISEASE	PREF
+SDY36	condition_studied	2929	Newcastle disease	NEWCASTLE'S DISEASE	SYN
+SDY36	condition_studied	4	disease	DISEASE	PREF
+SDY36	endpoints	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY350	brief_title	8469	influenza	INFLUENZA	PREF
+SDY350	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY350	endpoints	8469	influenza	INFLUENZA	PREF
+SDY350	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY350	description	8469	influenza	INFLUENZA	PREF
+SDY460	brief_title	8469	influenza	INFLUENZA	PREF
+SDY460	hypothesis	2938	obsolete Epstein-Barr virus infectious disease	EBV INFECTION	SYN
+SDY216	condition_studied	627	severe combined immunodeficiency	SCID	SYN
+SDY216	condition_studied	4	disease	DISEASE	PREF
+SDY216	condition_studied	4	disease	DISEASE	PREF
+SDY216	condition_studied	1314	obsolete wasting syndrome	WASTING DISEASE	SYN
+SDY216	description	0060180	colitis	COLITIS	PREF
+SDY216	description	0060180	colitis	COLITIS	PREF
+SDY50	description	8469	influenza	INFLUENZA	PREF
+SDY296	brief_title	8469	influenza	INFLUENZA	PREF
+SDY296	description	8469	influenza	FLU	SYN
+SDY1276	brief_title	8469	influenza	INFLUENZA	PREF
+SDY1276	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY1276	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY1276	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY1432	condition_studied	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY1432	description	9993	hypoglycemia	HYPOGLYCEMIA	PREF
+SDY223	brief_title	2841	asthma	ASTHMA	PREF
+SDY223	brief_title	4481	allergic rhinitis	ALLERGIC RHINITIS	PREF
+SDY223	brief_title	4483	rhinitis	RHINITIS	PREF
+SDY223	condition_studied	2841	asthma	ASTHMA	PREF
+SDY223	condition_studied	4481	allergic rhinitis	ALLERGIC RHINITIS	PREF
+SDY223	condition_studied	4483	rhinitis	RHINITIS	PREF
+SDY223	hypothesis	2841	asthma	ASTHMA	PREF
+SDY223	hypothesis	4481	allergic rhinitis	ALLERGIC RHINITIS	PREF
+SDY223	hypothesis	4483	rhinitis	RHINITIS	PREF
+SDY223	description	2841	asthma	ASTHMA	PREF
+SDY223	description	2841	asthma	ASTHMA	PREF
+SDY223	description	2841	asthma	ASTHMA	PREF
+SDY223	description	2841	asthma	ASTHMA	PREF
+SDY223	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY78	condition_studied	934	viral infectious disease	VIRAL INFECTION	SYN
+SDY819	brief_title	8469	influenza	INFLUENZA	PREF
+SDY819	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY819	endpoints	8469	influenza	INFLUENZA	PREF
+SDY819	description	8469	influenza	INFLUENZA	PREF
+SDY1411	condition_studied	12365	malaria	MALARIA	PREF
+SDY1411	hypothesis	12365	malaria	MALARIA	PREF
+SDY1411	description	12365	malaria	MALARIA	PREF
+SDY1411	description	4	disease	DISEASE	PREF
+SDY1328	brief_title	12549	hepatitis A	HEPATITIS A	PREF
+SDY1328	brief_title	2237	hepatitis	HEPATITIS	PREF
+SDY1328	brief_title	11405	diphtheria	DIPHTHERIA	PREF
+SDY1328	brief_title	11338	tetanus	TETANUS	PREF
+SDY1328	brief_title	1498	cholera	CHOLERA	PREF
+SDY1328	description	2043	hepatitis B	HEPATITIS B	PREF
+SDY1328	description	2043	hepatitis B	HEPATITIS B	PREF
+SDY1328	description	2043	hepatitis B	HEPATITIS B	PREF
+SDY1328	description	2237	hepatitis	HEPATITIS	PREF
+SDY1328	description	2237	hepatitis	HEPATITIS	PREF
+SDY1328	description	2237	hepatitis	HEPATITIS	PREF
+SDY363	condition_studied	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY1528	brief_title	10591	pre-eclampsia	PREECLAMPSIA	SYN
+SDY1528	condition_studied	10591	pre-eclampsia	PREECLAMPSIA	SYN
+SDY1528	hypothesis	10591	pre-eclampsia	PREECLAMPSIA	SYN
+SDY1528	hypothesis	10591	pre-eclampsia	PREECLAMPSIA	SYN
+SDY1528	description	10591	pre-eclampsia	PREECLAMPSIA	SYN
+SDY1528	description	10591	pre-eclampsia	PREECLAMPSIA	SYN
+SDY1528	description	10591	pre-eclampsia	PREECLAMPSIA	SYN
+SDY1528	description	10591	pre-eclampsia	PREECLAMPSIA	SYN
+SDY1528	description	10591	pre-eclampsia	PREECLAMPSIA	SYN
+SDY1528	description	10591	pre-eclampsia	PREECLAMPSIA	SYN
+SDY1528	description	10591	pre-eclampsia	PREECLAMPSIA	SYN
+SDY13	brief_title	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY13	brief_title	2723	dermatitis	DERMATITIS	PREF
+SDY13	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY13	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY13	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY13	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY13	description	2723	dermatitis	DERMATITIS	PREF
+SDY13	description	2723	dermatitis	DERMATITIS	PREF
+SDY13	description	2723	dermatitis	ECZEMA	SYN
+SDY13	description	3298	vaccinia	VACCINIA	PREF
+SDY13	description	8736	smallpox	SMALLPOX	PREF
+SDY1025	brief_title	2841	asthma	ASTHMA	PREF
+SDY1025	condition_studied	2841	asthma	ASTHMA	PREF
+SDY1025	condition_studied	4481	allergic rhinitis	ALLERGIC RHINITIS	PREF
+SDY1025	condition_studied	4483	rhinitis	RHINITIS	PREF
+SDY1025	endpoints	4	disease	DISEASE	PREF
+SDY1025	endpoints	2841	asthma	ASTHMA	PREF
+SDY1025	hypothesis	2841	asthma	ASTHMA	PREF
+SDY1025	hypothesis	2841	asthma	ASTHMA	PREF
+SDY1025	hypothesis	4483	rhinitis	RHINITIS	PREF
+SDY1025	description	2841	asthma	ASTHMA	PREF
+SDY1025	description	2841	asthma	ASTHMA	PREF
+SDY1025	description	4483	rhinitis	RHINITIS	PREF
+SDY99	brief_title	8469	influenza	INFLUENZA	PREF
+SDY99	brief_title	8469	influenza	INFLUENZA	PREF
+SDY99	brief_title	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY99	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY99	endpoints	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY99	endpoints	8469	influenza	INFLUENZA	PREF
+SDY99	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY99	description	8469	influenza	INFLUENZA	PREF
+SDY99	description	8469	influenza	INFLUENZA	PREF
+SDY1027	brief_title	2841	asthma	ASTHMA	PREF
+SDY1027	condition_studied	2841	asthma	ASTHMA	PREF
+SDY1027	hypothesis	2841	asthma	ASTHMA	PREF
+SDY1027	hypothesis	2841	asthma	ASTHMA	PREF
+SDY1027	hypothesis	2841	asthma	ASTHMA	PREF
+SDY1027	description	2841	asthma	ASTHMA	PREF
+SDY1115	description	9415	allergic asthma	ALLERGIC ASTHMA	PREF
+SDY1115	description	2841	asthma	ASTHMA	PREF
+SDY587	condition_studied	3686	obsolete Helicobacter pylori infectious disease	HELICOBACTER PYLORI INFECTION	SYN
+SDY654	hypothesis	934	viral infectious disease	VIRAL INFECTION	SYN
+SDY654	description	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY1148	description	4	disease	DISEASE	PREF
+SDY1418	hypothesis	10591	pre-eclampsia	PREECLAMPSIA	SYN
+SDY1094	endpoints	784	chronic kidney disease	CHRONIC KIDNEY DISEASE	PREF
+SDY1094	endpoints	557	kidney disease	KIDNEY DISEASE	PREF
+SDY1094	endpoints	4	disease	DISEASE	PREF
+SDY272	brief_title	8469	influenza	INFLUENZA	PREF
+SDY272	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY272	endpoints	8469	influenza	INFLUENZA	PREF
+SDY272	description	8469	influenza	INFLUENZA	PREF
+SDY51	brief_title	8469	influenza	INFLUENZA	PREF
+SDY51	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY51	endpoints	8469	influenza	INFLUENZA	PREF
+SDY51	endpoints	8469	influenza	INFLUENZA	PREF
+SDY51	description	8469	influenza	INFLUENZA	PREF
+SDY51	description	8469	influenza	INFLUENZA	PREF
+SDY667	brief_title	4398	pustulosis of palm and sole	PALMOPLANTAR PUSTULOSIS	SYN
+SDY667	condition_studied	8893	psoriasis	PSORIASIS	PREF
+SDY667	hypothesis	8893	psoriasis	PSORIASIS	PREF
+SDY667	description	8893	psoriasis	PSORIASIS	PREF
+SDY667	description	8893	psoriasis	PSORIASIS	PREF
+SDY667	description	8893	psoriasis	PSORIASIS	PREF
+SDY667	description	8893	psoriasis	PSORIASIS	PREF
+SDY357	condition_studied	8659	chickenpox	CHICKENPOX	PREF
+SDY357	condition_studied	8659	chickenpox	VARICELLA	SYN
+SDY357	endpoints	8659	chickenpox	VARICELLA	SYN
+SDY357	description	0111084	Fanconi anemia complementation group E	FACE	SYN
+SDY357	description	8659	chickenpox	VARICELLA	SYN
+SDY357	description	8659	chickenpox	VARICELLA	SYN
+SDY357	description	8659	chickenpox	VARICELLA	SYN
+SDY357	description	8659	chickenpox	VARICELLA	SYN
+SDY357	description	1240	leukemia	LEUKEMIA	PREF
+SDY357	description	0050486	exanthem	RASH	SYN
+SDY147	brief_title	8469	influenza	INFLUENZA	PREF
+SDY147	endpoints	8469	influenza	INFLUENZA	PREF
+SDY147	endpoints	8469	influenza	INFLUENZA	PREF
+SDY147	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY147	description	8469	influenza	INFLUENZA	PREF
+SDY147	description	8469	influenza	INFLUENZA	PREF
+SDY147	description	8469	influenza	INFLUENZA	PREF
+SDY147	description	8469	influenza	INFLUENZA	PREF
+SDY147	description	8469	influenza	INFLUENZA	PREF
+SDY147	description	8469	influenza	INFLUENZA	PREF
+SDY147	description	8469	influenza	INFLUENZA	PREF
+SDY147	description	4	disease	DISEASE	PREF
+SDY662	description	162	cancer	CANCER	PREF
+SDY1529	brief_title	9682	yellow fever	YELLOW FEVER	PREF
+SDY1529	brief_title	9682	yellow fever	YELLOW FEVER	PREF
+SDY1529	condition_studied	9682	yellow fever	YELLOW FEVER	PREF
+SDY1529	hypothesis	9682	yellow fever	YELLOW FEVER	PREF
+SDY1529	description	9682	yellow fever	YELLOW FEVER	PREF
+SDY1294	brief_title	9682	yellow fever	YELLOW FEVER	PREF
+SDY1294	condition_studied	9682	yellow fever	YELLOW FEVER	PREF
+SDY1294	description	9682	yellow fever	YELLOW FEVER	PREF
+SDY565	brief_title	9744	type 1 diabetes mellitus	TYPE 1 DIABETES MELLITUS	PREF
+SDY565	brief_title	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY565	endpoints	9993	hypoglycemia	HYPOGLYCEMIA	PREF
+SDY28	brief_title	3298	vaccinia	VACCINIA	PREF
+SDY28	condition_studied	3298	vaccinia	VACCINIA	PREF
+SDY28	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY28	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY28	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY28	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY28	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY28	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY28	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY28	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY28	hypothesis	3298	vaccinia	VACCINIA	PREF
+SDY28	hypothesis	934	viral infectious disease	VIRAL INFECTION	SYN
+SDY28	description	3298	vaccinia	VACCINIA	PREF
+SDY28	description	8736	smallpox	SMALLPOX	PREF
+SDY28	description	8736	smallpox	SMALLPOX	PREF
+SDY44	brief_title	8469	influenza	INFLUENZA	PREF
+SDY44	condition_studied	4492	avian influenza	AVIAN INFLUENZA	PREF
+SDY44	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY44	endpoints	4	disease	DISEASE	PREF
+SDY44	description	4	disease	DISEASE	PREF
+SDY44	description	8469	influenza	INFLUENZA	PREF
+SDY44	description	8469	influenza	INFLUENZA	PREF
+SDY44	description	8469	influenza	INFLUENZA	PREF
+SDY44	description	0050211	swine influenza	SWINE INFLUENZA	PREF
+SDY640	brief_title	8469	influenza	INFLUENZA	PREF
+SDY640	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY640	endpoints	8469	influenza	FLU	SYN
+SDY640	endpoints	8469	influenza	FLU	SYN
+SDY640	description	8469	influenza	INFLUENZA	PREF
+SDY1365	condition_studied	8577	ulcerative colitis	ULCERATIVE COLITIS	PREF
+SDY1365	condition_studied	0060180	colitis	COLITIS	PREF
+SDY37	brief_title	8469	influenza	INFLUENZA	PREF
+SDY37	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY37	condition_studied	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY37	endpoints	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY37	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY37	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY37	description	8469	influenza	FLU	SYN
+SDY37	description	8469	influenza	INFLUENZA	PREF
+SDY1026	condition_studied	4481	allergic rhinitis	ALLERGIC RHINITIS	PREF
+SDY1026	condition_studied	4483	rhinitis	RHINITIS	PREF
+SDY1026	description	4481	allergic rhinitis	ALLERGIC RHINITIS	PREF
+SDY1026	description	4483	rhinitis	RHINITIS	PREF
+SDY1026	description	2841	asthma	ASTHMA	PREF
+SDY570	condition_studied	418	systemic scleroderma	SYSTEMIC SCLEROSIS	SYN
+SDY232	endpoints	0050639	primary cutaneous amyloidosis	PCA	SYN
+SDY194	condition_studied	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY194	condition_studied	848	arthritis	ARTHRITIS	PREF
+SDY100	hypothesis	0050589	inflammatory bowel disease	INFLAMMATORY BOWEL DISEASE	PREF
+SDY100	hypothesis	4	disease	DISEASE	PREF
+SDY100	hypothesis	4	disease	DISEASE	PREF
+SDY100	hypothesis	9778	irritable bowel syndrome	IBD	SYN
+SDY100	hypothesis	0060180	colitis	COLITIS	PREF
+SDY100	description	13250	diarrhea	DIARRHEA	PREF
+SDY100	description	0060180	colitis	COLITIS	PREF
+SDY100	description	0060180	colitis	COLITIS	PREF
+SDY100	description	0060180	colitis	COLITIS	PREF
+SDY100	description	4	disease	DISEASE	PREF
+SDY100	description	4	disease	DISEASE	PREF
+SDY196	brief_title	8469	influenza	INFLUENZA	PREF
+SDY196	brief_title	8857	lupus erythematosus	LUPUS	SYN
+SDY196	condition_studied	8857	lupus erythematosus	LUPUS	SYN
+SDY196	endpoints	8469	influenza	INFLUENZA	PREF
+SDY196	description	8469	influenza	INFLUENZA	PREF
+SDY196	description	8469	influenza	INFLUENZA	PREF
+SDY196	description	8469	influenza	INFLUENZA	PREF
+SDY196	description	8469	influenza	INFLUENZA	PREF
+SDY196	description	8469	influenza	INFLUENZA	PREF
+SDY196	description	8469	influenza	INFLUENZA	PREF
+SDY196	description	8469	influenza	INFLUENZA	PREF
+SDY196	description	8469	influenza	INFLUENZA	PREF
+SDY196	description	8469	influenza	INFLUENZA	PREF
+SDY196	description	4	disease	DISEASE	PREF
+SDY196	description	4	disease	DISEASE	PREF
+SDY196	description	8857	lupus erythematosus	LUPUS	SYN
+SDY196	description	8857	lupus erythematosus	LUPUS	SYN
+SDY196	description	8857	lupus erythematosus	LUPUS	SYN
+SDY196	description	8857	lupus erythematosus	LUPUS	SYN
+SDY196	description	8857	lupus erythematosus	LUPUS	SYN
+SDY816	brief_title	2043	hepatitis B	HEPATITIS B	PREF
+SDY816	brief_title	2237	hepatitis	HEPATITIS	PREF
+SDY1325	description	9471	meningitis	MENINGITIS	PREF
+SDY515	brief_title	8469	influenza	INFLUENZA	PREF
+SDY515	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY14	brief_title	8893	psoriasis	PSORIASIS	PREF
+SDY14	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY14	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY14	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY14	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY14	description	2723	dermatitis	DERMATITIS	PREF
+SDY14	description	2723	dermatitis	DERMATITIS	PREF
+SDY14	description	2723	dermatitis	ECZEMA	SYN
+SDY14	description	3298	vaccinia	VACCINIA	PREF
+SDY14	description	8736	smallpox	SMALLPOX	PREF
+SDY268	description	9682	yellow fever	YELLOW FEVER	PREF
+SDY268	description	0050211	swine influenza	SWINE INFLUENZA	PREF
+SDY268	description	8469	influenza	INFLUENZA	PREF
+SDY268	description	8469	influenza	INFLUENZA	PREF
+SDY315	brief_title	8469	influenza	INFLUENZA	PREF
+SDY315	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY315	description	8469	influenza	FLU	SYN
+SDY622	brief_title	8469	influenza	INFLUENZA	PREF
+SDY622	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY622	endpoints	8469	influenza	INFLUENZA	PREF
+SDY622	description	8469	influenza	INFLUENZA	PREF
+SDY421	condition_studied	8577	ulcerative colitis	ULCERATIVE COLITIS	PREF
+SDY421	condition_studied	0060180	colitis	COLITIS	PREF
+SDY421	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY183	brief_title	8469	influenza	INFLUENZA	PREF
+SDY183	description	8469	influenza	FLU	SYN
+SDY183	description	8469	influenza	INFLUENZA	PREF
+SDY569	brief_title	9744	type 1 diabetes mellitus	TYPE 1 DIABETES MELLITUS	PREF
+SDY569	brief_title	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY569	condition_studied	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY569	description	4	disease	DISEASE	PREF
+SDY998	brief_title	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY998	brief_title	848	arthritis	ARTHRITIS	PREF
+SDY998	condition_studied	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY998	condition_studied	848	arthritis	ARTHRITIS	PREF
+SDY313	brief_title	848	arthritis	ARTHRITIS	PREF
+SDY313	condition_studied	676	juvenile rheumatoid arthritis	JUVENILE RHEUMATOID ARTHRITIS	PREF
+SDY313	condition_studied	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY313	condition_studied	848	arthritis	ARTHRITIS	PREF
+SDY313	hypothesis	4	disease	DISEASE	PREF
+SDY313	description	4	disease	DISEASE	PREF
+SDY313	description	4	disease	DISEASE	PREF
+SDY313	description	848	arthritis	ARTHRITIS	PREF
+SDY313	description	848	arthritis	ARTHRITIS	PREF
+SDY313	description	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY302	hypothesis	4029	gastritis	GASTRITIS	PREF
+SDY302	hypothesis	4029	gastritis	GASTRITIS	PREF
+SDY302	hypothesis	4029	gastritis	GASTRITIS	PREF
+SDY302	description	4029	gastritis	GASTRITIS	PREF
+SDY302	description	4029	gastritis	GASTRITIS	PREF
+SDY302	description	4029	gastritis	GASTRITIS	PREF
+SDY302	description	4029	gastritis	GASTRITIS	PREF
+SDY302	description	4029	gastritis	GASTRITIS	PREF
+SDY302	description	4029	gastritis	GASTRITIS	PREF
+SDY302	description	3686	obsolete Helicobacter pylori infectious disease	HELICOBACTER PYLORI INFECTION	SYN
+SDY302	description	10534	stomach cancer	GASTRIC CANCER	SYN
+SDY302	description	10534	stomach cancer	GASTRIC CANCER	SYN
+SDY302	description	162	cancer	CANCER	PREF
+SDY302	description	162	cancer	CANCER	PREF
+SDY519	brief_title	8469	influenza	INFLUENZA	PREF
+SDY519	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY1439	brief_title	8469	influenza	INFLUENZA	PREF
+SDY1439	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY1439	hypothesis	8469	influenza	FLU	SYN
+SDY1439	hypothesis	8469	influenza	FLU	SYN
+SDY1439	hypothesis	8469	influenza	FLU	SYN
+SDY1439	hypothesis	8469	influenza	FLU	SYN
+SDY1439	hypothesis	8469	influenza	FLU	SYN
+SDY1439	description	4	disease	DISEASE	PREF
+SDY1439	description	8469	influenza	FLU	SYN
+SDY473	brief_title	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY473	brief_title	848	arthritis	ARTHRITIS	PREF
+SDY473	condition_studied	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY473	condition_studied	848	arthritis	ARTHRITIS	PREF
+SDY473	endpoints	4	disease	DISEASE	PREF
+SDY473	hypothesis	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY473	hypothesis	848	arthritis	ARTHRITIS	PREF
+SDY264	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY264	description	1116	pertussis	PERTUSSIS	PREF
+SDY1172	brief_title	12365	malaria	MALARIA	PREF
+SDY1172	condition_studied	12365	malaria	MALARIA	PREF
+SDY1172	endpoints	12365	malaria	MALARIA	PREF
+SDY1172	endpoints	12365	malaria	MALARIA	PREF
+SDY1172	description	12365	malaria	MALARIA	PREF
+SDY1172	description	12365	malaria	MALARIA	PREF
+SDY1172	description	12365	malaria	MALARIA	PREF
+SDY1172	description	12365	malaria	MALARIA	PREF
+SDY1172	description	4	disease	DISEASE	PREF
+SDY591	endpoints	13250	diarrhea	DIARRHEA	PREF
+SDY591	hypothesis	4	disease	DISEASE	PREF
+SDY1095	endpoints	5844	myocardial infarction	MYOCARDIAL INFARCTION	PREF
+SDY395	brief_title	8469	influenza	INFLUENZA	PREF
+SDY395	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY395	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY395	description	8469	influenza	INFLUENZA	PREF
+SDY5	brief_title	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY5	brief_title	2723	dermatitis	DERMATITIS	PREF
+SDY5	brief_title	8893	psoriasis	PSORIASIS	PREF
+SDY5	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY5	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY5	condition_studied	2723	dermatitis	ECZEMA	SYN
+SDY5	condition_studied	8893	psoriasis	PSORIASIS	PREF
+SDY5	condition_studied	9123	eczema herpeticum	ECZEMA HERPETICUM	PREF
+SDY5	endpoints	8893	psoriasis	PSORIASIS	PREF
+SDY5	hypothesis	8893	psoriasis	PSORIASIS	PREF
+SDY5	description	8893	psoriasis	PSORIASIS	PREF
+SDY5	description	8893	psoriasis	PSORIASIS	PREF
+SDY5	description	8893	psoriasis	PSORIASIS	PREF
+SDY354	description	1074	kidney failure	RENAL FAILURE	SYN
+SDY354	description	934	viral infectious disease	VIRAL INFECTION	SYN
+SDY585	endpoints	8469	influenza	INFLUENZA	PREF
+SDY585	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY585	description	8469	influenza	INFLUENZA	PREF
+SDY798	brief_title	9074	systemic lupus erythematosus	SYSTEMIC LUPUS ERYTHEMATOSUS	PREF
+SDY798	brief_title	8857	lupus erythematosus	LUPUS ERYTHEMATOSUS	PREF
+SDY798	brief_title	8857	lupus erythematosus	LUPUS	SYN
+SDY798	condition_studied	9074	systemic lupus erythematosus	SYSTEMIC LUPUS ERYTHEMATOSUS	PREF
+SDY798	condition_studied	8857	lupus erythematosus	LUPUS ERYTHEMATOSUS	PREF
+SDY798	condition_studied	8857	lupus erythematosus	LUPUS	SYN
+SDY798	description	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY798	description	4	disease	DISEASE	PREF
+SDY798	description	4	disease	DISEASE	PREF
+SDY1436	brief_title	8469	influenza	INFLUENZA	PREF
+SDY1436	brief_title	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY1436	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY1436	description	8469	influenza	INFLUENZA	PREF
+SDY1436	description	8469	influenza	INFLUENZA	PREF
+SDY1436	description	8469	influenza	INFLUENZA	PREF
+SDY1436	description	8469	influenza	INFLUENZA	PREF
+SDY1436	description	8469	influenza	INFLUENZA	PREF
+SDY1436	description	4	disease	DISEASE	PREF
+SDY1436	description	4	disease	DISEASE	PREF
+SDY1436	description	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY111	condition_studied	8536	herpes zoster	SHINGLES	SYN
+SDY111	condition_studied	8536	herpes zoster	HERPES ZOSTER	PREF
+SDY111	description	8659	chickenpox	VARICELLA	SYN
+SDY1149	condition_studied	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY1045	hypothesis	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY1045	description	9008	psoriatic arthritis	PSORIATIC ARTHRITIS	PREF
+SDY1045	description	848	arthritis	ARTHRITIS	PREF
+SDY1045	description	419	scleroderma	SCLERODERMA	PREF
+SDY1045	description	418	systemic scleroderma	SCLERODERMA	SYN
+SDY1045	description	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY888	brief_title	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY888	condition_studied	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY888	endpoints	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY888	description	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY416	brief_title	8469	influenza	INFLUENZA	PREF
+SDY416	brief_title	8893	psoriasis	PSORIASIS	PREF
+SDY416	condition_studied	8893	psoriasis	PSORIASIS	PREF
+SDY416	endpoints	8893	psoriasis	PSORIASIS	PREF
+SDY416	hypothesis	8893	psoriasis	PSORIASIS	PREF
+SDY416	hypothesis	8893	psoriasis	PSORIASIS	PREF
+SDY416	hypothesis	417	autoimmune hypersensitivity disease	AUTOIMMUNE DISEASE	SYN
+SDY416	hypothesis	4	disease	DISEASE	PREF
+SDY416	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY416	description	8893	psoriasis	PSORIASIS	PREF
+SDY416	description	8893	psoriasis	PSORIASIS	PREF
+SDY416	description	8893	psoriasis	PSORIASIS	PREF
+SDY416	description	8893	psoriasis	PSORIASIS	PREF
+SDY416	description	8893	psoriasis	PSORIASIS	PREF
+SDY416	description	8469	influenza	INFLUENZA	PREF
+SDY416	description	8469	influenza	INFLUENZA	PREF
+SDY372	brief_title	8469	influenza	INFLUENZA	PREF
+SDY372	brief_title	14203	childhood type dermatomyositis	JUVENILE DERMATOMYOSITIS	SYN
+SDY372	brief_title	10223	dermatomyositis	DERMATOMYOSITIS	PREF
+SDY372	condition_studied	14203	childhood type dermatomyositis	JUVENILE DERMATOMYOSITIS	SYN
+SDY372	condition_studied	10223	dermatomyositis	DERMATOMYOSITIS	PREF
+SDY372	endpoints	8469	influenza	FLU	SYN
+SDY372	hypothesis	8469	influenza	FLU	SYN
+SDY372	description	8469	influenza	INFLUENZA	PREF
+SDY372	description	4	disease	DISEASE	PREF
+SDY1288	brief_title	0050012	chikungunya	CHIKUNGUNYA	PREF
+SDY1288	brief_title	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY1178	condition_studied	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY1178	hypothesis	9993	hypoglycemia	HYPOGLYCEMIA	PREF
+SDY1178	description	9993	hypoglycemia	HYPOGLYCEMIA	PREF
+SDY218	brief_title	4377	egg allergy	EGG ALLERGY	PREF
+SDY218	brief_title	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY218	condition_studied	1205	allergic hypersensitivity disease	HYPERSENSITIVITY	SYN
+SDY218	condition_studied	1205	allergic hypersensitivity disease	HYPERSENSITIVITY	SYN
+SDY218	condition_studied	1205	allergic hypersensitivity disease	HYPERSENSITIVITY	SYN
+SDY218	condition_studied	3044	food allergy	FOOD HYPERSENSITIVITY	SYN
+SDY218	endpoints	162	cancer	CANCER	PREF
+SDY218	hypothesis	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY218	description	3044	food allergy	FOOD ALLERGY	PREF
+SDY218	description	3044	food allergy	FOOD ALLERGY	PREF
+SDY218	description	3044	food allergy	FOOD ALLERGY	PREF
+SDY218	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY218	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY218	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY218	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY218	description	0050486	exanthem	RASH	SYN
+SDY218	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY218	description	2723	dermatitis	DERMATITIS	PREF
+SDY218	description	2841	asthma	ASTHMA	PREF
+SDY655	brief_title	0060851	pemphigus vulgaris	PEMPHIGUS VULGARIS	PREF
+SDY655	brief_title	9182	pemphigus	PEMPHIGUS	PREF
+SDY655	condition_studied	0060851	pemphigus vulgaris	PEMPHIGUS VULGARIS	PREF
+SDY655	condition_studied	9182	pemphigus	PEMPHIGUS	PREF
+SDY655	endpoints	0050486	exanthem	RASH	SYN
+SDY655	endpoints	4	disease	DISEASE	PREF
+SDY655	hypothesis	0060851	pemphigus vulgaris	PEMPHIGUS VULGARIS	PREF
+SDY655	hypothesis	9182	pemphigus	PEMPHIGUS	PREF
+SDY655	hypothesis	4	disease	DISEASE	PREF
+SDY655	description	4	disease	DISEASE	PREF
+SDY655	description	4	disease	DISEASE	PREF
+SDY655	description	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY655	description	848	arthritis	ARTHRITIS	PREF
+SDY655	description	7147	ankylosing spondylitis	ANKYLOSING SPONDYLITIS	PREF
+SDY655	description	6590	spondylitis	SPONDYLITIS	PREF
+SDY655	description	8778	Crohn's disease	CROHN'S DISEASE	PREF
+SDY95	brief_title	8469	influenza	INFLUENZA	PREF
+SDY95	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY95	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY95	description	8469	influenza	INFLUENZA	PREF
+SDY95	description	8469	influenza	INFLUENZA	PREF
+SDY95	description	8469	influenza	INFLUENZA	PREF
+SDY1043	brief_title	417	autoimmune hypersensitivity disease	AUTOIMMUNE DISEASE	SYN
+SDY1043	brief_title	4	disease	DISEASE	PREF
+SDY1043	condition_studied	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY1043	hypothesis	4	disease	DISEASE	PREF
+SDY1043	description	2377	multiple sclerosis	MULTIPLE SCLEROSIS	PREF
+SDY60	endpoints	8469	influenza	INFLUENZA	PREF
+SDY60	endpoints	8469	influenza	INFLUENZA	PREF
+SDY60	endpoints	8469	influenza	INFLUENZA	PREF
+SDY474	brief_title	9074	systemic lupus erythematosus	SYSTEMIC LUPUS ERYTHEMATOSUS	PREF
+SDY474	brief_title	8857	lupus erythematosus	LUPUS ERYTHEMATOSUS	PREF
+SDY474	brief_title	8857	lupus erythematosus	LUPUS	SYN
+SDY474	condition_studied	9074	systemic lupus erythematosus	SYSTEMIC LUPUS ERYTHEMATOSUS	PREF
+SDY474	condition_studied	8857	lupus erythematosus	LUPUS ERYTHEMATOSUS	PREF
+SDY474	condition_studied	8857	lupus erythematosus	LUPUS	SYN
+SDY474	description	9074	systemic lupus erythematosus	SYSTEMIC LUPUS ERYTHEMATOSUS	PREF
+SDY474	description	8857	lupus erythematosus	LUPUS ERYTHEMATOSUS	PREF
+SDY474	description	8857	lupus erythematosus	LUPUS	SYN
+SDY648	brief_title	8469	influenza	INFLUENZA	PREF
+SDY648	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY648	endpoints	8469	influenza	INFLUENZA	PREF
+SDY648	description	8469	influenza	INFLUENZA	PREF
+SDY1119	brief_title	8469	influenza	INFLUENZA	PREF
+SDY1119	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY1119	endpoints	8469	influenza	INFLUENZA	PREF
+SDY1119	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY1119	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY523	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY148	brief_title	2905	obsolete commensal Escherichia coli infectious disease	ESCHERICHIA COLI INFECTION	SYN
+SDY148	condition_studied	4	disease	DISEASE	PREF
+SDY148	description	13250	diarrhea	DIARRHEA	PREF
+SDY148	description	4	disease	DISEASE	PREF
+SDY148	description	8452	obsolete malnutrition	MALNUTRITION	PREF
+SDY271	brief_title	8469	influenza	INFLUENZA	PREF
+SDY271	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY271	endpoints	8469	influenza	INFLUENZA	PREF
+SDY271	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY271	description	8469	influenza	INFLUENZA	PREF
+SDY64	description	8469	influenza	INFLUENZA	PREF
+SDY376	brief_title	8469	influenza	INFLUENZA	PREF
+SDY376	brief_title	14203	childhood type dermatomyositis	JUVENILE DERMATOMYOSITIS	SYN
+SDY376	brief_title	10223	dermatomyositis	DERMATOMYOSITIS	PREF
+SDY376	condition_studied	14203	childhood type dermatomyositis	JUVENILE DERMATOMYOSITIS	SYN
+SDY376	condition_studied	10223	dermatomyositis	DERMATOMYOSITIS	PREF
+SDY376	endpoints	8469	influenza	FLU	SYN
+SDY376	hypothesis	8469	influenza	FLU	SYN
+SDY376	description	8469	influenza	INFLUENZA	PREF
+SDY376	description	4	disease	DISEASE	PREF
+SDY15	brief_title	9682	yellow fever	YELLOW FEVER	PREF
+SDY15	brief_title	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY15	brief_title	2723	dermatitis	DERMATITIS	PREF
+SDY15	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY15	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY15	description	2723	dermatitis	DERMATITIS	PREF
+SDY15	description	2723	dermatitis	ECZEMA	SYN
+SDY15	description	2723	dermatitis	DERMATITIS	PREF
+SDY15	description	3298	vaccinia	VACCINIA	PREF
+SDY15	description	3298	vaccinia	VACCINIA	PREF
+SDY15	description	8736	smallpox	SMALLPOX	PREF
+SDY15	description	8736	smallpox	SMALLPOX	PREF
+SDY15	description	9682	yellow fever	YELLOW FEVER	PREF
+SDY15	description	9682	yellow fever	YELLOW FEVER	PREF
+SDY312	brief_title	8469	influenza	INFLUENZA	PREF
+SDY312	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY312	description	8469	influenza	FLU	SYN
+SDY1502	condition_studied	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY35	brief_title	3298	vaccinia	VACCINIA	PREF
+SDY35	condition_studied	3298	vaccinia	VACCINIA	PREF
+SDY35	condition_studied	3298	vaccinia	VACCINIA	PREF
+SDY35	description	3298	vaccinia	VACCINIA	PREF
+SDY901	condition_studied	1324	lung cancer	LUNG CANCER	PREF
+SDY901	condition_studied	162	cancer	CANCER	PREF
+SDY901	description	1324	lung cancer	LUNG CANCER	PREF
+SDY901	description	1324	lung cancer	LUNG CANCER	PREF
+SDY901	description	1324	lung cancer	LUNG CANCER	PREF
+SDY901	description	162	cancer	CANCER	PREF
+SDY901	description	162	cancer	CANCER	PREF
+SDY901	description	162	cancer	CANCER	PREF
+SDY901	description	299	adenocarcinoma	ADENOCARCINOMAS	SYN
+SDY901	description	3908	lung non-small cell carcinoma	NON-SMALL CELL LUNG CANCER	SYN
+SDY1185	brief_title	1115	sarcoma	SARCOMA	PREF
+SDY1185	condition_studied	1115	sarcoma	SARCOMA	PREF
+SDY1185	endpoints	0001816	angiosarcoma	HEMANGIOSARCOMA	SYN
+SDY1185	endpoints	3347	osteosarcoma	OSTEOSARCOMA	PREF
+SDY1185	endpoints	0060058	lymphoma	LYMPHOMA	PREF
+SDY1185	hypothesis	0001816	angiosarcoma	HEMANGIOSARCOMA	SYN
+SDY1185	hypothesis	175	vascular cancer	VASCULAR CANCER	PREF
+SDY1185	hypothesis	162	cancer	CANCER	PREF
+SDY1185	description	0001816	angiosarcoma	HEMANGIOSARCOMA	SYN
+SDY1185	description	0001816	angiosarcoma	HEMANGIOSARCOMA	SYN
+SDY1185	description	1115	sarcoma	SARCOMA	PREF
+SDY1185	description	1115	sarcoma	SARCOMA	PREF
+SDY1185	description	4	disease	DISEASE	PREF
+SDY1185	description	265	spleen angiosarcoma	SPLENIC HEMANGIOSARCOMA	SYN
+SDY520	brief_title	8469	influenza	INFLUENZA	PREF
+SDY520	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY520	endpoints	8469	influenza	FLU	SYN
+SDY520	endpoints	8469	influenza	FLU	SYN
+SDY520	description	8469	influenza	INFLUENZA	PREF
+SDY1100	condition_studied	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY17	brief_title	8469	influenza	INFLUENZA	PREF
+SDY17	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY17	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY17	description	8469	influenza	FLU	SYN
+SDY17	description	8469	influenza	FLU	SYN
+SDY17	description	8469	influenza	INFLUENZA	PREF
+SDY215	brief_title	8469	influenza	INFLUENZA	PREF
+SDY215	endpoints	8469	influenza	INFLUENZA	PREF
+SDY215	description	8469	influenza	INFLUENZA	PREF
+SDY215	description	8469	influenza	INFLUENZA	PREF
+SDY38	brief_title	8469	influenza	INFLUENZA	PREF
+SDY38	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY80	brief_title	8469	influenza	INFLUENZA	PREF
+SDY80	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY80	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY80	description	8469	influenza	INFLUENZA	PREF
+SDY80	description	8469	influenza	INFLUENZA	PREF
+SDY567	condition_studied	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY262	brief_title	3686	obsolete Helicobacter pylori infectious disease	HELICOBACTER PYLORI INFECTION	SYN
+SDY262	description	4	disease	DISEASE	PREF
+SDY8	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY8	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY8	condition_studied	2723	dermatitis	ECZEMA	SYN
+SDY8	condition_studied	9123	eczema herpeticum	ECZEMA HERPETICUM	PREF
+SDY8	description	8566	herpes simplex	HERPES SIMPLEX	PREF
+SDY1231	description	557	kidney disease	KIDNEY DISEASE	PREF
+SDY1231	description	4	disease	DISEASE	PREF
+SDY270	brief_title	8469	influenza	INFLUENZA	PREF
+SDY270	brief_title	8469	influenza	INFLUENZA	PREF
+SDY270	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY270	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY270	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY270	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY270	description	8469	influenza	INFLUENZA	PREF
+SDY270	description	8469	influenza	INFLUENZA	PREF
+SDY736	condition_studied	11259	obsolete Cytomegalovirus infectious disease	CYTOMEGALOVIRUS INFECTION	SYN
+SDY42	brief_title	4492	avian influenza	AVIAN INFLUENZA	PREF
+SDY42	brief_title	8469	influenza	INFLUENZA	PREF
+SDY42	brief_title	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY42	condition_studied	4492	avian influenza	AVIAN INFLUENZA	PREF
+SDY42	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY42	endpoints	4	disease	DISEASE	PREF
+SDY42	description	4	disease	DISEASE	PREF
+SDY42	description	4492	avian influenza	AVIAN INFLUENZA	PREF
+SDY42	description	8469	influenza	INFLUENZA	PREF
+SDY1298	brief_title	1324	lung cancer	LUNG CANCER	PREF
+SDY1298	brief_title	162	cancer	CANCER	PREF
+SDY1298	condition_studied	1324	lung cancer	LUNG CANCER	PREF
+SDY1298	condition_studied	162	cancer	CANCER	PREF
+SDY1298	hypothesis	1324	lung cancer	LUNG CANCER	PREF
+SDY1298	hypothesis	162	cancer	CANCER	PREF
+SDY1298	description	3908	lung non-small cell carcinoma	NSCLC	SYN
+SDY1298	description	3910	lung adenocarcinoma	LUNG ADENOCARCINOMA	PREF
+SDY1298	description	299	adenocarcinoma	ADENOCARCINOMA	PREF
+SDY820	brief_title	399	tuberculosis	TUBERCULOSIS	PREF
+SDY820	condition_studied	399	tuberculosis	TUBERCULOSIS	PREF
+SDY820	description	399	tuberculosis	TUBERCULOSIS	PREF
+SDY645	brief_title	8469	influenza	INFLUENZA	PREF
+SDY645	brief_title	14203	childhood type dermatomyositis	JUVENILE DERMATOMYOSITIS	SYN
+SDY645	brief_title	10223	dermatomyositis	DERMATOMYOSITIS	PREF
+SDY645	condition_studied	14203	childhood type dermatomyositis	JUVENILE DERMATOMYOSITIS	SYN
+SDY645	condition_studied	10223	dermatomyositis	DERMATOMYOSITIS	PREF
+SDY645	endpoints	8469	influenza	FLU	SYN
+SDY645	hypothesis	8469	influenza	FLU	SYN
+SDY645	description	8469	influenza	INFLUENZA	PREF
+SDY645	description	4	disease	DISEASE	PREF
+SDY572	description	4	disease	DISEASE	PREF
+SDY572	description	13250	diarrhea	DIARRHEA	PREF
+SDY572	description	13250	diarrhea	DIARRHEA	PREF
+SDY572	description	8452	obsolete malnutrition	MALNUTRITION	PREF
+SDY208	brief_title	8469	influenza	INFLUENZA	PREF
+SDY1467	brief_title	8469	influenza	INFLUENZA	PREF
+SDY1467	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY1467	hypothesis	8469	influenza	FLU	SYN
+SDY1467	description	8469	influenza	FLU	SYN
+SDY2	brief_title	8659	chickenpox	VARICELLA	SYN
+SDY2	brief_title	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY2	brief_title	2723	dermatitis	DERMATITIS	PREF
+SDY2	condition_studied	8659	chickenpox	VARICELLA	SYN
+SDY2	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY2	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY2	hypothesis	8659	chickenpox	VARICELLA	SYN
+SDY2	hypothesis	8659	chickenpox	VARICELLA	SYN
+SDY2	description	8659	chickenpox	VARICELLA	SYN
+SDY1093	brief_title	9256	colorectal cancer	COLORECTAL CANCER	PREF
+SDY1093	brief_title	162	cancer	CANCER	PREF
+SDY1093	description	657	adenoma	ADENOMAS	SYN
+SDY1093	description	5659	obsolete invasive carcinoma	INVASIVE CARCINOMA	PREF
+SDY1093	description	305	carcinoma	CARCINOMA	PREF
+SDY198	brief_title	8469	influenza	INFLUENZA	PREF
+SDY198	brief_title	8857	lupus erythematosus	LUPUS	SYN
+SDY198	condition_studied	8857	lupus erythematosus	LUPUS	SYN
+SDY198	endpoints	8469	influenza	INFLUENZA	PREF
+SDY198	description	8469	influenza	INFLUENZA	PREF
+SDY198	description	8469	influenza	INFLUENZA	PREF
+SDY198	description	8469	influenza	INFLUENZA	PREF
+SDY198	description	8469	influenza	INFLUENZA	PREF
+SDY198	description	8469	influenza	INFLUENZA	PREF
+SDY198	description	8469	influenza	INFLUENZA	PREF
+SDY198	description	8469	influenza	INFLUENZA	PREF
+SDY198	description	8469	influenza	INFLUENZA	PREF
+SDY198	description	8469	influenza	INFLUENZA	PREF
+SDY198	description	4	disease	DISEASE	PREF
+SDY198	description	4	disease	DISEASE	PREF
+SDY198	description	8857	lupus erythematosus	LUPUS	SYN
+SDY198	description	8857	lupus erythematosus	LUPUS	SYN
+SDY198	description	8857	lupus erythematosus	LUPUS	SYN
+SDY198	description	8857	lupus erythematosus	LUPUS	SYN
+SDY198	description	8857	lupus erythematosus	LUPUS	SYN
+SDY1521	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY1521	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY1521	description	8469	influenza	INFLUENZA	PREF
+SDY1521	description	8469	influenza	INFLUENZA	PREF
+SDY1521	description	8469	influenza	INFLUENZA	PREF
+SDY144	brief_title	8469	influenza	INFLUENZA	PREF
+SDY144	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY199	brief_title	8469	influenza	INFLUENZA	PREF
+SDY199	brief_title	8857	lupus erythematosus	LUPUS	SYN
+SDY199	condition_studied	8857	lupus erythematosus	LUPUS	SYN
+SDY199	endpoints	8469	influenza	INFLUENZA	PREF
+SDY199	description	8469	influenza	INFLUENZA	PREF
+SDY199	description	8469	influenza	INFLUENZA	PREF
+SDY199	description	8469	influenza	INFLUENZA	PREF
+SDY199	description	8469	influenza	INFLUENZA	PREF
+SDY199	description	8469	influenza	INFLUENZA	PREF
+SDY199	description	8469	influenza	INFLUENZA	PREF
+SDY199	description	8469	influenza	INFLUENZA	PREF
+SDY199	description	8469	influenza	INFLUENZA	PREF
+SDY199	description	8469	influenza	INFLUENZA	PREF
+SDY199	description	4	disease	DISEASE	PREF
+SDY199	description	4	disease	DISEASE	PREF
+SDY199	description	8857	lupus erythematosus	LUPUS	SYN
+SDY199	description	8857	lupus erythematosus	LUPUS	SYN
+SDY199	description	8857	lupus erythematosus	LUPUS	SYN
+SDY199	description	8857	lupus erythematosus	LUPUS	SYN
+SDY199	description	8857	lupus erythematosus	LUPUS	SYN
+SDY16	endpoints	9778	irritable bowel syndrome	IBD	SYN
+SDY16	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY16	description	8469	influenza	INFLUENZA	PREF
+SDY960	endpoints	2799	bronchiolitis obliterans	BRONCHIOLITIS OBLITERANS	PREF
+SDY960	endpoints	2799	bronchiolitis obliterans	OBLITERATIVE BRONCHIOLITIS	SYN
+SDY960	endpoints	2942	bronchiolitis	BRONCHIOLITIS	PREF
+SDY960	endpoints	2942	bronchiolitis	BRONCHIOLITIS	PREF
+SDY960	endpoints	225	syndrome	SYNDROME	PREF
+SDY960	hypothesis	2799	bronchiolitis obliterans	BRONCHIOLITIS OBLITERANS	PREF
+SDY960	hypothesis	2799	bronchiolitis obliterans	OBLITERATIVE BRONCHIOLITIS	SYN
+SDY960	hypothesis	2942	bronchiolitis	BRONCHIOLITIS	PREF
+SDY960	hypothesis	2942	bronchiolitis	BRONCHIOLITIS	PREF
+SDY960	hypothesis	225	syndrome	SYNDROME	PREF
+SDY960	description	2799	bronchiolitis obliterans	BRONCHIOLITIS OBLITERANS	PREF
+SDY960	description	2799	bronchiolitis obliterans	OBLITERATIVE BRONCHIOLITIS	SYN
+SDY960	description	2942	bronchiolitis	BRONCHIOLITIS	PREF
+SDY960	description	2942	bronchiolitis	BRONCHIOLITIS	PREF
+SDY960	description	225	syndrome	SYNDROME	PREF
+SDY960	description	934	viral infectious disease	VIRAL INFECTION	SYN
+SDY1291	brief_title	0110037	Alzheimer's disease 5	AD5	SYN
+SDY1291	brief_title	0110037	Alzheimer's disease 5	AD5	SYN
+SDY1291	hypothesis	0110037	Alzheimer's disease 5	AD5	SYN
+SDY1291	hypothesis	0110037	Alzheimer's disease 5	AD5	SYN
+SDY59	description	8469	influenza	FLU	SYN
+SDY1190	condition_studied	399	tuberculosis	TUBERCULOSIS	PREF
+SDY1190	hypothesis	399	tuberculosis	TUBERCULOSIS	PREF
+SDY1190	description	399	tuberculosis	TUBERCULOSIS	PREF
+SDY756	brief_title	8469	influenza	INFLUENZA	PREF
+SDY756	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY756	endpoints	8469	influenza	INFLUENZA	PREF
+SDY756	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY756	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY756	description	8469	influenza	INFLUENZA	PREF
+SDY653	description	0111084	Fanconi anemia complementation group E	FACE	SYN
+SDY286	brief_title	399	tuberculosis	TUBERCULOSIS	PREF
+SDY286	brief_title	8469	influenza	INFLUENZA	PREF
+SDY690	brief_title	2043	hepatitis B	HEPATITIS B	PREF
+SDY690	brief_title	2237	hepatitis	HEPATITIS	PREF
+SDY690	hypothesis	4	disease	DISEASE	PREF
+SDY690	hypothesis	783	end stage renal failure	END STAGE RENAL FAILURE	PREF
+SDY690	hypothesis	1074	kidney failure	RENAL FAILURE	SYN
+SDY74	brief_title	8469	influenza	INFLUENZA	PREF
+SDY74	description	8469	influenza	INFLUENZA	PREF
+SDY74	description	8469	influenza	INFLUENZA	PREF
+SDY1425	endpoints	784	chronic kidney disease	CKD	SYN
+SDY1425	description	1074	kidney failure	KIDNEY FAILURE	PREF
+SDY1425	description	0080018	dysbaric osteonecrosis	DON	SYN
+SDY91	brief_title	12132	granulomatosis with polyangiitis	WEGENER'S GRANULOMATOSIS	PREF
+SDY91	condition_studied	865	vasculitis	VASCULITIS	PREF
+SDY91	condition_studied	12132	granulomatosis with polyangiitis	WEGENER'S GRANULOMATOSIS	PREF
+SDY91	endpoints	615	leukopenia	LEUKOPENIA	PREF
+SDY91	endpoints	1588	thrombocytopenia	THROMBOCYTOPENIA	PREF
+SDY91	endpoints	0050859	hemorrhagic cystitis	HEMORRHAGIC CYSTITIS	PREF
+SDY91	endpoints	1679	cystitis	CYSTITIS	PREF
+SDY91	endpoints	0060903	thrombosis	THROMBOSIS	PREF
+SDY91	endpoints	9477	pulmonary embolism	PULMONARY EMBOLISM	PREF
+SDY91	endpoints	4	disease	DISEASE	PREF
+SDY91	endpoints	6713	cerebrovascular disease	CEREBROVASCULAR ACCIDENT	SYN
+SDY91	hypothesis	4	disease	DISEASE	PREF
+SDY91	description	865	vasculitis	VASCULITIS	PREF
+SDY91	description	4	disease	DISEASE	PREF
+SDY91	description	4	disease	DISEASE	PREF
+SDY91	description	8567	Hodgkin's lymphoma	HODGKIN'S LYMPHOMA	PREF
+SDY91	description	0060058	lymphoma	LYMPHOMA	PREF
+SDY294	endpoints	4	disease	DISEASE	PREF
+SDY294	endpoints	2030	anxiety disorder	ANXIETY	SYN
+SDY294	hypothesis	850	lung disease	LUNG DISEASE	PREF
+SDY294	hypothesis	4	disease	DISEASE	PREF
+SDY1289	condition_studied	9682	yellow fever	YELLOW FEVER	PREF
+SDY1289	description	162	cancer	CANCER	PREF
+SDY1289	description	162	cancer	CANCER	PREF
+SDY1289	description	9682	yellow fever	YELLOW FEVER	PREF
+SDY146	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY824	condition_studied	848	arthritis	ARTHRITIS	PREF
+SDY746	condition_studied	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY746	condition_studied	848	arthritis	ARTHRITIS	PREF
+SDY1	condition_studied	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	endpoints	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	endpoints	4483	rhinitis	RUNNY NOSE	SYN
+SDY1	endpoints	4483	rhinitis	RHINITIS	PREF
+SDY1	endpoints	4483	rhinitis	RHINITIS	PREF
+SDY1	endpoints	4481	allergic rhinitis	ALLERGIC RHINITIS	PREF
+SDY1	endpoints	4481	allergic rhinitis	ALLERGIC RHINITIS	PREF
+SDY1	endpoints	2841	asthma	ASTHMA	PREF
+SDY1	description	4481	allergic rhinitis	ALLERGIC RHINITIS	PREF
+SDY1	description	4481	allergic rhinitis	ALLERGIC RHINITIS	PREF
+SDY1	description	4483	rhinitis	RHINITIS	PREF
+SDY1	description	4483	rhinitis	RHINITIS	PREF
+SDY1	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1	description	2841	asthma	ASTHMA	PREF
+SDY887	brief_title	8469	influenza	INFLUENZA	PREF
+SDY887	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY887	description	8469	influenza	INFLUENZA	PREF
+SDY887	description	8469	influenza	INFLUENZA	PREF
+SDY4	brief_title	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY4	brief_title	2723	dermatitis	DERMATITIS	PREF
+SDY4	brief_title	2723	dermatitis	ECZEMA	SYN
+SDY4	brief_title	9123	eczema herpeticum	ECZEMA HERPETICUM	PREF
+SDY4	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY4	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY4	condition_studied	2723	dermatitis	ECZEMA	SYN
+SDY4	condition_studied	9123	eczema herpeticum	ECZEMA HERPETICUM	PREF
+SDY4	description	2723	dermatitis	SKIN INFLAMMATION	SYN
+SDY4	description	8736	smallpox	SMALLPOX	PREF
+SDY4	description	1205	allergic hypersensitivity disease	ALLERGY	SYN
+SDY1503	description	11862	obsolete late pregnancy	LATE PREGNANCY	PREF
+SDY214	description	13250	diarrhea	DIARRHOEA	SYN
+SDY214	description	4	disease	DISEASE	PREF
+SDY214	description	4	disease	DISEASE	PREF
+SDY214	description	4	disease	DISEASE	PREF
+SDY616	brief_title	9123	eczema herpeticum	ECZEMA HERPETICUM	PREF
+SDY616	brief_title	2723	dermatitis	ECZEMA	SYN
+SDY616	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY616	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY616	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY616	description	2723	dermatitis	DERMATITIS	PREF
+SDY616	description	2723	dermatitis	ECZEMA	SYN
+SDY616	description	2723	dermatitis	ECZEMA	SYN
+SDY616	description	9123	eczema herpeticum	ECZEMA HERPETICUM	PREF
+SDY616	description	8566	herpes simplex	HERPES SIMPLEX	PREF
+SDY616	description	8736	smallpox	SMALLPOX	PREF
+SDY288	brief_title	399	tuberculosis	TUBERCULOSIS	PREF
+SDY288	brief_title	8469	influenza	INFLUENZA	PREF
+SDY1171	brief_title	12205	dengue disease	DENGUE DISEASE	PREF
+SDY1171	brief_title	4	disease	DISEASE	PREF
+SDY1171	endpoints	4	disease	DISEASE	PREF
+SDY1171	hypothesis	12205	dengue disease	DENGUE DISEASE	PREF
+SDY1171	hypothesis	4	disease	DISEASE	PREF
+SDY1171	description	4	disease	DISEASE	PREF
+SDY1171	description	4	disease	DISEASE	PREF
+SDY1171	description	4	disease	DISEASE	PREF
+SDY1171	description	4	disease	DISEASE	PREF
+SDY1171	description	4	disease	DISEASE	PREF
+SDY1171	description	12205	dengue disease	DENGUE DISEASE	PREF
+SDY1171	description	12205	dengue disease	DENGUE DISEASE	PREF
+SDY797	brief_title	9744	type 1 diabetes mellitus	TYPE 1 DIABETES MELLITUS	PREF
+SDY797	brief_title	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY797	condition_studied	9744	type 1 diabetes mellitus	TYPE 1 DIABETES MELLITUS	PREF
+SDY797	condition_studied	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY797	description	417	autoimmune hypersensitivity disease	AUTOIMMUNE DISEASE	SYN
+SDY797	description	4	disease	DISEASE	PREF
+SDY58	condition_studied	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY58	description	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY26	brief_title	8736	smallpox	SMALLPOX	PREF
+SDY26	condition_studied	3298	vaccinia	VACCINIA	PREF
+SDY26	condition_studied	820	myocarditis	MYOCARDITIS	PREF
+SDY26	endpoints	820	myocarditis	MYOCARDITIS	PREF
+SDY26	endpoints	8736	smallpox	SMALLPOX	PREF
+SDY26	hypothesis	8736	smallpox	SMALLPOX	PREF
+SDY26	hypothesis	8736	smallpox	SMALLPOX	PREF
+SDY26	description	8736	smallpox	SMALLPOX	PREF
+SDY26	description	820	myocarditis	MYOCARDITIS	PREF
+SDY134	endpoints	557	kidney disease	NEPHROPATHY	SYN
+SDY134	endpoints	10763	hypertension	HYPERTENSION	PREF
+SDY134	endpoints	2355	anemia	ANEMIA	PREF
+SDY134	endpoints	615	leukopenia	LEUKOPENIA	PREF
+SDY134	endpoints	1227	neutropenia	NEUTROPENIA	PREF
+SDY134	endpoints	4	disease	DISEASE	PREF
+SDY134	description	783	end stage renal failure	END STAGE RENAL DISEASE	SYN
+SDY134	description	4	disease	DISEASE	PREF
+SDY9	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY9	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY9	condition_studied	2723	dermatitis	ECZEMA	SYN
+SDY9	condition_studied	9123	eczema herpeticum	ECZEMA HERPETICUM	PREF
+SDY1015	condition_studied	12365	malaria	MALARIA	PREF
+SDY1015	hypothesis	12365	malaria	MALARIA	PREF
+SDY1015	description	12365	malaria	MALARIA	PREF
+SDY1015	description	4	disease	DISEASE	PREF
+SDY1015	description	1398	parasitic infectious disease	PARASITEMIA	SYN
+SDY6	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY6	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY6	condition_studied	2723	dermatitis	ECZEMA	SYN
+SDY6	condition_studied	2723	dermatitis	ECZEMA	SYN
+SDY6	condition_studied	9123	eczema herpeticum	ECZEMA HERPETICUM	PREF
+SDY6	condition_studied	8867	molluscum contagiosum	MOLLUSCUM CONTAGIOSUM	PREF
+SDY6	endpoints	999	hypereosinophilic syndrome	EOSINOPHILIA	SYN
+SDY6	hypothesis	8736	smallpox	SMALLPOX	PREF
+SDY6	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY6	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY6	description	2723	dermatitis	DERMATITIS	PREF
+SDY6	description	2723	dermatitis	DERMATITIS	PREF
+SDY6	description	3298	vaccinia	VACCINIA	PREF
+SDY6	description	8736	smallpox	SMALLPOX	PREF
+SDY598	condition_studied	3686	obsolete Helicobacter pylori infectious disease	HELICOBACTER PYLORI INFECTION	SYN
+SDY396	brief_title	8469	influenza	INFLUENZA	PREF
+SDY61	brief_title	8469	influenza	INFLUENZA	PREF
+SDY61	brief_title	8469	influenza	INFLUENZA	PREF
+SDY61	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY61	description	8469	influenza	INFLUENZA	PREF
+SDY61	description	8469	influenza	INFLUENZA	PREF
+SDY211	brief_title	2841	asthma	ASTHMA	PREF
+SDY211	condition_studied	2841	asthma	ASTHMA	PREF
+SDY211	endpoints	2841	asthma	ASTHMA	PREF
+SDY211	endpoints	2841	asthma	ASTHMA	PREF
+SDY211	endpoints	2841	asthma	ASTHMA	PREF
+SDY211	endpoints	2841	asthma	ASTHMA	PREF
+SDY211	endpoints	2841	asthma	ASTHMA	PREF
+SDY211	endpoints	2841	asthma	ASTHMA	PREF
+SDY211	endpoints	2841	asthma	ASTHMA	PREF
+SDY211	hypothesis	2841	asthma	ASTHMA	PREF
+SDY211	description	2841	asthma	ASTHMA	PREF
+SDY211	description	2841	asthma	ASTHMA	PREF
+SDY211	description	2841	asthma	ASTHMA	PREF
+SDY211	description	2841	asthma	ASTHMA	PREF
+SDY211	description	2841	asthma	ASTHMA	PREF
+SDY211	description	2841	asthma	ASTHMA	PREF
+SDY211	description	2841	asthma	ASTHMA	PREF
+SDY211	description	2841	asthma	ASTHMA	PREF
+SDY211	description	2841	asthma	ASTHMA	PREF
+SDY211	description	2841	asthma	ASTHMA	PREF
+SDY211	description	2841	asthma	ASTHMA	PREF
+SDY211	description	9415	allergic asthma	ALLERGIC ASTHMA	PREF
+SDY369	brief_title	8469	influenza	INFLUENZA	PREF
+SDY369	brief_title	14203	childhood type dermatomyositis	JUVENILE DERMATOMYOSITIS	SYN
+SDY369	brief_title	10223	dermatomyositis	DERMATOMYOSITIS	PREF
+SDY369	condition_studied	14203	childhood type dermatomyositis	JUVENILE DERMATOMYOSITIS	SYN
+SDY369	condition_studied	10223	dermatomyositis	DERMATOMYOSITIS	PREF
+SDY369	endpoints	8469	influenza	FLU	SYN
+SDY369	hypothesis	8469	influenza	FLU	SYN
+SDY369	description	8469	influenza	INFLUENZA	PREF
+SDY369	description	4	disease	DISEASE	PREF
+SDY1293	brief_title	2732	Rothmund-Thomson syndrome	RTS	SYN
+SDY1293	brief_title	12365	malaria	MALARIA	PREF
+SDY1293	condition_studied	12365	malaria	MALARIA	PREF
+SDY1293	hypothesis	12365	malaria	MALARIA	PREF
+SDY1293	hypothesis	12365	malaria	MALARIA	PREF
+SDY1293	hypothesis	12365	malaria	MALARIA	PREF
+SDY1293	hypothesis	2732	Rothmund-Thomson syndrome	RTS	SYN
+SDY1293	hypothesis	1398	parasitic infectious disease	PARASITEMIA	SYN
+SDY1293	hypothesis	4	disease	DISEASE	PREF
+SDY1293	description	2732	Rothmund-Thomson syndrome	RTS	SYN
+SDY1293	description	2732	Rothmund-Thomson syndrome	RTS	SYN
+SDY1293	description	12365	malaria	MALARIA	PREF
+SDY1293	description	12365	malaria	MALARIA	PREF
+SDY1293	description	14067	Plasmodium falciparum malaria	FALCIPARUM MALARIA	SYN
+SDY506	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY506	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY506	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY506	description	8469	influenza	INFLUENZA	PREF
+SDY202	brief_title	8469	influenza	INFLUENZA	PREF
+SDY202	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY202	hypothesis	8469	influenza	INFLUENZA	PREF
+SDY903	brief_title	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY903	condition_studied	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY903	description	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY1385	description	399	tuberculosis	TUBERCULOSIS	PREF
+SDY1385	description	399	tuberculosis	TUBERCULOSIS	PREF
+SDY619	condition_studied	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY619	condition_studied	2723	dermatitis	DERMATITIS	PREF
+SDY619	hypothesis	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY619	hypothesis	2723	dermatitis	DERMATITIS	PREF
+SDY619	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY619	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY619	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY619	description	3310	atopic dermatitis	ATOPIC DERMATITIS	PREF
+SDY619	description	2723	dermatitis	DERMATITIS	PREF
+SDY619	description	2723	dermatitis	ECZEMA	SYN
+SDY619	description	2723	dermatitis	DERMATITIS	PREF
+SDY619	description	2723	dermatitis	DERMATITIS	PREF
+SDY619	description	2723	dermatitis	DERMATITIS	PREF
+SDY619	description	4	disease	DISEASE	PREF
+SDY1522	condition_studied	3298	vaccinia	VACCINIA	PREF
+SDY1522	condition_studied	8622	measles	MEASLES	PREF
+SDY1522	condition_studied	10264	mumps	MUMPS	PREF
+SDY1522	condition_studied	8781	rubella	RUBELLA	PREF
+SDY1522	condition_studied	8659	chickenpox	VARICELLA	SYN
+SDY1522	condition_studied	11338	tetanus	TETANUS	PREF
+SDY1522	condition_studied	11405	diphtheria	DIPHTHERIA	PREF
+SDY1522	description	3298	vaccinia	VACCINIA	PREF
+SDY1522	description	3298	vaccinia	VACCINIA	PREF
+SDY1522	description	8622	measles	MEASLES	PREF
+SDY1522	description	8622	measles	MEASLES	PREF
+SDY1522	description	8622	measles	MEASLES	PREF
+SDY1522	description	10264	mumps	MUMPS	PREF
+SDY1522	description	10264	mumps	MUMPS	PREF
+SDY1522	description	8781	rubella	RUBELLA	PREF
+SDY1522	description	8781	rubella	RUBELLA	PREF
+SDY1522	description	8659	chickenpox	VARICELLA	SYN
+SDY1522	description	8659	chickenpox	VARICELLA	SYN
+SDY1522	description	11338	tetanus	TETANUS	PREF
+SDY1522	description	11338	tetanus	TETANUS	PREF
+SDY1522	description	11338	tetanus	TETANUS	PREF
+SDY1522	description	11405	diphtheria	DIPHTHERIA	PREF
+SDY1522	description	11405	diphtheria	DIPHTHERIA	PREF
+SDY1522	description	11405	diphtheria	DIPHTHERIA	PREF
+SDY22	brief_title	13258	typhoid fever	TYPHOID	SYN
+SDY22	condition_studied	13258	typhoid fever	TYPHOID	SYN
+SDY22	endpoints	13258	typhoid fever	TYPHOID	SYN
+SDY22	hypothesis	13258	typhoid fever	TYPHOID	SYN
+SDY22	hypothesis	13258	typhoid fever	TYPHOID	SYN
+SDY22	hypothesis	1498	cholera	CHOLERA	PREF
+SDY22	hypothesis	1498	cholera	CHOLERA	PREF
+SDY22	description	13258	typhoid fever	TYPHOID	SYN
+SDY197	brief_title	8469	influenza	INFLUENZA	PREF
+SDY197	brief_title	8857	lupus erythematosus	LUPUS	SYN
+SDY197	condition_studied	8857	lupus erythematosus	LUPUS	SYN
+SDY197	endpoints	8469	influenza	INFLUENZA	PREF
+SDY197	description	8469	influenza	INFLUENZA	PREF
+SDY197	description	8469	influenza	INFLUENZA	PREF
+SDY197	description	8469	influenza	INFLUENZA	PREF
+SDY197	description	8469	influenza	INFLUENZA	PREF
+SDY197	description	8469	influenza	INFLUENZA	PREF
+SDY197	description	8469	influenza	INFLUENZA	PREF
+SDY197	description	8469	influenza	INFLUENZA	PREF
+SDY197	description	8469	influenza	INFLUENZA	PREF
+SDY197	description	8469	influenza	INFLUENZA	PREF
+SDY197	description	4	disease	DISEASE	PREF
+SDY197	description	4	disease	DISEASE	PREF
+SDY197	description	8857	lupus erythematosus	LUPUS	SYN
+SDY197	description	8857	lupus erythematosus	LUPUS	SYN
+SDY197	description	8857	lupus erythematosus	LUPUS	SYN
+SDY197	description	8857	lupus erythematosus	LUPUS	SYN
+SDY197	description	8857	lupus erythematosus	LUPUS	SYN
+SDY1299	brief_title	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY1299	brief_title	848	arthritis	ARTHRITIS	PREF
+SDY1299	brief_title	4	disease	DISEASE	PREF
+SDY1299	condition_studied	7148	rheumatoid arthritis	RHEUMATOID ARTHRITIS	PREF
+SDY1299	condition_studied	848	arthritis	ARTHRITIS	PREF
+SDY1299	condition_studied	8398	osteoarthritis	OSTEOARTHRITIS	PREF
+SDY1437	condition_studied	9744	type 1 diabetes mellitus	TYPE 1 DIABETES MELLITUS	PREF
+SDY1437	condition_studied	9351	diabetes mellitus	DIABETES MELLITUS	PREF
+SDY1437	description	9993	hypoglycemia	HYPOGLYCEMIA	PREF
+SDY514	brief_title	8469	influenza	INFLUENZA	PREF
+SDY514	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY225	brief_title	8469	influenza	INFLUENZA	PREF
+SDY225	brief_title	4	disease	DISEASE	PREF
+SDY225	condition_studied	4	disease	DISEASE	PREF
+SDY225	hypothesis	4	disease	DISEASE	PREF
+SDY225	description	4	disease	DISEASE	PREF
+SDY225	description	4	disease	DISEASE	PREF
+SDY225	description	8469	influenza	INFLUENZA	PREF
+SDY225	description	934	viral infectious disease	VIRUS INFECTION	SYN
+SDY1028	condition_studied	2841	asthma	ASTHMA	PREF
+SDY1028	endpoints	2841	asthma	ASTHMA	PREF
+SDY1028	endpoints	2841	asthma	ASTHMA	PREF
+SDY167	brief_title	8469	influenza	INFLUENZA	PREF
+SDY167	condition_studied	8469	influenza	INFLUENZA	PREF
+SDY1029	condition_studied	2841	asthma	ASTHMA	PREF
+SDY1029	description	4481	allergic rhinitis	ALLERGIC RHINITIS	PREF
+SDY1029	description	4483	rhinitis	RHINITIS	PREF
+SDY1029	description	2841	asthma	ASTHMA	PREF
+SDY1085	description	8712	neurofibromatosis	NEUROFIBROMATOSIS TYPE 1	SYN
+SDY1085	description	8712	neurofibromatosis	NEUROFIBROMATOSIS	PREF

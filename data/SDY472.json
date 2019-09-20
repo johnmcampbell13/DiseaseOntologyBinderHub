@@ -1,0 +1,118 @@
+{
+    "study_accession": "SDY472",
+    "actual_completion_date": null,
+    "actual_enrollment": 24,
+    "actual_start_date": "2013-09-01",
+    "age_unit": "Years",
+    "brief_description": "investigate the responses to licensed trivalent, inactivated influenza vaccine (TIV) delivered by different routes: intramuscular (IM) and intradermal (ID) and to the live, attenuated influenza vaccine (LAIV) administered intranasally -- all given to generally healthy male and female adult volunteers.",
+    "brief_title": "Plasmablast response to inactivated and live attenuated influenza vaccines (TIV3/TIV3 ID) in SLVP021 2013",
+    "clinical_trial": "Y",
+    "condition_studied": "Peripheral plasmablast response to influenza vaccines at day 7 after vaccination",
+    "dcl_id": 2,
+    "description": "The aim of this study is to compare the response to different formulations of licensed influenza vaccines.\n\nThe type of seasonal influenza vaccination(s) received independently by volunteers in the year(s) since their last study visit will not impact eligibility. Volunteers will be assigned into one of three vaccine groups (intramuscular trivalent inactivated influenza vaccine (TIV); live attenuated influenza vaccine (LAIV- given year 1 only) or intradermal TIV, based on the type of study vaccine they received in 2010, 2011, 2012, or 2013. All participants will receive a single dose of their assigned seasonal influenza vaccine. Volunteers will complete 3 study visits at Day 0, Day 6-8 and Day 24-32.",
+    "doi": "10.21430/M3KHTSSSN7",
+    "endpoints": "PPAb titer by Elisa; vaccine-specific ASC counts by Elispot",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "Compare the response to different formulations of licensed influenza vaccines.",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": "Influenza vaccine TIV",
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "35",
+    "minimum_age": "18",
+    "objectives": "To study the plasmablast response to 2013 seasonal inactivated influenza vaccine",
+    "official_title": "Plasmablast response to inactivated and live attenuated influenza vaccines (TIV3/TIV3 ID) in 2013",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 40,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2510",
+            "description": "18-32 year old adults immunized intramuscularly with TIV",
+            "name": "IM TIV group"
+        },
+        {
+            "arm_accession": "ARM2511",
+            "description": "18-32 year old adults immunized intradermally with TIV",
+            "name": "ID TIV group"
+        },
+        {
+            "arm_accession": "ARM2522",
+            "description": "CyTOF control samples",
+            "name": "CyTOF control samples"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Harry",
+            "last_name": "Greenberg",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 24
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 136
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 46
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 4
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 2
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 3
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 13
+            }
+        ],
+        "gender": [
+            {
+                "Female": 15
+            },
+            {
+                "Male": 8
+            },
+            {
+                "Not Specified": 1
+            }
+        ]
+    }
+}

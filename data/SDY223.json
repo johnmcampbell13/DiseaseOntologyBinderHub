@@ -1,0 +1,85 @@
+{
+    "study_accession": "SDY223",
+    "actual_completion_date": null,
+    "actual_enrollment": 54,
+    "actual_start_date": "2009-01-01",
+    "age_unit": "Years",
+    "brief_description": "There is currently no effective way to prevent development of allergic rhinitis (nasal allergies) and asthma and no cure. Sublingual immunotherapy (SLIT), a type of therapy in which allergens are placed under the tongue, may be a way to control and possibly prevent allergic rhinitis and asthma. However, detailed research of this approach is limited. The purpose of this study is to evaluate the safety and efficacy of a sublingual cockroach extract given to adults with perennial allergic rhinitis, asthma, or both.",
+    "brief_title": "A Biomarker-based Pilot Study of Cockroach Sublingual Immunotherapy in Cockroach Sensitive Adults With Asthma and/or Perennial Allergic Rhinitis (BioCSI/ICAC-12)",
+    "clinical_trial": "Y",
+    "condition_studied": "Asthma and Allergic Rhinitis",
+    "dcl_id": 2,
+    "description": "Over the last two decades, the prevalence of asthma has dramatically increased in many parts of the world. Currently, there are no effective ways to prevent the development of nasal allergies and asthma, and there are no cures for these diseases. Sublingual immunotherapy (SLIT) may help reduce symptoms of allergy and asthma. The purpose of this study is to evaluate the safety and efficacy of a cockroach extract given sublingually to adults with perennial (year-round) nasal allergies, asthma, or both. At study entry, participants will receive a dose of placebo and then up to five incremental doses of cockroach extract or placebo at 15-minute intervals while observed by the clinical research staff. Doses will continue to be given until a sign or symptom occurs that indicates the participant is having difficulty tolerating the drug, or until the maximum study dose is reached. For the next 6 months, participants will take the maximum study dose of cockroach extract or placebo daily at home. This study will consist of 8 study visits. Skin tests, breathing tests, and blood collection will occur at study screening and other visits during the study. At study entry, participants will be taught to use an EpiPen in the event of a severe allergic reaction at any time during the study. A physical and oral exam, breathing test, and blood collection will occur at study entry and all follow-up visits.",
+    "doi": "10.21430/M34X4ULP41",
+    "endpoints": "<p><b>Primary Endpoint</b></p><p>The detection of a 3-fold group means difference in cockroach specific IgE, between glycerinated German cockroach allergenic extract and placebo groups, measured over 6 months</p><p><b>Secondary Endpoints</b></p><p>To evaluate immune stimulation by glycerinated German cockroach allergenic extract versus placebo via:</p><ol><li>Cockroach specific IgG</li><li>Cockroach specific IgG4</li><li>Cockroach specific blocking antibodies</li><li>Biomarker studies including but not limited to basophil activation, basophil releasability, and antigen uptake</li></ol><p>To evaluate safety via:</p><ol><li>Adverse events, including measures of severity, seriousness, and treatment relatedness</li><li>Serious adverse events, including measures of severity and treatment relatedness</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Sublingual immunotherapy using cockroach allergen reduces cockroach-specific IgE in asthma and allergic rhinitis patients with cockroach sensitization.",
+    "initial_data_release_date": "2013-09-30",
+    "initial_data_release_version": "DR4",
+    "intervention_agent": "Glycerinated German cockroach (Blattella germanica) allergenic extract",
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  50.00",
+    "minimum_age": "  18.00",
+    "objectives": "<p><b>Primary Objective</b></p><p>The primary objective of this study is to determine if the MSD [420 ul (1:20 w/v)] of cockroach SLIT that was demonstrated to be safe in SCSS will induce a 3-fold group means difference in cockroach IgE, a biomarker of allergen desensitization, from that of placebo when measured over 6 months.</p><p><b>Secondary Objectives</b></p><p>The secondary objective of this study is to determine if the MSD used in SCSS will induce changes in other relevant biomarkers of allergen desensitization, such as cockroach specific IgG, IgG4 and blocking antibodies, as well as biomarker studies. It will also be determined if treatment with cockroach SLIT is safe. It is hypothesized that there will be no significant differences in systemic allergic reactions or SAEs in the active versus placebo groups.</p>",
+    "official_title": "A Biomarker-based Pilot Study of Cockroach Sublingual Immunotherapy in Cockroach Sensitive Adults With Asthma and/or Perennial Allergic Rhinitis (ICAC-12)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 54,
+    "workspace_id": 3134,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM924",
+            "description": "Participants with German cockroach allergy and mild to moderate asthma, rhinitis, or both self-administered concentrated (1:20 weight per volume [w/v]) daily doses of glycerinated German cockroach allergenic extract (50% glycerin) placed under the tongue (sublingually) to dissolve. The treatment course and study duration was 6 months. Note: The extract was also administered during the preliminary dosing visits, up to five escalating doses, or until the maximum study dose (420 microliters, 1:20 w/v) was achieved.",
+            "name": "Experimental: Glycerinated German Cockroach Allergenic Extract"
+        },
+        {
+            "arm_accession": "ARM925",
+            "description": "Participants with German cockroach allergy and mild to moderate asthma, rhinitis, or both self-administered daily doses of placebo placed under the tongue (sublingually) to dissolve. The treatment course and study duration was 6 months. Note: The placebo was also administered during the preliminary dosing visits, up to five escalating doses, or until the maximum study dose (420 microliters, 1:20 weight per volume [w/v]) was achieved.",
+            "name": "Placebo Comparator: Placebo"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Robert",
+            "last_name": "Wood",
+            "organization": "Johns Hopkins University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Johns Hopkins University School of Medicine"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Inner City Asthma Consortium (ICAC) RFA-AI-13-036",
+            "contract_name": "Inner City Asthma Consortium (ICAC)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 33
+            },
+            {
+                "race": "Other",
+                "count": 13
+            },
+            {
+                "race": "White",
+                "count": 8
+            }
+        ],
+        "gender": [
+            {
+                "Female": 38
+            },
+            {
+                "Male": 16
+            }
+        ]
+    }
+}

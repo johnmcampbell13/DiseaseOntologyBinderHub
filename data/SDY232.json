@@ -1,0 +1,130 @@
+{
+    "study_accession": "SDY232",
+    "actual_completion_date": null,
+    "actual_enrollment": 22,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Natural Killer (NK) cells play critical roles in immune defense and reproduction, yet remain the most poorly understood lymphocyte population. Because their activation is controlled by a variety of combinatorially expressed activating and inhibitory receptors, NK cell diversity and function are closely linked. To provide an unprecedented understanding of NK cell repertoire diversity, we used mass cytometry to simultaneously analyze 35 parameters, including 28 NK cell receptors, on peripheral blood NK cells from five sets of monozygotic twins and twelve unrelated donors of defined HLA and killer cell immunoglobulin-like receptor (KIR) genotype. This analysis revealed a remarkable degree of NK cell diversity, with an estimated 6,000-30,000 phenotypic populations within an individual and >100,000 phenotypes in this population. Genetics largely determined inhibitory receptor expression, whereas activation receptor expression was heavily environmentally influenced. Therefore, NK cells may maintain self-tolerance through strictly regulated expression of inhibitory receptors, while using adaptable expression patterns of activating and costimulatory receptors to respond to pathogens and tumors. These findings further suggest the possibility that discrete NK cell subpopulations could be harnessed for immunotherapeutic strategies in the settings of infection, reproduction, and transplantation",
+    "brief_title": "Determinants of human NK cell diversity by mass cytometry",
+    "clinical_trial": "N",
+    "condition_studied": "This was purely an observational study phenotyping Nk cells in healthy adults. No specific conditions was evaluated.",
+    "dcl_id": 2,
+    "description": "Natural Killer (NK) cells play critical roles in immune defense and reproduction, yet remain the most poorly understood lymphocyte population. Because their activation is controlled by a variety of combinatorially expressed activating and inhibitory receptors, NK cell diversity and function are closely linked. To provide an unprecedented understanding of NK cell repertoire diversity, we used mass cytometry to simultaneously analyze 35 parameters, including 28 NK cell receptors, on peripheral blood NK cells from five sets of monozygotic twins and twelve unrelated donors of defined HLA and killer cell immunoglobulin-like receptor (KIR) genotype. This analysis revealed a remarkable degree of NK cell diversity, with an estimated 6,000-30,000 phenotypic populations within an individual and >100,000 phenotypes in this population. Genetics largely determined inhibitory receptor expression, whereas activation receptor expression was heavily environmentally influenced. Therefore, NK cells may maintain self-tolerance through strictly regulated expression of inhibitory receptors, while using adaptable expression patterns of activating and costimulatory receptors to respond to pathogens and tumors. These findings further suggest the possibility that discrete NK cell subpopulations could be harnessed for immunotherapeutic strategies in the settings of infection, reproduction, and transplantation",
+    "doi": "10.21430/M3J7Z67HEA",
+    "endpoints": "The endpoint of this study was to describe and quantify the diversity within the Nk cell repertoire. This study revealed >100,000 phenotypes of Nk cells across 22 healthy adult donors. We demonstrated and described the diversity of the repertoire using numerous techniques, e.g. Boolean analyses, SPADE clustering algorythm, PCA, Inverse Simpson Index, etc.",
+    "gender_included": "Female, Male, Unknown",
+    "hypothesis": "We hypothesized that genetics and environment differentially influence the formation and stability of the NK cell repertoire .",
+    "initial_data_release_date": "2013-11-01",
+    "initial_data_release_version": "DR5",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-11-01",
+    "latest_data_release_version": "DR5",
+    "maximum_age": "  64.00",
+    "minimum_age": "    .00",
+    "objectives": "We measured expression of 28 NK cell related markers, comprising both inhibitory and activating receptors using high-dimensional mass cytometry. Staining of cells was all performed ex vivo on cropreserved PBMC from healthy, unrelated human donors. We also had an arm of this study to measure these same 28 receptors in 5 pairs of monozygotic twins. Access to these samples allowed us to determine which receptors were under stronger genetic regulation and which markers were influenced more from environment.",
+    "official_title": "Genetic and environmental determinants of human NK cell diversity revealed by mass cytometry",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM953",
+            "description": "Healthy unrelated adults",
+            "name": "Unrelated Adults"
+        },
+        {
+            "arm_accession": "ARM954",
+            "description": "Healthy monozygotic twin adults",
+            "name": "First pair of twins"
+        },
+        {
+            "arm_accession": "ARM955",
+            "description": "Healthy monozygotic twin adults",
+            "name": "Second pair of twins"
+        },
+        {
+            "arm_accession": "ARM956",
+            "description": "Healthy monozygotic twin adults",
+            "name": "Third pair of twins"
+        },
+        {
+            "arm_accession": "ARM957",
+            "description": "Healthy monozygotic twin adults",
+            "name": "Fourth pair of twins"
+        },
+        {
+            "arm_accession": "ARM958",
+            "description": "Healthy monozygotic twin adults",
+            "name": "Fifth pair of twins"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Catherine",
+            "last_name": "Blish",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Genetic and environmental determinants of human NK cell diversity revealed by mass cytometry.",
+            "journal": "Sci Transl Med.",
+            "month": "Oct",
+            "year": "2013",
+            "doi": "10.1126/scitranslmed.3006702.",
+            "pubmed_id": "24154599"
+        },
+        {
+            "title": "Coordinated regulation of NK receptor expression in the maturing human immune system.",
+            "journal": "J Immunol.",
+            "month": "Nov",
+            "year": "2014",
+            "doi": "10.4049/jimmunol.1401821. Epub 2014 Oct 6.",
+            "pubmed_id": "25288567"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 22
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Other",
+                "count": 4
+            },
+            {
+                "race": "Unknown",
+                "count": 12
+            },
+            {
+                "race": "White",
+                "count": 6
+            }
+        ],
+        "gender": [
+            {
+                "Female": 11
+            },
+            {
+                "Male": 9
+            },
+            {
+                "Unknown": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY1363",
+    "actual_completion_date": null,
+    "actual_enrollment": 75,
+    "actual_start_date": "2014-03-01",
+    "age_unit": "Years",
+    "brief_description": "In utero exposure to environmental chemicals can adversely impact pregnancy outcomes and childhood health but minimal biomonitoring data exist on the majority of chemicals used in commerce.",
+    "brief_title": "Suspect screening for chemicals in pregnant women",
+    "clinical_trial": "N",
+    "condition_studied": "in utero  chemical exposure",
+    "dcl_id": 2,
+    "description": "In utero exposure to environmental chemicals can adversely impact pregnancy outcomes and childhood health but minimal biomonitoring data exist on the majority of chemicals used in commerce.",
+    "doi": "10.21430/M3ZWNRQPCG",
+    "endpoints": "LC-QTOF/MS",
+    "gender_included": "Female",
+    "hypothesis": "a suspect screening method combining non-targeted data acquisition using high-resolution mass spectrometry and targeted data analysis can be used to screen for a subset of environmental chemicals in human biological samples that called environmental organic acids (EOAs)",
+    "initial_data_release_date": "2019-06-19",
+    "initial_data_release_version": "DR31",
+    "intervention_agent": null,
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "  60.00",
+    "minimum_age": "  16.00",
+    "objectives": "Improve biomonitoring data for in utero exposure to chemicals used in commerce.",
+    "official_title": "Suspect Screening Method for Characterizing Multiple Chemical Exposures among a Demographically Diverse Population of Pregnant Women in San Francisco",
+    "sponsoring_organization": "NIEHS",
+    "target_enrollment": 75,
+    "workspace_id": 6250,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4622",
+            "description": "Pregnant subjects",
+            "name": "Pregnant subjects"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Tracey",
+            "last_name": "Woodruff",
+            "organization": "UCSF Program on Reproductive Health and the Environment",
+            "role_in_study": "Principal Investigator",
+            "site_name": "UCSF Program on Reproductive Health and the Environment"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "NIH Revision Awards for Creating Virtual Consortium for Translational/Transdisciplinary Environmental Research (ViCTER)",
+            "contract_name": "Transdisciplinary Approach To Rapidly Identify Reproductive Toxics In Pregnant Women And Newborns"
+        },
+        {
+            "program_name": "Children's Environmental Health and Disease Prevention Research Centers",
+            "contract_name": "UCSF Pregnancy Exposures To Environmental Chemicals (PEEC) Children's Center"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Mass Spectrometry",
+            "number_of_expsamples": 75
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 12
+            },
+            {
+                "race": "Black or African American",
+                "count": 4
+            },
+            {
+                "race": "Not Specified",
+                "count": 29
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 29
+            }
+        ],
+        "gender": [
+            {
+                "Female": 75
+            }
+        ]
+    }
+}

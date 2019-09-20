@@ -1,0 +1,126 @@
+{
+    "study_accession": "SDY1299",
+    "actual_completion_date": "2018-01-31",
+    "actual_enrollment": 45,
+    "actual_start_date": "2015-09-24",
+    "age_unit": "Years",
+    "brief_description": "Gene expression analysis of RA and OA synovial tissue revealed 3 distinct synovial subtypes.  These labels were used to generate a histologic scoring algorithm in which the histologic scores were found to be associated with parameters of systemic inflammation, including the erythrocyte sedimentation rate, CRP levels, and autoantibody levels.  Comparison of gene expression patterns to clinical features revealed a potentially clinically important distinction: mechanisms of pain may differ in patients with different synovial subtypes.",
+    "brief_title": "Identification of Three Rheumatoid Arthritis Disease Subtypes By Machine Learning Integration of Synovial Histologic Features and RNA Sequencing Data",
+    "clinical_trial": "N",
+    "condition_studied": "Rheumatoid arthritis (RA), Osteoarthritis (OA)",
+    "dcl_id": 2,
+    "description": "Gene expression analysis of RA and OA synovial tissue revealed 3 distinct synovial subtypes.  These labels were used to generate a histologic scoring algorithm in which the histologic scores were found to be associated with parameters of systemic inflammation, including the erythrocyte sedimentation rate, CRP levels, and autoantibody levels.  Comparison of gene expression patterns to clinical features revealed a potentially clinically important distinction: mechanisms of pain may differ in patients with different synovial subtypes.",
+    "doi": "10.21430/M3V2G6PBYS",
+    "endpoints": "Clinical assessments, histology, RNA Seq, serum levels of antibodies targeting 38 putative RA-associated autoantigens,",
+    "gender_included": "Female, Male, Unknown",
+    "hypothesis": "Correlations between clinical features, histology, and gene expresion can be identified.",
+    "initial_data_release_date": "2018-07-06",
+    "initial_data_release_version": "DR27",
+    "intervention_agent": "None",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  81.00",
+    "minimum_age": "  18.00",
+    "objectives": "This study sought to refine histologic scoring of rheumatoid arthritis (RA) synovial tissue by training with gene expression data and machine learning.",
+    "official_title": "Identification of Three Rheumatoid Arthritis Disease Subtypes By Machine Learning Integration of Synovial Histologic Features and RNA Sequencing Data",
+    "sponsoring_organization": "NIAMS",
+    "target_enrollment": 45,
+    "workspace_id": 5290,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4473",
+            "description": "ACR classification criteria for RA",
+            "name": "Rheumatoid arthritis (RA)"
+        },
+        {
+            "arm_accession": "ARM4474",
+            "description": "ACR classification criteria for OA",
+            "name": "Osteoarthritis (OA)"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Laura",
+            "last_name": "Donlin",
+            "organization": "Hospital for Special Surgery, The Rockefeller University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Hospital for Special Surgery"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Identification of Three Rheumatoid Arthritis Disease Subtypes by Machine Learning Integration of Synovial Histologic Features and RNA Sequencing Data.",
+            "journal": "Arthritis Rheumatol.",
+            "month": "May",
+            "year": "2018",
+            "doi": "10.1002/art.40428. Epub 2018 Apr 2.",
+            "pubmed_id": "29468833"
+        },
+        {
+            "title": "Histologic and transcriptional evidence of subclinical synovial inflammation in rheumatoid arthritis patients in clinical remission.",
+            "journal": "Arthritis Rheumatol.",
+            "month": "Mar",
+            "year": "2019",
+            "doi": "-",
+            "pubmed_id": "30835943"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Accelerating Medicines Partnership RA/SLE (AMP RA/SLE) RFA-AR-14-016",
+            "contract_name": "Accelerating Medicines Partnership RA/SLE (AMP RA/SLE)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Protein microarray",
+            "number_of_expsamples": 45
+        },
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 45
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 6
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 1
+            },
+            {
+                "race": "Not Specified",
+                "count": 6
+            },
+            {
+                "race": "Other",
+                "count": 6
+            },
+            {
+                "race": "White",
+                "count": 23
+            }
+        ],
+        "gender": [
+            {
+                "Female": 32
+            },
+            {
+                "Male": 7
+            },
+            {
+                "Unknown": 6
+            }
+        ]
+    }
+}

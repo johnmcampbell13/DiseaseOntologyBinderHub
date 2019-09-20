@@ -1,0 +1,78 @@
+{
+    "study_accession": "SDY1153",
+    "actual_completion_date": "2010-12-31",
+    "actual_enrollment": 2,
+    "actual_start_date": "2009-01-01",
+    "age_unit": "Years",
+    "brief_description": "Explore combinatorial TNFa and IFNb treatment of DCs",
+    "brief_title": "Induction of maturation Marker after combinatorial TNFa and IFNb treatment",
+    "clinical_trial": "N",
+    "condition_studied": "Normal immune system",
+    "dcl_id": 0,
+    "description": "Explore combinatorial TNFa and IFNb treatment of DCs",
+    "doi": "10.21430/M35IWA4GOQ",
+    "endpoints": "Flow cytometry, microarray",
+    "gender_included": "Not Specified",
+    "hypothesis": "DC maturation repsonse to combination of treatments different from single treatment",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "TNFa and IFNb",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "Define DC maturation repsonse to combination of treatments",
+    "official_title": "Induction of maturation Marker after combinatorial TNFa and IFNb treatment",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 2,
+    "workspace_id": 1281,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4050",
+            "description": "DCs from healthy subjects used in in vitro studies",
+            "name": "Healthy subjects"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "NC",
+            "last_name": "Fellini",
+            "organization": "Mount Sinai School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "MSSM"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "Modeling Viral Immunity and Antagonism"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 54
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 21
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 2
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 2
+            }
+        ]
+    }
+}

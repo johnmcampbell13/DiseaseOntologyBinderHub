@@ -1,0 +1,81 @@
+{
+    "study_accession": "SDY1173",
+    "actual_completion_date": "2016-12-30",
+    "actual_enrollment": null,
+    "actual_start_date": "1997-01-01",
+    "age_unit": "Years",
+    "brief_description": "This study identified four loci involved in gestational duration and three with preterm birth through a genome-wide association screen performed on a discovery data set and confirmed with a replication data set.",
+    "brief_title": "Genetic Associations with Gestational Duration and Spontaneous Preterm Birth",
+    "clinical_trial": "N",
+    "condition_studied": "Gestational duration and preterm birth",
+    "dcl_id": 2,
+    "description": "A genome wide association study was performed in a discovery set of samples obtained from 43,568 women of European ancestry using gestational duration as a continuous trait and term or preterm (<37 weeks) birth as a dichotomous outcome. Samples from three Nordic data sets (involving a total of 8643 women) were used to test for replication of genomic loci that had significant genome wide association (P<5.0?10?8) or an association with suggestive significance (P<1.0?10?6) in the discovery set. Four loci were associated significantly with gestational duration, and three showed association with preterm birth with genome wide significance. An analysis of mother?infant dyads suggested that these variants act at the level of the maternal genome. Data is shared at http://www.genestation.org/analysis/gwas/Zhang_2017/discovery",
+    "doi": "10.21430/M3F345ZL81",
+    "endpoints": "GWAS data",
+    "gender_included": "Not Specified",
+    "hypothesis": "Variation in birth timing and in the risk of preterm birth arises from genetic factors that largely but not exclusively reside in the maternal genome. Preterm birth, and gestational duration in general, is a complicated phenotype that is affected by both maternal and fetal genomes.",
+    "initial_data_release_date": "2017-11-07",
+    "initial_data_release_version": "DR24",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-11-07",
+    "latest_data_release_version": "DR24",
+    "maximum_age": "40",
+    "minimum_age": "18",
+    "objectives": "This study tested for genetic associations with gestational duration (a quantitative trait) as well as preterm birth (a dichotomous trait) in a large cohort of subjects to increase statistical power to detect genome wideassociation.",
+    "official_title": "Genetic Associations with Gestational Duration and Spontaneous Preterm Birth",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 52211,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4103",
+            "description": "GWAS discovery data set",
+            "name": "Discovery data set"
+        },
+        {
+            "arm_accession": "ARM4104",
+            "description": "GWAS replication data set",
+            "name": "Replication data set"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Bo",
+            "last_name": "Jacobsson",
+            "organization": "Department of Obstetrics and Gynecology, Sahlgrenska University Hospital, Gothenburg, Sweden",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Obstetrics and Gynecology, Sahlgrenska University Hospital, Gothenburg, Sweden"
+        },
+        {
+            "first_name": "Louis",
+            "last_name": "Muglia",
+            "organization": "Cincinnati Children?s Hospital  Medical  Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Cincinnati Children?s Hospital  Medical  Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Genetic Associations with Gestational Duration and Spontaneous Preterm Birth",
+            "journal": "New England Journal of Medecine",
+            "month": "September",
+            "year": "2017",
+            "doi": "10.1056/NEJMoa1612665",
+            "pubmed_id": "28877031"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

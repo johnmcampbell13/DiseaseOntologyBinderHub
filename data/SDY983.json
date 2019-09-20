@@ -1,0 +1,104 @@
+{
+    "study_accession": "SDY983",
+    "actual_completion_date": null,
+    "actual_enrollment": 121,
+    "actual_start_date": "2016-01-01",
+    "age_unit": "Weeks",
+    "brief_description": "Using the Collaborative Cross, a population of recombinant inbred mouse strains with high levels of standing genetic variation, we have identified a mouse model of persistent WNV disease, with persistence of viral loads within the brain.",
+    "brief_title": "A Mouse Model of Chronic West Nile Virus",
+    "clinical_trial": "N",
+    "condition_studied": "Immune response to WNV infection",
+    "dcl_id": 2,
+    "description": "Using the Collaborative Cross, a population of recombinant inbred mouse strains with high levels of standing genetic variation, we have identified a mouse model of persistent WNV disease, with persistence of viral loads within the brain.",
+    "doi": "10.21430/M3D8E1D6Z8",
+    "endpoints": "Weight, viral load, qPCR, flow cytometry, microarray gene expression",
+    "gender_included": "Male",
+    "hypothesis": "We hypothesize that a regulatory T cell response sufficiently restrains the immune response such that a chronic infection can be maintained in the CNS.",
+    "initial_data_release_date": "2017-04-21",
+    "initial_data_release_version": "DR21",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "  10.00",
+    "minimum_age": "   8.00",
+    "objectives": "Identify a mouse model of chronic WNV infection using the Collaborative Cross, a panel of reproducible recombinant inbred mouse strains with a high degree of standing genetic variation.",
+    "official_title": "A Mouse Model of Chronic West Nile Virus",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 5880,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3528",
+            "description": "C57BL/6J",
+            "name": "B6"
+        },
+        {
+            "arm_accession": "ARM3529",
+            "description": "CC(032x013)F1 mice",
+            "name": "CC(032x013)F1"
+        },
+        {
+            "arm_accession": "ARM3530",
+            "description": "CC(017x004)F1 mice",
+            "name": "CC(017x004)F1"
+        },
+        {
+            "arm_accession": "ARM3531",
+            "description": "CC(011x042)F1 mice",
+            "name": "CC(011x042)F1"
+        },
+        {
+            "arm_accession": "ARM3532",
+            "description": "CC(032x017)F1 mice",
+            "name": "CC(032x017)F1"
+        },
+        {
+            "arm_accession": "ARM3533",
+            "description": "CC(005x001)F1 mice",
+            "name": "CC(005x001)F1"
+        },
+        {
+            "arm_accession": "ARM3534",
+            "description": "CC(061x026)F1 mice",
+            "name": "CC(061x026)F1"
+        },
+        {
+            "arm_accession": "ARM3535",
+            "description": "CC(016x038)F1 mice",
+            "name": "CC(016x038)F1"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jennifer",
+            "last_name": "Lund",
+            "organization": "Fred Hutchinson Cancer Research Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Fred Hutchinson Cancer Research Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "A Mouse Model of Chronic West Nile Virus Disease.",
+            "journal": "PLoS Pathog.",
+            "month": "Nov",
+            "year": "2016",
+            "doi": "10.1371/journal.ppat.1005996. eCollection 2016.",
+            "pubmed_id": "27806117"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Systems Approach to Immunity and Inflammation RFA-AI-11-017",
+            "contract_name": "Systems Immunogenetics of Biodefense Pathogens in the Collaborative Cross"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

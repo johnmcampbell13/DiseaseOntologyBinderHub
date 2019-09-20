@@ -1,0 +1,153 @@
+{
+    "study_accession": "SDY28",
+    "actual_completion_date": null,
+    "actual_enrollment": 1092,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Our broad objective is to examine the role of candidate human immune response gene polymorphisms (and their receptors, expression and function) in inter-individual variability in vaccinia vaccine-induced humoral and cell-mediated immune responses among a cohort of 1,000 vaccinated subjects.",
+    "brief_title": "Humoral and Cell-Mediated Immune Responses to Vaccinia Virus Immunization",
+    "clinical_trial": "N",
+    "condition_studied": "Role of candidate human immune response gene polymorphisms (and their receptors, expression and function) in inter-individual variability in vaccinia-induced humoral and cell-mediated immune responses among a cohort of 1,000 recently vaccinated subjects. ",
+    "dcl_id": 2,
+    "description": "Our broad objective is to examine the role of candidate human immune response gene polymorphisms (and their receptors, expression and function) in inter-individual variability in vaccinia vaccine-induced humoral and cell-mediated immune responses among a cohort of 1,000 recently vaccinated subjects.<br/><br/>In Research Area 1, we propose to study associations between specific class I and II HLA alleles (HLA-A, -B, -C, -DRB, -DQA, -DQB, -DPA, -DPB), specific cytokine genes, polymorphisms of the above cytokine receptors, a genome-wide SNP analysis; and variations in immune response to smallpox vaccine.<br/><br/>In Research Area 2, we focus on identifying associations between expression and function of these same candidate genes likely to regulate immune response variations and humoral and cell-mediated immune responses following smallpox vaccination in selected human subjects. Both gene products (i.e., secreted proteins), cell surface expression, and measures of gene regulation/activation will be pursued. We focus on gene families involved in initiating, sustaining and regulating innate and adaptive immune responses, as well as those directly involved in directing specific antibody and cytotoxic T cell responses.",
+    "doi": "10.21430/M3K3UZWK6S",
+    "endpoints": "<ol><li>ELISA-neutralizing antibody titers.</li><li>ELISPOT-Antigen specific cells.</li><li>HLA Genotyping- A, B, C, DRB, DQA, DPA, DPB.</li><li>SNP Genotyping of Cytokine and cytokine receptor genes.</li><li>Genome Wide Association Study (GWAS).</li><li>Microarray analysis of PBMC responses.</li><li>ELISA- Cytokines.</li><li>Flow Cytometry-HLA Class I & II.</li></ol>",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "This study will address the following hypotheses,<ul><li>That one administration of Dryvax will induce an anti-vaccinia antibody response with adequate serum levels to inhibit viral infection in vitro within 4 years of immunization.</li><li>That one administration of Dryvax will generate anti-vaccinia CD8+ and/or total PBMC capable of producing IFN-gamma; and/or IL-10 upon in vitro restimulation with inactivated vaccinia virus up to four years after immunization.</li><li>That HLA polymorphisms will influence the humoral and/or cell-mediated responses (assayed in other experiments) to vaccinia immunization.</li><li>That polymorphisms in cytokine and/or cytokine receptor genes will influence the humoral and/or cell-mediated responses (assayed in other experiments) to vaccinia immunization.</li><li>That polymorphisms in one or more genes associated with any of 500,000 SNPs will influence the humoral and/or cell-mediated responses (assayed in other experiments) to vaccinia immunization.</li><li>That subjects with relatively weak and relatively strong humoral and cell-mediated immune responses (as measured by T cell IFN-gamma; secretion upon in vitro PBMC restimulation and serum anti-vaccinia neutralizing antibody titers) to single-dose Dryvax vaccinia immunization will, up to 4 years post-vaccination and upon in vitro restimulation, differ in PBMC RNA expression patterns.</li><li>That one administration of Dryvax will generate vaccinia-specific T cells that, up to 4 years post-vaccination and upon in vitro restimulation, will (along with other responding cells in the PBMC mixture) elaborate cytokines detectable by ELISA.</li><li>That CD4+ and CD8+ cells from subjects vaccinated with a single dose of Dryvax will, up to 4 years post-vaccination and upon restimulation in a mixture of PBMC, differentially express HLA class I and/or class II on their cell surface in different subjects.</li></ul>",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Dryvax\r",
+    "latest_data_release_date": "2013-08-15",
+    "latest_data_release_version": "DR3",
+    "maximum_age": "30",
+    "minimum_age": "18",
+    "objectives": "To correlate variability in humoral and cell-mediated immune responses to vaccinia virus immunization with genetic variation in the HLA, cytokine and cytokine receptor genes and the broader genome.",
+    "official_title": "Humoral and Cell-Mediated Immune Responses to Vaccinia Virus Immunization",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 1076,
+    "workspace_id": 596,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM81",
+            "description": "Subjects vaccinated with a single dose of Dryvax not more than 48 months before enrollment.",
+            "name": "Dryvax vaccine recipients"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Gregory",
+            "last_name": "Poland",
+            "organization": "Mayo Vaccine Research Group",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\"Mayo Clinic, Rochester MN\"\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Response surface methodology to determine optimal cytokine responses in human peripheral blood mononuclear cells after smallpox vaccination.",
+            "journal": "J Immunol Methods.",
+            "month": "Feb",
+            "year": "2009",
+            "doi": "10.1016/j.jim.2008.11.001. Epub 2008 Nov 25.",
+            "pubmed_id": "19038260"
+        },
+        {
+            "title": "High-dimensional gene expression profiling studies in high and low responders to primary smallpox vaccination.",
+            "journal": "J Infect Dis.",
+            "month": "Nov",
+            "year": "2012",
+            "doi": "10.1093/infdis/jis546. Epub 2012  Sep 4.",
+            "pubmed_id": "22949304"
+        },
+        {
+            "title": "Transcriptomic profiles of high and low antibody responders to smallpox vaccine.",
+            "journal": "Genes Immun.",
+            "month": "Jul",
+            "year": "2013",
+            "doi": "10.1038/gene.2013.14.",
+            "pubmed_id": "23594957"
+        },
+        {
+            "title": "Race and sex-based differences in cytokine immune responses to smallpox vaccine in healthy individuals.",
+            "journal": "Hum Immunol.",
+            "month": "Oct",
+            "year": "2013",
+            "doi": "10.1016/j.humimm.2013.06.031. Epub 2013 Jun 24.",
+            "pubmed_id": "23806267"
+        },
+        {
+            "title": "The Integration of Epistasis Network and Functional Interactions in a GWAS Implicates RXR Pathway Genes in the Immune Response to Smallpox Vaccine.",
+            "journal": "PLoS One.",
+            "month": "Aug",
+            "year": "2016",
+            "doi": "10.1371/journal.pone.0158016. eCollection 2016.",
+            "pubmed_id": "27513748"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Population Genetics Analysis Program (1)",
+            "contract_name": "Population Genetics Analysis Program: Immunity to Vaccines/Infections"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 67862
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 12756
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 806
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 1071
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 426
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 20
+            },
+            {
+                "race": "Black or African American",
+                "count": 186
+            },
+            {
+                "race": "Other",
+                "count": 274
+            },
+            {
+                "race": "Unknown",
+                "count": 42
+            },
+            {
+                "race": "White",
+                "count": 570
+            }
+        ],
+        "gender": [
+            {
+                "Female": 281
+            },
+            {
+                "Male": 790
+            },
+            {
+                "Not Specified": 21
+            }
+        ]
+    }
+}

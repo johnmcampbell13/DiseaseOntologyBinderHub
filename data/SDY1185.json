@@ -1,0 +1,123 @@
+{
+    "study_accession": "SDY1185",
+    "actual_completion_date": "2017-01-27",
+    "actual_enrollment": 114,
+    "actual_start_date": "2015-01-02",
+    "age_unit": "Years",
+    "brief_description": "The drug eBAT is a bispecific angiotoxin targeted to both tumor and tumor neovasculature for sarcomas. It has been shown effectively kills canine hemangiosarcoma and human sarcoma cells in vitro. The paper studied the drug in an in vivo ?ontarget? companion dog trial. Splenectomized dogs with minimal residual disease were given one cycle of eBAT followed by adjuvant doxorubicin in an adaptive dose-finding, phase I?II study of 23 dogs with spontaneous, stage I?II, splenic hemangiosarcoma. eBAT improved 6-month survival from <40% in a comparison population to approximately 70% in dogs treated at a biologically active dose (50 ?g/kg). Six dogs were long-term survivors, living >450 days. The expected targeted markers, uPAR and EGFR, are validated in both human and canine sarcoma samples. The results support further translation of eBAT for human patients with sarcomas and perhaps other EGFR-expressing malignancies.",
+    "brief_title": "Dog Sarcoma Therapy",
+    "clinical_trial": "N",
+    "condition_studied": "Sarcoma",
+    "dcl_id": 2,
+    "description": "The drug eBAT is a bispecific angiotoxin targeted to both tumor and tumor neovasculature for sarcomas. It has been shown effectively kills canine hemangiosarcoma and human sarcoma cells in vitro. The paper studied the drug in an in vivo ?ontarget? companion dog trial. Splenectomized dogs with minimal residual disease were given one cycle of eBAT followed by adjuvant doxorubicin in an adaptive dose-finding, phase I?II study of 23 dogs with spontaneous, stage I?II, splenic hemangiosarcoma. eBAT improved 6-month survival from <40% in a comparison population to approximately 70% in dogs treated at a biologically active dose (50 ?g/kg). Six dogs were long-term survivors, living >450 days. The expected targeted markers, uPAR and EGFR, are validated in both human and canine sarcoma samples. The results support further translation of eBAT for human patients with sarcomas and perhaps other EGFR-expressing malignancies.",
+    "doi": "10.21430/M3F266SILJ",
+    "endpoints": "eBAT efficacy and toxicity report in cells and animal models.  RNA-seq data for canine hemangiosarcoma, osteosarcoma, and lymphoma.  IHC images.  eBAT pharmacokinetics and neutralizing antibody assays for all dogs.",
+    "gender_included": "Not Specified",
+    "hypothesis": "As hemangiosarcoma is a vascular cancer, eBAT simultaneously targeting the tumor and its vasculature rendered it an excellent therapy choice. A large animal ?ontarget? models (where the drug crossreacts with native EGFR and uPAR) provide better clinical investigative information",
+    "initial_data_release_date": "2018-01-04",
+    "initial_data_release_version": "DR25",
+    "intervention_agent": "Cancer treatment drug",
+    "latest_data_release_date": "2018-01-04",
+    "latest_data_release_version": "DR25",
+    "maximum_age": "  20.00",
+    "minimum_age": "    .10",
+    "objectives": "Using spontaneous canine hemangiosarcoma as model in both naive disease and minimal residual disease settings, to show feasibility, safety, and efficacy of eBAT to treat sarcomas in a clinically translatable setting",
+    "official_title": "Safe and Effective Sarcoma Therapy through Bispecific Targeting of EGFR and uPAR",
+    "sponsoring_organization": "NIH, NCCF, NCI, NIAID, DHHS",
+    "target_enrollment": 114,
+    "workspace_id": 6083,
+    "research_focus": [
+        "Oncology"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4135",
+            "description": "Spontaneous canine hemangiosarcoma",
+            "name": "Dog hemangiosarcoma"
+        },
+        {
+            "arm_accession": "ARM4136",
+            "description": "Spontaneous canine lymphoma",
+            "name": "Dog lymphoma"
+        },
+        {
+            "arm_accession": "ARM4137",
+            "description": "Spontaneous canine osteosarcoma",
+            "name": "Dog osteosarcoma"
+        },
+        {
+            "arm_accession": "ARM4138",
+            "description": "Normal canine osteoblast",
+            "name": "Dog normal osteoblast"
+        },
+        {
+            "arm_accession": "ARM4139",
+            "description": "Human tumor tissue samples from TCGA",
+            "name": "Human sarcoma"
+        },
+        {
+            "arm_accession": "ARM4140",
+            "description": "Canine hemangiosarcoma",
+            "name": "Emma cell lines"
+        },
+        {
+            "arm_accession": "ARM4141",
+            "description": "Human angiosarcoma",
+            "name": "AS5 cell line"
+        },
+        {
+            "arm_accession": "ARM4142",
+            "description": "Human RD rhabdomyosarcoma",
+            "name": "RD cell line"
+        },
+        {
+            "arm_accession": "ARM4143",
+            "description": "Human U2OS osteosarcoma",
+            "name": "U2OS cell line"
+        },
+        {
+            "arm_accession": "ARM4144",
+            "description": "Human HPB-MLT T-cell lymphoma",
+            "name": "HPB-MLT cell line"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Antonella",
+            "last_name": "Borgatti",
+            "organization": "University of Minnesota",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Masonic Cancer Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Safe and Effective Sarcoma Therapy through Bispecific Targeting of EGFR and uPAR.",
+            "journal": "Mol Cancer Ther.",
+            "month": "May",
+            "year": "2017",
+            "doi": "10.1158/1535-7163.MCT-16-0637. Epub 2017 Feb 13.",
+            "pubmed_id": "28193671"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Research Projects to Enhance Applicability of Mammalian Models for Translational Research",
+            "contract_name": "Preclinical Evaluation And Clinical Translation Of Novel Bispecific Toxins"
+        },
+        {
+            "program_name": "Research Projects to Enhance Applicability of Mammalian Models for Translational Research",
+            "contract_name": "Preclinical Evaluation and Clinical Translation of Novel Bispecific Targeted Toxins for the Treatment of Sarcomas"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 146
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

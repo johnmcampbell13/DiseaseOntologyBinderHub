@@ -1,0 +1,175 @@
+{
+    "study_accession": "SDY572",
+    "actual_completion_date": null,
+    "actual_enrollment": 159,
+    "actual_start_date": "2013-05-28",
+    "age_unit": "Days",
+    "brief_description": "Enteroaggregative Escherichia coli (EAEC) is increasingly recognized as a major cause of diarrheal disease globally. In the current study, we investigated the impact of zinc deficiency on the host and pathogenesis of EAEC. Mouse model of enteroaggregative E. coli infection in mice that are fed one of four different diets: Control diet (20% protein) Control diet - Zn (20% protein, no zinc) RBD (7% protein) RBD/ZD (7% protein, no zinc)",
+    "brief_title": "Host responses to Enteroaggregative Escherichia coli (EAEC) infection",
+    "clinical_trial": "N",
+    "condition_studied": "Host responses to EAEC infection and modulation by nutrition.",
+    "dcl_id": 2,
+    "description": "Enteroaggregative Escherichia coli (EAEC) is increasingly recognized as a major cause of diarrheal disease globally. In the current study, we investigated the impact of zinc deficiency on the host and pathogenesis of EAEC. Several outcomes of EAEC infection were investigated including weight loss, EAEC shedding and tissue burden, leukocyte recruitment, intestinal cytokine expression, and virulence expression of the pathogen in vivo. Mice fed a protein source defined zinc deficient diet (dZD) had an 80% reduction of serum zinc and a 50% reduction of zinc in luminal contents of the bowel compared to mice fed a protein source defined control diet (dC). When challenged with EAEC, dZD mice had significantly greater weight loss, stool shedding, mucus production, and, most notably, diarrhea compared to dC mice. Zinc deficient mice had reduced infiltration of leukocytes into the ileum in response to infection suggesting an impaired immune response. Interestingly, expression of several EAEC virulence factors were increased in luminal contents of dZD mice. These data show a dual effect of dietary zinc in benefitting the host while impairing virulence of the pathogen. The study demonstrates the critical importance of zinc and may help elucidate the benefits of zinc supplementation in cases of childhood diarrhea and malnutrition.",
+    "doi": "10.21430/M3G6QJN9D5",
+    "endpoints": "Tissue burden, weights, bacterial shedding in stool, zinc levels in serum, tissue, qPCR",
+    "gender_included": "Male",
+    "hypothesis": "Severely zinc deficient mice will have greater susceptibility to EAEC 042 infection.",
+    "initial_data_release_date": "2017-04-21",
+    "initial_data_release_version": "DR21",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "  56.00",
+    "minimum_age": "  21.00",
+    "objectives": "The goal of this study is isolate the variable of zinc deficiency in the control and malnourished mice to determine their importance to the model.",
+    "official_title": "Host responses to Enteroaggregative Escherichia coli (EAEC) infection",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2715",
+            "description": "EAEC 042 Infected",
+            "name": "EAEC40 Infected"
+        },
+        {
+            "arm_accession": "ARM2716",
+            "description": "Uninfected",
+            "name": "EAEC40 Uninfected"
+        },
+        {
+            "arm_accession": "ARM2717",
+            "description": "Unknown",
+            "name": "Unknown"
+        },
+        {
+            "arm_accession": "ARM2718",
+            "description": "EAEC 042 Infected",
+            "name": "EAEC51 Infected"
+        },
+        {
+            "arm_accession": "ARM2719",
+            "description": "Uninfected",
+            "name": "EAEC51 Uninfected"
+        },
+        {
+            "arm_accession": "ARM2720",
+            "description": "EAEC infected",
+            "name": "EAEC52 Infected"
+        },
+        {
+            "arm_accession": "ARM2721",
+            "description": "Uninfected",
+            "name": "EAEC52 Uninfected"
+        },
+        {
+            "arm_accession": "ARM2722",
+            "description": "EAEC infected",
+            "name": "EAEC53 Infected"
+        },
+        {
+            "arm_accession": "ARM2723",
+            "description": "Uninfected",
+            "name": "EAEC53 Uninfected"
+        },
+        {
+            "arm_accession": "ARM2727",
+            "description": "Control",
+            "name": "AIN93G Nourished Diet"
+        },
+        {
+            "arm_accession": "ARM2728",
+            "description": "Control",
+            "name": "Nourished AA-defined"
+        },
+        {
+            "arm_accession": "ARM2729",
+            "description": "Control",
+            "name": "Tryptophan Deficient AA-defined"
+        },
+        {
+            "arm_accession": "ARM2730",
+            "description": "Case",
+            "name": "No tryptophan supplementation"
+        },
+        {
+            "arm_accession": "ARM2731",
+            "description": "Case",
+            "name": "1mg/d tryptophan supplementation"
+        },
+        {
+            "arm_accession": "ARM2732",
+            "description": "Case",
+            "name": "5mg/d tryptophan supplementation"
+        },
+        {
+            "arm_accession": "ARM2733",
+            "description": "Case",
+            "name": "15mg/d tryptophan supplementation"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "UVA"
+        },
+        {
+            "first_name": "Richard",
+            "last_name": "Guerrant",
+            "organization": "UVA",
+            "role_in_study": "Principal Investigator",
+            "site_name": "UVA"
+        },
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Zinc deficiency alters host response and pathogen virulence in a mouse model of enteroaggregative Escherichia coli-induced diarrhea.",
+            "journal": "Gut Microbes.",
+            "month": "-",
+            "year": "2014",
+            "doi": "10.4161/19490976.2014.969642.",
+            "pubmed_id": "25483331"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 96
+        },
+        {
+            "measurement_technique": "Mass Spectrometry",
+            "number_of_expsamples": 15
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 280
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 184
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "study_accession": "SDY16",
+    "actual_completion_date": null,
+    "actual_enrollment": 142,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "To map and isolate human host supergenes that confer general susceptibility and resistance to common encapsulated bacteria infections such as pneumococcus, meningococcus, and H. influenza.",
+    "brief_title": "Susceptibility and Resistance to Common Encapsulated Bacteria Infections",
+    "clinical_trial": "N",
+    "condition_studied": "Genetic factors confering susceptibility or resistance to common encapsulated bacteria infections.",
+    "dcl_id": 1,
+    "description": "To study those patients who have history of at least one of 3 severe bacterial infections, S. pneumoniae, N. meningitides, and H. influenza. By asking what susceptibility genes that such patients have in common, we may find genes in pathways involved in resistance and susceptibility of a broader range of pathogens.<br/><br/>Variants that correlate with a relatively common trait like encapsulated bacterial susceptibility and sepsis will likely alter expression or splicing rather than be coding mutations in most cases. Therefore, our initial functional validation of the host genes that we find in GWAS will be to look for differences in amounts of mRNA in circulating white cells in the context of sepsis that lead to death and longer hospitalization compared to cases that have better outcomes. ",
+    "doi": "10.21430/M3FOZZ059R",
+    "endpoints": "<ol><li>Genetic association analysis results: Genome wide SNP genotyping were assayed with the Illumina HumanHap300 or Illumina HumanHap CNV370 bead chips. Only SNPs present on both chips were included in the analysis.</li>\n<li>Transcriptome mRNA sequence analysis of 135 deCode IBD-Sepsis case and control subjects. </li>\n</ol>",
+    "gender_included": "Not Specified",
+    "hypothesis": "<p>All common diseases have a significant genetic component, the clinical expression which is in part brought out by environmental exposure.  Over the years deCODE has built a system of information for about 50 common diseases in Iceland and has collected blood samples from over 100,000 Icelanders or half of the adult population, all with specific informed consent. As a resource for determining all family relationships among patients, deCODE has assembled a genealogy database that includes the entire nation along with most of their ancestors extending to the time Iceland was settled between 874 and 930AD.</p><p>This study combines the human population genetics infrastructure of deCODE Genetics with the capabilities of other collaborators, to discover and validate human genes that confer susceptibility or resistance to common encapsulated bacteria infections such as pneumococcus, meningococcus, and H. influenza.</p>",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Not Applicable\r",
+    "latest_data_release_date": "2012-11-16",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "80",
+    "minimum_age": "7",
+    "objectives": "To map, isolate, and validate human genes that confer susceptibility or resistance to common encapsulated bacterial infections such as pneumococcus, meningococcus, and H. influenza (when validated look for effects on Anthrax, Yersinia pestis, and other bacteria).",
+    "official_title": "Susceptibility and Resistance to Common Encapsulated Bacteria Infections",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 60000,
+    "workspace_id": 1054,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM117",
+            "description": "invasive bacterial disease caused by encapsulated bacteria",
+            "name": "IBD-Encap"
+        },
+        {
+            "arm_accession": "ARM118",
+            "description": "meningitis caused by encapsulated bacteria",
+            "name": "IBD_mening"
+        },
+        {
+            "arm_accession": "ARM119",
+            "description": "bacteremia/sepsis caused by encapsulated bacteria",
+            "name": "IBD_sepsis"
+        },
+        {
+            "arm_accession": "ARM120",
+            "description": "invasive meningococcal disease",
+            "name": "IBD_MD"
+        },
+        {
+            "arm_accession": "ARM121",
+            "description": "invasive pneumococcal disease",
+            "name": "IBD_IPD"
+        },
+        {
+            "arm_accession": "ARM122",
+            "description": "invasive haemophilus influenzae disease",
+            "name": "IBD_HiD"
+        },
+        {
+            "arm_accession": "ARM123",
+            "description": "population controls, excluding  all IBD_Encaps",
+            "name": "IBD_Ctrl"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jeffrey",
+            "last_name": "Gulcher",
+            "organization": "deCODE",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Population Genetics Analysis Program (1)",
+            "contract_name": "Population Genetics Analysis Program: Immunity to Vaccines/Infections"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 1
+        },
+        {
+            "measurement_technique": "SNP microarray",
+            "number_of_expsamples": 6
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 135
+            },
+            {
+                "race": "White",
+                "count": 7
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 142
+            }
+        ]
+    }
+}

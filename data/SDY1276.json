@@ -1,0 +1,107 @@
+{
+    "study_accession": "SDY1276",
+    "actual_completion_date": "2014-12-31",
+    "actual_enrollment": 226,
+    "actual_start_date": "2013-06-17",
+    "age_unit": "Years",
+    "brief_description": "The relationship between gene expression patterns and humoral immune response to vaccination was analyzed in order to understand the interindividual variability among immune reponse to vaccination",
+    "brief_title": "Time series of global gene expression after trivalent influenza vaccination in humans",
+    "clinical_trial": "N",
+    "condition_studied": "Humoral immune response to influenza vaccination",
+    "dcl_id": 2,
+    "description": "The relationship between gene expression patterns and humoral immune response to vaccination was analyzed in order to understand the interindividual variability among immune reponse to vaccination",
+    "doi": "10.21430/M3J92GN8I3",
+    "endpoints": "1) Global transcript abundance in peripheral blood RNA specimens 2) Type-specific antibody measurements (H1N1, H3N2, and FluB) in serum samples",
+    "gender_included": "Female, Male",
+    "hypothesis": "An integrated, systematic evaluation of the transcriptional response to influenza vaccination using multiple time points and incorporating antibody response data  has the potential to be an effective method for identifying loci that influence vaccine responsiveness and subsequent immunity to influenza in humans.",
+    "initial_data_release_date": "2018-07-06",
+    "initial_data_release_version": "DR27",
+    "intervention_agent": "2008-2009 trivalent influenza vaccine",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  40.20",
+    "minimum_age": "  18.20",
+    "objectives": "To identify specific gene variants reponsible for influencing vaccine response",
+    "official_title": "Time series of global gene expression after trivalent influenza vaccination in humans",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 119,
+    "workspace_id": 6133,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4428",
+            "description": "Males received 2008-2009 trivalent influenza vaccine  [A/Brisbane/59/2007(H1N1), A/ Brisbane/10/2007(H3N2), B/Florida/4/2006; Sanofi-Pasteur]",
+            "name": "Discovery Cohort; Males  2008?2009 trivalent influenza vaccine"
+        },
+        {
+            "arm_accession": "ARM4431",
+            "description": "Females received 2008-2009 trivalent influenza vaccine  [A/Brisbane/59/2007(H1N1), A/ Brisbane/10/2007(H3N2), B/Florida/4/2006; Sanofi-Pasteur]",
+            "name": "Validation Cohort; Females 2008-2009 trivalent influenza vaccine"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "John",
+            "last_name": "Belmont",
+            "organization": "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Baylor College of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Early patterns of gene expression correlate with the humoral immune response to influenza vaccination in humans.",
+            "journal": "J Infect Dis.",
+            "month": "Apr",
+            "year": "2011",
+            "doi": "10.1093/infdis/jiq156. Epub 2011 Feb  28.",
+            "pubmed_id": "21357945"
+        },
+        {
+            "title": "Integrative genomic analysis of the human immune response to influenza vaccination.",
+            "journal": "Elife.",
+            "month": "Jul",
+            "year": "2013",
+            "doi": "10.7554/eLife.00299.",
+            "pubmed_id": "23878721"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Program Research Project Grant (Parent R01)",
+            "contract_name": "Viral Respiratory Pathogens Research Unit (VRPRU)-266030039"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 2034
+        },
+        {
+            "measurement_technique": "Neutralizing Antibody Titer Assay",
+            "number_of_expsamples": 2034
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 848
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 226
+            }
+        ],
+        "gender": [
+            {
+                "Female": 110
+            },
+            {
+                "Male": 116
+            }
+        ]
+    }
+}

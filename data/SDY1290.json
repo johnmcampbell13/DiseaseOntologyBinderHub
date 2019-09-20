@@ -1,0 +1,105 @@
+{
+    "study_accession": "SDY1290",
+    "actual_completion_date": "2016-01-29",
+    "actual_enrollment": 77,
+    "actual_start_date": "2014-03-15",
+    "age_unit": "Years",
+    "brief_description": "This study characterizes and maps human dendritic cell subset distribution, migration and function across multiple lymphoid and mucosal tissues from individual organ donors aged <1-93 years of age. .",
+    "brief_title": "Dendritic Cell Maturation Dynamics",
+    "clinical_trial": "N",
+    "condition_studied": "Dendritic cell subset and tissue-specific",
+    "dcl_id": 2,
+    "description": "Maturation and migration to lymph nodes (LNs) constitutes a central paradigm in conventional dendritic cell (cDC) biology but remains poorly defined in humans. Using our organ donor tissue resource, we analyzed cDC subset distribution, maturation, and migration in mucosal tissues (lungs, intestines), associated lymph nodes (LNs), and other lymphoid sites from 78 individuals ranging from less than 1 year to 93 years of age. The distribution of cDC1 (CD141hiCD13hi) and cDC2 (Sirp-?+CD1c+) subsets was a function of tissue site and was conserved between donors. We identified cDC2 as the major mature (HLA-DRhi) subset in LNs with the highest frequency in lung-draining LNs. Mature cDC2 in mucosal-draining LNs expressed tissue-specific markers derived from the paired mucosal site, reflecting their tissue-migratory origin. These distribution and maturation patterns were largely maintained throughout life, with site-specific variations. Our findings provide evidence for localized DC tissue surveillance and reveal a lifelong division of labor between DC subsets, with cDC2 functioning as guardians of the mucosa.",
+    "doi": "10.21430/M3T9R8JS6G",
+    "endpoints": "1. Flow cytometry data classifying dendritic cells as to subset distribution, maturation, and migration.  2. Fluorescence imaging of dendritic cells using antibody staining.",
+    "gender_included": "Female, Male, Unknown",
+    "hypothesis": "Tissue compartmentalization of immune responses is controlled at the level of tissue surveillance by dendritic  cells",
+    "initial_data_release_date": "2018-05-10",
+    "initial_data_release_version": "DR26",
+    "intervention_agent": "NA",
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "  90.00",
+    "minimum_age": "    .33",
+    "objectives": "Characterize  tissue-specific compartmentalization of adaptive immunity at the level of tissue surveillance by cDCs",
+    "official_title": "Dendritic Cells Display Subset and Tissue-Specific",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 77,
+    "workspace_id": 3670,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4458",
+            "description": "All subjects for this DC maturation dynamics study are included in a single arm",
+            "name": "All subjects for DC maturation dynamics"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Donna",
+            "last_name": "Farber",
+            "organization": "Columbia University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Columbia University Medical Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Dendritic Cells Display Subset and Tissue-Specific Maturation Dynamics over Human Life",
+            "journal": "Immunity",
+            "month": "March",
+            "year": "2017",
+            "doi": "10.1016/j.immuni.2017.02.019",
+            "pubmed_id": "28329707"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Tissue compartmentalization of human lymphocytes P01AI106697",
+            "contract_name": "Tissue compartmentalization of human lymphocytes"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 763
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "Black or African American",
+                "count": 19
+            },
+            {
+                "race": "Not Specified",
+                "count": 17
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 38
+            }
+        ],
+        "gender": [
+            {
+                "Female": 26
+            },
+            {
+                "Male": 50
+            },
+            {
+                "Unknown": 1
+            }
+        ]
+    }
+}

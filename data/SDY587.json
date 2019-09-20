@@ -1,0 +1,86 @@
+{
+    "study_accession": "SDY587",
+    "actual_completion_date": null,
+    "actual_enrollment": 747,
+    "actual_start_date": "2013-01-23",
+    "age_unit": "Days",
+    "brief_description": "In this study WT, CD4 cre+ and LysMcre- mice were infected with H. pylori strain SS1 for six months.",
+    "brief_title": "Effect of tissue-specific PPARg deficiency in bacterial loads",
+    "clinical_trial": "N",
+    "condition_studied": "Helicobacter pylori infection",
+    "dcl_id": 2,
+    "description": "In this study WT, CD4 cre+ and LysMcre- mice were infected with H. pylori strain SS1 for six months.",
+    "doi": "10.21430/M3F6N2WGKO",
+    "endpoints": "Stomach samples for reisolation were collected once a week to assess bacterial loads.",
+    "gender_included": "Female, Male",
+    "hypothesis": "The deficiency of PPARg results in a phenotype shift towards a more pro-inflammatory state. Therefore, PPARg deficiency should result in increased inflammation and lead to enhanced bacterial clearance.",
+    "initial_data_release_date": "2017-04-21",
+    "initial_data_release_version": "DR21",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "  77.00",
+    "minimum_age": "  76.00",
+    "objectives": "The aim of this study was to assess whether the lack of PPARg in either CD4 T cells or macrophages has any effect of bacterial clearance.",
+    "official_title": "Effect of tissue-specific PPARg deficiency in bacterial loads",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2745",
+            "description": "H. pylori SS1",
+            "name": "H. pylori SS1"
+        },
+        {
+            "arm_accession": "ARM2746",
+            "description": "Uninfected",
+            "name": "Uninfected"
+        },
+        {
+            "arm_accession": "ARM2752",
+            "description": "Uninfected",
+            "name": "Uninfected"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        },
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 450
+        },
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 72
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

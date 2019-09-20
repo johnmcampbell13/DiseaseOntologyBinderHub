@@ -1,0 +1,115 @@
+{
+    "study_accession": "SDY1039",
+    "actual_completion_date": "2016-04-30",
+    "actual_enrollment": 141,
+    "actual_start_date": "2005-06-01",
+    "age_unit": "Years",
+    "brief_description": "This prospective, randomized, open-label, multi-center, 2-arm, Phase II clinical trial will randomize approximately 114 subjects with severe SSc in the United States and Canada. Subjects will be randomly assigned in a 1:1 ratio to a treatment of high-dose immunosuppressive therapy with autologous stem cell rescue (HDIT transplantation) or to treatment of monthly pulse IV cyclophosphamide. Subjects will be stratified by treatment center. The initial treatment period will be approximately 3 months for the HDIT transplantation arm (from the time of initiation of mobilization until the day of transplant) and 12 months for the cyclophosphamide arm. Subjects will be followed for up to 72 months after randomization. The study will continue for 54 months after the last subject is randomized.",
+    "brief_title": "Scleroderma: Cyclophosphamide or Transplantation (SCOT)",
+    "clinical_trial": "Y",
+    "condition_studied": "Scleroderma",
+    "dcl_id": 1,
+    "description": "This prospective, randomized, open-label, multi-center, 2-arm, Phase II clinical trial will randomize approximately 114 subjects with severe SSc in the United States and Canada. Subjects will be randomly assigned in a 1:1 ratio to a treatment of high-dose immunosuppressive therapy with autologous stem cell rescue (HDIT transplantation) or to treatment of monthly pulse IV cyclophosphamide. Subjects will be stratified by treatment center. The initial treatment period will be approximately 3 months for the HDIT transplantation arm (from the time of initiation of mobilization until the day of transplant) and 12 months for the cyclophosphamide arm. Subjects will be followed for up to 72 months after randomization. The study will continue for 54 months after the last subject is randomized.",
+    "doi": "10.21430/M3SM4YLTLH",
+    "endpoints": "The primary endpoint for this study is the global rank composite score (GRCS) at 54 months postrandomization.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Global rank composite scores will be higher in subjects receiving HDIT followed by stem cell transplantation than in subjects receiving pulse IV cyclophosphamide at 54 months after randomization.",
+    "initial_data_release_date": "2018-01-04",
+    "initial_data_release_version": "DR25",
+    "intervention_agent": "HDIT-Transplantation, Cyclophosphamide",
+    "latest_data_release_date": "2018-01-04",
+    "latest_data_release_version": "DR25",
+    "maximum_age": "  67.00",
+    "minimum_age": "  22.00",
+    "objectives": "The primary objective is to evaluate the potential benefit of high-dose immunosuppressive therapy followed by stem cell transplantation compared to high-dose pulse cyclophosphamide therapy for treatment of severe SSc. Treatment arms will be compared using a global rank composite score based on a hierarchy of component outcomes including death, event-free survival, FVC, SHAQ and mRSS.",
+    "official_title": "A Randomized, Open-Label, Phase II Multi-Center Study of High-Dose Immunosuppressive Therapy Using Total Body Irradiation, Cyclophosphamide, ATGAM, and Autologous Transplantation with Auto-CD34+HPC versus Intravenous Pulse Cyclophosphamide for the Treatment of Severe Systemic Sclerosis",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 114,
+    "workspace_id": 5918,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3650",
+            "description": "Peripheral blood stem cells (PBSCs) will be mobilized with granulocyte colony stimulating factor (G-CSF) and CD34 selected using either the Miltenyi Biotec CliniMACS Cell Separation System or the Baxter (Isolex 300i or equivalent) Magnetic Cell Separation System. Subjects will then undergo high-dose immunosuppressive therapy using a conditioning regimen of total body irradiation (TBI) 800 cGy (shielding to allow 200 cGy to lungs and 200 cGy to kidneys), cyclophosphamide 120 mg/kg, and equine antithymocyte globulin (ATGAM) 90 mg/kg. Autologous CD34-selected hematopoietic progenitor cells (Auto-CD34+HPC) will be infused after the high-dose immunosuppressive therapy.",
+            "name": "HDIT-Transplantation"
+        },
+        {
+            "arm_accession": "ARM3651",
+            "description": "Subjects randomized to receive cyclophosphamide will receive an initial pulse of intravenous cyclophosphamide 500 mg/m2, followed by 11 intravenous pulses of cyclophosphamide 750 mg/m2 at 28 to 32 day intervals or modified dosing per Protocol Section 5.2.2. The initial pulse of cyclophosphamide 500 mg/m2 may be given at the randomizing Transplant Center with subsequent IV infusions done at the referring Rheumatology Centers.",
+            "name": "Cyclophosphamide"
+        },
+        {
+            "arm_accession": "ARM4893",
+            "description": "Control",
+            "name": "Control"
+        }
+    ],
+    "personnel": [],
+    "pubmed": [
+        {
+            "title": "Gastric antral vascular ectasia and its clinical correlates in patients with early diffuse systemic sclerosis in the SCOT trial.",
+            "journal": "J Rheumatol.",
+            "month": "Apr",
+            "year": "2013",
+            "doi": "10.3899/jrheum.121087. Epub 2013 Feb 15.",
+            "pubmed_id": "23418384"
+        },
+        {
+            "title": "Review: Hematopoietic Stem Cell Transplantation for Scleroderma: Effective Immunomodulatory Therapy for Patients With Pulmonary Involvement.",
+            "journal": "Arthritis Rheumatol.",
+            "month": "Oct",
+            "year": "2016",
+            "doi": "10.1002/art.39748.",
+            "pubmed_id": "27213276"
+        },
+        {
+            "title": "Myeloablative Autologous Stem-Cell Transplantation for Severe Scleroderma.",
+            "journal": "N Engl J Med.",
+            "month": "Jan",
+            "year": "2018",
+            "doi": "-",
+            "pubmed_id": "29298160"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Autoimmunity Centers of Excellence (ACE) AI-12-060, AI-12-059",
+            "contract_name": "SCLERODERMA CYCLOPHOSPHAMIDE OR TRANSPLANTION STUDY (SCOT)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 6
+            },
+            {
+                "race": "Other",
+                "count": 5
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 60
+            }
+        ],
+        "gender": [
+            {
+                "Female": 48
+            },
+            {
+                "Male": 27
+            }
+        ]
+    }
+}

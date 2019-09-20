@@ -1,0 +1,116 @@
+{
+    "study_accession": "SDY208",
+    "actual_completion_date": null,
+    "actual_enrollment": 7,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "Investigating the long-lived immunity and improved protection after skin vaccination",
+    "brief_title": "Serological Memory and Long-term Protection to Novel H1N1 Influenza Virus After Skin Vaccination",
+    "clinical_trial": "N",
+    "condition_studied": "Skin vaccination in BALB/c mice with a single dose of 5 ug inactivated A/California/04/09 virus via coated metal microneedles (MN) applied to skin or via subcutaneous injection ",
+    "dcl_id": 2,
+    "description": "Investigating the long-lived immunity and improved protection after skin vaccination",
+    "doi": "10.21430/M3VGBJC7TC",
+    "endpoints": "the efficacy of a single-dose skin vaccination with inactivated virus using microneedles to elicit robust serological memory and cellular responses",
+    "gender_included": "Female",
+    "hypothesis": "the efficacy of a single-dose skin vaccination with inactivated virus using microneedles to elicit robust serological memory and cellular responses",
+    "initial_data_release_date": "2013-08-15",
+    "initial_data_release_version": "DR3",
+    "intervention_agent": "A/California/04/09, H1N1",
+    "latest_data_release_date": "2013-09-30",
+    "latest_data_release_version": "DR4",
+    "maximum_age": "   6.00",
+    "minimum_age": "   6.00",
+    "objectives": "the efficacy of a single-dose skin vaccination with inactivated virus using microneedles to elicit robust serological memory and cellular responses",
+    "official_title": "Serological Memory and Long-term Protection to Novel H1N1 Influenza Virus After Skin Vaccination",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 100,
+    "workspace_id": 2149,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM881",
+            "description": "Microneedle vaccination- 5 ug inactivated A/California/04/09 virus",
+            "name": "Microneedle vaccination- 5 ug inactivated A/California/04/09 virus"
+        },
+        {
+            "arm_accession": "ARM882",
+            "description": "Subcutaneous vaccination-  5 ug inactivated A/California/04/09 virus",
+            "name": "Subcutaneous vaccination-  5 ug inactivated A/California/04/09 virus"
+        },
+        {
+            "arm_accession": "ARM883",
+            "description": "Uncoated microneedle vaccination-  Placebo",
+            "name": "Uncoated microneedle vaccination-  Placebo"
+        },
+        {
+            "arm_accession": "ARM884",
+            "description": "Microneedle vaccination- 5 ug inactivated A/California/04/09 virus, Challenged: 10x LD50 A/California/04/09 virus",
+            "name": "Microneedle vaccination- 5 ug inactivated A/California/04/09 virus, Challenged: 10x LD50 A/California/04/09 virus"
+        },
+        {
+            "arm_accession": "ARM885",
+            "description": "Subcutaneous vaccination- 5 ug inactivated A/California/04/09 virus, Challenged: 10x LD50 A/California/04/09 virus",
+            "name": "Subcutaneous vaccination- 5 ug inactivated A/California/04/09 virus, Challenged: 10x LD50 A/California/04/09 virus"
+        },
+        {
+            "arm_accession": "ARM886",
+            "description": "Uncoated microneedle vaccination-  Placebo, Challenged: 10x LD50 A/California/04/09 virus",
+            "name": "Uncoated microneedle vaccination-  Placebo, Challenged: 10x LD50 A/California/04/09 virus"
+        },
+        {
+            "arm_accession": "ARM887",
+            "description": "Uncoated microneedle vaccination-  Placebo, Challenged: Not infected ",
+            "name": "Uncoated microneedle vaccination-  Placebo, Challenged: Not infected "
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Richard",
+            "last_name": "Compans",
+            "organization": "School of Medicine, Emory University ",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Serological memory and long-term protection to novel H1N1 influenza virus after skin vaccination.",
+            "journal": "J Infect Dis.",
+            "month": "Aug",
+            "year": "2011",
+            "doi": "10.1093/infdis/jir094. Epub 2011 Jun 17.",
+            "pubmed_id": "21685355"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "Influenza Pathogenesis & Immunology Research Center (IPIRC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 61
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 9
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 17
+        },
+        {
+            "measurement_technique": "Microscopy",
+            "number_of_expsamples": 4
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "study_accession": "SDY1015",
+    "actual_completion_date": null,
+    "actual_enrollment": 5,
+    "actual_start_date": "2013-09-04",
+    "age_unit": "Years",
+    "brief_description": "MaHPIC Experiment 04: Immunological measures of Macaca mulatta infected with Plasmodium cynomolgi B strain to produce and integrate clinical, hematological, parasitological, and omics measures of acute primary infection and relapses",
+    "brief_title": "MaHPIC: Host M. mulatta infected with P. cynomolgi",
+    "clinical_trial": "N",
+    "condition_studied": "Malaria Infection",
+    "dcl_id": 2,
+    "description": "Malaria-naive male rhesus macaques (Macaca mulatta), approximately three years of age, were inoculated intravenously with salivary gland sporozoites produced and isolated at the Centers for Disease Control and Prevention from multiple Anopheles species (An. dirus, An. gambiae, and An. stephensi) and then profiled for clinical, hematological, parasitological, immunological, functional genomic, lipidomic, proteomic, and metabolomic measurements. The experiment was designed for 100 days, and pre- and post-100 day periods to prepare subjects and administer curative treatments respectively. The anti-malarial drug artemether was subcuratively administered selectively to several subjects during the primary parasitemia to suppress clinical complications and to all animals for curative treatment of blood-stage infections to allow detection of relapses. One subject was euthanized during the 100-day experimental period due to clinical complications. The anti-malarial drugs primaquine and chloroquine were administered to all remaining subjects at the end of the study for curative treatment of the liver and blood-stage infections, respectively. Capillary blood samples were collected daily for the measurement of CBCs, reticulocytes, and parasitemias. Capillary blood samples were collected every other day to obtain plasma for metabolomic analysis. Venous blood and bone marrow samples were collected at seven time points for functional genomic, proteomic, lipidomic, and immunological analyses. Within the MaHPIC, this project is known as \"Experiment 04\".  This dataset was produced by Mary Galinski, Rabindra Tirouvaniziam and Tracey Lamb at Emory University. The experimental design and protocols for this study were approved by the Emory University Institutional Animal Care and Use Committee (IACUC).",
+    "doi": "10.21430/M3DLU018LB",
+    "endpoints": "Flow Cytometry, Multiplex soluble protein assay of Cytokines",
+    "gender_included": "Male",
+    "hypothesis": "Acute primary malaria infection and relapses in non-human primates follow a pattern.",
+    "initial_data_release_date": "2017-04-21",
+    "initial_data_release_version": "DR21",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "   3.00",
+    "minimum_age": "   3.00",
+    "objectives": "To produce and integrate clinical, hematological, parasitological, and omics measures of acute primary malaria infection and relapses in non-human primates (Macaa mulatta) infected with Plasmodium cynomolgi B strain",
+    "official_title": "MaHPIC Experiment 04: Macaca mulatta infected with Plasmodium cynomolgi B strain to measure acute primary infection and relapses",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 5919,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3598",
+            "description": "E04 Experimental cohort of 5 non-human primates",
+            "name": "E04 Experimental cohort of 5 non-human primates"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mary",
+            "last_name": "Galinski",
+            "organization": "Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "N/A"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Plasmodium cynomolgi infections in rhesus macaques display clinical and parasitological features pertinent to modelling vivax malaria pathology and relapse infections.",
+            "journal": "Malar J.",
+            "month": "Sep",
+            "year": "2016",
+            "doi": "10.1186/s12936-016-1480-6",
+            "pubmed_id": "27590312"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Systems Biology for Infectious Diseases Research",
+            "contract_name": "Integrated Approach To Host-Pathogen Interactions"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Cytometric Bead Array Assay",
+            "number_of_expsamples": 31
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 381
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

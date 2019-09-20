@@ -1,0 +1,89 @@
+{
+    "study_accession": "SDY753",
+    "actual_completion_date": null,
+    "actual_enrollment": 47,
+    "actual_start_date": "2013-01-01",
+    "age_unit": "Years",
+    "brief_description": "Microbiome alteration in response to influenza vaccine",
+    "brief_title": "Investigating Alterations to the Nasal Microbiome after Vaccination with LAIV",
+    "clinical_trial": "N",
+    "condition_studied": "A/California/7/2009 (H1N1) and A/Victoria/361/2011 (H3N2))",
+    "dcl_id": 2,
+    "description": "The goal of this proposal is to characterize alterations to the nasal microbiome after vaccination with the 2012-2013 seasonal LAIV and to correlate these changes with LAIV-specific immune responses (A/California/7/2009 (H1N1) and A/Victoria/361/2011 (H3N2)).",
+    "doi": "10.21430/M3ENN2D3SZ",
+    "endpoints": "HA1 (H1N1/H3N2)",
+    "gender_included": "Female, Male",
+    "hypothesis": "Specific Aim 1: Measure changes in the nasal microbiome after vaccination with LAIV using high-throughput sequencing analysis of 16S rRNA genes; Correlate baseline and changes to the nasal microbiome after vaccination with LAIV vaccination with inter-individual differences in influenza-specific mucosal immune responses",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": null,
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  30.00",
+    "minimum_age": "  18.00",
+    "objectives": "Specific Aim 1: Measure changes in the nasal microbiome after vaccination with LAIV using high-throughput sequencing analysis of 16S rRNA genes; Correlate baseline and changes to the nasal microbiome after vaccination with LAIV vaccination with inter-individual differences in influenza-specific mucosal immune responses",
+    "official_title": "Investigating Alterations to the Nasal Microbiome after Vaccination with LAIV",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 47,
+    "workspace_id": 2510,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3087",
+            "description": "47 healthy adults age 18-30",
+            "name": "healthy young adults"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Gregory",
+            "last_name": "Poland",
+            "organization": "Mayo Clinic",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mayo Clinic"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Bioinformatics Approach to Influenza A/H1N1 Vaccine Immune Profiling"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 94
+        },
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 121
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 3
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 43
+            }
+        ],
+        "gender": [
+            {
+                "Female": 27
+            },
+            {
+                "Male": 20
+            }
+        ]
+    }
+}

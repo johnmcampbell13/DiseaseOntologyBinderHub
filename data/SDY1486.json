@@ -1,0 +1,83 @@
+{
+    "study_accession": "SDY1486",
+    "actual_completion_date": "2019-01-01",
+    "actual_enrollment": 3,
+    "actual_start_date": "2018-01-01",
+    "age_unit": "Years",
+    "brief_description": "This project aims to establish a comprehensive reference database of protein expression patterns across peripheral blood immune cell subsets",
+    "brief_title": "Development of a Comprehensive Antibody Staining Database using a Standardized Analytics Pipeline",
+    "clinical_trial": "N",
+    "condition_studied": "Baseline comparator",
+    "dcl_id": 2,
+    "description": "The goal of this study was to apply a standardized CyTOF workflow and analysis pipeline in conjunction with the Biolegend Legendscreen kit to comprehensively screen surface protein expression patterns across all major defined immune cell subsets in peripheral blood and to evaluate the impact of fixation on these expression patterns",
+    "doi": "10.21430/M3THZOC0FS",
+    "endpoints": "Mass cytometry reference dataset",
+    "gender_included": "Not Specified",
+    "hypothesis": "We hypothesize that our screening and analysis approach will allow us to rigorously define reproducible patterns of surface protein expression across immune cells and to quantify their sensitivity to fixation",
+    "initial_data_release_date": "2019-09-16",
+    "initial_data_release_version": "DR32",
+    "intervention_agent": "None",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "  65.00",
+    "minimum_age": "  18.00",
+    "objectives": "To establish a comprehsnive reference dataset of surface protein expression patterns across all major defined immune cell subsets in peripheral blood and to evaluate the impact of fixation on these expression patterns",
+    "official_title": "Development of a Comprehensive Antibody Staining Database using a Standardized Analytics Pipeline",
+    "sponsoring_organization": "Icahn School of Medicine at Mt. Sinai",
+    "target_enrollment": 3,
+    "workspace_id": 4875,
+    "research_focus": [
+        "Cell Biology"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4892",
+            "description": "Healthy blood donor",
+            "name": "New York Blood Center donor"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Adeeb",
+            "last_name": "Rahman",
+            "organization": "Icahn School of Medicine at Mt. Sinai",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Icahn School of Medicine at Mt. Sinai"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Development of a Comprehensive Antibody Staining Database Using a Standardized Analytics Pipeline.",
+            "journal": "Front Immunol.",
+            "month": "Jun",
+            "year": "2019",
+            "doi": "10.3389/fimmu.2019.01315. eCollection 2019.",
+            "pubmed_id": "31244854"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+            "contract_name": "Dengue Human Immunology Project Consortium (DHIPC MSSM)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 2194
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 3
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 3
+            }
+        ]
+    }
+}

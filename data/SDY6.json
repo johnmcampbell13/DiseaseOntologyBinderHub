@@ -1,0 +1,127 @@
+{
+    "study_accession": "SDY6",
+    "actual_completion_date": null,
+    "actual_enrollment": 1240,
+    "actual_start_date": "2006-05-11",
+    "age_unit": "Years",
+    "brief_description": "The proposed Registry is a database with a minimum of 1,000 subjects to improve scientific understanding of the increased risk of complications after exposure to the smallpox vaccine for people with atopic dermatitis.",
+    "brief_title": "ADVN Biomarker Registry Study",
+    "clinical_trial": "Y",
+    "condition_studied": "Atopic Dermatitis, Eczema Herpeticum, Eczema Vaccinatum, Molluscum Contagiosum",
+    "dcl_id": 2,
+    "description": "This protocol describes the development of the Atopic Dermatitis and Vaccinia Immunization Network (ADVN) Biomarker Registry Study. The proposed Registry is a database with a minimum of 1,000 subjects who have voluntarily agreed to provide medical and demographic information about themselves and their health status.<br/><br/>These data will be collected until a minimum of 12 weeks prior to the end of the funding cycle to allow for final data entry, query resolution, and database lock and will be used to identify potential subjects for future studies designed to improve scientific understanding of the increased risk of complications after exposure to the smallpox vaccine for people with atopic dermatitis (AD).<br/><br/>In addition, enrolled subjects will be asked to provide a blood sample for evaluation of biomarkers, and permission for blood sample storage to support future analyses. Provision of a blood sample for evaluation of biomarkers for future analyses will be optional for subjects under 6 years of age.",
+    "doi": "10.21430/M3J22ZOZM9",
+    "endpoints": "Serum total IgE, Eosinophilia, TARC, and CTACK",
+    "gender_included": "Not Specified",
+    "hypothesis": "The central hypothesis of the Registry Study is that AD subjects who are susceptible to generalized cutaneous infections upon exposure to common viruses (HSV, MC) or who develop complications following smallpox vaccination can be identified by unique biomarkers.  The ADVN Biomarker Registry Study will not be used to test specific research hypotheses other than those associated with the biomarker analyses among subjects for whom a blood sample is available.  In contrast, the purpose of the Registry Substudies is to address specific research hypotheses proposed to explain AD subjects susceptibility to viral infections. ",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "NA\r",
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "  85.00",
+    "minimum_age": "    .00",
+    "objectives": "The purpose of the Registry is to facilitate ADVN clinical research designed to reduce the risk of eczema vaccinatum (EV), a complication of vaccinia immunization that occurs in patients with AD, by collecting the relevant data and blood samples (if subject consents to a blood draw) and providing participating investigators with access to a pool of potential study subjects for subsequent studies.<br/><br/>Registry Primary Objectives:<ol><li>To establish a database of clinical and diagnostic information from subjects with previous or current AD with previous or current eczema herpeticum (EH) [ADEH+], AD without a history of EH (ADEH-), AD with previous or current EV (ADEV+), AD and no EV despite smallpox vaccination (ADEV-), AD with an active case of molluscum contagiosum (MC) infection, nonatopic subjects with an active case of MC infection, and nonatopic (NA) healthy controls.</li><li>To establish a repository of biological samples for the evaluation of biomarkers from the groups mentioned above.</li></ol>Registry Secondary Objectives (among those for whom a blood sample is available):<ol><li>To assess the relationship between various biomarkers and subject characteristics. The current goals are to:</li><ul><li>Characterize the degree of T helper cell (Th)2 polarization in AD subjects, and to identify whether Th2 polarization is predictive of susceptibility of AD subjects to viral infections (EH or EV).</li><li>Identify biological surrogates that accurately characterize the clinical severity of AD, and evaluate whether severity of disease is a predictor of these same viral complications.</li><li>Identify biomarkers that characterize AD subjects at risk for cutaneous viral infections (EH or EV).</li></ul></ol>",
+    "official_title": "ADVN Biomarker Registry Study",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 1000,
+    "workspace_id": 1089,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM251",
+            "description": "Atopic Dermatitis subjects with previous or current eczema herpeticum.",
+            "name": "AD+ EH+ "
+        },
+        {
+            "arm_accession": "ARM252",
+            "description": "Atopic Dermatitis subjects without eczema herpeticum.",
+            "name": "AD+ EH-"
+        },
+        {
+            "arm_accession": "ARM253",
+            "description": "Atopic Dermatitis subjects with previous or current eczema vaccinatum.",
+            "name": "AD+ EV+"
+        },
+        {
+            "arm_accession": "ARM254",
+            "description": "Atopic Dermatitis subjects with no eczema vaccinatum after smallpox vaccination.",
+            "name": "AD+ EV-"
+        },
+        {
+            "arm_accession": "ARM255",
+            "description": "Atopic Dermatitis subjects with an active case of molluscum contagiosum.",
+            "name": "AD+ MC+"
+        },
+        {
+            "arm_accession": "ARM256",
+            "description": "Normal subjects (without Atopic Dermatitis) with an active case of molluscum contagiosum.",
+            "name": "NA MC+"
+        },
+        {
+            "arm_accession": "ARM257",
+            "description": "Healthy Subjects without Atopic Dermatitis, eczema vaccinatum or eczema herpeticum.",
+            "name": "Healthy controls"
+        },
+        {
+            "arm_accession": "ARM258",
+            "description": "Subjects with data who are not assigned to an ARM or Cohort",
+            "name": "Unassigned Subjects"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Lisa",
+            "last_name": "Beck",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester Medical Center\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Atopic Dermatitis & Vaccinia Network (ADVN)",
+            "contract_name": "Atopic Dermatitis and Vaccinia Network (ADVN) Clinical Studies Consort-26629c"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 236
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 455
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 98
+            },
+            {
+                "race": "White",
+                "count": 678
+            }
+        ],
+        "gender": [
+            {
+                "Female": 736
+            },
+            {
+                "Male": 495
+            },
+            {
+                "Not Specified": 1
+            }
+        ]
+    }
+}

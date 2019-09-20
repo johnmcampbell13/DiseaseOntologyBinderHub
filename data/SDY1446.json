@@ -1,0 +1,87 @@
+{
+    "study_accession": "SDY1446",
+    "actual_completion_date": "2018-01-30",
+    "actual_enrollment": 37,
+    "actual_start_date": "2013-10-17",
+    "age_unit": "Years",
+    "brief_description": "There is an urgent need for an effective tuberculosis (TB) vaccine. Heterologous prime-boost regimens with recombinant viral vectors are effective at inducing induce high levels of potent cellular immunity. MVA85A is a candidate TB vaccine designed to boost BCG-induced immunity.",
+    "brief_title": "Comparing aerosol and intradermal boost regimes of candidate TB vaccine MVA85A.",
+    "clinical_trial": "Y",
+    "condition_studied": "Tuberculosis",
+    "dcl_id": 2,
+    "description": "There is an urgent need for an effective tuberculosis (TB) vaccine. Heterologous prime-boost regimens with recombinant viral vectors are effective at inducing induce high levels of potent cellular immunity. MVA85A is a candidate TB vaccine designed to boost BCG-induced immunity. This phase I experimental medicine clinical trial was designed to evaluate whether alternating aerosol and intradermal vaccination routes would boost the immune response cellular immunity to the Mycobacterium tuberculosis antigen 85A.",
+    "doi": "10.21430/M3ER3DU6NW",
+    "endpoints": "Primary: Safety of 5 x 10e7 pfu dose MVA85A administered by the inhaled route through actively and passively collected data on adverse events.",
+    "gender_included": "Female, Male",
+    "hypothesis": "We hypothesise that sequential homologous immunisations with MVA85A using both the aerosol and intradermal routes of delivery may enhance the immune response to the insert Ag85A and minimise anti-vector immunity.",
+    "initial_data_release_date": "2019-04-12",
+    "initial_data_release_version": "DR30",
+    "intervention_agent": "MVA85A",
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "  42.00",
+    "minimum_age": "  21.00",
+    "objectives": "Primary: To evaluate the safety of 5 x 10e7 pfu dose of MVA85A administered by aerosol and compared to the same dose administered intradermally.",
+    "official_title": "A Phase I trial evaluating mucosal administration of a candidate TB vaccine, MVA85A, as a way to induce potent local cellular immune responses and avoid anti-vector immunity",
+    "sponsoring_organization": "Wellcome Trust, NIHR BRC",
+    "target_enrollment": 36,
+    "workspace_id": 6337,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4783",
+            "description": "Aerosol prime Intradermal boost",
+            "name": "Group 1"
+        },
+        {
+            "arm_accession": "ARM4784",
+            "description": "Intradermal  prime  Aerosol boost",
+            "name": "Group 2"
+        },
+        {
+            "arm_accession": "ARM4785",
+            "description": "Intradermal prime  Intradermal boost",
+            "name": "Group 3"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Helen",
+            "last_name": "McShane",
+            "organization": "University of Oxford",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Centre for Clinical Vaccinology and Tropical Medicine (CCVTM)"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "NIHR Biomedical Research Centres (BRCs)",
+            "contract_name": "NIHR Biomedical Research Centre at Oxford University Hospitals NHS Foundation Trust and the University of Oxford"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 792
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 37
+            }
+        ],
+        "gender": [
+            {
+                "Female": 28
+            },
+            {
+                "Male": 9
+            }
+        ]
+    }
+}

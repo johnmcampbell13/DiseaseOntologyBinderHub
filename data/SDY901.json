@@ -1,0 +1,118 @@
+{
+    "study_accession": "SDY901",
+    "actual_completion_date": "2012-12-28",
+    "actual_enrollment": 8,
+    "actual_start_date": "2012-01-01",
+    "age_unit": "Weeks",
+    "brief_description": "We show that autochthonous EGFR-driven lung tumors inhibit anti-tumor immunity by activating the PD-1/PD-L1 pathway to suppress T cell function and increase levels of pro-inflammatory cytokines. These findings indicate that EGFR functions as an oncogene through non-cell autonomous mechanisms and raise the possibility that other oncogenes may drive immune escape.",
+    "brief_title": "Activation of the PD-1 Pathway Contributes to Immune Escape in EGFR-Driven Lung Tumors",
+    "clinical_trial": "N",
+    "condition_studied": "Effect of interventional antibodies against lung cancer with upregulated expression of PD-1",
+    "dcl_id": 2,
+    "description": "The success in lung cancer therapy with Programmed Death (PD)-1 blockade suggests that immune escape mechanisms contribute to lung tumor pathogenesis. We identified a correlation between Epidermal Growth Factor Receptor (EGFR) pathway activation and a signature of immunosuppression manifested by upregulation of PD-1, PD-L1, cytotoxic T lymphocyte antigen-4 (CTLA-4), and multiple tumor-promoting inflammatory cytokines. We observed decreased cytotoxic T cells and increased markers of T cell exhaustion in mouse models of EGFR-driven lung cancer. PD-1 antibody blockade improved the survival of mice with EGFR-driven adenocarcinomas by enhancing effector T cell function and lowering the levels of tumor promoting cytokines. Expression of mutant EGFR in bronchial epithelial cells induced PD-L1, and PD-L1 expression was reduced by EGFR inhibitors in non-small cell lung cancer cell lines with activated EGFR. These data suggest that oncogenic EGFR signaling remodels the tumor microenvironment to trigger immune escape, and mechanistically link treatment response to PD-1 inhibition.",
+    "doi": "10.21430/M3VRA7INN8",
+    "endpoints": "Flow Cytometry, ELISA, MRI, Microarray",
+    "gender_included": "Not Specified",
+    "hypothesis": "Epidermal growth factor (EGFR) positive lung tumors which can gain resistance to tyrosine kinase inhibitors (TKI) may show better therapeutic response to therapy which targets the programmed death 1 (Pd-1) pathway",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Not applicable",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "6",
+    "minimum_age": "5",
+    "objectives": "In this study the effectiveness of using PD-1 therapeutic antibodies against",
+    "official_title": "Activation of the PD-1 Pathway Contributes to Immune Escape in EGFR-Driven Lung Tumors",
+    "sponsoring_organization": "NCI",
+    "target_enrollment": 6,
+    "workspace_id": 5598,
+    "research_focus": [
+        "Oncology"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3352",
+            "description": "Immortalized human lung epithelial cells. After purchase, cells were transfected with an EGFR mutation",
+            "name": "EGFR positive BEAS-2B Cells"
+        },
+        {
+            "arm_accession": "ARM3353",
+            "description": "Immortalized human lung epithelial cells. After purchase, cells were transfected with a KRAS mutation",
+            "name": "KRAS positive BEAS-2B Cells"
+        },
+        {
+            "arm_accession": "ARM3354",
+            "description": "Patient derived non-small cell lung cancer cells which have a PC9-del 19 genotype",
+            "name": "Human PC9-del 19 NSCLC cell"
+        },
+        {
+            "arm_accession": "ARM3355",
+            "description": "Patient derived non-small cell lung cancer cells which have a HCC827-del 19 genotype",
+            "name": "Human HCC827-del 19 NSCLC cell"
+        },
+        {
+            "arm_accession": "ARM3356",
+            "description": "Patient derived non-small cell lung cancer cells which have a H1975-L858R/T790M genotype",
+            "name": "Human H1975-L858R/T790M NSCLC cell"
+        },
+        {
+            "arm_accession": "ARM3357",
+            "description": "Patient derived non-small cell lung cancer cells which have a PC9R-del 19/T790M genotype",
+            "name": "Human PC9R-del 19/T790M NSCLC cell"
+        },
+        {
+            "arm_accession": "ARM3358",
+            "description": "Mixed mouse population that is non-tumor bearing",
+            "name": "Control mouse"
+        },
+        {
+            "arm_accession": "ARM3359",
+            "description": "Mixed mouse population that has been induced with doxycycline",
+            "name": "Tumor bearing mouse"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Kwok-Kin",
+            "last_name": "Wong",
+            "organization": "Dana Farber Cancer Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Dana Farber Cancer Institute"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Activation of the PD-1 pathway contributes to immune escape in EGFR-driven lung tumors.",
+            "journal": "Cancer Discov.",
+            "month": "Dec",
+            "year": "2013",
+            "doi": "10.1158/2159-8290.CD-13-0310. Epub 2013 Sep 27.",
+            "pubmed_id": "24078774"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Enhance Applicability of Mouse Models for Translational Research (Oncology Model, OMF)",
+            "contract_name": "Credentialing Mouse Models for Immune System Therapy Research (Oncology Model, OMF)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 6
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 6
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 6
+            }
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "study_accession": "SDY674",
+    "actual_completion_date": null,
+    "actual_enrollment": 10,
+    "actual_start_date": "2006-12-01",
+    "age_unit": "Years",
+    "brief_description": "This study evaluates whether belatacept and a combination of anti-rejection drugs prevents  non-human leukocyte antigen identical renal transplant rejection allowing safe anti-rejection therapy withdrawal one year post-transplant",
+    "brief_title": "Vincenti ITN023ST:  Belatacept to Prevent Organ Rejection in Kidney Transplant Patients",
+    "clinical_trial": "Y",
+    "condition_studied": "Renal Transplant",
+    "dcl_id": 2,
+    "description": "Participants, at the time of transplant, begin immunosuppressive treatment with belatacept, sirolimus and thymoglobulin.  Dose reduction of belatacept begins at 12 weeks post-transplant.  Drug withdrawal begins at year 2.",
+    "doi": "10.21430/M3W336PE8D",
+    "endpoints": "Incidence of acute rejection at 24 weeks post transplant, graft survival, tolerance induction",
+    "gender_included": "Not Specified",
+    "hypothesis": "The combined use of belatacept with other immunesuppressive treatments prevents renal tranplant rejection and allows for withdrawal of immunosuppressive treatment one year post transplant",
+    "initial_data_release_date": "2015-12-14",
+    "initial_data_release_version": "DR16",
+    "intervention_agent": "Belatacept",
+    "latest_data_release_date": "2016-02-05",
+    "latest_data_release_version": "DR17",
+    "maximum_age": "65",
+    "minimum_age": "18",
+    "objectives": "Determine whether belatacept combined with other immunosuppressive treatments can prevent organ rejection in first-time renal transplant patients and allow patients to be withdrawn from anti-rejection therapy after 1 year post transplant",
+    "official_title": "The Safety and Efficacy of Belatacept, Antithymocyte Globulin, and Sirolimus in Recipients of Non-HLA-identical Living-donor Renal Transplants (ITN023ST)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 30,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2944",
+            "description": "Treatment following immunosuppressive protocol including belatacept, glucocorticoids, antithymocyte globulin and sirolimus",
+            "name": "Belatacept treatment"
+        },
+        {
+            "arm_accession": "ARM2946",
+            "description": "Non-HLA identical related living donor",
+            "name": "Donor"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Flavio",
+            "last_name": "Vincenti",
+            "organization": "University of California, San Francisco",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of California, San Francisco"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Costimulation blockade with belatacept in renal transplantation.",
+            "journal": "N Engl J Med.",
+            "month": "Aug",
+            "year": "2005",
+            "doi": "-",
+            "pubmed_id": "16120857"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 10
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 10
+            }
+        ]
+    }
+}

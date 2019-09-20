@@ -1,0 +1,65 @@
+{
+    "study_accession": "SDY350",
+    "actual_completion_date": "2015-01-09",
+    "actual_enrollment": 37,
+    "actual_start_date": "2010-02-11",
+    "age_unit": "Weeks",
+    "brief_description": "Influenza primary infection study with murine subject",
+    "brief_title": "Mouse Study of X31 Influenza Infection",
+    "clinical_trial": "N",
+    "condition_studied": "A/HK-x31 influenza infection in mice",
+    "dcl_id": 2,
+    "description": "Influenza primary infection study with murine subject",
+    "doi": "10.21430/M3LO7MV28O",
+    "endpoints": "Affymetrix gene expression assay on RNA extracted from lungs, lymph nodes, spleen and peripheral blood monocytes of female mice that did not have any infection or that received intranasal administration of influenza A virus either immediately before or 1 to 10 days before being euthanized for tissue collection.",
+    "gender_included": "Female",
+    "hypothesis": "Model gene regulatory networks in mice following A/HK-x31 influenza infection.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "X31 influenza",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "   6.00",
+    "minimum_age": "   6.00",
+    "objectives": "Design and conduct in vivo murine experiments to build, identify and experimentally validate the proposed immune response models by generating high frequency sampling and high dimensional datasets from mice with A/HK-x31 influenza virus infection.",
+    "official_title": "Mouse Study of X31 Influenza Infection",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 35,
+    "workspace_id": 2104,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2204",
+            "description": "Mouse with primary x31 infection",
+            "name": "Murine-x31"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Martin",
+            "last_name": "Zand",
+            "organization": "University of Rochester Center for Biodefense Immune Modeling",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester Medical Center"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "University of Rochester Center for Biodefense Immune Modeling II"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 132
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "study_accession": "SDY37",
+    "actual_completion_date": "2010-01-10",
+    "actual_enrollment": 335,
+    "actual_start_date": "2005-01-01",
+    "age_unit": "Years",
+    "brief_description": "Immunological changes play a physiological role in pregnancy, however they may also have consequences for vaccine response, which ultimately could impact maternal and fetal survival in the event of transmission of infectious diseases and/or bioterrorism.<br/><br/>The purpose of this study is to characterize the changes in immune response that occur during pregnancy.",
+    "brief_title": "Response of women during pregnancy to the inactivated influenza virus vaccine",
+    "clinical_trial": "N",
+    "condition_studied": "Functions of innate and adaptive immunity during and after pregnancy impacting inactivated influenza vaccine response and conferring susceptibility or resistance to virus infection.",
+    "dcl_id": 2,
+    "description": "Study volunteers will be recruited from the two obstetrical practices or the post-partum floor that are on-site at the Mount Sinai Medical Center, including the Obs/Gyn Diagnostic and Treatment Center (DTC) and Faculty Practice Associates (FPA). The DTC practice is the MSSM clinical teaching practice.<br/><br/>All patients will be required to give three blood samples, one at the time of the first study visit, the second 1-3 month(s) later (at the time of the second study visit), and the third at the end of flu season (end of March) in order to assess the immune response to routinely administered influenza vaccination(s).  Relevant medical records will be reviewed to abstract detailed information about pregnancy complications and newborn outcomes.<br/><br/>In addition, when the study team is available, cord blood samples and placenta samples may be collected.  These will be collected after specimens are processed as needed clinically and before remaining blood and tissues would otherwise be discarded.",
+    "doi": "10.21430/M3BGAHTYYO",
+    "endpoints": "Patient sera will be collected and tested in a microneutralization assay for its ability to inhibit virus infection of cell monolayers with a GFP reporter.",
+    "gender_included": "Female",
+    "hypothesis": "Pregnant women and young children are at increased risk for influenza-related morbidity and mortality. Therefore it is important to study immune responses to influenza vaccinations in postpartum women up to six months post-delivery.",
+    "initial_data_release_date": "2013-04-05",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "\r",
+    "latest_data_release_date": "2013-04-05",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  44.00",
+    "minimum_age": "  18.00",
+    "objectives": "<ol><li>To assess the influenza antibody response among pregnant women.</li><li>To determine whether the antibody response among pregnant women varies by trimester.</li><li>To determine influenza antibody response among post-partum women.</li><li>To determine whether  pregnant women with co-morbid conditions might develop lower post-immunization antibody titers. </li><li>To assess the occurrence of influenza-like illnesses among vaccinated pregnant women and their household members.</li><li>To assess the occurrence of influenza-related upper respiratory illnesses among vaccinated pregnant women.</li></ol>",
+    "official_title": "Response of women during pregnancy to the inactivated influenza virus vaccine",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 300,
+    "workspace_id": 231,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM233",
+            "description": "pregnant women, enrollment and 2nd visit both in antepartum period.",
+            "name": "Pregnant Women, enrolled and receiving H1N1 vaccination anytime during pregnancy"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Thomas",
+            "last_name": "Moran",
+            "organization": "Department of Microbiology, Mount Sinai Health System",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mount Sinai Hospital\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Immunogenicity of trivalent inactivated influenza vaccination received during pregnancy or postpartum.",
+            "journal": "Obstet Gynecol.",
+            "month": "Mar",
+            "year": "2012",
+            "doi": "10.1097/AOG.0b013e318244ed20.",
+            "pubmed_id": "22353963"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "Immune Response to Virus Infection During Pregnancy"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 304
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 4339
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 4
+            },
+            {
+                "race": "Asian",
+                "count": 8
+            },
+            {
+                "race": "Black or African American",
+                "count": 117
+            },
+            {
+                "race": "Other",
+                "count": 7
+            },
+            {
+                "race": "Unknown",
+                "count": 158
+            },
+            {
+                "race": "White",
+                "count": 41
+            }
+        ],
+        "gender": [
+            {
+                "Female": 335
+            }
+        ]
+    }
+}

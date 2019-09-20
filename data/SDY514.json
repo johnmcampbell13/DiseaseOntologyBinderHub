@@ -1,0 +1,148 @@
+{
+    "study_accession": "SDY514",
+    "actual_completion_date": null,
+    "actual_enrollment": 74,
+    "actual_start_date": "2009-08-01",
+    "age_unit": "Years",
+    "brief_description": "Evaluate the variation in immune response between individuals and assess whether it changes as a function of age and similarity in genetic and environmental background (by comparing differences between monozygotic and dizygotic twin pairs of different ages).",
+    "brief_title": "Monozygotic and Dizygotic Twin Pair T-Cell Responses to Influenza Vaccination SLVP018 2009",
+    "clinical_trial": "Y",
+    "condition_studied": "Influenza Vaccine Response",
+    "dcl_id": 2,
+    "description": "Evaluate the variation in immune response between individuals and assess whether it changes as a function of age and similarity in genetic and environmental background (by comparing differences between monozygotic and dizygotic twin pairs of different ages).",
+    "doi": "10.21430/M3M6BADC48",
+    "endpoints": "conclusion reached",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "Explore how white blood cell subsets, serum cytokines, whole blood gene expression, and T cell signaling responses change with age and to what degree is this genetically determined.",
+    "initial_data_release_date": "2015-03-31",
+    "initial_data_release_version": "DR13",
+    "intervention_agent": "Live, attenuated influenza vaccine (LAIV3)",
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "100",
+    "minimum_age": "8",
+    "objectives": "test T-Cell Responses to Influenza Vaccination",
+    "official_title": "Monozygotic and Dizygotic Twin Pair T-Cell Responses to Influenza Vaccination 2009",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 140,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2593",
+            "description": "8-17 year old monozygotic twins randomly assigned within pair to receive either IIV3 or LAIV3",
+            "name": "SLVP018_2009A"
+        },
+        {
+            "arm_accession": "ARM2594",
+            "description": "18-30 year old monozygotic twins pairs given  LAIV3",
+            "name": "SLVP018_2009B"
+        },
+        {
+            "arm_accession": "ARM2595",
+            "description": "18-30 year old dizygotic twin pairs given  LAIV3",
+            "name": "SLVP018_2009C"
+        },
+        {
+            "arm_accession": "ARM2596",
+            "description": "40-49 year old monozygotic twin pairs given  LAIV3",
+            "name": "SLVP018_2009D"
+        },
+        {
+            "arm_accession": "ARM2597",
+            "description": "40-49 year old dizygotic twin pairs given  LAIV3",
+            "name": "SLVP018_2009E"
+        },
+        {
+            "arm_accession": "ARM2598",
+            "description": "70-100 year old monozygotic or dizygotic twin pairs given  IIV3",
+            "name": "SLVP018_2009F"
+        },
+        {
+            "arm_accession": "ARM2599",
+            "description": "70-100 year old non-twins given  IIV3",
+            "name": "SLVP018_2009G"
+        },
+        {
+            "arm_accession": "ARM2618",
+            "description": "control samples",
+            "name": "control samples"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark",
+            "last_name": "Davis",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford-LPCH Vaccine Program"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Variation in the human immune system is largely driven by non-heritable influences.",
+            "journal": "Cell.",
+            "month": "Jan",
+            "year": "2015",
+            "doi": "10.1016/j.cell.2014.12.020.",
+            "pubmed_id": "25594173"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 991
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 150
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 613
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "Not Specified",
+                "count": 3
+            },
+            {
+                "race": "Other",
+                "count": 6
+            },
+            {
+                "race": "White",
+                "count": 62
+            }
+        ],
+        "gender": [
+            {
+                "Female": 41
+            },
+            {
+                "Male": 30
+            },
+            {
+                "Not Specified": 3
+            }
+        ]
+    }
+}

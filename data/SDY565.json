@@ -1,0 +1,90 @@
+{
+    "study_accession": "SDY565",
+    "actual_completion_date": null,
+    "actual_enrollment": 9,
+    "actual_start_date": "2007-08-01",
+    "age_unit": "Years",
+    "brief_description": "This study will evaluate whether treatment of type 1 diabetes patients with Proleukin and Rapamune can halt the destruction of beta cells.",
+    "brief_title": "IL2-RAPA ITN018AI:  Proleukin and Rapamune in Type 1 Diabetes Mellitus",
+    "clinical_trial": "Y",
+    "condition_studied": "Type 1 diabetes",
+    "dcl_id": 2,
+    "description": "At the time of diagnosis, type 1 diabetes patients have 15-40 percent of their beta cells may remain active and healthy in the pancreas.  This Phase I study for individuals 18-45 years of age and diagnosed with type 1 diabetes in the past 3-48 months will be treated with Proleukin (subcutaneously) 3 times per week for 28 days and Rapamune (orally, daily) for 12 weeks.  The trial will test whether the combination of Proleukin and Rapamune can be safely administered and whether treatment halts the autoimmune destruction of remaining beta cells.",
+    "doi": "10.21430/M3CRD72E92",
+    "endpoints": "AUC for c-peptide responses following MMTT; frequency of severe hypoglycemia; insulin dose in units per kilogram; HbA1c levels",
+    "gender_included": "Female, Male",
+    "hypothesis": "Does Proleukin (IL2) and Rapamune (sirolimus) administered to type 1 diabetes patients diagnosed in the past 3-48 months halt the autoimmue destruction of the remaining beta cells",
+    "initial_data_release_date": "2015-06-19",
+    "initial_data_release_version": "DR14",
+    "intervention_agent": "Proleukin and Rapamune",
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  36.00",
+    "minimum_age": "  20.00",
+    "objectives": "Evaluate the safety and efficacy of Proleukin and Rapamune treatment in type 1 diabetes patients",
+    "official_title": "A Phase I Trial of Proleukin and Rapamune in Recent-onset Type 1 Diabetes Mellitus (ITN018AI)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 9,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2700",
+            "description": "Proleukin (IL-2) and Rapamune (sirolimus) treated",
+            "name": "Proleukin and Rapamune treatment"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Carla",
+            "last_name": "Greenbaum",
+            "organization": "Benaroya Research Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Benaroya Research Institute"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Rapamycin/IL-2 combination therapy in patients with type 1 diabetes augments Tregs yet transiently impairs ?-cell function.",
+            "journal": "Diabetes.",
+            "month": "Sep",
+            "year": "2012",
+            "doi": "10.2337/db12-0049. Epub 2012 Jun 20.",
+            "pubmed_id": "22721971"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 211
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 8
+            }
+        ],
+        "gender": [
+            {
+                "Female": 4
+            },
+            {
+                "Male": 5
+            }
+        ]
+    }
+}

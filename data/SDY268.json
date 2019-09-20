@@ -1,0 +1,123 @@
+{
+    "study_accession": "SDY268",
+    "actual_completion_date": null,
+    "actual_enrollment": 8,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "Excerpted experiment: Adjuvanting the 2009 pandemic H1N1 whole inactivated virus (WIV) with PLGA(MPL+R837) confers enhanced antigen-specific immunity in mice",
+    "brief_title": "Programming the magnitude and persistence of antibody responses with innate immunity",
+    "clinical_trial": "N",
+    "condition_studied": "Vaccine efficacy",
+    "dcl_id": 2,
+    "description": "NOTE:  only data provided here is from Fig. 15-16.  Abstract of entire study: Many successful vaccines induce persistent antibody responses that can last a lifetime. The mechanisms by which they do so remain unclear, but emerging evidence suggests that they activate dendritic cells (DCs) via Toll-like receptors (TLRs)1,2. For example, the yellow fever vaccine YF-17D, one of the most successful empiric vaccines ever developed3, activates DCs via multiple TLRs to stimulate pro-inflammatory cytokines4,5. Triggering specific combinations of TLRs in DCs can induce synergistic production of cytokines6, which results in enhanced T cell responses, but its impact on antibody responses remain unknown. Learning the critical parameters of innate immunity that programs such antibody responses remains a major challenge in vaccinology. Here we demonstrate that immunization of mice with synthetic nanoparticles containing antigens plus Toll-like receptor (TLR) ligands 4 + 7 induces synergistic increases in antigen-specific, neutralizing antibodies compared to immunization with a single TLR ligand. Consistent with this there was enhanced persistence of germinal centers (GCs), and of plasma cell responses, which persisted in the lymph nodes for >1.5 years. Surprisingly, there was no enhancement of the early short-lived plasma cell response, relative to that observed with single TLR ligands. Molecular profiling of activated B cells, isolated 7 days after immunization, indicated early programming towards B cell memory. Antibody responses were dependent on direct triggering of both TLRs on B cells and dendritic cells (DCs), as well as on T-cell help. Immunization protected completely against lethal avian and swine influenza virus strains in mice, and induced robust immunity against pandemic H1N1 influenza in rhesus macaques. (PubMed ID: 21350488 )",
+    "doi": "10.21430/M3RE95AC35",
+    "endpoints": "HAI Titers, Average titers measured by ELISA (IgG, IgG1, IgG2)",
+    "gender_included": "Not Specified",
+    "hypothesis": "Excerpted experiment: To determine if 2009 pandemic H1N1 whole inactivated virus (WIV) with PLGA(MPL+R837) adjuvant confers enhanced antigen-specific immunity in BALB/c mice.",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": "2009 pandemic H1N1 whole inactive virus (WIV), biodegradable synthetic polymer poly(D,L-lactic-co-glycolic acid) synthesized  nanoparticles containing the TLR ligands MPL (TLR4) and R837 (TLR7).",
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "   8.00",
+    "minimum_age": "   8.00",
+    "objectives": "To determine if 2009 pandemic H1N1 whole inactivated virus (WIV) with PLGA(MPL+R837) adjuvant confers enhanced antigen-specific immunity in BALB/c mice.",
+    "official_title": "Programming the magnitude and persistence of antibody responses with innate immunity",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2149,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1878",
+            "description": "Mice immunized with 5ug dose of 2009 pandemic H1N1 Whole Inactivated Virus (WIV) with Alum adjuvant (adjuvant control)",
+            "name": "WIV5_Alum"
+        },
+        {
+            "arm_accession": "ARM1879",
+            "description": "Mice immunized with .05ug dose of 2009 pandemic H1N1 Whole Inactivated Virus (WIV) with PLGA (MPL+R837) adjuvant",
+            "name": "WIV.05_PLGA"
+        },
+        {
+            "arm_accession": "ARM1880",
+            "description": "Mice immunized with .5ug dose of 2009 pandemic H1N1 Whole Inactivated Virus (WIV) with PLGA (MPL+R837) adjuvant",
+            "name": "WIV.5_PLGA"
+        },
+        {
+            "arm_accession": "ARM1881",
+            "description": "Mice immunized with 5ug dose of 2009 pandemic H1N1 Whole Inactivated Virus (WIV) with PLGA (MPL+R837) adjuvant",
+            "name": "WIV5_PLGA"
+        },
+        {
+            "arm_accession": "ARM1882",
+            "description": "Mice immunized with .05ug dose of 2009 pandemic H1N1 Whole Inactivated Virus (WIV)",
+            "name": "WIV.05"
+        },
+        {
+            "arm_accession": "ARM1883",
+            "description": "Mice immunized with .5ug dose of 2009 pandemic H1N1 Whole Inactivated Virus (WIV)",
+            "name": "WIV.5"
+        },
+        {
+            "arm_accession": "ARM1884",
+            "description": "Mice immunized with 5ug dose of 2009 pandemic H1N1 Whole Inactivated Virus (WIV)",
+            "name": "WIV5"
+        },
+        {
+            "arm_accession": "ARM1885",
+            "description": "Untreated mice",
+            "name": "Ctrl"
+        },
+        {
+            "arm_accession": "ARM1886",
+            "description": "No Data Provided for ImmPort - not funded by IPIRC.",
+            "name": "SK11_Other_1"
+        },
+        {
+            "arm_accession": "ARM1887",
+            "description": "No Data Provided for ImmPort - not funded by IPIRC.",
+            "name": "SK11_Other_2"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Bali",
+            "last_name": "Pulandran",
+            "organization": "Emory Vaccine Center, Emory University, Atlanta GA 30329",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Programming the magnitude and persistence of antibody responses with innate immunity.",
+            "journal": "Nature.",
+            "month": "Feb",
+            "year": "2011",
+            "doi": "10.1038/nature09737.",
+            "pubmed_id": "21350488"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "Influenza Pathogenesis & Immunology Research Center (IPIRC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 24
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 8
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

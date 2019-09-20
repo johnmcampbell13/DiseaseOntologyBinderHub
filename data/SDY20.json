@@ -1,0 +1,114 @@
+{
+    "study_accession": "SDY20",
+    "actual_completion_date": "2009-09-30",
+    "actual_enrollment": 2346,
+    "actual_start_date": "2003-08-10",
+    "age_unit": "Years",
+    "brief_description": "The severity of West Nile virus (WNv) infections are a consequence of genetic factors that result in increased WNv replication and subsequent immune pathology in individuals with severe (encephalitis or meningitis) disease.  Our preliminary draft of 156 genes includes potential candidates to study variation in the severity of WNv infections.  Using a candidate gene approach we have also selected a panel of candidate immune response genes for SNP analysis  guided by the collective understanding of virus-host interactions.  This portion of the study will genotype these genes in a population of WNv patients and control s to identify genes associated with variations in the severity of WNv disease.",
+    "brief_title": "Assess the association between immune response genotype set and susceptibility to neuroinvasive disease.",
+    "clinical_trial": "N",
+    "condition_studied": "Neuroinvasive West Nile virus (WNv)",
+    "dcl_id": 2,
+    "description": "We propose to identify polymorphic immune response genes associated with neurological complications to WNv infection. Our preliminary draft of 156 genes is based on three separate strategies.<br/><br/>First 100 immune related genes showing the highest levels of change (healthy volunteer peripheral blood was used as control) in gene expression profiles of peripheral blood RNA from 15 acutely ill WNv patients formed the bulk of the preliminary list. Twenty-five additional genes were based on the maximum change in expression of WNv infected vero cells. The remainder of the genes were based on studies reported in the literature identifying genes with an association with WNv infection and susceptibility. We will perform gene analysis of these preliminary candidates using single nucleotide polymorphisms (SNPs) to compare gene frequencies between individuals with meningoencephalitis and those with West Nile virus fever using a case-control study design.<br/><br/>A second draft of candidate genes will be derived from previously recognized immune genes and uncharacterized genes showing maximum levels of change between participants with meningoencephalitis and cases of West Nile fever as determined in gene expression profiles. This second draft will utilize specimens obtained in a on-going prospective cohort study of newly infected WNv patients. We anticipate that another two panels of approximately 150 genes each will be considered for additional analysis.<br/><br/>The results of these findings will be used to perform functional analysis of candidate genes.",
+    "doi": "10.21430/M3H2LBOI83",
+    "endpoints": "<ol><li>Genome wide genotyping with Illumina Human NS-12 and Illumina HumanOmni1 arrays.</li><li>Sequencing of exons and promoter regions of RFC1, SCN1A and ANPEP.</li><li>Sequenom panel: Validation, replication and fine mapping panel of 33 SNPs that includes top 12 associations and fine mapping of RFC1.</li><li>Illumina HumanOmni1: density genotyping array containing over 1 million strategically selected SNPs.</li><li>Gene Expression Profiling: High throughput, whole genome analysis of the human host gene expression during WNv infection.</li><li>Cytokine and Chemokine Profiling: High throughput analysis of proinflammatory serum protein induction during WNv infection.</li><li>T cell immunity: Examining the frequency and functionality of CD8+ and CD4+ T cells specific to West Nile virus.</li><li>SCN1A SNP study with engineered human neuronal cell lines expressing voltage-gated sodium channels containing either the wild-type SCN1A subunit or a SCN1A subunit containing the identified SNP.</li><li>RFC1 SNP analysis with ChIP on chip to identify transcription factor binding sites regulating downstream genes.</li></ol>",
+    "gender_included": "Female, Male, Unknown",
+    "hypothesis": "We hypothesize that the severity of West Nile virus (WNv) infection is a consequence of genetic factors that result in increased WNv replication and subsequent immune pathology in individuals with severe (encephalitis or meningitis) disease.  ",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Some concomitant medications may be taken by some patients suffering from WNv related diseases.\r",
+    "latest_data_release_date": "2012-11-16",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "80",
+    "minimum_age": "18",
+    "objectives": "To assess the association between known and discovered candidate immune response genotype sets and susceptibility to meningoencephalitis in patients infected with WNv. ",
+    "official_title": "Assess the association between immune response genotype set and susceptibility to neuroinvasive disease.",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 1200,
+    "workspace_id": 411,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM82",
+            "description": "Subjects diagnosed with West Nile virus infection who developed neuroinvasive disease.",
+            "name": "WNv patients with neuroinvasive disease."
+        },
+        {
+            "arm_accession": "ARM83",
+            "description": "Subjects diagnosed with West Nile virus infection without neuroinvasive disease development.",
+            "name": "WNv patients without neuroinvasive disease."
+        },
+        {
+            "arm_accession": "ARM858",
+            "description": "Arm for subjects with incomplete description.",
+            "name": "Unknown Phenotype"
+        },
+        {
+            "arm_accession": "ARM859",
+            "description": "HapMap control",
+            "name": "HapMap control"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark",
+            "last_name": "Loeb",
+            "organization": "Pathology & Molecular Medicine and Clinical Epidemiology and Biostatistics",
+            "role_in_study": "Principal Investigator",
+            "site_name": "McMaster University\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Population Genetics Analysis Program (1)",
+            "contract_name": "Population Genetics Analysis Program on West Nile Virus"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 3
+            },
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "Black or African American",
+                "count": 5
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 27
+            },
+            {
+                "race": "Unknown",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 1633
+            }
+        ],
+        "gender": [
+            {
+                "Female": 905
+            },
+            {
+                "Male": 766
+            },
+            {
+                "Unknown": 3
+            }
+        ]
+    }
+}

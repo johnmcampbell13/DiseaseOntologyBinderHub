@@ -1,0 +1,99 @@
+{
+    "study_accession": "SDY471",
+    "actual_completion_date": null,
+    "actual_enrollment": 44,
+    "actual_start_date": "2001-07-01",
+    "age_unit": "Years",
+    "brief_description": "A randomized, double-masked, 2-arm pilot study of Copaxone and albuterol versus Copaxone and placebo for the treatment of multiple sclerosis. Twenty-four patients with MS who meet the inclusion/exclusion criteria will be enrolled per arm. Each patient will be randomized to receive either 20 mg SQ of Copaxone plus an oral dose of placebo daily or 20 mg SQ of Copaxone plus an oral dose of albuterol daily. Patients will be followed for two years.",
+    "brief_title": "Treatment of MS with Copaxone and Albuterol (AMS01)",
+    "clinical_trial": "Y",
+    "condition_studied": "Multiple Sclerosis",
+    "dcl_id": 2,
+    "description": "MS is a chronic inflammatory disease of the central nervous system characterized by focal T cell and macrophage infiltrates that lead to demyelination and loss of neurologic function. Four therapies are currently approved for the treatment of MS. Three of these are approved for the treatment of patients with the relapsing-remitting (RR) form of MS, in which patients have clinical exacerbations followed by partial or complete recovery of function. These treatments are only modestly effective and are associated with significant toxicity, often causing patients to delay therapy for significant lengths of time. Thus, there is a need to find therapies with low toxicities that can be administered early during the disease course with the potential for arresting the disease.",
+    "doi": "10.21430/M3QEDB55A6",
+    "endpoints": "Primary clinical endpoint will be change in participant's disease status as measured by the MS Functional Scale. Primary immunologic endpoint will be measurement of IL-13 cytokine secretion and IFN-gamma secretion by Copaxone reactive T cell lines. Secondary outcome variables include change in cytokine secretion in the supernatants of lines stimulated with GA, changes in percentage of IL-12 producing monocytes by intra-cytoplasmic staining, time of first exacerbation, number and severity of exacerbations, and MRI evidence of progression.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Copaxone and albuterol treatment induces more prominent changes in immune and MS responses as compared to Copaxone and placebo.",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": "Glatiramer acetate; Albuterol",
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "  50.00",
+    "minimum_age": "  18.00",
+    "objectives": "To investigate whether Copaxone and albuterol treatment induces more prominent changes in immune and MS responses as compared to Copaxone and placebo.",
+    "official_title": "AMS01 - Treatment of Multiple Sclerosis with Copaxone (Glatiramer Acetate) and Albuterol",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 48,
+    "workspace_id": 4026,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2508",
+            "description": "Arm 1: 20 mg SQ of glatiramer acetate (GA) daily + 4 mg PO of placebo daily for two years.",
+            "name": "AMS01 Placebo"
+        },
+        {
+            "arm_accession": "ARM2509",
+            "description": "Arm 2: 20 mg SQ of glatiramer acetate (GA) daily + 4 mg PO of albuterol daily, for two years.",
+            "name": "AMS01 Albuterol"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Samia",
+            "last_name": "Khoury",
+            "organization": "Brigham and Women's Hospital, Harvard Medical School",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Brigham and Women's Hospital, Harvard Medical School"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "A randomized controlled double-masked trial of albuterol add-on therapy in patients with multiple sclerosis.",
+            "journal": "Arch Neurol.",
+            "month": "Sep",
+            "year": "2010",
+            "doi": "10.1001/archneurol.2010.222.",
+            "pubmed_id": "20837847"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Autoimmunity Centers of Excellence (ACE) AI-12-060, AI-12-059",
+            "contract_name": "Autoimmunity: Treatment by Costimulatory Signal Blockade (AMS01 ADCT)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 2055
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 41
+            }
+        ],
+        "gender": [
+            {
+                "Female": 32
+            },
+            {
+                "Male": 12
+            }
+        ]
+    }
+}

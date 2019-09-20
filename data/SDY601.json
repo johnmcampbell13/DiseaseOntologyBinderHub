@@ -1,0 +1,146 @@
+{
+    "study_accession": "SDY601",
+    "actual_completion_date": null,
+    "actual_enrollment": 426,
+    "actual_start_date": "2014-04-15",
+    "age_unit": "Days",
+    "brief_description": "WT and PPARgfl/fl:LysCre+ (R2+) mice were infected with 5x10e7 CFU of different Helicobacter pylori strains (26695, SS1 and PMSS1). A control uninfected group was included for each genotype. Tissues were collected at 9 months post-infection to determine bacterial loads (stomach) and to assess the expansion of CD4 and CD8 T cells, macrophages, dendritic cells and neutrophils by flow cytometry (blood, spleen and stomach).",
+    "brief_title": "HP47",
+    "clinical_trial": "N",
+    "condition_studied": "Helicobacter pylori infection",
+    "dcl_id": 2,
+    "description": "WT and PPARgfl/fl:LysCre+ (R2+) mice were infected with 5x10e7 CFU of different Helicobacter pylori strains (26695, SS1 and PMSS1). A control uninfected group was included for each genotype. Tissues were collected at 9 months post-infection to determine bacterial loads (stomach) and to assess the expansion of CD4 and CD8 T cells, macrophages, dendritic cells and neutrophils by flow cytometry (blood, spleen and stomach).",
+    "doi": "10.21430/M3SB5VLQDV",
+    "endpoints": "Mice were euthanized at 9 months post-infection to assess bacterial loads and immune cell populations by flow cytometry",
+    "gender_included": "Female, Male",
+    "hypothesis": "To compare the long-term bacterial loads and induction of immune responses by different Helicobacter pylori strains (SS1, PMSS1 and 26695)",
+    "initial_data_release_date": "2017-04-21",
+    "initial_data_release_version": "DR21",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "  81.00",
+    "minimum_age": "  45.00",
+    "objectives": "To compare the long-term bacterial loads and induction of immune responses by different Helicobacter pylori strains (SS1, PMSS1 and 26695)",
+    "official_title": "Macrophages modulate bacterial persistence and gastric pathology during Helicobacter pylori infection",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2772",
+            "description": "H. pylori 26695",
+            "name": "H. pylori 26695"
+        },
+        {
+            "arm_accession": "ARM2773",
+            "description": "H. pylori SS1",
+            "name": "H. pylori SS1"
+        },
+        {
+            "arm_accession": "ARM2774",
+            "description": "H. pylori PMSS1",
+            "name": "H. pylori PMSS1"
+        },
+        {
+            "arm_accession": "ARM2775",
+            "description": "Uninfected",
+            "name": "Uninfected"
+        },
+        {
+            "arm_accession": "ARM2776",
+            "description": "H. pylori SS1 (Case)",
+            "name": "H. pylori SS1 (Case)"
+        },
+        {
+            "arm_accession": "ARM2777",
+            "description": "Uninfected (Control)",
+            "name": "Uninfected (Control)"
+        },
+        {
+            "arm_accession": "ARM2785",
+            "description": "H. pylori SS1",
+            "name": "H. pylori SS1"
+        },
+        {
+            "arm_accession": "ARM2786",
+            "description": "Uninfected",
+            "name": "Uninfected"
+        },
+        {
+            "arm_accession": "ARM2789",
+            "description": "H. pylori SS1",
+            "name": "H. pylori SS1"
+        },
+        {
+            "arm_accession": "ARM2790",
+            "description": "Uninfected",
+            "name": "Uninfected"
+        },
+        {
+            "arm_accession": "ARM2791",
+            "description": "H. pylori SS1 5X10e6",
+            "name": "H. pylori SS1 5X10e6"
+        },
+        {
+            "arm_accession": "ARM2792",
+            "description": "H. pylori SS1 5X10e7",
+            "name": "H. pylori SS1 5X10e7"
+        },
+        {
+            "arm_accession": "ARM2793",
+            "description": "H. pylori SS1 5x10e5",
+            "name": "H. pylori SS1 5x10e5"
+        },
+        {
+            "arm_accession": "ARM2794",
+            "description": "H. pylori SS1 5x10e8",
+            "name": "H. pylori SS1 5x10e8"
+        },
+        {
+            "arm_accession": "ARM2795",
+            "description": "Uninfected",
+            "name": "Uninfected"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        },
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 1018
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 182
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

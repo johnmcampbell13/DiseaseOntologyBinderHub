@@ -1,0 +1,103 @@
+{
+    "study_accession": "SDY230",
+    "actual_completion_date": null,
+    "actual_enrollment": 53,
+    "actual_start_date": null,
+    "age_unit": "Days",
+    "brief_description": "We developed a validated mathematical and computation model of immune responses to H. pylori infection that delineate how immune responses to H. pylori correlate with initiation, progression and outcome of disease.",
+    "brief_title": "Predictive computational modeling of the mucosal immune responses during Helicobacter pylori infection",
+    "clinical_trial": "N",
+    "condition_studied": "Host responses to H. pylori infection",
+    "dcl_id": 2,
+    "description": "T helper (Th) cells play a major role in the modulation of immune responses at the gastric mucosa and lesion formation during Helicobacter pylori infection. The contributions of CD4+ T cell subsets to gastritis development and control of H. pylori colonization are not well understood. We used two computational approaches: ordinary differential equation (ODE)-based and agent-based modeling (ABM) to study the mechanisms underlying cellular immune responses to H. pylori and the influence of CD4+ T cell subsets in initiation, progression and outcome of disease. To calibrate the model, in vivo experimentation was performed by infecting C57BL/6 mice intragastrically with H. pylori and assaying immune cell subsets in the stomach and gastric lymph nodes (GLN) on days 0, 7, 14, 30 and 60 post-infection. Our computational model reproduced the dynamic behaviors of effector and regulatory pathways in the gastric lamina propria (LP) in silico. Simulation results show the induction of an initial Th17 response, followed by a dominant Th1 response, and a regulatory response characterized by high levels of mucosal iTreg cells. We also investigated the potential role of peroxisome proliferator-activated receptor ? (PPAR?) activation in the modulation of host responses to H. pylori by using loss-of-function approaches. Specifically, in silico results showed a predominance of Th1 and Th17 cells in the stomach of the cell-specific PPAR? knockout system when compared to the wild-type simulation. Our ABM suggested similar dynamics in the induction of host responses showing analogous T cell distributions to ODE modeling and facilitated tracking lesion formation. In addition, the myeloid cell-specific PPAR? knockout model illustrated increased Th17 differentiation in the gastric LP. These integrated immunoinformatics approaches characterized the induction of mucosal immunoregulatory pathways controlled by PPAR? during H. pylori infection that affect initiation, progression and outcome of disease.",
+    "doi": "10.21430/M37ANCFRHF",
+    "endpoints": "mucosal immunological parameters and gastric lesions",
+    "gender_included": "Not Specified",
+    "hypothesis": "We expect to see upregulation of Tbet and IFN in infected mice, both non-treated and metronidazole treated. Since we are eliminating HP at day 30, if we observe an immune response at day 60, this may suggest that the trigger of immune response is not the bacterium itself (since it has been eliminated) but the immune response cascaded. Controls should have significantly decreased amounts of both Tbet and IFN. For the re-isolation, we should observe no HP present in control stomachs as well as infected-treated mice. We should see significantly increased reisolation in the infected non treated group. Histology results should show lesions in both infected groups and healthy gastric mucosa in the uninfected mice.",
+    "initial_data_release_date": "2013-11-01",
+    "initial_data_release_version": "DR5",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-11-01",
+    "latest_data_release_version": "DR5",
+    "maximum_age": "  86.00",
+    "minimum_age": "  86.00",
+    "objectives": "Our Helicobacter pylori computational models predicted that the cause of lesion formation during the chronic phase of disease is the effector immune responses and not the pathogenic effects of the bacterium itself. We would like to test this hypothesis in vivo to validate the prediction.",
+    "official_title": "Predictive computational modeling of the mucosal immune responses during Helicobacter pylori infection",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM949",
+            "description": "treated or infected",
+            "name": "Case"
+        },
+        {
+            "arm_accession": "ARM950",
+            "description": "control",
+            "name": "Control"
+        },
+        {
+            "arm_accession": "ARM951",
+            "description": "unknown",
+            "name": "Unknown"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        },
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Predictive computational modeling of the mucosal immune responses during Helicobacter pylori infection.",
+            "journal": "PLoS One.",
+            "month": "Sep",
+            "year": "2013",
+            "doi": "10.1371/journal.pone.0073365. eCollection  2013.",
+            "pubmed_id": "24039925"
+        },
+        {
+            "title": "Sensitivity Analysis of an ENteric Immunity SImulator (ENISI)-Based Model of Immune Responses to Helicobacter pylori Infection.",
+            "journal": "PLoS One.",
+            "month": "Sep",
+            "year": "2015",
+            "doi": "10.1371/journal.pone.0136139. eCollection 2015.",
+            "pubmed_id": "26327290"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 58
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 10
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

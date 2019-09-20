@@ -1,0 +1,92 @@
+{
+    "study_accession": "SDY1260",
+    "actual_completion_date": "2011-01-28",
+    "actual_enrollment": 30,
+    "actual_start_date": "2010-01-01",
+    "age_unit": "Years",
+    "brief_description": "Thirty healthy adults (18-45 years of age) with no history of prior meningococcal vaccination and no contraindications to immunization will be vaccinated using either the meningococcal conjugate vaccine (MCV) or the meningococcal non-conjugate polysaccharide vaccine (MPSV). The study will be conducted as a randomized double blinded trial. Vaccine administration will be performed by an unblinded vaccine administrator, who will not be involved in subsequent assessments. Blood samples will be collected on Days D0 (at enrollment) and D3, D7, D14, D30 and D180 post vaccination to study innate and adaptive immunity markers. Even though meningococcal vaccination is considered safe, volunteers are asked to report any local or systemic AEs for 30 days post vaccination and any SAEs for 180 days post vaccination.",
+    "brief_title": "Correlation between human innate and adaptive immune responses to T-cell independent or dependent meningococcal vaccines.",
+    "clinical_trial": "N",
+    "condition_studied": "Meningococcal disease",
+    "dcl_id": 2,
+    "description": "Thirty healthy adults (18-45 years of age) with no history of prior meningococcal vaccination and no contraindications to immunization will be vaccinated using either the meningococcal conjugate vaccine (MCV) or the meningococcal non-conjugate polysaccharide vaccine (MPSV). The study will be conducted as a randomized double blinded trial. Vaccine administration will be performed by an unblinded vaccine administrator, who will not be involved in subsequent assessments. Blood samples will be collected on Days D0 (at enrollment) and D3, D7, D14, D30 and D180 post vaccination to study innate and adaptive immunity markers. Even though meningococcal vaccination is considered safe, volunteers are asked to report any local or systemic AEs for 30 days post vaccination and any SAEs for 180 days post vaccination.",
+    "doi": "10.21430/M3F47KSLLP",
+    "endpoints": "Primary Outcome Measures:  1. Innate immune markers at day 3 post vaccination.  2. SBA titers at day 30 post vaccination. 3. Correlation an innate immune markers ?signature? at day 3 to SBA titers at day 30 post vaccination. Secondary Outcome Measures:  1. Serogroup specific IgG levels at day 30 post vaccination. 2. Presence of plasmablast at day 14 post vaccination.  3. Serogroup specific avidity indexes at day 180 post vaccination. 4. Correlation of innate immune markers at day 3 to serogroup specific IgG levels at day 30 post vaccination. 5. Correlation of innate immune markers at day 3 to serogroup specific avidity indexes at day 180 and post vaccination.",
+    "gender_included": "Not Specified",
+    "hypothesis": "Unique signatures of innate immunity markers (dendritic cell populations, cytokine profiles and peripheral blood mononuclear cells (PBMC) gene expression) correlate with established protective adaptive responses to meningococcal polysaccharide or conjugate vaccines.",
+    "initial_data_release_date": "2018-07-06",
+    "initial_data_release_version": "DR27",
+    "intervention_agent": "Meningococcal conjugate vaccine (MCV4) (Menactra), Meningococcal polysaccharide vaccine (MPSV4) (Menomune)",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  45.00",
+    "minimum_age": "  18.00",
+    "objectives": "1. Define the innate immunity markers (dendritic cell populations, cytokine profiles and peripheral blood mononuclear cells (PBMC) gene expression) to meningococcal vaccination. 2. Measure correlates of protection (e.g., serum bactericidal activity (SBA), IgG levels, antibody avidity assays) to meningococcal vaccination. 3. Correlate unique innate immunity signatures to well established correlates of protection to meningococcal vaccination.",
+    "official_title": "Correlation between human innate and adaptive immune responses to T-cell independent or dependent meningococcal vaccines.",
+    "sponsoring_organization": "NIH",
+    "target_enrollment": 30,
+    "workspace_id": 6133,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4355",
+            "description": "Immunized with MCV4, blood collected on D0,D3,D7,D14,D30,D180",
+            "name": "MCV4"
+        },
+        {
+            "arm_accession": "ARM4356",
+            "description": "Immunized with MPSV4, blood collected on D0,D3,D7,D14,D30,D180",
+            "name": "MPSV4"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Bali",
+            "last_name": "Pulendran",
+            "organization": "Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory Hope Clnic"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Molecular signatures of antibody responses derived from a systems biology study of five human vaccines.",
+            "journal": "Nat Immunol.",
+            "month": "Feb",
+            "year": "2014",
+            "doi": "10.1038/ni.2789. Epub 2013 Dec 15.",
+            "pubmed_id": "24336226"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Systems Biological Analysis of Innate and Adaptive Responses to Vaccination"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 711
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 90
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 30
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 30
+            }
+        ]
+    }
+}

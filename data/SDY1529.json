@@ -1,0 +1,81 @@
+{
+    "study_accession": "SDY1529",
+    "actual_completion_date": "2011-12-30",
+    "actual_enrollment": 36,
+    "actual_start_date": "2010-08-02",
+    "age_unit": "Years",
+    "brief_description": "Mechanisms of poor responses to vaccines remain unknown. Yellow fever-naive adults were vaccinated with a yellow fever vaccine (YF-17D, Stamaril). Transcriptomic profiling of blood collected pre-vaccination and post-vaccination (day 3, 7, 14 and 84) was performed in order to identify candidate biomarkers of antibody response to the vaccine.",
+    "brief_title": "Transcriptional profiling of yellow fever vaccine-naive participants bafore and after vaccination against yellow fever.",
+    "clinical_trial": "N",
+    "condition_studied": "yellow fever vaccine",
+    "dcl_id": 2,
+    "description": "Post-vaccination transcriptomic profiling at days 3, 7, 14 and 84 and other immune parameters have been investigated in association with the immune response, at day 80 post-vaccination, to Yellow Fever vaccine (YF-17D) in a cohort of 36 participants recruited in Entebee (Uganda).",
+    "doi": "10.21430/M36X4BH892",
+    "endpoints": "Correlation of patterns of cellular and gene expression with antibody levels measured after vaccination.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Post-vaccination transcriptomic profiling at days 3, 7, 14 and 84 and other immune parameters have been investigated in association with the immune response, at day 80 post-vaccination, to Yellow Fever vaccine (YF-17D) in a cohort of 36 participants recruited in Entebee (Uganda).",
+    "initial_data_release_date": "2019-09-16",
+    "initial_data_release_version": "DR32",
+    "intervention_agent": "yellow fever vaccine (YF-17D vaccine, Stamaril)",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "  49.00",
+    "minimum_age": "  19.00",
+    "objectives": "That identifying cellular and transcriptional responses that correlate with different antibody responses to vaccination.",
+    "official_title": "Transcriptional profiling of yellow fever vaccine-naive participants bafore and after vaccination against yellow fever.",
+    "sponsoring_organization": "IAVI",
+    "target_enrollment": 40,
+    "workspace_id": 5875,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM5007",
+            "description": "Healthy participants, aged 18 to 50 years , yellow fever vaccine-na?ve that received YF-17D.",
+            "name": "healthy aldults"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Rafick-Pierre",
+            "last_name": "Sekaly",
+            "organization": "Case Western Reserve University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Case Western Reserve University"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Bill and Melinda Gates Foundation",
+            "contract_name": "Immune activation alters cellular and humoral responses to yellow fever 17D vaccine"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "DNA microarray",
+            "number_of_expsamples": 180
+        },
+        {
+            "measurement_technique": "Neutralizing Antibody Titer Assay",
+            "number_of_expsamples": 72
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 36
+            }
+        ],
+        "gender": [
+            {
+                "Female": 15
+            },
+            {
+                "Male": 21
+            }
+        ]
+    }
+}

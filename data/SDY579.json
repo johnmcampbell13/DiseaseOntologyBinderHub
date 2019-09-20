@@ -1,0 +1,143 @@
+{
+    "study_accession": "SDY579",
+    "actual_completion_date": null,
+    "actual_enrollment": 161,
+    "actual_start_date": "2014-03-17",
+    "age_unit": "Days",
+    "brief_description": "This study examines the role of NLRX1 in modulating immune responses to H. pylori infection.",
+    "brief_title": "Assessing the role of NLRX1 during mucosal immune responses to H. pylori in mice",
+    "clinical_trial": "N",
+    "condition_studied": "Age and sex-matched WT and whole body NLRX1-deficient animals were infected with H. pylori. Mice were sacrificed at 3 and 11 wpi.",
+    "dcl_id": 2,
+    "description": "Helicobacter pylori (HP) colonizes 50% of the world&rsquo;s population resulting in a decades-long gastric infection. Bacterial interaction with host intracellular environment occurs via injection of bacterial components through a TIVSS or intracellular replication. HP has been recognized for its ability to modulate intracellular NOD-like receptors (NLR). Host responses toward the bacterium can result in asymptomatic, pathogenic or even favorable immunity. Mechanisms underlying the dual role of HP as a commensal versus pathogen are not completely understood. We combined computational modeling, bioinformatics and experimental validation to investigate intracellular host-HP interactions. Global transcriptomic analysis on bone marrow-derived macrophages (BMDM) in a gentamycin protection assay unveiled that intracellular colonization of HP upregulated NOD1, NOD2, NLRP3, NLRC5 and inflammasome components (Caspase-1 and -11) but suppressed regulatory NLRX1 which was inversely correlated to TRAF6, NF-B, proinflammatory cytokines and reactive oxygen species. Loss of NLRX1 facilitates bacterial clearance in BMDM and infected mice. Lastly, we constructed a computational model to shed light on complex immune responses and pathway crosstalk regulated by NLRX1 during infection. In conclusion, NLRX1 is associated with chronic bacterial persistence during H. pylori infection and it may represent an immune evasion mechanism employed by the bacterium to facilitate long-term host colonization.",
+    "doi": "10.21430/M3L7JSJOLT",
+    "endpoints": "Bacterial reisolation and immunophenotyping were performed at weeks 3 and 11 post infection.",
+    "gender_included": "Female, Male",
+    "hypothesis": "NLRX1 deficiency will alter H. pylori colonization in the stomach mucosal.",
+    "initial_data_release_date": "2017-04-21",
+    "initial_data_release_version": "DR21",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "#######",
+    "minimum_age": "  32.00",
+    "objectives": "To determine the effects of NLRX1 deficiency on bacterial colonization and the development of immune cell phenotypes during H. pylori infection.",
+    "official_title": "Assessing the role of NLRX1 during mucosal immune responses to H. pylori in mice",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2734",
+            "description": "Case",
+            "name": "Infected H. pylori SS1"
+        },
+        {
+            "arm_accession": "ARM2735",
+            "description": "Control",
+            "name": "Uninfected"
+        },
+        {
+            "arm_accession": "ARM2736",
+            "description": "Control",
+            "name": "Uninfected bone marrow donors"
+        },
+        {
+            "arm_accession": "ARM2737",
+            "description": "Control",
+            "name": "Control"
+        },
+        {
+            "arm_accession": "ARM2738",
+            "description": "Case",
+            "name": "H. pylori SS1"
+        },
+        {
+            "arm_accession": "ARM2739",
+            "description": "Control Uninfected mice will receive 1X PBS",
+            "name": "Control"
+        },
+        {
+            "arm_accession": "ARM2740",
+            "description": "Case Two 500uL doses (days 0 and 2) of 1x108 cfu/mL of H. pylori strain SS1 resuspended in 1X PBS (total infectious dose: 5x107 cfu)",
+            "name": "H. pylori SS1"
+        },
+        {
+            "arm_accession": "ARM2744",
+            "description": "Control",
+            "name": "Healthy volunteers"
+        },
+        {
+            "arm_accession": "ARM2787",
+            "description": "Case",
+            "name": "Infected H. pylori SS1"
+        },
+        {
+            "arm_accession": "ARM2788",
+            "description": "Control",
+            "name": "Uninfected"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        },
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Modeling the Regulatory Mechanisms by Which NLRX1 Modulates Innate Immune Responses to Helicobacter pylori Infection.",
+            "journal": "PLoS One.",
+            "month": "Sep",
+            "year": "2015",
+            "doi": "10.1371/journal.pone.0137839. eCollection 2015.",
+            "pubmed_id": "26367386"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 74
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 202
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 45
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 2
+            }
+        ],
+        "gender": [
+            {
+                "Male": 2
+            }
+        ]
+    }
+}

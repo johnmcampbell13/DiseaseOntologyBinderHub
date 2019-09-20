@@ -1,0 +1,98 @@
+{
+    "study_accession": "SDY702",
+    "actual_completion_date": null,
+    "actual_enrollment": 56,
+    "actual_start_date": "2013-07-01",
+    "age_unit": "Years",
+    "brief_description": "A multidimensional, quantitative analysis of human T cell compartmentalization and maintenance over six decades of life in blood, lymphoid, and mucosal tissues obtained from 56 individual organ donors.",
+    "brief_title": "Human T Cell Profile",
+    "clinical_trial": "N",
+    "condition_studied": "T cell",
+    "dcl_id": 2,
+    "description": "We present a quantitative, system-wide analysis of T cell differentiation, homeostasis and persistence in blood, lymphoid, and mucosal tissues obtained from a highly diverse cohort of 56 organ donors aged 3?73 years. We incorporate an analysis of naive, memory, and effector T cells with functional markers of homeostasis, activation, and tissue residence along with quantification of in situ turnover and TCR clonal distribution to reveal distinct patterns of compartmentalization, maintenance and proliferation of human T cells.",
+    "doi": "10.21430/M39EBHNRYF",
+    "endpoints": "FCS data classifying T cells",
+    "gender_included": "Female, Male",
+    "hypothesis": "T cells in peripheral tissues have unique differentiation, proliferation and homeostatis pathways",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-03-18",
+    "latest_data_release_version": "DR18",
+    "maximum_age": "  73.00",
+    "minimum_age": "   3.00",
+    "objectives": "Characterize peripheral t-cell phenotypes",
+    "official_title": "Spatial Map of Human T Cell Compartmentalization and Maintenance Over Life",
+    "sponsoring_organization": "NIAID, NIA, NCRR",
+    "target_enrollment": null,
+    "workspace_id": 3670,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2994",
+            "description": "All subjects are included in a single arm",
+            "name": "All Subjects"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Donna",
+            "last_name": "Farber",
+            "organization": "Columbia University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "CCTI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Spatial map of human T cell compartmentalization and maintenance over decades of life.",
+            "journal": "Cell.",
+            "month": "Nov",
+            "year": "2014",
+            "doi": "10.1016/j.cell.2014.10.026.",
+            "pubmed_id": "25417158"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Tissue compartmentalization of human lymphocytes P01AI106697",
+            "contract_name": "Tissue compartmentalization of human lymphocytes"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 301
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 11
+            },
+            {
+                "race": "Not Specified",
+                "count": 19
+            },
+            {
+                "race": "White",
+                "count": 25
+            }
+        ],
+        "gender": [
+            {
+                "Female": 18
+            },
+            {
+                "Male": 38
+            }
+        ]
+    }
+}

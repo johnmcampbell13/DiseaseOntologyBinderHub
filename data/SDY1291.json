@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY1291",
+    "actual_completion_date": "2012-11-30",
+    "actual_enrollment": 10,
+    "actual_start_date": "2007-07-01",
+    "age_unit": "Years",
+    "brief_description": "To better understand how innate immune responses to vaccination can lead to lasting protective immunity, we used a systems approach to define immune signatures in humans over 1 wk following MRKAd5/HIV vaccination that predicted subsequent HIV-specific T-cell responses.",
+    "brief_title": "Merck Ad5/HIV induces broad innate immune activation that predicts CD8_ T-cell responses but is attenuated by preexisting Ad5 immunity.",
+    "clinical_trial": "Y",
+    "condition_studied": "MRKAd5/HIV vaccination",
+    "dcl_id": 2,
+    "description": "This study will look for relationships among the immune responses induced by MRKAd5 HIV-1 gag/pol/nef vaccine. The study will also determine if the T cells that respond to different vaccine epitopes have correspondingly different functional profiles. The study will evaluate the safety and tolerability of the vaccine regimen as well.",
+    "doi": "10.21430/M3BY9LGSBH",
+    "endpoints": "microarrays, qRTPCR, Affymetrix Exon Arrays, Agilent 3' Arrays, Multiplex Cytokine Analysis, In Vitro PBMC Stimulations",
+    "gender_included": "Female, Male",
+    "hypothesis": "The MRKAd5/HIV vaccine received particular attention when the Step Study analysis revealed that certain vaccine subgroups with baseline Ad5 seropositivity exhibited increased HIV-1 acquisition rates, halting its further use in all HIV-1 vaccine trials involving Ad5 seropositive subjects. Although hypotheses have been generated that may explain vaccine-induced increased HIV-1 infection rates (3, 7, 8) and enhanced acquisition was recently recapitulated in the simian immunovirus (SIV) challenge model (9), no clear mechanisms have been identified to date.",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": "MRKAd5/HIV vaccine",
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "  43.00",
+    "minimum_age": "  22.00",
+    "objectives": "Description of the innate immune responses induced by MRKAd5/HIV, how they are impacted by preexisting Ad5 neutralizing antibodies (nAb), how they relate to induction of T-cell responses, and how they differ from those induced by live-attenuated YF-17D.",
+    "official_title": "Merck Ad5/HIV induces broad innate immune activation that predicts CD8_ T-cell responses but is attenuated by preexisting Ad5 immunity.",
+    "sponsoring_organization": "NIH Grants UMI, Bill and Melinda Gates Foundation, NIH T32",
+    "target_enrollment": 35,
+    "workspace_id": 6133,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4459",
+            "description": "Healthy HIV-1 uninfected adults (median age 37 y, range 20-50); 21 female, 28 Caucasian, 7 African American, 11 Ad5+, 24 Ad5-",
+            "name": "healthy HIV-1-uninfected adults"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Julie",
+            "last_name": "McElrath",
+            "organization": "Fred Hutchinson Cancer Research Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Vaccine and Infectious Disease Division"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Merck Ad5/HIV induces broad innate immune activation that predicts CD8_ T-cell responses but is attenuated by preexisting Ad5 immunity.",
+            "journal": "PNAS",
+            "month": "December",
+            "year": "2012",
+            "doi": "https://doi.org/10.1073/pnas.1208972109",
+            "pubmed_id": "23151505"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Other Programs",
+            "contract_name": "LC: Hiv Vaccine Trials Network"
+        },
+        {
+            "program_name": "Other Programs",
+            "contract_name": "Seattle-Lausanne-Kampala CTU"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 50
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 9
+            }
+        ],
+        "gender": [
+            {
+                "Female": 5
+            },
+            {
+                "Male": 5
+            }
+        ]
+    }
+}

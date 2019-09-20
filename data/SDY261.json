@@ -1,0 +1,99 @@
+{
+    "study_accession": "SDY261",
+    "actual_completion_date": null,
+    "actual_enrollment": 1,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "the human protease genes required for influenza virus replication were determined and validated using RNA interference approaches. The genes validated as critical for influenza virus replication were ADAMTS7, CPE, DPP3, MST1, and PRSS12, and pathway analysis showed these genes were in global host cell pathways governing inflammation (NF-kB), cAMP/calcium signaling (CRE/CREB), and apoptosis.",
+    "brief_title": "MicroRNA Regulation of Human Protease Genes",
+    "clinical_trial": "N",
+    "condition_studied": "Influenza",
+    "dcl_id": 2,
+    "description": "the human protease genes required for influenza virus replication were determined and validated using RNA interference approaches. The genes validated as critical for influenza virus replication were ADAMTS7, CPE, DPP3, MST1, and PRSS12, and pathway analysis showed these genes were in global host cell pathways governing inflammation (NF-kB), cAMP/calcium signaling (CRE/CREB), and apoptosis.",
+    "doi": "10.21430/M3KPHZF88E",
+    "endpoints": "gene expression during virus replication",
+    "gender_included": "Male",
+    "hypothesis": "explore host genes and microRNAs important for influenza replication providing potential new targets for disease intervention strategies",
+    "initial_data_release_date": "2014-04-01",
+    "initial_data_release_version": "DR8",
+    "intervention_agent": "A/WSN/33 and A/New Caledonia/20/99 H1N1 influenza virus",
+    "latest_data_release_date": "2014-04-01",
+    "latest_data_release_version": "DR8",
+    "maximum_age": "  58.00",
+    "minimum_age": "  58.00",
+    "objectives": "Identify host genes and microRNAs important for influenza replication providing potential new targets for disease intervention strategies",
+    "official_title": "MicroRNA Regulation of Human Protease Genes Essential for Influenza Virus Replication",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2149,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1829",
+            "description": "A549 cells (ATCC CCL-185) were cultured in Dulbecco's modified Eagle's medium (DMEM) (HyClone, Logan, UT) containing 5% heat-inactivated FBS (HyClone, Logan, UT). Cells were frozen in 10% DMSO and 90% FBS to create one stock of a single cell passage that was used for the entire screen.",
+            "name": "VM12-PO-Arm"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Ralph",
+            "last_name": "Tripp",
+            "organization": "Department of Infectious Diseases, University of Georgia",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Infectious Diseases, University of Georgia"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "MicroRNA regulation of human protease genes essential for influenza virus replication.",
+            "journal": "PLoS One.",
+            "month": "-",
+            "year": "2012",
+            "doi": "10.1371/journal.pone.0037169. Epub 2012 May 14.",
+            "pubmed_id": "22606348"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "Influenza Pathogenesis & Immunology Research Center (IPIRC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Liquid Chromatography",
+            "number_of_expsamples": 8
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 28
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 13
+        },
+        {
+            "measurement_technique": "TCID50",
+            "number_of_expsamples": 23
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 4
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 1
+            }
+        ],
+        "gender": [
+            {
+                "Male": 1
+            }
+        ]
+    }
+}

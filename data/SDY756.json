@@ -1,0 +1,65 @@
+{
+    "study_accession": "SDY756",
+    "actual_completion_date": null,
+    "actual_enrollment": 1,
+    "actual_start_date": "2014-10-01",
+    "age_unit": "Weeks",
+    "brief_description": "Lung immunohistology post influenza infection",
+    "brief_title": "Histology post influenza",
+    "clinical_trial": "N",
+    "condition_studied": "Infected with influenza virus A/PR8/34",
+    "dcl_id": 2,
+    "description": "Histological analysis in lung post infection of B6 or B6 A02 transgenic AAD mice with influenza A/PR8/34 virus",
+    "doi": "10.21430/M3EWWO0ERE",
+    "endpoints": "One month after influenza infection",
+    "gender_included": "Female",
+    "hypothesis": "Influenza antigen specific CD8 T cells may distribute in specific anatomical locations in the lung 1month after influenza infection",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "   6.00",
+    "minimum_age": "   6.00",
+    "objectives": "To detect localization of antigen specific CD8 T cells in the lung after infuenza infection",
+    "official_title": "Lung immunohistology post influenza infection",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2515,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3091",
+            "description": "Immunohistology post influenza infection",
+            "name": "Immunohistology post influenza infection"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Ellis",
+            "last_name": "Reinherz",
+            "organization": "Harvard Medical School",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Dana Farber Cancer Institute"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Crossprotective CTL Against Influenza"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Microscopy",
+            "number_of_expsamples": 20
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

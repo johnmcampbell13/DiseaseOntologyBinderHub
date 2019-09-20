@@ -1,0 +1,130 @@
+{
+    "study_accession": "SDY420",
+    "actual_completion_date": null,
+    "actual_enrollment": 753,
+    "actual_start_date": "2010-11-29",
+    "age_unit": "Years",
+    "brief_description": "A comprehensive database of immune phenotyping and functional profiling of healthy adults can serve as a universal control (denominator) for studies on diseases (numerator) while accounting for age, gender and chronic infection.",
+    "brief_title": "Immunobiology of Aging",
+    "clinical_trial": "N",
+    "condition_studied": "Changes in immune phenotype of normal subjects as they age",
+    "dcl_id": 2,
+    "description": "Overriding aim: To develop and make available to other investigators a comprehensive immune phenotype and functional database of a cohort of at least 700 normal healthy individuals. The dataset will comprise a cross-sectional analysis of the  general population between the ages of 40 and 90+ (representing equal gender and representative ethnic population, and equal distribution by decade of life). The registry will contain demographic data, race/ethnicity, prescribed medications, over the counter medications, vitamins, alternative therapies, physical function questionnaire, alternative contact person, and HIPPA release. Fasting blood will be obtained for immune phenotyping and functional analyses.  The immune profile will contain the results of both conventional and novel immune profiling assays to  profile immune related phenotypic and functional changes associated with aging (using PBMC subset analysis, cytokines, and activation induced signaling of PBMCs for phosphoepitope and gene expression analyses). Data from these analyses will be useful in identifying biomarkers associated with aging, gender and/or chronic infection as well as correlation with phenotypic and functional aspects of aging such as sarcopenia and disability. The immune profile (as well as normal blood chemistries and demographic data) of these subjects will be made available to serve as the basis for future longitudinal study of change in the immune profile over time in association with the development of co-morbidities associated with aging. The primary deliverable for this proposal will be a unique open access electronic data repository that has phenotypic and functional information in multiple scales (epidemiological, and clinical, and, at the cell and molecular level, of immune phenotype) and genetic and proteomic information (gene and protein expression of resting and activated PBCs) on over 700 healthy individuals at different ages from 40 to 90 years. This resource will enable a systems-based approach to the immunology of aging.",
+    "doi": "10.21430/M3WHM08QLC",
+    "endpoints": "The registry will contain <ol><li>demographic data</li><li>race</li><li>ethnicity</li><li>prescribed medications</li><li>over the counter medications</li><li>vitamins</li><li>alternative therapies</li><li>physical function questionnaire</li><li>HIPPA release.</li></ol><br><br>Fasting blood will be obtained for immune phenotyping. The immune profile will contain the results of both conventional and novel immune profiling assays to develop the normative immune profile of aging using: <ol><li>PBMC subset analysis</li><li>cytokines</li><li>activation induced signaling of PBMCs for phosphoepitope</li><li>gene expression analyses</li><li>Studies of telomere length</li></ol>",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "sdy420.Hypothesis.txt",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": "None",
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "90",
+    "minimum_age": "40",
+    "objectives": "Defining the immunobiology underlying the senescence and dysregulation of the immune system with aging represents a major challenge of modern immunology. As we seek to define the immunobiology underlying the senescence and dysregulation of the immune system that occurs with aging, we can also seek to ameliorate it.  The overriding goals of the Stanford proposal for research in this field include: <ol><li>Identification of novel biomarkers for monitoring immune senescence and for establishing a set of benchmarks that can define immunological health, much as a cholesterol test does today for cardiovascular healthM</li><li>Potential elucidation of the molecular mechanisms underlying the senescence and associated dysregulation of immune responses in older people</li><li>Validation of the normal immune profile seen in the aging cohort of normal individuals could be done by comparing their immune profile to that seen in two inflammatory diseases of patients over age 30, rheumatoid arthritis or systemic lupus erythematosus already being studies at our institution</li></ol>",
+    "official_title": "Immunobiology of Aging",
+    "sponsoring_organization": "NIA, NIAID, NIMH",
+    "target_enrollment": 700,
+    "workspace_id": 3899,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2412",
+            "description": "Healthy Control Subjects",
+            "name": "Healthy Control Subjects"
+        },
+        {
+            "arm_accession": "ARM2669",
+            "description": "control samples",
+            "name": "control samples"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Charles",
+            "last_name": "Fathman",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University Schools of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Large-Scale and Comprehensive Immune Profiling and Functional Analysis of Normal Human Aging.",
+            "journal": "PLoS One.",
+            "month": "Jul",
+            "year": "2015",
+            "doi": "10.1371/journal.pone.0133627. eCollection 2015.",
+            "pubmed_id": "26197454"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIH American Recovery & Reinvestment Act",
+            "contract_name": "Immunobiology of Aging"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 284
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 1130
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 1140
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 120
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 115
+            },
+            {
+                "race": "Black or African American",
+                "count": 13
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 2
+            },
+            {
+                "race": "Not Specified",
+                "count": 24
+            },
+            {
+                "race": "Other",
+                "count": 29
+            },
+            {
+                "race": "Unknown",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 568
+            }
+        ],
+        "gender": [
+            {
+                "Female": 478
+            },
+            {
+                "Male": 274
+            },
+            {
+                "Not Specified": 1
+            }
+        ]
+    }
+}

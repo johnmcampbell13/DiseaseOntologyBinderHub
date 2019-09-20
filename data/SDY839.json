@@ -1,0 +1,108 @@
+{
+    "study_accession": "SDY839",
+    "actual_completion_date": null,
+    "actual_enrollment": 2681,
+    "actual_start_date": "1993-09-30",
+    "age_unit": "Years",
+    "brief_description": "Specific Aim 1 (Discover) Genome-Wide Association Study [GWAS];Specific Aim 2 (Replicate) Targeted Association Studies;Specific Aim 3:  (Validate)  Functional Studies",
+    "brief_title": "Measles Immunity",
+    "clinical_trial": "N",
+    "condition_studied": "Measles Immunity",
+    "dcl_id": 2,
+    "description": null,
+    "doi": "10.21430/M3XWLPC8A2",
+    "endpoints": "To determine the direct effects and/or downstream functional consequences on immune outcomes of replicated polymorphisms (SNPs and HLA alleles) that we have identified in the US, San Diego, and Rochester Cohorts.",
+    "gender_included": "Female, Male",
+    "hypothesis": "To test the hypothesis that individual SNPs are significantly associated with variations in humoral (neutralizing antibody) and cell-mediated (IFN-g ELISPOT) measures of MV immunity",
+    "initial_data_release_date": "2017-04-21",
+    "initial_data_release_version": "DR21",
+    "intervention_agent": null,
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  41.00",
+    "minimum_age": "  11.00",
+    "objectives": "To replicate the individual SNPs, multigenic/haplotypic SNP interactions, and gene pathway/networks discovered in Aim 1 in an independent cohort of subjects (San Diego Cohort)",
+    "official_title": "The Immunogenetics of Measles Immunity",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 3000,
+    "workspace_id": 5334,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3251",
+            "description": "11-22 y/o, recruited from MN; random sample enriched for African-Americans",
+            "name": "Rochester"
+        },
+        {
+            "arm_accession": "ARM3252",
+            "description": "18-40 y/o, recruited from military bases in KY, WA, TX, CA; convenience sample",
+            "name": "US"
+        },
+        {
+            "arm_accession": "ARM3253",
+            "description": "18-40 y/o, recruited from military base in CA; convenience sample.",
+            "name": "San Diego"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Gregory",
+            "last_name": "Poland",
+            "organization": "Mayo Clinic",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mayo Clinic"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "A large population-based association study between HLA and KIR genotypes and measles vaccine antibody responses.",
+            "journal": "PLoS One.",
+            "month": "Feb",
+            "year": "2017",
+            "doi": "10.1371/journal.pone.0171261. eCollection 2017.",
+            "pubmed_id": "28158231"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Immunogenetics of Measles Immunity",
+            "contract_name": "Immunogenetics of Measles Immunity"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 14598
+        },
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 54
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 2626
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 297
+            },
+            {
+                "race": "White",
+                "count": 2384
+            }
+        ],
+        "gender": [
+            {
+                "Female": 721
+            },
+            {
+                "Male": 1960
+            }
+        ]
+    }
+}

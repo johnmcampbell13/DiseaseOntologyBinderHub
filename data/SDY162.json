@@ -1,0 +1,95 @@
+{
+    "study_accession": "SDY162",
+    "actual_completion_date": null,
+    "actual_enrollment": 20,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Examine the immune response in primary immune cells from subjects who have spontaneously cleared HCV compared to HCV chronically infected subjects",
+    "brief_title": "Immunologic and genomic signatures of response to Hepatitis C Virus infection.",
+    "clinical_trial": "N",
+    "condition_studied": "Immunologic and genomic signatures of response to Hepatitis C Virus infection.",
+    "dcl_id": 2,
+    "description": "Examine the immune response in primary immune cells from subjects who have spontaneously cleared HCV compared to HCV chronically infected subjects",
+    "doi": "10.21430/M3TI5NZ7VL",
+    "endpoints": "monocyte/macrophage/DC stim by TLRs; innate cell TLR expression;Illumina HT12 bead chip",
+    "gender_included": "Female, Male",
+    "hypothesis": "Individual variations in immune responses may help define successful resistance to infection with HCV",
+    "initial_data_release_date": "2013-06-12",
+    "initial_data_release_version": "DR2",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-08-07",
+    "latest_data_release_version": "DR11",
+    "maximum_age": "  63.00",
+    "minimum_age": "  28.00",
+    "objectives": "Define signatures for immune responsiveness by functional systems immunology",
+    "official_title": "Immunologic and genomic signatures of response to Hepatitis C Virus infection.",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2412,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM738",
+            "description": "chronicially infected",
+            "name": "VL+; chronically infected"
+        },
+        {
+            "arm_accession": "ARM739",
+            "description": "cleared infection",
+            "name": "VL-; cleared"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Hafler",
+            "organization": "Yale",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Yale"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Impaired toll-like receptor 3-mediated immune responses from macrophages of patients chronically infected with hepatitis C virus.",
+            "journal": "Clin Vaccine Immunol.",
+            "month": "Feb",
+            "year": "2013",
+            "doi": "10.1128/CVI.00530-12. Epub 2012 Dec 5.",
+            "pubmed_id": "23220997"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Defining signatures for immune responsiveness by functional systems immunology HIPC1"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 80
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 18
+            }
+        ],
+        "gender": [
+            {
+                "Female": 8
+            },
+            {
+                "Male": 12
+            }
+        ]
+    }
+}

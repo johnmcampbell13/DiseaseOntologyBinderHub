@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY776",
+    "actual_completion_date": "2016-03-31",
+    "actual_enrollment": 6970,
+    "actual_start_date": "1997-01-01",
+    "age_unit": "Years",
+    "brief_description": "This study investigated the association between maternal height and fetal growth measurement",
+    "brief_title": "Causal Relationship of Maternal Height on Birth Size and Gestational Age at Birth",
+    "clinical_trial": "N",
+    "condition_studied": "Maternal height and fetal growth",
+    "dcl_id": 2,
+    "description": "Mendelian randomization analysis was conducted to assess the relationship between maternal height, gestational age and fetal growth measures.\n\nThis study looked at 3 cohorts of Mother-Child pairs from Danemark (dbGAP study dbGAP https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000103.v1.p1), Norway (Norwegian Mother and Child Cohort: https://www.fhi.no/en/studies/moba/) and Finland (previous study http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1001365#pgen.1001365-Sacher1)\n\nThe findings suggest that the observed association between maternal height and fetal growth measurements is mainly determined by the genetics of the baby. They also provide weak evidence that the association between maternal height and gestational age is causal.",
+    "doi": "10.21430/M3AM8G2I2Q",
+    "endpoints": "parental-specific haplotype score",
+    "gender_included": "Not Specified",
+    "hypothesis": "Maternal height is associated with gestational age at birth and fetal growth measures",
+    "initial_data_release_date": "2017-11-07",
+    "initial_data_release_version": "DR24",
+    "intervention_agent": "None",
+    "latest_data_release_date": "2017-11-07",
+    "latest_data_release_version": "DR24",
+    "maximum_age": "34",
+    "minimum_age": "20",
+    "objectives": "Identify the mechanism explaining the association of maternal height, gestational age and fetal growth measures",
+    "official_title": "Assessing the Causal Relationship of Maternal Height on Birth Size and Gestational Age at Birth:  A Mendelian Randomization Analysis",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 6970,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3124",
+            "description": "Finnish mother-infant pairs",
+            "name": "Finnish Cohort"
+        },
+        {
+            "arm_accession": "ARM3125",
+            "description": "Norwegian mother-infant pairs from Mother Child Cohort of Norway pregnancy cohort",
+            "name": "Mother Child Cohort of Norway (MoBa)"
+        },
+        {
+            "arm_accession": "ARM3126",
+            "description": "Danish National Birth Cohort",
+            "name": "Danish National Birth Cohort (DNBC)"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Ge",
+            "last_name": "Zhang",
+            "organization": "Cincinnati Children's Hospital Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Cincinnati Children's Hospital Medical Center"
+        },
+        {
+            "first_name": "Louis",
+            "last_name": "Muglia",
+            "organization": "Cincinnati Children's Hospital Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Cincinnati Children's Hospital Medical Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "An Evolutionary Genomic Approach to Identify Genes Involved in Human Birth Timing",
+            "journal": "PLOS Genetics",
+            "month": "April",
+            "year": "2011",
+            "doi": "10.1371/journal.pgen.1001365",
+            "pubmed_id": "21533219"
+        },
+        {
+            "title": "Assessing the Causal Relationship of Maternal Height on Birth Size and Gestational Age at Birth: A Mendelian Randomization Analysis.",
+            "journal": "PLoS Med.",
+            "month": "Aug",
+            "year": "2015",
+            "doi": "10.1371/journal.pmed.1001865. eCollection 2015.",
+            "pubmed_id": "26284790"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

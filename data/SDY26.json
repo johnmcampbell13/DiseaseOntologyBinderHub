@@ -1,0 +1,110 @@
+{
+    "study_accession": "SDY26",
+    "actual_completion_date": null,
+    "actual_enrollment": 413,
+    "actual_start_date": "2010-08-04",
+    "age_unit": "Years",
+    "brief_description": "The overall goal of this contract is to identify genetic differences that increase the risk for a major adverse event associated with smallpox vaccination - myocarditis - and to determine the mechanism by which these genetic differences confer risk.",
+    "brief_title": "Identify polymorphisms associated with risk for the development of myopericarditis following smallpox vaccine",
+    "clinical_trial": "N",
+    "condition_studied": "Vaccinia-peptides, myocarditis, DC-mediated activation",
+    "dcl_id": 2,
+    "description": "The overall goal of this contract is to identify genetic differences that increase the risk for a major adverse event associated with smallpox vaccination - myocarditis - and to determine the mechanism by which these genetic differences confer risk.",
+    "doi": "10.21430/M389L5FQCN",
+    "endpoints": "<ol><li>Genome wide SNP genotyping.</li><li>Identify HLA genes associated with risk of developing myocarditis post-smallpox vaccination.</li><li>Analysis of chromatin profile by DNase I hypersensitive sites in isolated human immune cell types from healthy blood donors.</li><li>Resequencing of SNPs associated regions in candidate genes.</li></ol>",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "<ol><li>The development of myopericarditis following smallpox vaccine is only in individuals at risk due to genetic differences in genes governing the immune response.</li><li>The development of myopericarditis following smallpox vaccine is in individuals at risk due to genetic differences in HLA genes governing the immune response.</li><li>HSCP is used to search for more highly associated causal SNP at the transcriptional regulator elements of the significant risk SNPs identified at the GWAS screening study.</li><li>Screen novel polymorphism in genes/chromosomal regions identified in the initial GWAS.</li></ol>",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "\r",
+    "latest_data_release_date": "2012-11-16",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "43",
+    "minimum_age": "19",
+    "objectives": "To identify polymorphisms associated with risk for the development of myopericarditis following smallpox vaccine in a case/control study design.",
+    "official_title": "Identify polymorphisms associated with risk for the development of myopericarditis following smallpox vaccine",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 73,
+    "workspace_id": 4,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM50",
+            "description": "Develop myopericarditis within 30 days of receiving smallpox vaccination.",
+            "name": "Primary Case Group"
+        },
+        {
+            "arm_accession": "ARM51",
+            "description": "Unaffected after smallpox vaccination.",
+            "name": "Control Group"
+        },
+        {
+            "arm_accession": "ARM52",
+            "description": "Status unknown after smallpox vaccination.",
+            "name": "Unknown Status"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Christopher",
+            "last_name": "Wilson",
+            "organization": "University of Washington",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Washington PGA\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Population Genetics Analysis Program (1)",
+            "contract_name": "Genetic Risk for Smallpox Vaccine Related to Myocarditis"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 312
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 4
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 39
+            },
+            {
+                "race": "Not Specified",
+                "count": 80
+            },
+            {
+                "race": "Other",
+                "count": 38
+            },
+            {
+                "race": "Unknown",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 250
+            }
+        ],
+        "gender": [
+            {
+                "Female": 21
+            },
+            {
+                "Male": 309
+            },
+            {
+                "Not Specified": 80
+            }
+        ]
+    }
+}

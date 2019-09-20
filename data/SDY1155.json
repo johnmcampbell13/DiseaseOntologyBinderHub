@@ -1,0 +1,93 @@
+{
+    "study_accession": "SDY1155",
+    "actual_completion_date": "2015-12-31",
+    "actual_enrollment": 15,
+    "actual_start_date": "2014-01-01",
+    "age_unit": "Years",
+    "brief_description": "RNA sequencing was performed with the primary goal of discovering key placental villous trophoblast(VT) and decidual basalis(DB) transcripts differentially expressed in intra-amniotic infection (IAI)-induced pretrem birth (PTB)",
+    "brief_title": "RNA-Seq and miRNA-Seq of Human Placenta",
+    "clinical_trial": "N",
+    "condition_studied": "Preterm birth following intra-amniotic infection",
+    "dcl_id": 2,
+    "description": "RNA sequencing was performed with the primary goal of discovering key placental villous trophoblast(VT) and decidual basalis(DB) transcripts differentially expressed in intra-amniotic infection (IAI)-induced pretrem birth (PTB)",
+    "doi": "10.21430/M34I5YT3K9",
+    "endpoints": "RNA sequencing of VT and DB transcripts.  Computational analysis used for gene prioritization and pathway analyses",
+    "gender_included": "Female",
+    "hypothesis": "Placental villous trophoblast (VT) and decidual basalis (DB) from pregnancies complicated by IAI harbor characteristic transcriptional signatures that are informative of the pathogenic processes leading to PTB",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Not applicable",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "  41.00",
+    "minimum_age": "  16.00",
+    "objectives": "Primary goal of discovering key placental villous trophoblast (VT) and decidua basalis (DB) transcripts differentially expressed in intra-amniotic infection (IAI)-induced preterm birth (PTB)",
+    "official_title": "Comprehensive RNA profiling of villous trophoblast and decidua basalis in pregnancies complicated by preterm birth following intra-amniotic infection",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 15,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4052",
+            "description": "Intra-amniotic infection induced preterm birth",
+            "name": "IAI PTB"
+        },
+        {
+            "arm_accession": "ARM4053",
+            "description": "Spontaneous idiopathic preterm birth",
+            "name": "Idiopathic PTB"
+        },
+        {
+            "arm_accession": "ARM4054",
+            "description": "Full term birth normal pregnancy",
+            "name": "Term delivery"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "William",
+            "last_name": "Ackerman",
+            "organization": "The Ohio State College of Medicine, Columbus, OH",
+            "role_in_study": "Principal Investigator",
+            "site_name": "The Ohio State University Comprehensive Cancer Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Comprehensive RNA profiling of villous trophoblast and decidua basalis in pregnancies complicated by preterm birth following intra-amniotic infection.",
+            "journal": "Placenta.",
+            "month": "Aug",
+            "year": "2016",
+            "doi": "10.1016/j.placenta.2016.05.010. Epub 2016 May 30.",
+            "pubmed_id": "27452435"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 60
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 15
+            }
+        ],
+        "gender": [
+            {
+                "Female": 15
+            }
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "study_accession": "SDY165",
+    "actual_completion_date": null,
+    "actual_enrollment": 15,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "During the human B cell (Bc) recall response, rapid cell division results in multiple Bc subpopulations. RNA microarray and functional analyses showed that proliferating CD27lo cells are a transient pre-plasmablast population, expressing genes associated with Bc receptor editing. Undivided cells had an active transcriptional program of non-ASC B cell functions, including cytokine secretion and costimulation, suggesting a link between innate and adaptive Bc responses.  Transcriptome analysis suggested a gene regulatory network for CD27lo and CD27hi Bc differentiation.",
+    "brief_title": "Characterization of in vitro Stimulated B Cells from Human Subjects",
+    "clinical_trial": "N",
+    "condition_studied": "Subpopulations of CpG-activated memory B cells",
+    "dcl_id": 2,
+    "description": "During the human B cell (Bc) recall response, rapid cell division results in multiple Bc subpopulations. RNA microarray and functional analyses showed that proliferating CD27lo cells are a transient pre-plasmablast population, expressing genes associated with Bc receptor editing. Undivided cells had an active transcriptional program of non-ASC B cell functions, including cytokine secretion and costimulation, suggesting a link between innate and adaptive Bc responses. Transcriptome analysis suggested a gene regulatory network for CD27lo and CD27hi Bc differentiation.",
+    "doi": "10.21430/M3GTK55VEV",
+    "endpoints": "Statistically significant changes in mRNA expression of key molecules between subpopulations by microarray. Quantitative RT-PCR confirmation of changes in selected mRNA levels. Consistent changes in protein levels of specific proteins of interest. Phenotypic confirmation of continued differentiation of CD27lo cells after sorting and re-culture by multi-parameter flow cytometry.",
+    "gender_included": "Unknown",
+    "hypothesis": "Proliferating CD27lo memory B cells serve alternative functions to immunoglobulin secretion. An alternative hypothesis was supported by the data; CD27lo cells are a transient pre-plasmablast population.",
+    "initial_data_release_date": "2013-06-12",
+    "initial_data_release_version": "DR2",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-06-12",
+    "latest_data_release_version": "DR2",
+    "maximum_age": "  18.00",
+    "minimum_age": "  18.00",
+    "objectives": "To characterize a novel population of human CD27lo memory B cells after in vitro stimulation",
+    "official_title": "Characterization of in vitro Stimulated B Cells from Human Subjects",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2104,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM743",
+            "description": "Healthy volunteer",
+            "name": "Healthy_volunteer"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Martin",
+            "last_name": "Zand",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester Medical Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Functionally Distinct Subpopulations of CpG-Activated Memory B Cells.",
+            "journal": "Sci Rep.",
+            "month": "-",
+            "year": "2012",
+            "doi": "10.1038/srep00345. Epub 2012 Mar 30.",
+            "pubmed_id": "22468229"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "University of Rochester Center for Biodefense Immune Modeling II"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 21
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 58
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 2954
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 18
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 15
+            }
+        ],
+        "gender": [
+            {
+                "Unknown": 15
+            }
+        ]
+    }
+}

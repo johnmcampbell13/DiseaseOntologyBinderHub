@@ -1,0 +1,89 @@
+{
+    "study_accession": "SDY1029",
+    "actual_completion_date": "2015-12-31",
+    "actual_enrollment": 11,
+    "actual_start_date": "2010-06-30",
+    "age_unit": "Years",
+    "brief_description": "This is an open label single site trial of German cockroach allergenic extract administered by subcutaneous injection in 10 adults ages 18 to 55 years with perennial allergic rhinitis, asthma, or both. It is designed to study biomarkers of the immune response to allergen immunotherapy as well as the safety of this therapy.",
+    "brief_title": "Subcutaneous Immunotherapy for Cockroach (SCITCO/ICAC-18)",
+    "clinical_trial": "Y",
+    "condition_studied": "Cockroach induced Asthma",
+    "dcl_id": 2,
+    "description": "This is an open label single site trial of German cockroach allergenic extract administered by subcutaneous injection in 10 adults ages 18 to 55 years with perennial allergic rhinitis, asthma, or both. It is designed to study biomarkers of the immune response to allergen immunotherapy as well as the safety of this therapy.",
+    "doi": "10.21430/M3XJ80W9FK",
+    "endpoints": "Primary: The number of reported adverse events and serious adverse events, including their severity, seriousness, and treatment relatedness. Secondary: 1) Changes in levels of German cockroach specific IgE observed after initiation of study treatment. 2) Changes in cockroach specific IgG4, blocking antibodies, and other biomarkers.",
+    "gender_included": "Female, Male",
+    "hypothesis": "The only hypothesis tests will be for statistical correlation between measures of pre-existing immune status or treatment dose versus treatment-related AEs.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Not applicable",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  52.00",
+    "minimum_age": "  24.00",
+    "objectives": "Primary Objective: To assess if treatment with cockroach SCIT, using the per protocol allergenic extract doses, is safe. This will be done by determining the rate of related adverse events and serious adverse events in the course of treatment. Secondary Objective: 1) To determine whether a 6-month treatment with cockroach SCIT, using the per protocol allergenic extract doses, will induce a 3-fold increase in cockroach-specific serum IgE. 2) To determine whether a 6-month treatment with cockroach SCIT, using the per protocol allergenic extract doses, will induce changes in the serum levels of cockroach-specific IgG4. 3) To determine whether serum from cockroach SCIT-treated participants can inhibit the in-vitro cockroach antigen binding to B-cells after 6-month treatment with cockroach SCIT, using the per protocol allergenic extract doses. 4) To determine whether a 6-month treatment with cockroach SCIT, using the per protocol allergenic extract doses, will induce suppression of in vitro peripheral blood basophil and other cell activation by cockroach allergenic extract.",
+    "official_title": "A Biomarker-Based Pilot Study of Cockroach Subcutaneous Immunotherapy in Cockroach Sensitive Adults with Asthma and / or Perennial Allergic Rhinitis",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 10,
+    "workspace_id": 3134,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3633",
+            "description": "All enrolled participants",
+            "name": "Enrolled Participants"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Robert",
+            "last_name": "Wood",
+            "organization": "Johns Hopkins University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Johns Hopkins University School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Development of cockroach immunotherapy by the Inner-City Asthma Consortium.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Mar",
+            "year": "2014",
+            "doi": "10.1016/j.jaci.2013.08.047. Epub 2013 Nov 1.",
+            "pubmed_id": "24184147"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Inner City Asthma Consortium (ICAC) RFA-AI-13-036",
+            "contract_name": "Inner City Asthma Consortium (ICAC)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 9
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            }
+        ],
+        "gender": [
+            {
+                "Female": 8
+            },
+            {
+                "Male": 3
+            }
+        ]
+    }
+}

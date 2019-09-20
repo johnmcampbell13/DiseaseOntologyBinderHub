@@ -1,0 +1,69 @@
+{
+    "study_accession": "SDY1474",
+    "actual_completion_date": null,
+    "actual_enrollment": null,
+    "actual_start_date": "2016-01-01",
+    "age_unit": "Weeks",
+    "brief_description": "The proper timing of delivery is critical during pregnancy; if too early or too late, the baby will be at risk of serious health problems and even death. Corticotropin-releasing hormone (CRH) is a protein that can be detected in maternal blood, and its concentration correlates with the timing of birth. In humans and other anthropoid primates, CRH is made by the placenta, whereas in other mammals, it is produced in a specialized region of the brain. To understand the regulation and evolution of this key protein, we inserted the human CRH gene and nearby regions into the mouse genome, which resulted in human CRH expression in the mouse placenta. Mouse litters that make CRH in their placentas are born later than control mice, showing that CRH can directly affect birth timing. Using our mouse model, we then selectively deleted a remnant of an ancient retrovirus that is normally found in the DNA of anthropoid primates and demonstrated that this specific region controls expression of CRH in the placenta. Deletion of this region also restored normal birth timing in the mice by eliminating CRH production from the placenta. We propose that retroviral regulation of CRH in the placenta may be a mechanism of controlling birth timing in humans and other anthropoid primates.",
+    "brief_title": "Anthropoid primate specific retroviral element THE1B controls expression of CRH in placenta and alters gestation length",
+    "clinical_trial": "N",
+    "condition_studied": "Pregnancy",
+    "dcl_id": 2,
+    "description": "The proper timing of delivery is critical during pregnancy; if too early or too late, the baby will be at risk of serious health problems and even death. Corticotropin-releasing hormone (CRH) is a protein that can be detected in maternal blood, and its concentration correlates with the timing of birth. In humans and other anthropoid primates, CRH is made by the placenta, whereas in other mammals, it is produced in a specialized region of the brain. To understand the regulation and evolution of this key protein, we inserted the human CRH gene and nearby regions into the mouse genome, which resulted in human CRH expression in the mouse placenta. Mouse litters that make CRH in their placentas are born later than control mice, showing that CRH can directly affect birth timing. Using our mouse model, we then selectively deleted a remnant of an ancient retrovirus that is normally found in the DNA of anthropoid primates and demonstrated that this specific region controls expression of CRH in the placenta. Deletion of this region also restored normal birth timing in the mice by eliminating CRH production from the placenta. We propose that retroviral regulation of CRH in the placenta may be a mechanism of controlling birth timing in humans and other anthropoid primates.",
+    "doi": "10.21430/M3AZYDHB5Z",
+    "endpoints": "RNA-seq",
+    "gender_included": "Not Specified",
+    "hypothesis": "endogenous retroviral long terminal repeat transposon-like human element 1B (THE1B) selectively controls placental expression of corticotropin-releasing hormone (CRH) that, in turn, influences gestational length and birth timing",
+    "initial_data_release_date": "2019-06-19",
+    "initial_data_release_version": "DR31",
+    "intervention_agent": "NA",
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "8",
+    "minimum_age": "4",
+    "objectives": "endogenous retroviral long terminal repeat transposon-like human element 1B (THE1B) selectively controls placental expression of corticotropin-releasing hormone (CRH) that, in turn, influences gestational length and birth timing",
+    "official_title": "Anthropoid primate specific retroviral element THE1B controls expression of CRH in placenta and alters gestation length",
+    "sponsoring_organization": "March of Dimes, NICHD",
+    "target_enrollment": 20,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4852",
+            "description": "bacterial artificial chromosome (BAC) with the human CRH gene and approximately 180 kb of flanking sequence, including the THE1B LTR, into the genome of FVB/N mice",
+            "name": "human CRH transgenic mice"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Louis",
+            "last_name": "Mugli",
+            "organization": "Cincinnati Children's Hospital Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Cincinnati Children's Hospital Medical Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Anthropoid primate-specific retroviral element THE1B controls expression of CRH in placenta and alters gestation length.",
+            "journal": "PLoS Biol.",
+            "month": "Sep",
+            "year": "2018",
+            "doi": "10.1371/journal.pbio.2006337. eCollection 2018 Sep.",
+            "pubmed_id": "30231016"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

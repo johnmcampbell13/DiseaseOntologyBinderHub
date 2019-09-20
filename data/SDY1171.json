@@ -1,0 +1,69 @@
+{
+    "study_accession": "SDY1171",
+    "actual_completion_date": "2017-07-28",
+    "actual_enrollment": 20,
+    "actual_start_date": "2004-08-01",
+    "age_unit": "Years",
+    "brief_description": "Using multiple statistical approaches to study a long-term pediatric cohort in Nicaragua, we show that risk of severe dengue disease is highest within a narrow range of pre-existing anti-DENV antibody titers. By contrast, we observe protection from all symptomatic dengue disease at high antibody titers.  \nData are available upon request (eharris@berkeley.edu), as is required by the IRB-approved protocol for the Pediatric Dengue Cohort Study. The materials and data used in this study are covered by standard material transfer agreements.",
+    "brief_title": "Antibody-dependent enhancement of severe dengue disease in humans",
+    "clinical_trial": "N",
+    "condition_studied": "Dengue immunity",
+    "dcl_id": 1,
+    "description": "For dengue viruses (DENV1-4), a specific range of antibody titer has been shown to enhance viral replication in vitro and severe disease in animal models. Although suspected, such antibody-dependent enhancement (ADE) of severe disease has not been shown to occur in humans. Using multiple statistical approaches to study a long-term pediatric cohort in Nicaragua, we show that risk of severe dengue disease is highest within a narrow range of pre-existing anti-DENV antibody titers. By contrast, we observe protection from all symptomatic dengue disease at high antibody titers. Thus, immune correlates of severe dengue must be evaluated separately from correlates of protection against symptomatic disease. These results have implications for studies of dengue pathogenesis and for vaccine development, because enhancement, not just lack of protection, is of concern.  Data are available upon request (eharris@berkeley.edu), as is required by the IRB-approved protocol for the Pediatric Dengue Cohort Study. The materials and data used in this study are covered by standard material transfer agreements.",
+    "doi": "10.21430/M3NEL3QH3Q",
+    "endpoints": "Healthy annual plasma and serum samples; disease severity of dengue cases (defined by 1997 WHO criteria, 2009 WHO criteria, or hospitalization status).",
+    "gender_included": "Not Specified",
+    "hypothesis": "The level of pre-existing anti-DENV binding antibodies (DENV-Abs) is associated with dengue disease severity\n in  the Pediatric Dengue Cohort Study.",
+    "initial_data_release_date": "2018-01-04",
+    "initial_data_release_version": "DR25",
+    "intervention_agent": "anti-Dengue binding antibody",
+    "latest_data_release_date": "2018-01-04",
+    "latest_data_release_version": "DR25",
+    "maximum_age": "14",
+    "minimum_age": "2",
+    "objectives": "To test if (1) anti-DENV binding antibody titer is a correlate of protection against dengue and (2) if anti-DENV binding antibody titer is a correlate of risk for severe dengue disease as defined using multiple disease severity critieria.",
+    "official_title": "Antibody-dependent enhancement of severe dengue disease in humans",
+    "sponsoring_organization": "NIAID, NIH; Gates Foundation",
+    "target_enrollment": 20,
+    "workspace_id": 4845,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4098",
+            "description": "The overall aim of the project is to maintain a pediatric cohort in Nicaragua to characterize the natural history of dengue transmission and the range of clinical manifestations over time and to establish a potential trial site for antiviral therapies or a safe tetravalent dengue vaccine.",
+            "name": "Pediatric Cohort Study of Dengue"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Eva",
+            "last_name": "Harris",
+            "organization": "University of California, Berkeley",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of California, Berkeley"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Antibody-dependent enhancement of severe dengue disease in humans",
+            "journal": "Science",
+            "month": "November",
+            "year": "2017",
+            "doi": "10.1126/science.aan6836",
+            "pubmed_id": "29097492"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity Following Dengue Virus Natural Infections and Vaccination",
+            "contract_name": "Protective Immunity Following Dengue Virus Natural Infections and Vaccination"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

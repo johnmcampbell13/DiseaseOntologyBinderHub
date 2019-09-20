@@ -1,0 +1,117 @@
+{
+    "study_accession": "SDY1387",
+    "actual_completion_date": "2017-12-04",
+    "actual_enrollment": 227,
+    "actual_start_date": "2015-10-02",
+    "age_unit": "Years",
+    "brief_description": "MUPPITS-1 is a prospective, longitudinal, nested case-control study designed to identify changes in gene transcription predictive of and associated with asthma exacerbations in children with difficult-to-control, exacerbation-prone asthma.",
+    "brief_title": "Mechanisms Underlying Asthma Exacerbations Prevented and Persistent With Immune-Based Therapy (ICAC-29)",
+    "clinical_trial": "N",
+    "condition_studied": "Asthma",
+    "dcl_id": 1,
+    "description": "ICAC-29/MUPPITS-1 is a prospective, longitudinal, nested case-control study designed to identify changes in gene transcription predictive of and associated with asthma exacerbations in children ages 6 to 17 years with difficult-to-control, exacerbation-prone asthma. Participants will be followed prospectively for the onset of a cold and a subsequent asthma exacerbation. An internet-based asthma and cold symptom diary will be accessed by participants using a hand-held device. When the participant reports development of a cold, a clinic visit will be scheduled as soon as possible (within 48 hours of cold symptom onset) to collect blood and nasal samples. A second clinic visit will occur 4-6 days from the onset of cold symptoms to obtain samples after the initial cold, but prior to the use of systemic corticosteroids. Participants will be followed for up to two colds or approximately 6 months after Visit 0, whichever comes first.",
+    "doi": "10.21430/M3Q1C6388O",
+    "endpoints": "Gene expression, as measured by whole transcriptome RNA sequencing of nasal lavage RNA samples at Visit 0, Visit 1a, and Visit 1b (as well as Visit 2a and Visit 2b, if relevant). Gene expression, as measured by whole transcriptome RNA sequencing of whole blood RNA samples at Visit 0, Visit 1a, and Visit 1b (as well as Visit 2a and Visit 2b, if relevant).",
+    "gender_included": "Female, Male",
+    "hypothesis": "Distinct immune pathways are differentially regulated in airways and peripheral blood of children with difficult-to-control, exacerbation prone asthma who develop a viral cold that leads to an asthma exacerbation versus those who develop a cold without an asthma exacerbation.",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "Not applicable",
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "  17.00",
+    "minimum_age": "   6.00",
+    "objectives": "Identify differences in gene expression in nasal lavage samples between participants with a cold followed by an asthma exacerbation and participants with a cold only at each of the following timepoints: baseline (Visit 0), at the onset of a cold (Visit 1a, Visit 2a if relevant), and near the time of an asthma exacerbation (Visit 1b, Visit 2b if relevant). Determine whether there are significant gene expression changes over time in nasal lavage samples across the 3 time points and whether these changes differ between participants with a cold followed by an asthma exacerbation and participants with a cold only.",
+    "official_title": "Mechanisms Underlying Asthma Exacerbations Prevented and Persistent with Immune-Based Therapy: A Systems Approach Phase 1",
+    "sponsoring_organization": "The National Institute of Allergy and Infectious Diseases (NIAID)",
+    "target_enrollment": 215,
+    "workspace_id": 3134,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4673",
+            "description": "Inner-city children with difficult-to-control, exacerbation-prone asthma.",
+            "name": "Children with Asthma"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Daniel",
+            "last_name": "Jackson",
+            "organization": "University of Wisconsin",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Wisconsin"
+        },
+        {
+            "first_name": "Matthew",
+            "last_name": "Altman",
+            "organization": "University of Wisconsin",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Wisconsin"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Transcriptome networks identify mechanisms of viral and nonviral asthma exacerbations in children.",
+            "journal": "Nat Immunol.",
+            "month": "May",
+            "year": "2019",
+            "doi": "10.1038/s41590-019-0347-8. Epub 2019 Apr 8.",
+            "pubmed_id": "30962590"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Inner City Asthma Consortium (ICAC) RFA-AI-13-036",
+            "contract_name": "Inner City Asthma Consortium (ICAC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 2068
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 3
+            },
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 143
+            },
+            {
+                "race": "Not Specified",
+                "count": 3
+            },
+            {
+                "race": "Other",
+                "count": 28
+            },
+            {
+                "race": "Unknown",
+                "count": 28
+            },
+            {
+                "race": "White",
+                "count": 19
+            }
+        ],
+        "gender": [
+            {
+                "Female": 97
+            },
+            {
+                "Male": 130
+            }
+        ]
+    }
+}

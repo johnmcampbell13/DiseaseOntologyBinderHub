@@ -1,0 +1,97 @@
+{
+    "study_accession": "SDY1485",
+    "actual_completion_date": "2016-10-03",
+    "actual_enrollment": 50,
+    "actual_start_date": "2015-10-01",
+    "age_unit": "Years",
+    "brief_description": "The primary objective of the study is to assess if treatment with mouse subcutaneous immunotherapy (SCIT), using the per protocol allergenic extract doses, is safe. This will be done by determining the rate of related adverse events and serious adverse events in the course of treatment.",
+    "brief_title": "Subcutaneous Immunotherapy for Mouse in Adults (SCITMO/ICAC-26)",
+    "clinical_trial": "N",
+    "condition_studied": "Asthma",
+    "dcl_id": 2,
+    "description": "This study is an open label multi-site trial of mouse allergenic extract administered by subcutaneous injection in approximately 10 - 12 adults ages 18 to 55 years with asthma. The study will be based on a continuous treatment schedule with mouse allergenic extract for a period of approximately 24 weeks. It is primarily designed to study the safety of this therapy. There will be a Screening Visit followed by a Dose Initiation Visit, at which the subject will receive their first injection. Up to 2 doses of SCIT will be given weekly during dose escalation, separated by a minimum of 2 days. Dose escalation will occur over a minimum of 11 weeks. Dose escalation can be delayed at any point if there are excessive large local reactions or other concerns, although to continue on to maintenance each subject will need to reach the maintenance dose in a maximum of 18 weeks. Once the maintenance dose is achieved, bi-weekly visits will continue to complete a total of 24 weeks of treatment. Blood will be collected at baseline and then monthly for assessment of biomarkers of allergen immunotherapy, including mouse specific IgE, IgG, IgG4, and inhibition of mouse antigen binding to B-cells. Mouse skin testing will be performed at screening.",
+    "doi": "10.21430/M3XNRU4K3V",
+    "endpoints": "The primary endpoint is the number of reported adverse events and serious adverse events, including their severity, seriousness, and treatment relatedness. The secondary endpoints are 1. Change in mouse specific IgE, 2. Change in mouse specific IgG and IgG4, 3. Change in in-vitro mouse antigen binding to B-cells.",
+    "gender_included": "Female, Male",
+    "hypothesis": "The two hypotheses tested by this study are 1) Subcutaneous treatment with mouse extract can be safely administered in adults with mouse sensitivity and 2) Subcutaneous treatment with mouse extract can induce significant changes in serum biomarkers indicative of immunologic activity.",
+    "initial_data_release_date": "2019-09-16",
+    "initial_data_release_version": "DR32",
+    "intervention_agent": "Mouse Allergenic Extract",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "  53.00",
+    "minimum_age": "  18.00",
+    "objectives": "The primary objective of this pilot study is to assess if treatment with mouse SCIT, using the per protocol allergenic extract doses, is safe. This will be done by determining the rate of related adverse events and serious adverse events in the course of treatment.",
+    "official_title": "A Biomarker-Based Pilot Study of Mouse Subcutaneous Immunotherapy in Mouse Sensitive Adults with Asthma",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 12,
+    "workspace_id": 3134,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4891",
+            "description": "Participants will receive escalating doses of glycerinated mouse allergenic extract administered via the subcutaneous route up to a Maximum Study Dose (MSD) of 0.4 mL of extract at a concentration of 1:10 wt/vol.",
+            "name": "Experimental: Mouse Allergenic Extract"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Robert",
+            "last_name": "Wood",
+            "organization": "Johns Hopkins University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Johns Hopkins University School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Development of cockroach immunotherapy by the Inner-City Asthma Consortium.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Mar",
+            "year": "2014",
+            "doi": "10.1016/j.jaci.2013.08.047. Epub 2013 Nov 1.",
+            "pubmed_id": "24184147"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Inner City Asthma Consortium (ICAC) RFA-AI-13-036",
+            "contract_name": "Inner City Asthma Consortium (ICAC)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 25
+            },
+            {
+                "race": "Other",
+                "count": 6
+            },
+            {
+                "race": "Unknown",
+                "count": 9
+            },
+            {
+                "race": "White",
+                "count": 9
+            }
+        ],
+        "gender": [
+            {
+                "Female": 38
+            },
+            {
+                "Male": 12
+            }
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "study_accession": "SDY23",
+    "actual_completion_date": "2010-08-01",
+    "actual_enrollment": 1000,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Innate immunity gene products are known to be the first-line of host-defense and to control and assist the adaptive immune system. This research represents the opportunity to study, in detail, the responses longitudinally to vaccination (using clinical examination and laboratory assays) in a large ethnic population. Consequently, a prioritized set of genes and gene products from both systems will be evaluated.",
+    "brief_title": "Genotype Polymorphism effects on Cholera Vaccine responses.",
+    "clinical_trial": "N",
+    "condition_studied": "Responses to cholera vaccines by a population stratified by age, gender and ethnicity.",
+    "dcl_id": 2,
+    "description": "The objective is to understand role of polymorphisms in genes of innate and adaptive immunity in modulating the response to vaccines for cholera gastrointestinal tract infections by:<ol><li>Collecting blood and saliva from 1000 vaccine study participants for each vaccine in Kolkata, India, at days 1, 3, and 28.</li><li>Determining vaccine-specific titers using ELISA, vibriocidal, and multiplex bead antibody assays.</li><li>Discover and validate SNP polymorphisms in this population and screen all participant's DNA for SNPs to 14 innate immunity genes and genome scans for adaptive immunity genes.</li><li>Characterize protein/peptide expression using LC/MS, immunoassay, and flow cytometry for protein mediators of innate/adaptive immunity and 22 proteins involved in cell stimulation and signal transduction; and 2-D gel MS/MS on 100-200 proteins, protein isoforms and protein fragments to determine more generalized effects of immune activation, signal transduction and general response to vaccination.</li><li>Determine haplotypes, perform association analyses between vaccine response (defined either categorically or quantitatively) and SNPs, haplotypes, or protein expression parameters, and perform association analyses between genomic and proteomic assessments.</li><li>Conduct resequencing of genes with SNPs that are significantly associated to vaccine response.</li></ol>",
+    "doi": "10.21430/M3J2PT6AOR",
+    "endpoints": "<ol><li>Vibriocidal antibody assays. Antibodies to V. cholerae O1 (El Tor Inaba; strain T19479) will be evaluated by a standard microtiter assay. Antibodies to V. cholerae O139, O139 vibrios of two different strains.  The partly encapsulated vaccine strain 4260B and the capsule-deficient mutant strain MO10-T4 (Virus Research Institute, Cambridge, Mass.) will be used in a final concentration of 2.5x10^5 bacteria/ml. Fresh guinea pig complement will be added in a four-fold less diluted concentration (1:7.5) than in the O1 vibriocidal assay. The vibriocidal titer will be defined as the highest dilution causing complete inhibition of bacterial growth.</li><li>Standard ELISA assays for measuring anti-O1 IgM, IgA and IgG and anti-O139 IgM, IgA and IgG titers.</li><li>In the adverse event that a patient develops diarrhea within 28 days following vaccination, a fecal sample will be collected by rectal swab. Swabs will be plated directly onto Eiken thiosulfate citrate bile salt sucrose (TCBS) agar as well as after enrichment in alkaline peptone water (APW) for 6 and 20 hours (pH 8.6, 37&deg;C). After overnight incubation, suspected colonies from TCBS will be tested biochemically and agglutinated with polyvalent, Ogawa and Inaba antisera. Biotyping of O1 isolates will be RTI Population Genetics Analysis Program: Immunity to Vaccines/Infection Use or disclosure of data on this page is subject to the restrictions on the inside cover sheet. Five are done with chicken erythrocyte agglutination tests and with determination of polymyxin sensitivity. Non-agglutinating strains will be tested with antiserum to V. cholerae O139 strain.</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "1. Determine strength of response to vaccination. 2. Determine strength of response to vaccination using standard clinical assay for disease diagnosis. 3. The serum anti-cholera IgA response will have a different response pattern than the total anti-cholera LPS IgG/IgA/IgM. 4. The saliva anti-cholera antibody response will have a different response pattern than the total serum anti-cholera LPS IgG/IgA/IgM. 5. Selected SNPs among the targeted innate and adaptive immunity genes are associated with the strength of response to vaccination. 6. High transferrin concentrations in salvia are indicative of blood contamination; because of the high protein concentrations of proteins in blood, quantifying and controlling for transferrin concentrations in saliva samples will provide better detection capabilities for the proteomics assays for saliva-specific protein concentrations. 7. Selected defensins concentrations are associated with the strength of response to vaccination. 8. Selected serum cytokines concentrations are associated with the strength of response to vaccination. 9. Selected serum proteins are associated with the strength of response to vaccination. 10. Accurate resequencing of genes containing SNPs associated with strength of response to vaccine may indentify additional genetic variants, including causal SNPs, located in exon regions of the genes and/or associated haplotype blocks. 11. Identification of and quantification of proteins in plasma that are related to the immune response to a typhoid cholera vaccination will vary by strength of response to vaccine.",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Vibrio cholerae vaccine\r",
+    "latest_data_release_date": "2012-11-16",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  80.00",
+    "minimum_age": "  14.00",
+    "objectives": "The objective is to understand role of polymorphisms in genes of innate and adaptive immunity in modulating the response to Cholera vaccine.",
+    "official_title": "Genotype Polymorphism effects on Cholera Vaccine responses.",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 1152,
+    "workspace_id": 49,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM16",
+            "description": "1,000 participants receiving Cholera vaccine studied in a stratified random sampling design for gender, age and ethnicity.",
+            "name": "Cholera Vaccine Recipients"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Diane",
+            "last_name": "Wagener",
+            "organization": "Research Triangle Institute, NC",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\"Research Triangle Institute, NC\"\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Population Genetics Analysis Program (1)",
+            "contract_name": "Immune Response Polymorphisms: Typhoid/Cholera Vaccines"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "2D Gel",
+            "number_of_expsamples": 1
+        },
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 2
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 1
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 3
+        },
+        {
+            "measurement_technique": "Mass Spectrometry",
+            "number_of_expsamples": 2
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1000
+            }
+        ],
+        "gender": [
+            {
+                "Female": 458
+            },
+            {
+                "Male": 542
+            }
+        ]
+    }
+}

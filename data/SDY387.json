@@ -1,0 +1,106 @@
+{
+    "study_accession": "SDY387",
+    "actual_completion_date": null,
+    "actual_enrollment": 22,
+    "actual_start_date": "2010-10-15",
+    "age_unit": "Years",
+    "brief_description": "To characterize the cellular and transcriptional signatures of response to Flu vaccine in healthy children.",
+    "brief_title": "Systems Biology Approach to Study Influenza Vaccine 2010-11 in Healthy Children (see companion studies SDY144, SDY368, SDY387)",
+    "clinical_trial": "N",
+    "condition_studied": "Vaccine Response in Healthy Children",
+    "dcl_id": 2,
+    "description": "The treatment of pediatric immune system dysfunctions depends upon the basic understanding of its molecular and cellular components, as well as the inherent relationships between these components. Specifically, such knowledge requires an appreciation of B-Iymphocytes, T lymphocytes, natural killer cells and dendritic cells. Research investigating these cells and their functions necessitates the availability and acquisition of peripheral blood samples from healthy children to form control data groups against which various experimental conditions can be measured. Volunteers will be asked to donate blood samples to be used to further study the circulating dendritic cell subpopulations and establish their normal ranges. Blood samples will also be used to isolate antigen specific T lymphocytes, serve as a monocyte source and establish gene signatures.",
+    "doi": "10.21430/M34N2JOQQM",
+    "endpoints": "Establish normal ranges of dendritic cell subpopulation in healthy pediatric volunteers.",
+    "gender_included": "Female, Male",
+    "hypothesis": "A systems biology approach will provide a comprehensive characterization of the immune response to influenza vaccine in children.",
+    "initial_data_release_date": "2015-02-18",
+    "initial_data_release_version": "DR12",
+    "intervention_agent": "TIV Fluzone",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  16.80",
+    "minimum_age": "   5.90",
+    "objectives": "1) which are the best biomarkers of immune response to influenza vaccine in healthy children; 2) how unique autoimmune backgrounds set the stage for responsiveness/unresponsiveness to vaccines; 3) whether vaccination contributes to increase the breadth of autoimmunity in a disease-specific manner.",
+    "official_title": "Systems Biology Approach to Study Influenza Vaccine 2010-11 in Healthy Children (see companion studies SDY144, SDY368, SDY387)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2799,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2325",
+            "description": "TIV Vaccine",
+            "name": "NCH-2010-11"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Octavio",
+            "last_name": "Ramilo",
+            "organization": "Nationwide Children's Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Nationwide Children's Hospital"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Induction of ICOS+CXCR3+CXCR5+ TH cells correlates with antibody responses to influenza vaccination.",
+            "journal": "Sci Transl Med.",
+            "month": "Mar",
+            "year": "2013",
+            "doi": "10.1126/scitranslmed.3005191.",
+            "pubmed_id": "23486778"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Systems Analysis Vaccine Responses in Healthy and Hyporesponsive Humans"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 195
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 40
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 80
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 120
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 19
+            }
+        ],
+        "gender": [
+            {
+                "Female": 10
+            },
+            {
+                "Male": 12
+            }
+        ]
+    }
+}

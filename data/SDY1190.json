@@ -1,0 +1,119 @@
+{
+    "study_accession": "SDY1190",
+    "actual_completion_date": "2017-01-27",
+    "actual_enrollment": 16,
+    "actual_start_date": "2015-01-01",
+    "age_unit": "Years",
+    "brief_description": "Single-cell RNA-Seq analysis of MTB and DENV transcriptional profile was performed",
+    "brief_title": "Single-cell RNA-Seq analysis of MTB and DENV immune responses",
+    "clinical_trial": "N",
+    "condition_studied": "Dengue virus and Mycobacterium tuberculosis infection",
+    "dcl_id": 0,
+    "description": "Single-cell RNA-Seq assays were performed to precisely define the transcriptional profile of Dengue virus (DENV) and Mycobacterium tuberculosis (MTB) antigen specific CD4 T cells.",
+    "doi": "10.21430/M3IFOL9MKV",
+    "endpoints": "Compare T cell response of infected and non-infected DENV and MTB patients",
+    "gender_included": "Not Specified",
+    "hypothesis": "Define the transcriptional profile of Dengue virus (DENV) and Mycobacterium tuberculosis (MTB) antigen specific CD4 T cells",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "  34.00",
+    "minimum_age": "  17.00",
+    "objectives": "T define the transcriptional profile of Dengue virus (DENV) and Mycobacterium tuberculosis (MTB) antigen specific CD4 T cells by single cell RNASeq",
+    "official_title": "Single-cell RNA-Seq analysis of MTB and DENV immune responses",
+    "sponsoring_organization": "La Jolla Institute for Allergy and Immunology",
+    "target_enrollment": 20,
+    "workspace_id": 4876,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4153",
+            "description": "Patients previously infected with two or more strains of Dengue virus from the Dengue endemic areas Sri Lanka or Nicaragua, as determined by serology",
+            "name": "DENV infected patients post secondary infections"
+        },
+        {
+            "arm_accession": "ARM4154",
+            "description": "Individuals from Dengue endemic area Sri Lanka who have not been infected by Dengue virus, as determined by serology",
+            "name": "Non-DENV infected individuals from DENV endemic area"
+        },
+        {
+            "arm_accession": "ARM4155",
+            "description": "Individuals from a non-Dengue endemic  who have not been infected by Dengue virus, as determined by serology",
+            "name": "Non-DENV infected individuals from non-DENV endemic area"
+        },
+        {
+            "arm_accession": "ARM4156",
+            "description": "Latent TB infection was confirmed by interferon gamma release (QuantiFERON-TB Gold In-Tube, Cellestis or T-SPOT.TB, Oxford Immunotec) assay",
+            "name": "Latent TB infected patients"
+        },
+        {
+            "arm_accession": "ARM4157",
+            "description": "Non-BCG vaccinated subjects were born in countries where BCG vaccination is not used and were tested negative by interferon gamma release assay",
+            "name": "Non-BCG vaccinated healthy individuals"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Pandurangan",
+            "last_name": "Vijayanand",
+            "organization": "La Jolla Institute for Allergy and Immunology",
+            "role_in_study": "Principal Investigator",
+            "site_name": "La Jolla Institute for Allergy and Immunology"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Precursors of human CD4+ cytotoxic T lymphocytes identified by single-cell transcriptome analysis.",
+            "journal": "Sci Immunol.",
+            "month": "Jan",
+            "year": "2018",
+            "doi": "10.1126/sciimmunol.aan8664.",
+            "pubmed_id": "29352091"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+            "contract_name": "Human immune signatures of dengue virus and mycobacterium tuberculosis exposure in infection; disease and vaccination (La Jolla)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 7
+        },
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 16
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 10
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 2
+            },
+            {
+                "race": "Unknown",
+                "count": 3
+            }
+        ],
+        "gender": [
+            {
+                "Male": 16
+            }
+        ]
+    }
+}

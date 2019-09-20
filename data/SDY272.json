@@ -1,0 +1,143 @@
+{
+    "study_accession": "SDY272",
+    "actual_completion_date": "2012-01-02",
+    "actual_enrollment": 46,
+    "actual_start_date": "2011-01-03",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study was to measure the antibody responses to the Trivalent Inactivated influenza Vaccine(TIV) in young and aged subjects",
+    "brief_title": "Humoral responses to Influenza vaccination in aged populations - Year 1 2011 (See companion studies SDY622 2012, SDY648 2013, SDY739 2014, SDY819 2015)",
+    "clinical_trial": "N",
+    "condition_studied": "Antibody responses to the Trivalent Inactivated influenza Vaccine.",
+    "dcl_id": 2,
+    "description": "The purpose of this study was to measure the antibody responses to the Trivalent Inactivated influenza Vaccine(TIV) in young and aged subjects",
+    "doi": "10.21430/M3T9X2TDBK",
+    "endpoints": "Antibody responses to the Trivalent Inactivated influenza Vaccine.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Impaired immune responses in the elderly to infection or vaccination reflects dysregulation of immunoregulatory pathways and metabolic pathways, which work in concert to orchestrate an effective immune response in young healthy individuals.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Influenza vaccine",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "  87.00",
+    "minimum_age": "  30.00",
+    "objectives": "To measure the antibody responses to Trivalent Inactivated Influenza vaccination in young and aged human subjects - specifically neutralizing antibodies and binding isotypes",
+    "official_title": "Humoral responses to Influenza vaccination in aged populations - Year 1 2011 (See companion studies SDY622 2012, SDY648 2013, SDY739 2014, SDY819 2015)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 40,
+    "workspace_id": 2634,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1893",
+            "description": "Healthy young individuals 30-40 years of age",
+            "name": "Young"
+        },
+        {
+            "arm_accession": "ARM1894",
+            "description": ">=65 years of age",
+            "name": "Aged"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Hildegund",
+            "last_name": "Ertl",
+            "organization": "The Wistar Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "The Wistar Institute"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "B cell responses to the 2011/12-influenza vaccine in the aged.",
+            "journal": "Aging (Albany NY).",
+            "month": "Mar",
+            "year": "2013",
+            "doi": "-",
+            "pubmed_id": "23674565"
+        },
+        {
+            "title": "Vaccine-induced boosting of influenza virus-specific CD4 T cells in younger and aged humans.",
+            "journal": "PLoS One.",
+            "month": "Oct",
+            "year": "2013",
+            "doi": "10.1371/journal.pone.0077164. eCollection 2013.",
+            "pubmed_id": "24155927"
+        },
+        {
+            "title": "Circulating CXCR5+PD-1+ response predicts influenza vaccine antibody responses in young adults but not elderly adults.",
+            "journal": "J Immunol.",
+            "month": "Oct",
+            "year": "2014",
+            "doi": "10.4049/jimmunol.1302503. Epub 2014 Aug 29.",
+            "pubmed_id": "25172499"
+        },
+        {
+            "title": "BTLA expression declines on B cells of the aged and is associated with low responsiveness to the trivalent influenza vaccine.",
+            "journal": "Oncotarget.",
+            "month": "Aug",
+            "year": "2015",
+            "doi": "-",
+            "pubmed_id": "26277622"
+        },
+        {
+            "title": "A shortened interval between vaccinations with the trivalent inactivated influenza vaccine increases responsiveness in the aged.",
+            "journal": "Aging (Albany NY).",
+            "month": "Dec",
+            "year": "2015",
+            "doi": "-",
+            "pubmed_id": "26637961"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Defining defects in anti-viral immunity in the aged SP2 Wistar"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 798
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 2361
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 516
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 8
+            },
+            {
+                "race": "Other",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 35
+            }
+        ],
+        "gender": [
+            {
+                "Female": 29
+            },
+            {
+                "Male": 17
+            }
+        ]
+    }
+}

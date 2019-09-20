@@ -1,0 +1,82 @@
+{
+    "study_accession": "SDY139",
+    "actual_completion_date": null,
+    "actual_enrollment": 62,
+    "actual_start_date": null,
+    "age_unit": "Months",
+    "brief_description": "T follicular helper (Tfh) cells potentiate high-affinity, class-switched antibody responses, the predominant correlate of protection from vaccines. Despite intense interest in understanding both the generation and effector functions of this lineage, little is known about the epitope specificity of Tfh cells generated during polyclonal responses. To date, studies of peptide-specific Tfh cells have relied on either the transfer of TcR transgenic cells or use of peptide:MHC class II tetramers and antibodies to stain TcR and follow limited peptide specificities. In order to comprehensively evaluate polyclonal responses generated from the natural endogenous TcR repertoire, we developed a sorting strategy to separate Tfh cells from non-Tfh cells and found that their epitope-specific responses could be tracked with cytokine-specific ELISPOT assays. The immunodominance hierarchies of Tfh and non-Tfh cells generated in response to immunization with several unrelated protein antigens were remarkably similar. Additionally, increasing the kinetic stability of peptide-MHC class II complexes enhanced the priming of both Tfh and conventional CD4 T cells. These findings may provide us with a strategy to rationally and selectively modulate epitope-specific Tfh responses. By understanding the parameters that control epitope-specific priming, vaccines may be tailored to enhance or focus Tfh responses to facilitate optimal B cell responses.",
+    "brief_title": "The peptide specificity of the endogenous T follicular helper cell repertoire generated after protein immunization",
+    "clinical_trial": "N",
+    "condition_studied": "The peptide specificity of the endogenous T follicular helper cell repertoire generated after protein immunization",
+    "dcl_id": 2,
+    "description": "T follicular helper (Tfh) cells potentiate high-affinity, class-switched antibody responses, the predominant correlate of protection from vaccines. Despite intense interest in understanding both the generation and effector functions of this lineage, little is known about the epitope specificity of Tfh cells generated during polyclonal responses. To date, studies of peptide-specific Tfh cells have relied on either the transfer of TcR transgenic cells or use of peptide:MHC class II tetramers and antibodies to stain TcR and follow limited peptide specificities. In order to comprehensively evaluate polyclonal responses generated from the natural endogenous TcR repertoire, we developed a sorting strategy to separate Tfh cells from non-Tfh cells and found that their epitope-specific responses could be tracked with cytokine-specific ELISPOT assays. The immunodominance hierarchies of Tfh and non-Tfh cells generated in response to immunization with several unrelated protein antigens were remarkably similar. Additionally, increasing the kinetic stability of peptide-MHC class II complexes enhanced the priming of both Tfh and conventional CD4 T cells. These findings may provide us with a strategy to rationally and selectively modulate epitope-specific Tfh responses. By understanding the parameters that control epitope-specific priming, vaccines may be tailored to enhance or focus Tfh responses to facilitate optimal B cell responses.",
+    "doi": "10.21430/M3OM5T92K5",
+    "endpoints": "Phenotypic markers and frequencies of Tfh and non-Tfh cells within draining lymph nodes and peripheral sites were monitored kinetically by flow cytometry. Transcriptional profile of Tfh and non-Tfh cells were evaluated by RT-PCR. Peptide-specific cytokine-producing Tfh and non-Tfh cells from antigen draining lymph nodes and peripheral sites were evaluated by cytokine-specific ELISPOT assays. Ex vivo Tregs depletion was used to evaluate the influence of Tregs on the results of peptide-specific CD4 T cells responses as measured by cytokine-specific ELISPOT assays. The impact of altering the stability of peptide-MHC class II complexes on the generation of peptide-specific Tfh and non-Tfh cells was evaluated with cytokine-specific ELISPOT assays. Stability of the immunodominance hierarchies over time of both Tfh and non-Tfh cell populations were measured by cytokine-specific ELISPOT assays.",
+    "gender_included": "Unknown",
+    "hypothesis": "T follicular helper and conventional CD4 T cells may differ in the repertoire of peptide-specific cells elicited by protein immunization.  The T follicular helper response may be tailored by altering the kinetic stability of priming peptide-MHC class II complexes.",
+    "initial_data_release_date": "2013-09-30",
+    "initial_data_release_version": "DR4",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-09-30",
+    "latest_data_release_version": "DR4",
+    "maximum_age": "   2.00",
+    "minimum_age": "   2.00",
+    "objectives": "In this study, the peptide specificities of the endogenous T follicular helper and conventional CD4 T cell compartments elicited by protein immunization were compared.  The ability to selectively elicit peptide-specific T follicular helper responses through manipulation of the kinetic stability of peptide-MHC class II complexes was also evaluated in this study.",
+    "official_title": "The peptide specificity of the endogenous T follicular helper cell repertoire generated after protein immunization",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2014,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM678",
+            "description": "BALB/c",
+            "name": "BALB/c"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Andrea",
+            "last_name": "Sant",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "ROC034"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "The peptide specificity of the endogenous T follicular helper cell repertoire generated after protein immunization.",
+            "journal": "PLoS One.",
+            "month": "-",
+            "year": "2012",
+            "doi": "10.1371/journal.pone.0046952. Epub 2012 Oct 15.",
+            "pubmed_id": "23077537"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "New York Influenza Center of Excellence"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 466
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 100
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 456
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

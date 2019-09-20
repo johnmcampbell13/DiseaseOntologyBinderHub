@@ -1,0 +1,91 @@
+{
+    "study_accession": "SDY78",
+    "actual_completion_date": null,
+    "actual_enrollment": 178,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "Assess the immunogenicity and antigenicity of recombinant hemagglutinin proteins produced and purified by various methods",
+    "brief_title": "Antigenic and immunogenic properties of recombinant hemagglutinin proteins when produced in various protein expression systems",
+    "clinical_trial": "N",
+    "condition_studied": "Binding of anti-HA specific antibodies, elicited by vaccination or viral infection, to various recombinant forms of the HA from A/Brisbane/59/07 and B/Florida/04/06",
+    "dcl_id": 2,
+    "description": "Assess the immunogenicity and antigenicity of recombinant hemagglutinin proteins produced and purified by various methods",
+    "doi": "10.21430/M3EER1F151",
+    "endpoints": "Various timepoints following immunization and or infection",
+    "gender_included": "Female, Male",
+    "hypothesis": "Recombinant HA proteins that have been produced under conditions that preserve their biological activity and tertiary structure offer optimal detection of HA-specific responses in common immune assays.",
+    "initial_data_release_date": "2013-08-15",
+    "initial_data_release_version": "DR3",
+    "intervention_agent": "Recombinant Hemagglutinin proteins from  A/Brisbane/59/07 and B/Florida/04/06.  Viruses:  A/Brisbane/59/07 and B/Florida/04/06",
+    "latest_data_release_date": "2013-08-15",
+    "latest_data_release_version": "DR3",
+    "maximum_age": "12",
+    "minimum_age": "10",
+    "objectives": "Determine the degree of antibody cross-reactivity elicited by vaccination with drifted variant H5 hemagglutinins. Determine the neutralization activity of the antibodies elicited by vaccination. Determine the extent of protection elicited by vacciantion.",
+    "official_title": "Antigenic and immunogenic properties of recombinant hemagglutinin proteins from H1N1 A/Brisbane/59/07 and B/Florida/04/06 when produced in various protein expression systems",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2014,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM555",
+            "description": "A/Brisbane/59/07 and B/Florida/04/06",
+            "name": "rHA_immunization"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Felix",
+            "last_name": "Santiago",
+            "organization": "University of Rochester",
+            "role_in_study": "Principal Investigator",
+            "site_name": "ROC034"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Antigenic and immunogenic properties of recombinant hemagglutinin proteins from H1N1 A/Brisbane/59/07 and B/Florida/04/06 when produced in various protein expression systems.",
+            "journal": "Vaccine.",
+            "month": "Jun",
+            "year": "2012",
+            "doi": "10.1016/j.vaccine.2012.05.005. Epub 2012 May 15.",
+            "pubmed_id": "22609035"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "New York Influenza Center of Excellence"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 255
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 60
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 154
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 1
+            }
+        ],
+        "gender": [
+            {
+                "Male": 1
+            }
+        ]
+    }
+}

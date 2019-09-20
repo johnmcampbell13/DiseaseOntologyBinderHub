@@ -1,0 +1,113 @@
+{
+    "study_accession": "SDY42",
+    "actual_completion_date": null,
+    "actual_enrollment": 8,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "A comparative cohort study examining replication and disease pathogenesis associated with low-pathogenic H5N1, H5N2, or H5N3 avian influenza virus (AIV) infection of chickens and ducks was performed.",
+    "brief_title": "Replication and pathogenesis associated with H5N1 H5N2 and H5N3 low-pathogenic avian influenza virus infection in chickens and ducks",
+    "clinical_trial": "N",
+    "condition_studied": "Replication and pathogenesis associated with H5N1, H5N2 and H5N3 low-pathogenic avian influenza virus",
+    "dcl_id": 2,
+    "description": "A comparative cohort study examining replication and disease pathogenesis associated with low-pathogenic H5N1, H5N2, or H5N3 avian influenza virus (AIV) infection of chickens and ducks was performed.",
+    "doi": "10.21430/M3YBOSJZIJ",
+    "endpoints": "virus replication, induction of a serological response, and disease pathogenesis, hemagglutinin and neuraminidase (NA) gene sequences of the isolates were determined",
+    "gender_included": "Not Specified",
+    "hypothesis": "Evaluate behavior of low-pathogenic AIVs",
+    "initial_data_release_date": "2012-03-21",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "avian influenza virus\r",
+    "latest_data_release_date": "2012-03-21",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  10.00",
+    "minimum_age": "  10.00",
+    "objectives": "A comparative study examining replication and disease pathogenesis associated with low-pathogenic H5N1, H5N2, or H5N3 avian influenza virus (AIV) infection of chickens and ducks was performed.",
+    "official_title": "Replication and pathogenesis associated with H5N1, H5N2 and H5N3 low-pathogenic avian influenza virus infection in chickens and ducks",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 66,
+    "workspace_id": 2149,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM308",
+            "description": "H5N1_infected_chicken",
+            "name": "H5N1_infected_chicken"
+        },
+        {
+            "arm_accession": "ARM309",
+            "description": "H5N2_infected_chicken",
+            "name": "H5N2_infected_chicken"
+        },
+        {
+            "arm_accession": "ARM310",
+            "description": "H5N3_infected_chicken",
+            "name": "H5N3_infected_chicken"
+        },
+        {
+            "arm_accession": "ARM311",
+            "description": "Control_infected_chicken",
+            "name": "Control_infected_chicken"
+        },
+        {
+            "arm_accession": "ARM312",
+            "description": "H5N1_infected_duck",
+            "name": "H5N1_infected_duck"
+        },
+        {
+            "arm_accession": "ARM313",
+            "description": "H5N2_infected_duck",
+            "name": "H5N2_infected_duck"
+        },
+        {
+            "arm_accession": "ARM314",
+            "description": "H5N3_infected_duck",
+            "name": "H5N3_infected_duck"
+        },
+        {
+            "arm_accession": "ARM315",
+            "description": "Control_infected_duck",
+            "name": "Control_infected_duck"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Egbert",
+            "last_name": "Mundt",
+            "organization": "College of Veterinary Medicine, University of Georgia",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Replication and pathogenesis associated with H5N1, H5N2, and H5N3 low-pathogenic avian influenza virus infection in chickens and ducks.",
+            "journal": "Arch Virol.",
+            "month": "-",
+            "year": "2009",
+            "doi": "10.1007/s00705-009-0437-2. Epub 2009 Jul 3.",
+            "pubmed_id": "19575275"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "Influenza Pathogenesis & Immunology Research Center (IPIRC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 88
+        },
+        {
+            "measurement_technique": "Microscopy",
+            "number_of_expsamples": 96
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

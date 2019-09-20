@@ -1,0 +1,86 @@
+{
+    "study_accession": "SDY1473",
+    "actual_completion_date": null,
+    "actual_enrollment": null,
+    "actual_start_date": "2016-01-01",
+    "age_unit": "Years",
+    "brief_description": "Preterm birth is the leading cause of infant mortality, and prematurity is further associated with serious morbidities in later life. Genetic and environmental risk factors play a role in the susceptibility to preterm birth. Despite numerous studies, the genetic basis for preterm birth remains poorly defined. We investigated the presence of rare, possibly risk associated nucleotide variants in mothers with spontaneous preterm births (SPTB). The first set of mothers with family history of recurrent preterm births was of northern Finnish origin. An additional set of mothers (sister pairs, both giving birth preterm) of European origin was also studied. Whole exome sequencing identified multiple rare, likely damaging HSPA1L variants in several families affected by SPTB, and this gene was associated with the glucocorticoid receptor signaling pathway. Potential involvement of one of the HSPA1L variants in SPTB was further supported by large GWAS dataset. In addition, this variant alters protein post-translational modification potential, and thus may affect protein stability and its function as a chaperone.",
+    "brief_title": "Whole exome sequencing reveals HSPA1L as a genetic risk factor for spontaneous preterm birth",
+    "clinical_trial": "N",
+    "condition_studied": "Preterm birth",
+    "dcl_id": 2,
+    "description": "Preterm birth is the leading cause of infant mortality, and prematurity is further associated with serious morbidities in later life. Genetic and environmental risk factors play a role in the susceptibility to preterm birth. Despite numerous studies, the genetic basis for preterm birth remains poorly defined. We investigated the presence of rare, possibly risk associated nucleotide variants in mothers with spontaneous preterm births (SPTB). The first set of mothers with family history of recurrent preterm births was of northern Finnish origin. An additional set of mothers (sister pairs, both giving birth preterm) of European origin was also studied. Whole exome sequencing identified multiple rare, likely damaging HSPA1L variants in several families affected by SPTB, and this gene was associated with the glucocorticoid receptor signaling pathway. Potential involvement of one of the HSPA1L variants in SPTB was further supported by large GWAS dataset. In addition, this variant alters protein post-translational modification potential, and thus may affect protein stability and its function as a chaperone.",
+    "doi": "10.21430/M31DFMAKJW",
+    "endpoints": "Whole exome sequencing (WES) variant analysis, pathway analysis, Functional consequences of the HSPA1L Ala268Thr variant",
+    "gender_included": "Not Specified",
+    "hypothesis": "Investigate the presence of rare, possibly risk associated nucleotide variants in mothers with spontaneous preterm births (SPTB).",
+    "initial_data_release_date": "2019-06-19",
+    "initial_data_release_version": "DR31",
+    "intervention_agent": null,
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "55",
+    "minimum_age": "16",
+    "objectives": "Investigate the presence of rare, possibly risk associated nucleotide variants in mothers with spontaneous preterm births (SPTB).",
+    "official_title": "Whole exome sequencing reveals HSPA1L as a genetic risk factor for spontaneous preterm birth",
+    "sponsoring_organization": "Norwegian Ministry of Health and Care Services, Ministry of Education and Research, NIEHS",
+    "target_enrollment": 100,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4849",
+            "description": "?A total of 17 mothers from seven northern Finnish families were subjected to whole exome sequencing",
+            "name": "Discovery population: Northern Finnish multiplex families"
+        },
+        {
+            "arm_accession": "ARM4850",
+            "description": "?192 women from 95 families. This cohort consisted of 93 affected sister pairs (both sisters have given birth preterm) and two sister triads with preterm deliveries.",
+            "name": "Replication population: Danish sister pairs"
+        },
+        {
+            "arm_accession": "ARM4851",
+            "description": "GWAS data from a large cohort, identified among 23andMe's research participants, included 43,568 mothers of general European ancestry and meta-analysis data including 4,632 mothers from three independent Nordic (Finnish, Danish, and Norwegian) birth cohorts of European ancestry. In addition, a set of GWAS data from a total of 608 mothers passing quality control measures was available.",
+            "name": "large cohort GWAS data"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Loius",
+            "last_name": "Mugli",
+            "organization": "Cincinnati Children's Hospital Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Cincinnati Children's Hospital Medical Center"
+        },
+        {
+            "first_name": "Johanna",
+            "last_name": "Huusk",
+            "organization": "University of Oulu",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Oulu"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Whole exome sequencing reveals HSPA1L as a genetic risk factor for spontaneous preterm birth.",
+            "journal": "PLoS Genet.",
+            "month": "Jul",
+            "year": "2018",
+            "doi": "10.1371/journal.pgen.1007394. eCollection 2018 Jul.",
+            "pubmed_id": "30001343"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

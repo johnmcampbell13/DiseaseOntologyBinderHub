@@ -1,0 +1,124 @@
+{
+    "study_accession": "SDY1079",
+    "actual_completion_date": "2016-12-30",
+    "actual_enrollment": 2,
+    "actual_start_date": "2014-11-08",
+    "age_unit": "Months",
+    "brief_description": "By coupling the systematic genomic analysis of purified cancer cells in distinct malignant states from mouse models with extensive human validation, we uncovered several key regulators of metastatic ability, including an actionable pro-metastatic CD109?Jak?Stat3 axis.",
+    "brief_title": "A targetable CD109-Janus kinase-Stat axis in metastatic lung cancer.",
+    "clinical_trial": "N",
+    "condition_studied": "metatastic lung cancer",
+    "dcl_id": 2,
+    "description": "The molecular mechanism of lung cancer metastatic remains incompletely understood.  We combined tumor barcoding in a mouse model of human lung adenocarcinoma with unbiased genomic approaches to identify a transcriptional program that confers metastatic ability and predicts patient survival. Small-scale in vivo screening identified several genes, including Cd109, that encode novel pro-metastatic factors. We uncovered signaling mediated by Janus kinases (Jaks) and the transcription factor Stat3 as a critical, pharmacologically targetable effector of CD109-driven lung cancer metastasis. In summary, by coupling the systematic genomic analysis of purified cancer cells in distinct malignant states from mouse models with extensive human validation, we uncovered several key regulators of metastatic ability, including an actionable pro-metastatic CD109?Jak?Stat3 axis",
+    "doi": "10.21430/M3HC3F4A8X",
+    "endpoints": "The study endpoints include Mouse ex vivo RNAseq data and result, RNAseq data and result on Cd109 knockdown cells, Cell culture assays (low-density plating assay, anchorage-independent growth assays, Cell line transplantation and analysis, Small-scale in vivo screening on drivers of matastatic ability ( Cd109 is identified), Generation of Cd109-knockout lines, Functional analysis on Cd109 effectors ( Western blotting and sh knockdown), and Jak kinase inhibitor (pyridone 6) treatments results (immunohistochemistry)",
+    "gender_included": "Not Specified",
+    "hypothesis": "Genetically engineered mouse models of metastatic human cancer represent experimental systems with which the natural history of malignant progression can be investigated. Using tumor barcoding in mouse models to track tumor cell progression in defined stages enables molecular profiling in more puriried and precised  cell samples so could provide unique insights into the molecular mechanisms that drive metastatic progression.",
+    "initial_data_release_date": "2017-06-16",
+    "initial_data_release_version": "DR22",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "   9.00",
+    "minimum_age": "   2.00",
+    "objectives": "The study objectives are to leverage tumor barcoding in a mouse model of human lung adenocarcinoma to identify neoplastic cells at defined stages of metastatic progression, Use unbiased genomic analysis and a small-scale in vivo functional screen to uncover novel drivers of metastatic ability, to couple these analyses with extensive human validation, functional metastasis assays in vivo, and molecular analyses, to identify a targetable pro-metastatic CD109?Jak?Stat3 axis.",
+    "official_title": "Molecular definition of a metastatic lung cancer state reveals a targetable CD109-Janus kinase-Stat axis.",
+    "sponsoring_organization": "American Lung Association, NIH, NSF, Alfred Sloan Fellowship, V Foundation for Cancer Research, et.al",
+    "target_enrollment": 2,
+    "workspace_id": 5590,
+    "research_focus": [
+        "Oncology"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3792",
+            "description": "Distant metastasis, including soft tissue and liver, tumor genotype KPT: KrasLSL-G12D/+;p53flox/flox;R26LSL-tdTomato",
+            "name": "KPT-Met2distant"
+        },
+        {
+            "arm_accession": "ARM3793",
+            "description": "Hyperplasia, tumor genotype KT: KrasLSL-G12D/+;R26LSL-tdTomato",
+            "name": "KT- Hyperplasia"
+        },
+        {
+            "arm_accession": "ARM3794",
+            "description": "Lymph Node metastasis, tumor genotype KPT: KrasLSL-G12D/+;p53flox/flox;R26LSL-tdTomato",
+            "name": "KPT-Met2Lymph Node"
+        },
+        {
+            "arm_accession": "ARM3795",
+            "description": "Metastatic primary tumor, tumor genotype KPT: KrasLSL-G12D/+;p53flox/flox;R26LSL-tdTomato",
+            "name": "KPT-Tmet"
+        },
+        {
+            "arm_accession": "ARM3796",
+            "description": "Non-metastatic primary tumor, tumor genotype KPT: KrasLSL-G12D/+;p53flox/flox;R26LSL-tdTomato",
+            "name": "KPT-TnonMet"
+        },
+        {
+            "arm_accession": "ARM3797",
+            "description": "Normal lung, tumor genotype KPT: KrasLSL-G12D/+;p53flox/flox;R26LSL-tdTomato",
+            "name": "KPT-Normal lung"
+        },
+        {
+            "arm_accession": "ARM3798",
+            "description": "p53 deficient hyperplasia, collected at 10 wks after tumor initiation, tumor genotype KPT: KrasLSL-G12D/+;p53flox/flox;R26LSL-tdTomato",
+            "name": "KPT-Early"
+        },
+        {
+            "arm_accession": "ARM3799",
+            "description": "Pleural Cavity Disseminating tumor cells, tumor genotype KPT: KrasLSL-G12D/+;p53flox/flox;R26LSL-tdTomato",
+            "name": "KPT-DTC"
+        },
+        {
+            "arm_accession": "ARM3800",
+            "description": "Pleural metastasis, tumor genotype KPT: KrasLSL-G12D/+;p53flox/flox;R26LSL-tdTomato.",
+            "name": "KPT-Pleural-met"
+        },
+        {
+            "arm_accession": "ARM3801",
+            "description": "889PF-shGFP",
+            "name": "889PF-shGFP"
+        },
+        {
+            "arm_accession": "ARM3802",
+            "description": "889PF-shCd109",
+            "name": "889PF-shCd109"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Monte",
+            "last_name": "Winslow",
+            "organization": "Stanford University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Molecular definition of a metastatic lung cancer state reveals a targetable CD109-Janus kinase-Stat axis.",
+            "journal": "Nat Med.",
+            "month": "Mar",
+            "year": "2017",
+            "doi": "10.1038/nm.4285. Epub 2017 Feb 13.",
+            "pubmed_id": "28191885"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Enhance Applicability of Mouse Models for Translational Research (Oncology Model, OMF)",
+            "contract_name": "A Quantitative Multiplexed Platform for the Pharmacogenomic Analysis of Lung Cancer (Oncology Model, OMF)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 60
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

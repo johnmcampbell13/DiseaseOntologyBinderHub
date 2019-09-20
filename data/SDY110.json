@@ -1,0 +1,99 @@
+{
+    "study_accession": "SDY110",
+    "actual_completion_date": null,
+    "actual_enrollment": 15,
+    "actual_start_date": null,
+    "age_unit": "Days",
+    "brief_description": "Helicobacter pylori infection is the leading cause for peptic ulcer disease and gastric adenocarcinoma. Mucosal T cell responses play an important role in mediating H. pylori-related gastric immunopathology. While induced regulatory T (iTreg) cells are required for chronic colonization without disease, Th1 effector responses are associated with lower bacterial load at the expense of gastric pathology. With the objective of developing a large animal model of H. pylori infection, pigs were inoculated with either H. pylori strain SS1 or J99. Changes in peripheral blood mononuclear cell populations were monitored weekly, and mucosal immune responses and bacterial loads were assessed at day 57 post-infection. Both H. pylori strains elicited a Th1 response with increased percentage of CD4+Tbet+ cells and elevated Tbet and IFN-. mRNA in PBMC. A subset of CD8beta+ T cells and B cells expressing Tbet increased due to infection. Moreover, a significant increase of NK cells was observed in infected pigs pointing towards a predominant cytotoxic immune response. Infiltration of cytotoxic cells was detected in the gastric lamina propria of both infected groups. Interestingly, strain J99 evoked a more dramatic acute response associated with lower bacterial loads, while strain SS1 showed longer-term colonization capacity. This novel pig model of infection closely mimics human gastric pathology and presents a suitable avenue for studying the cytotoxic and regulatory responses towards H. pylori described in humans.",
+    "brief_title": "Immune responses to Helicobacter pylori in a pig model",
+    "clinical_trial": "N",
+    "condition_studied": "Pigs were divided into 3 groups of uninfected, infected with H. pylori strain J99  and infected with H. pylori strain SS1.",
+    "dcl_id": 2,
+    "description": "We have developed for the first time a pig model to study mucosal and systemic Th1 and CD8+ cytotoxic immune responses to H. pylori infection.",
+    "doi": "10.21430/M3WXZHC81N",
+    "endpoints": "Bacterial challenge with H. pylori, assessment of systemic immune responses over time and local immune responses as well as pathology.",
+    "gender_included": "Not Specified",
+    "hypothesis": "Infection with H. pylori in humans is mainly associated with a mucosal Th1 response, which is unsuccessful in clearing the bacteria from the stomach and leads to more severe immunopathology. Another T cell subset which has been recently implicated in immune responses towards H. pylori in clinically relevant settings are cytotoxic T lymphocytes (CTL). The majority of in vivo studies on the host responses to H. pylori are based on mouse models, however in contrast to human H. pylori infections, CD8+ T cell responses to the bacterium have been detected only in immunodeficient mice lacking CD4+ T cells. Due to the gastrointestinal, nutritional, metabolic, and immunologic similarities between pigs and humans, we hypothesized that cytotoxic immune responses towards H. pylori observed in humans could be reproduced in a pig model.",
+    "initial_data_release_date": "2013-11-01",
+    "initial_data_release_version": "DR5",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-11-01",
+    "latest_data_release_version": "DR5",
+    "maximum_age": "  30.00",
+    "minimum_age": "  30.00",
+    "objectives": "Based on our hypothesis the aim of this project was to overcome the limitation in the study of CD8+ T cell responses to H. pylori.",
+    "official_title": "Helicobacter pylori infection in a pig model is dominated by Th1 and cytotoxic immune responses",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM638",
+            "description": "C. difficille infected",
+            "name": "Case"
+        },
+        {
+            "arm_accession": "ARM639",
+            "description": "Control group",
+            "name": "Control"
+        },
+        {
+            "arm_accession": "ARM640",
+            "description": "Unknown",
+            "name": "Unknown"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        },
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Helicobacter pylori infection in a pig model is dominated by Th1 and cytotoxic CD8+ T cell responses.",
+            "journal": "Infect Immun.",
+            "month": "Oct",
+            "year": "2013",
+            "doi": "10.1128/IAI.00660-13. Epub 2013 Jul 29.",
+            "pubmed_id": "23897614"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 171
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 56
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 76
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

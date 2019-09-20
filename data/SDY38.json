@@ -1,0 +1,90 @@
+{
+    "study_accession": "SDY38",
+    "actual_completion_date": "2010-06-01",
+    "actual_enrollment": 12,
+    "actual_start_date": "2009-04-01",
+    "age_unit": "Years",
+    "brief_description": "Flow cytometry was used to measure the expression of IL2, IFN gamma and TNF alpha in CD8+ peripheral blood mononuclear cells isolated from healthy naive donors following stimulation with whole virus.",
+    "brief_title": "CD8+ T cell immunity to 2009 pandemic and seasonal H1N1 influenza viruses",
+    "clinical_trial": "N",
+    "condition_studied": "healthy naive donor PBMCs stimulated with whole influenza virus",
+    "dcl_id": 2,
+    "description": "Flow cytometry was used to measure the expression of IL2, IFN gamma and TNF alpha in CD8+ peripheral blood mononuclear cells isolated from 12 pH1N1 naive, healthy donors were stimulated in vitro with A/California/04/09 (pH1N1 strain, egg-grown), A/New Caledonia/20/09 (sH1N1, egg-grown), X31 (A/Puerto Rico H1N1 internal proteins, A/Hong Kong.",
+    "doi": "10.21430/M3P9T1UFB9",
+    "endpoints": "Expression of IL2, IFN gamma and TNF alpha in CD8+ peripheral blood mononuclear cells",
+    "gender_included": "Female, Male",
+    "hypothesis": "Healthy adults without prior exposure to pH1N1 will have pre-existing pH1N1-responsive CD8+ T cells as a result of previous exposure to sH1N1",
+    "initial_data_release_date": "2011-06-01",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": null,
+    "latest_data_release_date": "2011-06-01",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  49.00",
+    "minimum_age": "  19.00",
+    "objectives": "Healthy adults without prior exposure to pH1N1 will have pre-existing pH1N1-responsive CD8+ T cells as a result of previous exposure to sH1N1",
+    "official_title": "CD8+ T cell immunity to 2009 pandemic and seasonal H1N1 influenza viruses",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2014,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM217",
+            "description": "Healthy adults with ages 18-50 with informed consent and biosafety committee approval",
+            "name": "FCM_Cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Topham",
+            "organization": "New York Influenza Center of Excellence",
+            "role_in_study": "Principal Investigator",
+            "site_name": "New York Influenza Center of Excellence\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "CD8+ T cell immunity to 2009 pandemic and seasonal H1N1 influenza viruses.",
+            "journal": "Vaccine.",
+            "month": "Mar",
+            "year": "2011",
+            "doi": "10.1016/j.vaccine.2010.12.073. Epub 2011 Jan 4.",
+            "pubmed_id": "21211588"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "New York Influenza Center of Excellence"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 48
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 10
+            }
+        ],
+        "gender": [
+            {
+                "Female": 7
+            },
+            {
+                "Male": 5
+            }
+        ]
+    }
+}

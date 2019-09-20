@@ -1,0 +1,93 @@
+{
+    "study_accession": "SDY416",
+    "actual_completion_date": null,
+    "actual_enrollment": 45,
+    "actual_start_date": "2010-11-01",
+    "age_unit": "Years",
+    "brief_description": "Interleukin-12 (IL-12) and interleukin-23 are heterodimeric cytokines, with a common p40 subunit and a unique chain (IL-12p35 and IL-23p19).  The p40 subunit of both interleukins binds to the transmembrane IL-12 receptor-beta1 (IL-12R  ) on the surface of T lymphocytes and natural killer cells.  Ustekinumab is a fully human monoclonal antibody, anti-IL12p40, which binds to the p40 subunit of IL-12 and IL-23 with high affinity and specificity, inhibiting the activity of both interleukins.  Ustekinumab has proven to be highly effective in the treatment of chronic plaque psoriasis, with up to 76% of patients achieving a 75% reduction in their psoriasis area and severity index (PASI-75).1,  It is routinely recommended that psoriasis patients treated with biologic therapies such as ustekinumab be vaccinated annually with the influenza vaccine. We can thus assess the importance of these cytokines in the immune response to vaccination by comparing the immune response to influenza vaccination of psoriasis patients treated with ustekinumab with that of patients who are not receiving this treatment. We will assess gene expression profiles and white blood cell subsets in the blood of psoriasis patients before vaccination and at multiple time-points after vaccination.",
+    "brief_title": "Study to measure the immune response to the influenza vaccine in patients with chronic plaque psoriasis",
+    "clinical_trial": "N",
+    "condition_studied": "Immune response to vaccination in patients aged 18-45yrs with chronic plaque psoriasis",
+    "dcl_id": 2,
+    "description": "Interleukin-12 (IL-12) and interleukin-23 are heterodimeric cytokines, with a common p40 subunit and a unique chain (IL-12p35 and IL-23p19).  The p40 subunit of both interleukins binds to the transmembrane IL-12 receptor-beta1 (IL-12R  ) on the surface of T lymphocytes and natural killer cells.  Ustekinumab is a fully human monoclonal antibody, anti-IL12p40, which binds to the p40 subunit of IL-12 and IL-23 with high affinity and specificity, inhibiting the activity of both interleukins.  Ustekinumab has proven to be highly effective in the treatment of chronic plaque psoriasis, with up to 76% of patients achieving a 75% reduction in their psoriasis area and severity index (PASI-75).1,  It is routinely recommended that psoriasis patients treated with biologic therapies such as ustekinumab be vaccinated annually with the influenza vaccine. We can thus assess the importance of these cytokines in the immune response to vaccination by comparing the immune response to influenza vaccination of psoriasis patients treated with ustekinumab with that of patients who are not receiving this treatment. We will assess gene expression profiles and white blood cell subsets in the blood of psoriasis patients before vaccination and at multiple time-points after vaccination.",
+    "doi": "10.21430/M3KG2XM196",
+    "endpoints": "In this proof of principle pilot study, we anticipate that genomic profiling of the immune response to vaccination following IL-12/IL-23 blockade in psoriasis patients, will further delineate the immunogenetic pathways involved in immune response to vaccination",
+    "gender_included": "Female, Male",
+    "hypothesis": "Using psoriasis as a paradigm of autoimmune disease to assess the consequences of blockade of IL-12 and IL-23, key mediators in the immunopathogenic pathway of psoriasis, on vaccination response to influenza vaccine.",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-03-18",
+    "latest_data_release_version": "DR18",
+    "maximum_age": "  68.00",
+    "minimum_age": "  22.00",
+    "objectives": "To accrue a cohort of patients with chronic plaque psoriasis treated with ustekinumab and a control group psoriasis patients treated with topical agents only who will receive the influenza vaccine. To assess and compare the immune response to vaccination in these groups using transcriptional profiling and flow cytometry analysis",
+    "official_title": "Study to Investigate the Effect of IL-12/IL-23 Blockade on Response to Vaccination in Patients with Chronic Plaque Psoriasis",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2799,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2408",
+            "description": "Adults aged 18-45yrs with chronic plaque psoriasis",
+            "name": "HIPC_PSORIASIS_2010-2011"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Alan",
+            "last_name": "Menter",
+            "organization": "Baylor University Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Baylor University Medical Center"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Systems Analysis Vaccine Responses in Healthy and Hyporesponsive Humans"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 1064
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 1036
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 4
+            },
+            {
+                "race": "Black or African American",
+                "count": 3
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 37
+            }
+        ],
+        "gender": [
+            {
+                "Female": 23
+            },
+            {
+                "Male": 22
+            }
+        ]
+    }
+}

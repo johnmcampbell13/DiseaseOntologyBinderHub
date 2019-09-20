@@ -1,0 +1,154 @@
+{
+    "study_accession": "SDY1043",
+    "actual_completion_date": null,
+    "actual_enrollment": 97,
+    "actual_start_date": "2011-01-01",
+    "age_unit": "Years",
+    "brief_description": "The authors applied high-throughput sequencing of blood-based B-cell DNA from healthy control and multiple sclerosis patients and used a computational method, the Haystack Heuristic, to query and analyze data for B-cell related disease biomarkers",
+    "brief_title": "A Haystack Heuristic for Autoimmune Disease Biomarker Discovery Using Next-Gen Immune Repertoire Sequencing Data",
+    "clinical_trial": "N",
+    "condition_studied": "Multiple sclerosis",
+    "dcl_id": 2,
+    "description": "In this work, we present a new algorithm that employs local search techniques to discover statistically significant patient-specific motifs in large-scale immune-repertoire datasets. We apply our methodology successfully to our multi-million-sequence immune repertoire dataset to discover a statistically significant MS-specific motif. The discovered sequence motif could potentially serve as biomarker for the clinical diagnosis of Multiple Sclerosis. The presented methodology is efficient and generalizable to other high throughput sequencing datasets.",
+    "doi": "10.21430/M3HUHJSPBP",
+    "endpoints": "None",
+    "gender_included": "Female, Male",
+    "hypothesis": "Immune repertoire sequencing data can be used to identify disease-specific features with the potential for use as early detection biomarkers",
+    "initial_data_release_date": "2017-06-16",
+    "initial_data_release_version": "DR22",
+    "intervention_agent": "None",
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "  67.00",
+    "minimum_age": "  20.00",
+    "objectives": "Identify disease-only motifs from blood-based B-cell DNA",
+    "official_title": "A Haystack Heuristic for Autoimmune Disease Biomarker Discovery Using Next-Gen Immune Repertoire Sequencing Data",
+    "sponsoring_organization": "NINDS, National Multiple Sclerosis Society, Pfizer Inc.",
+    "target_enrollment": 97,
+    "workspace_id": 5934,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3668",
+            "description": "Healthy control",
+            "name": "Healthy control"
+        },
+        {
+            "arm_accession": "ARM3669",
+            "description": "MS-diagnosed, untreated",
+            "name": "Untreated"
+        },
+        {
+            "arm_accession": "ARM3670",
+            "description": "MS-diagnosed, Avonex treated",
+            "name": "Avonex"
+        },
+        {
+            "arm_accession": "ARM3671",
+            "description": "MS-diagnosed, Copaxone treated",
+            "name": "Copaxone"
+        },
+        {
+            "arm_accession": "ARM3672",
+            "description": "MS-diagnosed, Rebif treated",
+            "name": "Rebif"
+        },
+        {
+            "arm_accession": "ARM3673",
+            "description": "MS-diagnosed, Natalizumab treated",
+            "name": "Natalizumab"
+        },
+        {
+            "arm_accession": "ARM3674",
+            "description": "MS-diagnosed, Betaseron treated",
+            "name": "Betaseron"
+        },
+        {
+            "arm_accession": "ARM3675",
+            "description": "MS-diagnosed, Neurontin, Vitamin D treated",
+            "name": "Neurontin, Vitamin D"
+        },
+        {
+            "arm_accession": "ARM3676",
+            "description": "MS-diagnosed, Copaxone, Vitamin D treated",
+            "name": "Copaxone, Vitamin D"
+        },
+        {
+            "arm_accession": "ARM3677",
+            "description": "MS-diagnosed, Interferons - Rebif treated",
+            "name": "Interferons - Rebif"
+        },
+        {
+            "arm_accession": "ARM3678",
+            "description": "MS-diagnosed, Interferon - Avonex treated",
+            "name": "Interferons - Avonex"
+        },
+        {
+            "arm_accession": "ARM3679",
+            "description": "MS-diagnosed, Rebif, ivIG treated",
+            "name": "Rebif, ivIG"
+        },
+        {
+            "arm_accession": "ARM3680",
+            "description": "MS-diagnosed, Vitamin D treated",
+            "name": "Vitamin D"
+        },
+        {
+            "arm_accession": "ARM3682",
+            "description": "MS-diagnosed, Rituximab treated",
+            "name": "Rituximab"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Marina",
+            "last_name": "Sirota",
+            "organization": "University of California San Francisco",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of California San Francisco"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Antibody Mediated Autoimmunity in Neuromyelitis Optica",
+            "contract_name": "Antibody Mediated Autoimmunity in Neuromyelitis Optica"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 190
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 10
+            },
+            {
+                "race": "Not Specified",
+                "count": 7
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 79
+            }
+        ],
+        "gender": [
+            {
+                "Female": 49
+            },
+            {
+                "Male": 48
+            }
+        ]
+    }
+}

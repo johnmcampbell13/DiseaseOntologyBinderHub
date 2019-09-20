@@ -1,0 +1,77 @@
+{
+    "study_accession": "SDY668",
+    "actual_completion_date": null,
+    "actual_enrollment": 9,
+    "actual_start_date": "2004-09-01",
+    "age_unit": "Years",
+    "brief_description": "This study will evaluate treatment of kidney transplant recipients with alemtuzumab and other immune system suppressing medications with or without infusions of bone marrow stem cells from the kidney donor. The purpose of this study is to find out which strategy is more effective in preventing organ rejection and maintaining patient health.",
+    "brief_title": "Miller-Burke ITN022ST: Using Donor Stem Cells and Alemtuzumab to Prevent Organ Rejection in Kidney Transplant Patients",
+    "clinical_trial": "Y",
+    "condition_studied": "Kidney transplantation",
+    "dcl_id": 2,
+    "description": "Alemtuzumab is used to treat certain blood disorders. This study evaluates kidney transplant recipients treated with alemtuzumab and other immune system suppressing medications with or without infusions of bone marrow stem cells from the kidney donor.",
+    "doi": "10.21430/M3QZ1A9OOE",
+    "endpoints": "Overall participant survival one year post-transplant and kidney graft survival one year post- transplant",
+    "gender_included": "Female, Male",
+    "hypothesis": "Donor marrow stem cells combined with alemtuzumab inhibit rejection of transplanted kidney",
+    "initial_data_release_date": "2015-12-14",
+    "initial_data_release_version": "DR16",
+    "intervention_agent": "Alemtuzumab",
+    "latest_data_release_date": "2016-02-05",
+    "latest_data_release_version": "DR17",
+    "maximum_age": "  55.00",
+    "minimum_age": "  25.00",
+    "objectives": "The purpose of this study is to determine which strategy is most effective in preventing organ rejection and maintaining patient health",
+    "official_title": "Pilot Study Using Donor Stem Cells and Campath-1 to Induce Renal Transplant Tolerance (ITN022ST)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 9,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2930",
+            "description": "Kidney tranplantation followed by two CD34+ donor bone marrow cell infusions and immunotherapy",
+            "name": "DBMC"
+        },
+        {
+            "arm_accession": "ARM2931",
+            "description": "Kidney transplantation followed by immunotherapy",
+            "name": "Control"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "George",
+            "last_name": "Burke",
+            "organization": "University of Miami",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Immune Tolerance Network"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 9
+            }
+        ],
+        "gender": [
+            {
+                "Female": 2
+            },
+            {
+                "Male": 7
+            }
+        ]
+    }
+}

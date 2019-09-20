@@ -1,0 +1,296 @@
+{
+    "study_accession": "SDY40",
+    "actual_completion_date": null,
+    "actual_enrollment": 903,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "We will assess the efficiency of the immune response of monocytes and dendritic cells in different populations (young adult and elderly) in response to stimulation with specific TLR ligands.  We will focus separately on TLRs 3, 7, 8, 9, that recognize viral targets, TLRs 1, 2, 4, 6 (bacterial targets), and the effects of aging on MIF.<br/><br/>We will quantify TLR expression as well as efficiency of signaling pathways triggered by TLR engagement to identify mechanisms that contribute to the impairments of innate immunity associated with aging and immunosuppression.<br/><br/>Finally, we will assess the functional and genetic polymorphisms of MIF in the innate response to TLR stimulation.",
+    "brief_title": "Delineate innate immune responses in populations at risk (the elderly and the immunosuppressed) that are different from the general population",
+    "clinical_trial": "N",
+    "condition_studied": "West Nile Virus, Immune response, Aging, Infectious diseases",
+    "dcl_id": 2,
+    "description": "We will recruit adult (21-49 years of age), elderly (>50 years), ages as outlined in the RFA, or non-elderly but immunosuppressed (defined as taking at least 10 mg of prednisone daily for at least one month) participants from the Greater New Haven area and rheumatology clinics in the Yale-New Haven Healthcare System. Individuals of either gender and all ethnic groups will be eligible to participate.<br/><br/>We will stimulate monocytes and DCs in vitro with ligands of TLRs 1-9 and quantify the efficiency of stimulation by assessment of production of cytokines and inflammatory mediators. TLRs 10 and 11 will not be addressed at this time as ligands are not known. Lineage specific pro-inflammatory cytokines from PBMCs by FACs. We will quantify intracellular levels of TNF&alpha; and IL-6 by FACS from PBMCs in suspension on the day of isolation of the cells. This is essential to control for differences in cell composition in PBMCs isolated from different individuals, given the broad range of hematopoietic cells synthesizing TNF&alpha; and IL-6.<br/><br/>By using multi-color staining of PBMCs with lineage-specific fluorescent antibodies, we will identify lineages positive for intracellular cytokine production at the single cell level, and track potential age-associated changes in cell lineages. Our experimental approach will be to obtain monocytes/macrophages cells from young adult and elderly subjects, define their Mif genotype, and analyze their baseline and stimulus-induced production of MIF.<br/><br/>Patient samples for genotyping will be obtained from the pellet of the Ficoll-hypaque isolation of PBMCs and extracted DNA will be analyzed for Mif genotype by established, robotic methodology that requires <1 &mu;g of DNA. Purified monocytes/macrophage will be studied for their baseline and stimulation-induced responses following protocols in place in our laboratory.",
+    "doi": "10.21430/M3EMF3OMS4",
+    "endpoints": "<ol><li>Stimulate pro-inflammatory cytokines through TLR ligands.</li><li>Measurement of cytokine production from lineage specific pro-inflammatory cytokines from PBMCs by FACs.</li><li>Quantify surface expression and mRNA levels of TLRs in PBMCs by FACS and Q-PCR.</li><li>Effects of aging and immunosuppression on production of MIF by Monocytes and analysis of MIF promoter polymorphisms.</li><li>Assess the signaling pathways in response to TLR ligands.</li>",
+    "gender_included": "Female, Male",
+    "hypothesis": "This study explores the hypothesis that altered innate immune responsiveness in the elderly and the immunosuppressed contributes to vaccine unresponsiveness or disease susceptibility.  ",
+    "initial_data_release_date": "2013-06-12",
+    "initial_data_release_version": "DR2",
+    "intervention_agent": "Not applicable\r",
+    "latest_data_release_date": "2013-06-12",
+    "latest_data_release_version": "DR2",
+    "maximum_age": "  90.00",
+    "minimum_age": "  21.00",
+    "objectives": "<ol><li>Assess the efficiency of the immune response of monocytes and dendritic cells in different populations (adult, elderly, immunosuppressed) in response to stimulation with specific TLR ligands.</li><li>Quantify TLR expression as well as efficiency of signaling pathways triggered by TLR engagement to identify mechanisms that contribute to the impairments of innate immunity associated with aging and immunosuppression.</li><li>Assess the functional and genetic polymorphisms of MIF in the innate response to TLR stimulation.</li>",
+    "official_title": "Delineate innate immune responses in populations at risk (the elderly and the immunosuppressed) that are different from the general population",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 282,
+    "workspace_id": 1995,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM303",
+            "description": "Healthy subjects between the ages of 21 to 49 years old.",
+            "name": "Young Adults"
+        },
+        {
+            "arm_accession": "ARM304",
+            "description": "Elderly subjects 50 years of age or older.",
+            "name": "Elderly"
+        },
+        {
+            "arm_accession": "ARM305",
+            "description": "Immunocompromised subjects.",
+            "name": "Immunocompromised"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Erol",
+            "last_name": "Fikrig",
+            "organization": "Yale School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Yale University - School of Medicine\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Age-associated defect in human TLR-1/2 function.",
+            "journal": "J Immunol.",
+            "month": "Jan",
+            "year": "2007",
+            "doi": "-",
+            "pubmed_id": "17202359"
+        },
+        {
+            "title": "Prevaccine determination of the expression of costimulatory B7 molecules in activated monocytes predicts influenza vaccine responses in young and older adults.",
+            "journal": "J Infect Dis.",
+            "month": "Jun",
+            "year": "2007",
+            "doi": "b 2007 Apr 17.",
+            "pubmed_id": "17471428"
+        },
+        {
+            "title": "Toll-like receptors in older adults.",
+            "journal": "J Am Geriatr Soc.",
+            "month": "Sep",
+            "year": "2007",
+            "doi": "-",
+            "pubmed_id": "17767688"
+        },
+        {
+            "title": "Abrogation of macrophage migration inhibitory factor decreases West Nile virus lethality by limiting viral neuroinvasion.",
+            "journal": "J Clin Invest.",
+            "month": "Oct",
+            "year": "2007",
+            "doi": "-",
+            "pubmed_id": "17909632"
+        },
+        {
+            "title": "West Nile virus envelope protein inhibits dsRNA-induced innate immune responses.",
+            "journal": "J Immunol.",
+            "month": "Dec",
+            "year": "2007",
+            "doi": "-",
+            "pubmed_id": "18056386"
+        },
+        {
+            "title": "Icam-1 participates in the entry of west nile virus into the central nervous system.",
+            "journal": "J Virol.",
+            "month": "Apr",
+            "year": "2008",
+            "doi": "10.1128/JVI.02621-07. Epub 2008 Feb 6.",
+            "pubmed_id": "18256150"
+        },
+        {
+            "title": "West nile virus attenuates activation of primary human macrophages.",
+            "journal": "Viral Immunol.",
+            "month": "Mar",
+            "year": "2008",
+            "doi": "10.1089/vim.2007.0072.",
+            "pubmed_id": "18355125"
+        },
+        {
+            "title": "Dysregulation of TLR3 impairs the innate immune response to West Nile virus in the elderly.",
+            "journal": "J Virol.",
+            "month": "Aug",
+            "year": "2008",
+            "doi": "10.1128/JVI.00618-08. Epub 2008 May 28.",
+            "pubmed_id": "18508883"
+        },
+        {
+            "title": "Matrix metalloproteinase 9 facilitates West Nile virus entry into the brain.",
+            "journal": "J Virol.",
+            "month": "Sep",
+            "year": "2008",
+            "doi": "10.1128/JVI.00314-08. Epub 2008 Jul 16.",
+            "pubmed_id": "18632868"
+        },
+        {
+            "title": "RNA interference screen for human genes associated with West Nile virus infection.",
+            "journal": "Nature.",
+            "month": "Sep",
+            "year": "2008",
+            "doi": "10.1038/nature07207.",
+            "pubmed_id": "18690214"
+        },
+        {
+            "title": "Toll-like receptor 7 mitigates lethal West Nile encephalitis via interleukin 23-dependent immune cell infiltration and homing.",
+            "journal": "Immunity.",
+            "month": "Feb",
+            "year": "2009",
+            "doi": "10.1016/j.immuni.2008.11.012. Epub 2009  Feb 5.",
+            "pubmed_id": "19200759"
+        },
+        {
+            "title": "The influence of macrophage migration inhibitory factor gene polymorphisms on outcome from community-acquired pneumonia.",
+            "journal": "FASEB J.",
+            "month": "Aug",
+            "year": "2009",
+            "doi": "10.1096/fj.09-129445. Epub 2009 Apr 3.",
+            "pubmed_id": "19346297"
+        },
+        {
+            "title": "Human innate immunosenescence: causes and consequences for immunity in old age.",
+            "journal": "Trends Immunol.",
+            "month": "Jul",
+            "year": "2009",
+            "doi": "10.1016/j.it.2009.05.004. Epub 2009 Jun 21.",
+            "pubmed_id": "19541535"
+        },
+        {
+            "title": "IL-10 signaling blockade controls murine West Nile virus infection.",
+            "journal": "PLoS Pathog.",
+            "month": "Oct",
+            "year": "2009",
+            "doi": "10.1371/journal.ppat.1000610. Epub 2009 Oct 9.",
+            "pubmed_id": "19816558"
+        },
+        {
+            "title": "Age-associated decrease in TLR function in primary human dendritic cells predicts influenza vaccine response.",
+            "journal": "J Immunol.",
+            "month": "Mar",
+            "year": "2010",
+            "doi": "10.4049/jimmunol.0901022. Epub 2010 Jan 25.",
+            "pubmed_id": "20100933"
+        },
+        {
+            "title": "Circulating monocytes from systemic sclerosis patients with interstitial lung disease show an enhanced profibrotic phenotype.",
+            "journal": "Lab Invest.",
+            "month": "Jun",
+            "year": "2010",
+            "doi": "10.1038/labinvest.2010.73. Epub 2010 Apr  19.",
+            "pubmed_id": "20404807"
+        },
+        {
+            "title": "Increased TLR4 expression and downstream cytokine production in immunosuppressed adults compared to non-immunosuppressed adults.",
+            "journal": "PLoS One.",
+            "month": "Jun",
+            "year": "2010",
+            "doi": "10.1371/journal.pone.0011343.",
+            "pubmed_id": "20596538"
+        },
+        {
+            "title": "Aging of the innate immune system.",
+            "journal": "Curr Opin Immunol.",
+            "month": "Aug",
+            "year": "2010",
+            "doi": "10.1016/j.coi.2010.05.003.",
+            "pubmed_id": "20667703"
+        },
+        {
+            "title": "Caspase-12 controls West Nile virus infection via the viral RNA receptor RIG-I.",
+            "journal": "Nat Immunol.",
+            "month": "Oct",
+            "year": "2010",
+            "doi": "10.1038/ni.1933. Epub 2010 Sep 5.",
+            "pubmed_id": "20818395"
+        },
+        {
+            "title": "A paradoxical role for neutrophils in the pathogenesis of West Nile virus.",
+            "journal": "J Infect Dis.",
+            "month": "Dec",
+            "year": "2010",
+            "doi": "10.1086/657416. Epub 2010 Nov 4.",
+            "pubmed_id": "21050124"
+        },
+        {
+            "title": "Impaired interferon signaling in dendritic cells from older donors infected in vitro with West Nile virus.",
+            "journal": "J Infect Dis.",
+            "month": "May",
+            "year": "2011",
+            "doi": "10.1093/infdis/jir048. Epub 2011  Mar 11.",
+            "pubmed_id": "21398396"
+        },
+        {
+            "title": "Age-associated elevation in TLR5 leads to increased inflammatory responses in the elderly.",
+            "journal": "Aging Cell.",
+            "month": "Feb",
+            "year": "2012",
+            "doi": "10.1111/j.1474-9726.2011.00759.x. Epub 2011 Nov 28.",
+            "pubmed_id": "22023165"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "Innate Immune Responsiveness in the Elderly and the Immunosuppressed"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 10087
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 2626
+        },
+        {
+            "measurement_technique": "PCR",
+            "number_of_expsamples": 1032
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 808
+        },
+        {
+            "measurement_technique": "Western Blot",
+            "number_of_expsamples": 336
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 62
+            },
+            {
+                "race": "Black or African American",
+                "count": 86
+            },
+            {
+                "race": "Other",
+                "count": 13
+            },
+            {
+                "race": "Unknown",
+                "count": 11
+            },
+            {
+                "race": "White",
+                "count": 731
+            }
+        ],
+        "gender": [
+            {
+                "Female": 570
+            },
+            {
+                "Male": 333
+            }
+        ]
+    }
+}

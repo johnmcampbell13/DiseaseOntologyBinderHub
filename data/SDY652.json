@@ -1,0 +1,79 @@
+{
+    "study_accession": "SDY652",
+    "actual_completion_date": null,
+    "actual_enrollment": 2,
+    "actual_start_date": "2009-02-01",
+    "age_unit": "Weeks",
+    "brief_description": "Goal is to test convergent recombinaiton as a predicor of TCRb production efficiency.",
+    "brief_title": "Mouse recombination path counting on a gpu",
+    "clinical_trial": "N",
+    "condition_studied": "TCR frequency, a precorsor forTCR sharing analysis.",
+    "dcl_id": 2,
+    "description": "The goal of the experiment is to test whether convergent recombination predicts TCRb in vivo frequency, by combining high throughput TCRb sequencing on the Roche 454 platform and highthrougput comprehensive TCRb in silico recombination path counting on a graphical processing unit.",
+    "doi": "10.21430/M3LVYI9ULI",
+    "endpoints": "Count all paths for observe TCRs.",
+    "gender_included": "Female",
+    "hypothesis": "The Convergent Recombination Hypothesis predicts that TCRs that can be made more efficiently (in more ways) will be present at higher frequencies in vivo.",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": null,
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "   8.00",
+    "minimum_age": "   8.00",
+    "objectives": "Sequence mouse TCRb chains from multiple mice and count the number of was that each observed TCR can be made.",
+    "official_title": "Overcoming the Limitations Posed by TCR_ Repertoire Modeling through a GPU-based In-Silico DNA Recombination Algorithm",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3365,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2898",
+            "description": "mouse1",
+            "name": "mouse1"
+        },
+        {
+            "arm_accession": "ARM2899",
+            "description": "mouse2",
+            "name": "mouse2"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jeffrey",
+            "last_name": "Frelinger",
+            "organization": "University of Arizona",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Arizona"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Overcoming the Limitations Posed by TCR_ Repertoire Modeling through a GPU-based In-Silico DNA Recombination Algorithm",
+            "journal": "Institute of Electrical and Electronic Engineers: International Parallel and Distributed Processing Symposium",
+            "month": "May",
+            "year": "2014",
+            "doi": "10.1109/IPDPS.2014.34",
+            "pubmed_id": "TBD_B"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Immunological basis of age-related vulnerability in biodefense and emerging infections SP2 UAz"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 2
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "study_accession": "SDY873",
+    "actual_completion_date": "2010-12-31",
+    "actual_enrollment": 93,
+    "actual_start_date": "2009-01-01",
+    "age_unit": "Years",
+    "brief_description": "A suite of ex vivo perturbations are applied to explore DC response",
+    "brief_title": "Modeling Viral Immunity and Antagonism in Dendritic Cells",
+    "clinical_trial": "N",
+    "condition_studied": "DC biology",
+    "dcl_id": 2,
+    "description": "A suite of ex vivo perturbations are applied to explore DC response",
+    "doi": "10.21430/M3EXEMMV8M",
+    "endpoints": "Flow cytometry, microarray gene expression, immunoblot, phosphoflow",
+    "gender_included": "Not Specified",
+    "hypothesis": "A suite of ex vivo perturbations are applied to explore DC response",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Numerous ex vivo agents",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "A suite of ex vivo perturbations are applied to explore DC response",
+    "official_title": "Modeling Viral Immunity and Antagonism in Dendritic Cells",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 20,
+    "workspace_id": 1281,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3298",
+            "description": "DCs from healthy subjects used in in vitro studies",
+            "name": "Healthy adult"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Stuart",
+            "last_name": "Sealfon",
+            "organization": "MSSM",
+            "role_in_study": "Principal Investigator",
+            "site_name": "MSSM"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "Modeling Viral Immunity and Antagonism"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 4171
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 93
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 93
+            }
+        ]
+    }
+}

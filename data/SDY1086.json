@@ -1,0 +1,148 @@
+{
+    "study_accession": "SDY1086",
+    "actual_completion_date": "2018-01-01",
+    "actual_enrollment": 34,
+    "actual_start_date": "2015-04-05",
+    "age_unit": "Years",
+    "brief_description": "Single center, open mechanistic study in which subjects will be randomized to receive IIV per label at day 4 of a 5 day course of a specific antibiotic regimen (Group A) or IIV alone (Group B)",
+    "brief_title": "Responses to Inactivated Influenza Vaccine (IIV) in adults with or without antibiotics",
+    "clinical_trial": "N",
+    "condition_studied": "Inactivated influenza vaccine with or without concomitant use of antibiotics",
+    "dcl_id": 2,
+    "description": "Single center, open mechanistic study in which subjects will be randomized to receive IIV per label at day 4 of a 5 day course of a specific antibiotic regimen (Group A) or IIV alone (Group B). Blood samples for immunologic testing will be collected at screening (from D -21 to D -1), on D0 (at vaccination), D1, D3, D7 (+/- 1 day), D30 (+/- 5 days), D90 (+/-14 days), D180 (+-/14 days), D365 (+/-28 days) post vaccination for both groups to study innate and/or adaptive immune responses. Stool samples will be collected in both groups at screening (from D - 21 to D -1), on vaccination (D0), D1, D3, D7 (+/- 1 day) and D30 (+/- 5 days), D90 (+/-14 days), D180 (+/-14 days), D365 (+/- 28 days) to study the gut microbiome in both groups. For Group A, additional visit on D-6 to D-3 will occur with stool and blood samples collection. Study will be conducted outside the 2014-2015 and 2015-2016 influenza seasons.Antibiotics received by Group A will be started 3 days prior to vaccination (D-3) and continued on day of vaccination (D0) and for one day after vaccination (D1) for a total of 5 days a) Flagyl 500 mg po tid b) Vancocin 125 mg po qid c) Neomycin sulfate  500mg po tid. The dosage of each antibiotic is taken from their respective package inserts and does not exceed the maximum dose allowed for each antibiotic. The antibiotic regimen is a broad spectrum regimen covering all types of fecal flora (anaerobes, gram positive, and gram negative bacteria); has a good safety record; has poor systemic absorption for part of the regimen (Vancocin and Neomycin sulfate ); and part of the regimen is used to treat Clostridium difficile infections (Vancocin and Flagyl). Subjects in Group A are asked to avoid all ethanol and any ethanol- containing drugs while taking antibiotics and for 48h before and after taking the antibiotics.",
+    "doi": "10.21430/M3GEIUPY7R",
+    "endpoints": "Comparison of HAI titers at D90, D180 and D365 post vaccination in both groups (Exploratory endpoint)",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "Use of antibiotics can significantly impact the microbiota of patients. The status of the intestinal microbiome may impact the immune responses to vaccinations and alter functional protective immunity in humans. Here we hypothesize that the changes in the fecal microbiome induced by antibiotics translates into suboptimal Hemagglutination Inhibition Assay (HAI) titers.",
+    "initial_data_release_date": "2019-09-16",
+    "initial_data_release_version": "DR32",
+    "intervention_agent": "Neomycin sulfate",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "40",
+    "minimum_age": "18",
+    "objectives": "To compare HAI titers after vaccination with IIV in adults with or without use of antibiotics",
+    "official_title": "Systems Biology of Inactivated Influenza Vaccine (IIV) in healthy adults with or without use of broad spectrum antibiotics",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 50,
+    "workspace_id": 2516,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3826",
+            "description": "Inactivated Influanza vaccine (IIV) alone",
+            "name": "Vax002_group_A"
+        },
+        {
+            "arm_accession": "ARM3827",
+            "description": "IIVreceived on day 4 of a 5 day course of specific antibiotic regimen",
+            "name": "Vax002_group_B"
+        },
+        {
+            "arm_accession": "ARM4739",
+            "description": "Source mouse for CH65 antibody",
+            "name": "Mouse cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Nadine",
+            "last_name": "Rouphael",
+            "organization": "Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Hope Clinic"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Antibiotics-Driven Gut Microbiome Perturbation Alters Immunity to Vaccines in Humans.",
+            "journal": "Cell.",
+            "month": "Sep",
+            "year": "2019",
+            "doi": "10.1016/j.cell.2019.08.010.",
+            "pubmed_id": "31491384"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+            "contract_name": "Systems Biological Analysis of Innate and Adaptive Responses to Vaccination (Emory)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Cell Culture",
+            "number_of_expsamples": 416
+        },
+        {
+            "measurement_technique": "DNA microarray",
+            "number_of_expsamples": 160
+        },
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 392
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 64
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 444
+        },
+        {
+            "measurement_technique": "Mass Spectrometry",
+            "number_of_expsamples": 211
+        },
+        {
+            "measurement_technique": "Neutralizing Antibody Titer Assay",
+            "number_of_expsamples": 489
+        },
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 297
+        },
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 18
+        },
+        {
+            "measurement_technique": "Surface Plasmon Resonance",
+            "number_of_expsamples": 198
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 2
+            },
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 13
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 16
+            }
+        ],
+        "gender": [
+            {
+                "Female": 16
+            },
+            {
+                "Male": 17
+            }
+        ]
+    }
+}

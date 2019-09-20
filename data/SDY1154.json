@@ -1,0 +1,74 @@
+{
+    "study_accession": "SDY1154",
+    "actual_completion_date": "2010-12-31",
+    "actual_enrollment": 2,
+    "actual_start_date": "2009-01-01",
+    "age_unit": "Years",
+    "brief_description": "DCs were transfected with RIG-I or TBK1 targeting siRNA and infected with NDV 24h post-transfectio",
+    "brief_title": "siRNA knock down of RIG-I and TBK1 in DCs",
+    "clinical_trial": "N",
+    "condition_studied": "Normal immune system",
+    "dcl_id": 2,
+    "description": "DCs were transfected with RIG-I or TBK1 targeting siRNA and infected with NDV 24h post-transfectio",
+    "doi": "10.21430/M3WMFFH6SY",
+    "endpoints": "Immunoblot",
+    "gender_included": "Not Specified",
+    "hypothesis": "RIG-I  and TBK1 have important regualtory roles in DCs",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "siRNA",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "Define DCs protein profile folloing RIG-I or TBK1 knockdown",
+    "official_title": "siRNA knock down of RIG-I and TBK1 in DCs",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 2,
+    "workspace_id": 1281,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4051",
+            "description": "DCs from healthy subjects used in in vitro studies",
+            "name": "Healthy subjects"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "R",
+            "last_name": "Bowles",
+            "organization": "Mount Sinai School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "MSSM"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "Modeling Viral Immunity and Antagonism"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Immunoblot",
+            "number_of_expsamples": 14
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 2
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 2
+            }
+        ]
+    }
+}

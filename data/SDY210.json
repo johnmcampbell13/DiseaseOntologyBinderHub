@@ -1,0 +1,114 @@
+{
+    "study_accession": "SDY210",
+    "actual_completion_date": null,
+    "actual_enrollment": 546,
+    "actual_start_date": "2004-08-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of ICAC-01 is to determine whether an asthma treatment strategy that measures exhaled nitric oxide (eNO) to indicate disease progression is more effective in treating asthma symptoms when combined with existing asthma treatment guidelines than treatment using the guidelines alone.",
+    "brief_title": "Asthma Control Evaluation (ACE): A Biomarker-Based Approach to Improving Asthma Control and Mechanistic Studies (ICAC-02)",
+    "clinical_trial": "Y",
+    "condition_studied": "Asthma",
+    "dcl_id": 2,
+    "description": "Over the past two decades, the prevalence of asthma has dramatically increased in many parts of the world. The current National Asthma Education and Prevention Program (NAEPP) identifies inhaled corticosteroids (ICS) as the preferred long-term control therapy for all forms of persistent asthma. However, there is still a significant proportion of patients with persistent asthma who are not receiving ICS therapy or do not follow their treatment plan. Individualized asthma treatment plans are needed. The use of biomarkers, in addition to NAEPP guidelines, may help enhance the level of asthma assessment, guide medication regimens, and improve overall asthma control. This study will determine whether NAEPP-recommended treatment, combined with eNO measurement, is more effective in reducing asthma symptoms than NAEPP-recommended treatment alone. ICAC-01 will last 46 weeks and will comprise 8 study visits. ICAC-01 also includes a mechanistic sub-study (ICAC-02). Its primary objective is to determine whether highly sensitized, compared to weakly sensitized asthmatic subjects have more severe asthma, as defined by the levels at randomization to the completion of ICAC-01. To address the primary objective of ICAC-02, the study will include all the participants enrolled in ICAC-01 with dust mite-, cockroach- and/or alternaria-specific IgE levels within certain parameters.",
+    "doi": "10.21430/M3I0JL7KUZ",
+    "endpoints": "<p><b>Primary Endpoint</b></p><p>The primary endpoint is asthma symptom days per two weeks assessed at visits 3 through 8.</p><p><b>Secondary Endpoints</b></p><p>The secondary endpoints are:</p><ol><li>Asthma exacerbations per two months assessed at visits 3 through 8.</li><li>Exhaled nitric oxide (eNO).</li><li>Adherence eosinophil counts.</li><li>Atopic sensitization to indoor allergens.</li><li>Inhaled Corticosteroid (ICS) dose.</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Asthma treatment based on exhaled nitric oxide measurement in addition to NAEPP guidelines achieves greater control of symptoms than treatment based on NAEPP guidelines alone.",
+    "initial_data_release_date": "2013-09-30",
+    "initial_data_release_version": "DR4",
+    "intervention_agent": "Drug: Inhaled corticosteroids, used for both regular asthma control and as a rescue inhaler. Procedure: eNO measurement measured by Aerocrine (tm) NIOX device.",
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  19.00",
+    "minimum_age": "  12.00",
+    "objectives": "The primary objective is to evaluate if the biomarker-supplemented approach to asthma therapy improves asthma outcomes (asthma symptom days and asthma exacerbations) as compared to a guidelines-based approach without the use of a specific biomarker. The biomarker to be evaluated in this protocol will be exhaled nitric oxide (eNO). Secondary objectives related to the main ACE protocol are <ol><li>To evaluate if improved asthma control as assessed by clinical and lung function parameters will be associated with normalization of exhaled nitric oxide (eNO).</li><li>To determine if sensitivity and exposure to common inner-city allergens will reduce the effectiveness of eNO to improve asthma control.</li><li>To determine if a poor response to both approaches of asthma management, despite good adherence, is associated with specific polymorphisms of genes putatively related to asthma or to response to asthma medications.</li><li>To determine if eNO will be a sensitive indicator of adherence with inhaled corticosteroids.</li><li>To evaluate if eosinophils will correlate more highly with recent and future clinical course (events 4 weeks before and 4 weeks after the visit when obtained) than eNO.</li></ol> Secondary objectives related to the exhaled breath condensates are <ol><li>To evaluate if improved asthma control as assessed by clinical and lung function parameters will be associated with normalization of exhaled breath condensate measures of inflammation, oxidative stress, and eosinophil activity.</li><li>To determine if eNO will correlate with EBC measures of inflammation, oxidative stress, and eosinophil activity.</li><li>To evaluate if poor responders as assessed by clinical and lung function parameters who have a persistently low eNO will be characterized by EBC measures of increased neutrophil activity, persistently increased acidity/oxidative stress/inflammation, and imbalanced tissue repair markers.</li><li>To evaluate if good responders as assessed by clinical and lung function parameters who have a persistently high eNO, will be characterized by EBC measures of reduced acidity, reduced oxidative stress, reduced inflammation, and reduced eosinophil activity.</li></ol>",
+    "official_title": "Asthma Control Evaluation (ACE): A Biomarker-Based Approach to Improving Asthma Control and Mechanistic Studies",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 500,
+    "workspace_id": 3134,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM890",
+            "description": "Participants in the reference strategy group will undergo the eNO procedure but will follow NAEPP guidelines alone for asthma treatment without eNO measurements for the rest of the study.",
+            "name": "Reference Strategy group"
+        },
+        {
+            "arm_accession": "ARM891",
+            "description": "Participants in the biomarker strategy group will follow NAEPP treatment guidelines, as well as eNO measurements, to determine asthma treatment at each study visit.",
+            "name": "Biomarker Strategy group"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "William",
+            "last_name": "Busse",
+            "organization": "University of Wisconsin, Madison",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Wisconsin, Madison"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Management of asthma based on exhaled nitric oxide in addition to guideline-based treatment for inner-city adolescents and young adults: a randomised controlled trial.",
+            "journal": "Lancet.",
+            "month": "Sep",
+            "year": "2008",
+            "doi": "10.1016/S0140-6736(08)61448-8.",
+            "pubmed_id": "18805335"
+        },
+        {
+            "title": "Asthma severity, not asthma control, is worse in atopic compared with nonatopic adolescents with asthma.",
+            "journal": "Ann Allergy Asthma Immunol.",
+            "month": "Jan",
+            "year": "2016",
+            "doi": "10.1016/j.anai.2015.10.015. Epub 2015 Nov 7.",
+            "pubmed_id": "26560898"
+        },
+        {
+            "title": "A computerized decision support tool to implement asthma guidelines for children and adolescents.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "May",
+            "year": "2019",
+            "doi": "10.1016/j.jaci.2018.10.060. Epub 2018 Dec 5.",
+            "pubmed_id": "30529451"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Inner City Asthma Consortium (ICAC) RFA-AI-13-036",
+            "contract_name": "Inner City Asthma Consortium (ICAC)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 12
+            },
+            {
+                "race": "Black or African American",
+                "count": 339
+            },
+            {
+                "race": "Other",
+                "count": 189
+            },
+            {
+                "race": "Unknown",
+                "count": 6
+            }
+        ],
+        "gender": [
+            {
+                "Female": 258
+            },
+            {
+                "Male": 288
+            }
+        ]
+    }
+}

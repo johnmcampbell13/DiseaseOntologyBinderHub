@@ -1,0 +1,153 @@
+{
+    "study_accession": "SDY113",
+    "actual_completion_date": "2012-01-02",
+    "actual_enrollment": 70,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "To study the plasmablast response to influenza vaccines",
+    "brief_title": "Plasmablast response to inactivated and live attenuated influenza vaccines (TIV3/TIV3 ID/LAIV) SLVP021 2011",
+    "clinical_trial": "Y",
+    "condition_studied": "Peripheral plasmablast response to influenza vaccines at day 7 after vaccination",
+    "dcl_id": 2,
+    "description": "To study the plasmablast response to influenza vaccines",
+    "doi": "10.21430/M3KPFS7KXI",
+    "endpoints": "PPAb titer by Elisa; vaccine-specific ASC counts by Elispot",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "LAIV, TIV and ID TIV induced different plasmablast response",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": "Fluzone and Fluzone Intradermal (both from Sanofi Pasteur) Flumist (from MedImmune)",
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "40",
+    "minimum_age": "18",
+    "objectives": "plasmablast resposne to LAIV vs TIV vs ID TIV",
+    "official_title": "Plasmablast response to 2011 inactivated and live attenuated influenza vaccines",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2233",
+            "description": "CyTOF technical control samples",
+            "name": "CyTOF-control_2011"
+        },
+        {
+            "arm_accession": "ARM2526",
+            "description": "phospho  flow_cytometry control samples",
+            "name": "phospho flow_cytometry control samples"
+        },
+        {
+            "arm_accession": "ARM645",
+            "description": "18-30 year old adults immunizaed intramuscularly with Fluzone",
+            "name": "TIV group"
+        },
+        {
+            "arm_accession": "ARM646",
+            "description": "18-30 year old adults immunized intradermally with Fluzone",
+            "name": "ID TIV group"
+        },
+        {
+            "arm_accession": "ARM647",
+            "description": "18-30 year old adults immunized intranasally with FluMist",
+            "name": "LAIV group"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Harry",
+            "last_name": "Greenberg",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Distinct cross-reactive B-cell responses to live attenuated and inactivated influenza vaccines.",
+            "journal": "J Infect Dis.",
+            "month": "Sep",
+            "year": "2014",
+            "doi": "10.1093/infdis/jiu190. Epub 2014 Mar 27.",
+            "pubmed_id": "24676204"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 61
+        },
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 60
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 60
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 358
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 128
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 374
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 57
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 21
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 13
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 33
+            }
+        ],
+        "gender": [
+            {
+                "Female": 35
+            },
+            {
+                "Male": 34
+            },
+            {
+                "Not Specified": 1
+            }
+        ]
+    }
+}

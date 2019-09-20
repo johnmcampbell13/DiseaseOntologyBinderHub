@@ -1,0 +1,88 @@
+{
+    "study_accession": "SDY1364",
+    "actual_completion_date": "2013-01-31",
+    "actual_enrollment": 24,
+    "actual_start_date": "2012-01-01",
+    "age_unit": "Years",
+    "brief_description": "Characterization of early gene expression changes after MVA85A vaccination and connection to immune response mechanism and magnitude.",
+    "brief_title": "Determining the Immune Response to MVA85A (tuberculosis vaccine candidate)",
+    "clinical_trial": "N",
+    "condition_studied": "MVA85A tuberculosis vaccine response",
+    "dcl_id": 2,
+    "description": "A better understanding of the relationships between vaccine, immunogenicity and protection from disease would greatly facilitate vaccine development. Modified vaccinia virus Ankara expressing antigen 85A (MVA85A) is a novel tuberculosis vaccine candidate designed to enhance responses induced by BCG. Antigen-specific interferon-_ (IFN-_) production is greatly enhanced by MVA85A, however the variability between healthy individuals is extensive. In this study we have sought to characterize the early changes in gene expression in humans following vaccination with MVA85A and relate these to long-term immunogenicity. Two days post-vaccination, MVA85A induces a strong interferon and inflammatory response. Separating volunteers into high and low responders on the basis of T cell responses to 85A peptides measured during the trial, an expansion of circulating CD4+ CD25+ Foxp3+ cells is seen in low but not high responders. Additionally, high levels of Toll-like Receptor (TLR) 1 on day of vaccination are associated with an increased response to antigen 85A. In a classification model, combined expression levels of TLR1, TICAM2 and CD14 on day of vaccination and CTLA4 and IL2R_ two days post-vaccination can classify high and low responders with over 80% accuracy. Furthermore, administering MVA85A in mice with anti-TLR2 antibodies may abrogate high responses, and neutralising antibodies to TLRs 1, 2 or 6 or HMGB1 decrease CXCL2 production during?in vitro?stimulation with MVA85A. HMGB1 is released into the supernatant following atimulation with MVA85A and we propose this signal may be the trigger activating the TLR pathway. This study suggests an important role for an endogenous ligand in innate sensing of MVA and demonstrates the importance of pattern recognition receptors and regulatory T cell responses in determining the magnitude of the antigen specific immune response to vaccination with MVA85A in humans.",
+    "doi": "10.21430/M3NJTLGRT4",
+    "endpoints": "Immunological phenotypes, transcriptomics, flow cytometry, ELISpot, western blot",
+    "gender_included": "Not Specified",
+    "hypothesis": "The mechanisms by which an immune response to MVA85A vaccination develops can be elucidated through systems biology approaches.",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": "Modified vaccinia virus Ankara expressing antigen 85A?(MVA85A)",
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "  55.00",
+    "minimum_age": "  18.00",
+    "objectives": "Describe the innate immune response to MVA85A in BCG-vaccinated volunteers in the UK and use the data to investigate the links between early changes in gene expression and IFN-_ ELISpot responses measured at the time of the trial.",
+    "official_title": "Roles for Treg Expansion and HMGB1 Signaling through the TLR1-2-6 Axis in Determining the Magnitude of the Antigen-Specific Immune Response to MVA85A",
+    "sponsoring_organization": "The Wellcome Trust",
+    "target_enrollment": 24,
+    "workspace_id": 6133,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4623",
+            "description": "1 x 108  pfu MVA85A injected intradermally",
+            "name": "MVA85A intradermal"
+        },
+        {
+            "arm_accession": "ARM4624",
+            "description": "1 x 108  pfu MVA85A injected intramuscularly",
+            "name": "MVA85A intramuscular"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Magali",
+            "last_name": "Matsumiya",
+            "organization": "The Jenner Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Oxford"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Roles for Treg Expansion and HMGB1 Signaling through the TLR1-2-6 Axis in Determining the Magnitude of the Antigen-Specific Immune Response to MVA85A",
+            "journal": "PLOS One",
+            "month": "July",
+            "year": "2013",
+            "doi": "10.1371/journal.pone.0067922",
+            "pubmed_id": "23844129"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Other Programs",
+            "contract_name": "Wellcome Trust"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 96
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 24
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 24
+            }
+        ]
+    }
+}

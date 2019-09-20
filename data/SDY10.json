@@ -1,0 +1,126 @@
+{
+    "study_accession": "SDY10",
+    "actual_completion_date": null,
+    "actual_enrollment": 292,
+    "actual_start_date": "2005-06-01",
+    "age_unit": "Years",
+    "brief_description": "Atopic dermatitis (AD) is a chronic inflammatory skin disorder characterized by recurrent viral skin infections. Recent studies have demonstrated that the skin of people with AD my have decreased antimicrobial peptide (AMP) expression. The purpose of this study is to compare small pox virus replication and the number of AMPs and other antiviral molecules in people with AD, as compared to those seen in people with psoriasis or asthma, or healthy individuals.",
+    "brief_title": "Role of Antimicrobial Peptides in Host Defense Against Vaccinia Virus (AMP 01)",
+    "clinical_trial": "Y",
+    "condition_studied": "Atopic Dermatitis",
+    "dcl_id": 2,
+    "description": "AD is a chronic inflammatory skin disease characterized by frequent viral skin infections. Recent studies have found that components in the skin of people with AD may block AMP expression. AMPs are responsible for preventing infection from viruses.<br/><br/>The purpose of this study is to examine small pox virus replication and AMP expression in the skin of patients with AD as well as identify other antiviral molecules involved in immune response. These findings will be compared with those of people with psoriasis or asthma, or healthy individuals. This study will consist of one study visit at which skin and blood samples will be taken.",
+    "doi": "10.21430/M3K0GCB4KL",
+    "endpoints": "<ol><li>Expression of vaccinia virus messenger RNA (mRNA) in non-lesional skin following inoculation with untreated vaccinia virus will be evaluated using real-time RT-PCR.</li><li>Expression of cytokines, AMPs, other antiviral molecules, or epidermal differentiation proteins mRNA in non-lesional skin prior to and after inoculation with vaccinia virus will be evaluated using real-time RT-PCR. Immunohistochemistry will be used to confirm the expression of the aforementioned proteins in the skin following inoculation with vaccinia virus.</li><li>Keratinocytes will be stimulated with vaccinia virus in the presence and absence of Th1 (i.e. TNF-&alpha;, IFN-&gamma;) or Th2 (i.e. IL-4, IL-13) cytokines. Non-lesional AD skin will be stimulated with vaccinia virus in the presence of antibodies that neutralize Th2 cytokines. Skin from normal subjects will be stimulated with vaccinia virus in the presence and absence of Th2 (i.e. IL-4, IL-10, IL-13) cytokines. Expression of cytokines, AMPs, other antiviral molecules, epidermal differentiation proteins, and vaccinia virus mRNA will be evaluated in keratinocytes and skin explants using real-time RT-PCR. Immunostaining and confocal microscopy will be used to confirm the expression of cytokines, AMPs, other antiviral molecules, or epidermal differentiation proteins in skin explants following incubation with vaccinia virus.</li><li>Vaccinia virus replication will be evaluated using a standard viral plaque assay in BS-C-1 cells and by analyzing vaccinia virus mRNA expression using real-time RT-PCR in keratinocytes and BS-C-1 cells.</li><li>Expression of over 20,000 genes will be evaluated by GeneChip microarrays in non-lesional skin, and PBMCs stimulated with vaccinia virus. Real-time RT-PCR of skin and PBMC (as well as PBMC subpopulations) will be used to confirm gene alterations found in GeneChip microarrays. GeneChip microarray data will be confirmed using Superarrays. Flow cytometric analysis of whole PBMC and mononuclear subsets treated with fluorescently labeled vaccinia virus will be used to assess individual mononuclear cells taking up vaccinia virus.</li><li>Ability of structural analogues of CSAs to kill purified vaccinia virus as well as keratinocytes infected with vaccinia virus in vitro.</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "The hypothesis being tested is that patients with active or quiescent AD, compared to psoriatics, asthmatics, or normal controls, have a defective innate immune response to vaccinia virus. This defect in host immune response may predispose patients to EV or EH. We propose that this is due, in part, to down regulation of AMPs, other antiviral molecules, or epidermal differentiation proteins resulting from increased skin Th2 cytokine expression and other as yet unidentified genes in AD. The overall goal of this protocol is to examine vaccinia virus replication in AD skin vs. the skin of other control conditions (psoriatics, asthmatics, and normal controls), as well as the generation of AMPs, other antiviral molecules, and epidermal differentiation proteins in response to smallpox vaccine (vaccinia) in patients with active or quiescent AD as compared to psoriatics, asthmatics, and normal controls. Identification of key antiviral molecules will provide the rationale for development of synthetic molecules with similar structural homology that can be optimized for treatment of disseminated viral infections such as EV or EH.",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "N/A\r",
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "  70.00",
+    "minimum_age": "    .00",
+    "objectives": "Primary Objectives:<br/><ol><li>To compare the levels of vaccinia virus gene expression in vaccinia stimulated non-lesional skin of normal controls, psoriatics, asthmatics (without a history of AD), AD patients with active and quiescent disease by real-time reverse transcriptase-polymerase chain reaction (RT-PCR).</li><li>To determine whether vaccinia virus increases expression of cytokines, AMPs, other antiviral molecules with antimicrobial activity, or epidermal differentiation proteins, as measured by real-time RT-PCR and immunohistochemical staining, in biopsies from non-lesional skin of normal patients, psoriatics, and asthmatics (without a history of AD) compared with AD patients with active and quiescent disease.</li><li>To determine whether the cytokine milieu in AD skin modulates the innate immune response (i.e. cytokines, AMPs, epidermal differentiation complex, and other molecules with antimicrobial activity or skin barrier function) by examining:</li><ul><li>The effect of Th1 (Tumor necrosis factor-&alpha; [TNF-&alpha;] and Interferon-gamma [IFN-&gamma;]) and Th2 (Interleukin-4 [IL-4] and Interleukin-13 [IL-13]) cytokines in vitro on the protein and gene expression of AMPs, other antiviral molecules, or epidermal differentiation proteins in vaccinia stimulated keratinocytes.</li><li>The effect of IL-4 and/or, IL-13, in vitro on the protein and gene expression of cytokines, AMPs, other antiviral molecules, or epidermal differentiation proteins in vaccinia-stimulated skin explants from normal donors.</li><li>The effect of anti-IL-4 and/or anti-IL-13 ex vivo on the protein and gene expression of cytokines, AMPs, other antiviral molecules, or epidermal differentiation proteins in vaccinia-stimulated skin explants from AD and ADEH patients.</li></ul><li>To evaluate whether AMP or other antimicrobial molecules exhibit antiviral activity against purified vaccinia virus and inhibit viral replication in vaccinia-infected keratinocytes.</li><li>To define divergent patterns of gene activation in skin explants and peripheral blood mononuclear cells PBMC of AD vs. ADEH vs. psoriatics vs. normal controls following activation with vaccinia virus or sham treatment with culture medium used to grow virus. These experiments will utilize GeneChip microarrays to analyze ribonucleic acid (RNA) from the various skin explants and PBMC, focusing on genes involved in signaling pathways, host defense against microbial invasion, skin inflammation, and immune activation.</li></ol>Secondary Objectives:<br/><ol><li>To evaluate whether vaccinia virus induces AMPs, other antiviral molecules, and epidermal differentiation proteins in non-lesional skin from patients with a history of eczema herpeticum (EH) as compared to AD patients without a history of EH as measured by real-time RT-PCR and immunohistochemical staining. Data will be analyzed in conjunction with Aims 1 and 2 to allow for comparisons with other patient groups.</li><li>To optimize the antiviral properties of cationic steroid antibodies (CSAs). In particular:</li><ul type=circle><li>To determine the optimal balance between hydrophobic and cationic character for antiviral properties while limiting general cytotoxicity using purified virus and keratinocytes infected with vaccinia virus.</li><li>To determine the abilities of zwitterionic CSAs to kill purified viruses and inhibit viral replication in keratinocytes infected with vaccinia virus while limiting general cytotoxicity.</li></ul></ol>",
+    "official_title": "Role of Antimicrobial Peptides in Host Defense Against Vaccinia Virus  ",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 311,
+    "workspace_id": 1089,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM269",
+            "description": "Atopic dermatitis patients. ",
+            "name": "AD+ (psoriasis-, EH-, asthma-)"
+        },
+        {
+            "arm_accession": "ARM270",
+            "description": "Atopic dermatitis patients  who have not had active disease for more than 1 year.",
+            "name": "AD+ non-active"
+        },
+        {
+            "arm_accession": "ARM271",
+            "description": "Nonatopic patients with psoriasis.",
+            "name": "Psoriasis+ (AD-)"
+        },
+        {
+            "arm_accession": "ARM272",
+            "description": "Nonatopic patients with  asthma . ",
+            "name": "Asthma+ (AD-)"
+        },
+        {
+            "arm_accession": "ARM273",
+            "description": "Atopic dermatitis patients with eczema herpeticum.",
+            "name": "AD+ EH+"
+        },
+        {
+            "arm_accession": "ARM274",
+            "description": "Nonatopic healthy control subjects.",
+            "name": "Healthy controls"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Donald",
+            "last_name": "Leung",
+            "organization": "National Jewish Health",
+            "role_in_study": "Principal Investigator",
+            "site_name": "National Jewish Health\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Vaccinia virus-specific molecular signature in atopic dermatitis skin.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Jan",
+            "year": "2010",
+            "doi": "10.1016/j.jaci.2009.10.024",
+            "pubmed_id": "20109744"
+        },
+        {
+            "title": "The signal transducer and activator of transcription 6 gene (STAT6) increases the propensity of patients with atopic dermatitis toward disseminated viral skin infections.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Nov",
+            "year": "2011",
+            "doi": "10.1016/j.jaci.2011.06.003",
+            "pubmed_id": "21762972"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Atopic Dermatitis & Vaccinia Network (ADVN)",
+            "contract_name": "Atopic Dermatitis and Vaccinia Network (ADVN) Clinical Studies Consort-26629c"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 31
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 86
+            },
+            {
+                "race": "White",
+                "count": 174
+            }
+        ],
+        "gender": [
+            {
+                "Female": 176
+            },
+            {
+                "Male": 116
+            }
+        ]
+    }
+}

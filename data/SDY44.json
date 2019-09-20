@@ -1,0 +1,121 @@
+{
+    "study_accession": "SDY44",
+    "actual_completion_date": null,
+    "actual_enrollment": 8,
+    "actual_start_date": null,
+    "age_unit": "Months",
+    "brief_description": "Virus replication and pulmonary disease pathogenesis in ferrets following intranasal infection with H1N1",
+    "brief_title": "Comparative Pathology in Ferrets Infected with H1N1 Influenza A Viruses Isolated from Different Hosts",
+    "clinical_trial": "N",
+    "condition_studied": "Replication and pathogenesis associated with H5N1, H5N2 and H5N3 low-pathogenic avian influenza virus",
+    "dcl_id": 2,
+    "description": "Virus replication and pulmonary disease pathogenesis in ferrets following intranasal infection with a pandemic influenza virus strain (A/California/4/09 [CA09]), a human seasonal influenza H1N1 virus isolate (A/New Caledonia/20/99 [Ncal99]), a classical swine influenza H1N1 virus isolate (A/Swine/Iowa/15/30[Sw30]), or an avian H1N1 virus isolate (A/Mallard/MN/A108-2355/08 [Mal08]) were compared.",
+    "doi": "10.21430/M30ZXXDZLP",
+    "endpoints": "virus replication, induction of a serological response, and disease pathogenesis, hemagglutinin and NAI assay of the isolates were determined",
+    "gender_included": "Male",
+    "hypothesis": "Comparing different H1N1 isolates infection in ferrets",
+    "initial_data_release_date": "2012-03-21",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "H1N1\r",
+    "latest_data_release_date": "2012-03-21",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "   3.00",
+    "minimum_age": "   3.00",
+    "objectives": "Virus replication and pulmonary disease pathogenesis in ferrets following intranasal infection with a pandemic influenza virus strain (A/California/4/09 [CA09]), a human seasonal influenza H1N1 virus isolate (A/New Caledonia/20/99 [Ncal99]), a classical swine influenza H1N1 virus isolate (A/Swine/Iowa/15/30[Sw30]), or an avian H1N1 virus isolate (A/Mallard/MN/A108-2355/08 [Mal08]) were compared.",
+    "official_title": "Comparative Pathology in Ferrets Infected with H1N1 Influenza A Viruses Isolated from Different Hosts",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 64,
+    "workspace_id": 2149,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM390",
+            "description": "CA09 high infection dose",
+            "name": "CA09_high_infected_Ferret"
+        },
+        {
+            "arm_accession": "ARM391",
+            "description": "CA09 low infection dose",
+            "name": "CA09_low_infected_Ferret"
+        },
+        {
+            "arm_accession": "ARM392",
+            "description": "Ncal99 high infection dose",
+            "name": "Ncal99_high_infected_Ferret"
+        },
+        {
+            "arm_accession": "ARM393",
+            "description": "Ncal99 low infection dose",
+            "name": "Ncal99_low_infected_Ferret"
+        },
+        {
+            "arm_accession": "ARM394",
+            "description": "Sw30 high infection dose",
+            "name": "Sw30_high_infected_Ferret"
+        },
+        {
+            "arm_accession": "ARM395",
+            "description": "Sw30 low infection dose",
+            "name": "Sw30_low_infected_Ferret"
+        },
+        {
+            "arm_accession": "ARM396",
+            "description": "Mal08 high infection dose",
+            "name": "Mal08_high_infected_Ferret"
+        },
+        {
+            "arm_accession": "ARM397",
+            "description": "Mal08 low infection dose",
+            "name": "Mal08_low_infected_Ferret"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Ralph",
+            "last_name": "Tripp",
+            "organization": "College of Veterinary Medicine, University of Georgia",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\"College of Veterinary Medicine, University of Georgia\""
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Comparative pathology in ferrets infected with H1N1 influenza A viruses isolated from different hosts.",
+            "journal": "J Virol.",
+            "month": "Aug",
+            "year": "2011",
+            "doi": "10.1128/JVI.00512-11. Epub 2011 May 18.",
+            "pubmed_id": "21593156"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "Influenza Pathogenesis & Immunology Research Center (IPIRC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 8
+        },
+        {
+            "measurement_technique": "Microscopy",
+            "number_of_expsamples": 140
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 24
+        },
+        {
+            "measurement_technique": "TCID50",
+            "number_of_expsamples": 34
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

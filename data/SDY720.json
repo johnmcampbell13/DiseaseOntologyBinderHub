@@ -1,0 +1,115 @@
+{
+    "study_accession": "SDY720",
+    "actual_completion_date": null,
+    "actual_enrollment": 61,
+    "actual_start_date": "2011-01-01",
+    "age_unit": "Years",
+    "brief_description": "Aging leads to dysregulation of multiple components of the immune system that result in increased susceptibility to infections and poor response to vaccines in the aging population. The dysfunctions of adaptive B and T cells are well documented but the effect of aging on innate immunity remains incompletely understood. Using a heterogeneous population of peripheral blood mononuclear cells (PBMCs), we first undertook transcriptional profiling and found that PBMCs isolated from old individuals (>= 65 yrs) exhibited a delayed and altered response to stimulation with TLR4, TLR7/8, and RIG-I agonists compared to cells obtained from adults (<= 40 yrs). This delayed response to innate immune agonists resulted in the reduced production of pro-inflammatory and antiviral cytokines and chemokines including TNFa, IL-6, IL-1b, IFNg, IFNa, CCL2 and CCL7. While the major monocyte and dendritic cell subsets did not change numerically with aging, activation of specific cell types was altered. PBMCs from old subjects also had a lower frequency of CD40+ monocytes, impaired up-regulation of PD-L1 on monocytes and T cells and increased expression of PD-L2 and B7-H4 on B cells. The defective immune response to innate agonists adversely affected adaptive immunity as TLR-stimulated PBMCs (minus CD3 T cells) from old subjects elicited significantly lower levels of adult T cell proliferation than those from adult subjects in an allogeneic mixed lymphocyte reaction (MLR). Collectively, these age-associated changes in cytokine, chemokine and interferon production, as well as co-stimulatory protein expression could contribute to the blunted memory B and T cell immune responses to vaccines and infections.",
+    "brief_title": "Age-related alterations in innate immune responses (See companion study SDY736)",
+    "clinical_trial": "N",
+    "condition_studied": "To evaluate the transcriptional profiles elicited by individuals innate agonists on the integrity of human PRR signaling, PBMCs were isolated from healthy non-frail adults and old donors (n=8/group).  Cells were stimulated for 6 and 24 hours (h) with LPS (TLR4), CLO97 (TLR7/8), poly I:C complexed with Lyovec (MDA-5/RIGI), or 5-pppRNA complexed with Lyovec (RIG-I) and the scope of PRR responses to innate agonist stimulation was evaluated by microarray analysis using Illumina BeadChips.",
+    "dcl_id": 2,
+    "description": "Aging leads to dysregulation of multiple components of the immune system that result in increased susceptibility to infections and poor response to vaccines in the aging population. The dysfunctions of adaptive B and T cells are well documented but the effect of aging on innate immunity remains incompletely understood. Using a heterogeneous population of peripheral blood mononuclear cells (PBMCs), we first undertook transcriptional profiling and found that PBMCs isolated from old individuals (>= 65 yrs) exhibited a delayed and altered response to stimulation with TLR4, TLR7/8, and RIG-I agonists compared to cells obtained from adults (<= 40 yrs). This delayed response to innate immune agonists resulted in the reduced production of pro-inflammatory and antiviral cytokines and chemokines including TNFa, IL-6, IL-1b, IFNg, IFNa, CCL2 and CCL7. While the major monocyte and dendritic cell subsets did not change numerically with aging, activation of specific cell types was altered. PBMCs from old subjects also had a lower frequency of CD40+ monocytes, impaired up-regulation of PD-L1 on monocytes and T cells and increased expression of PD-L2 and B7-H4 on B cells. The defective immune response to innate agonists adversely affected adaptive immunity as TLR-stimulated PBMCs (minus CD3 T cells) from old subjects elicited significantly lower levels of adult T cell proliferation than those from adult subjects in an allogeneic mixed lymphocyte reaction (MLR). Collectively, these age-associated changes in cytokine, chemokine and interferon production, as well as co-stimulatory protein expression could contribute to the blunted memory B and T cell immune responses to vaccines and infections.",
+    "doi": "10.21430/M3FZ2BAZSA",
+    "endpoints": "By using PBMCs, we assessed the impact of aging on PRR signaling in heterogeneous population simulating the intracellular and intercellular interactions under physiological conditions. Beside treatment of PBMCs with specific PRRs agonists, we enumerated DC and monocyte subsets, examined surface expression of co-stimulatory molecules by flow cytometry, analyzed transcriptome data and measured cytokine and chemokine production in cultured supernatants.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Age-related dysfunction in PRRs responses could contribute to the delayed immune responses observed in aging population.",
+    "initial_data_release_date": "2015-12-14",
+    "initial_data_release_version": "DR16",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  86.58",
+    "minimum_age": "  21.36",
+    "objectives": "Apply a comprehensive approach to evaluate the effects of a broad range of innate immune agonists on PBMCs isolated from healthy non-frail adults (21 to 40 yrs) and old (65 to 93 yrs) subjects.",
+    "official_title": "Global analyses revealed age-related alterations in innate immune responses after stimulation of pathogen recognition receptors",
+    "sponsoring_organization": "NIA, NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3366,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3029",
+            "description": "21 to 40 years",
+            "name": "Adult"
+        },
+        {
+            "arm_accession": "ARM3030",
+            "description": "65 to 93 years",
+            "name": "Old"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Elias",
+            "last_name": "Haddad",
+            "organization": "Drexel University College of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Division of Infectious Diseases and HIV Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Global analyses revealed age-related alterations in innate immune responses after stimulation of pathogen recognition receptors.",
+            "journal": "Aging Cell.",
+            "month": "Jun",
+            "year": "2015",
+            "doi": "10.1111/acel.12320. Epub 2015 Feb 27.",
+            "pubmed_id": "25728020"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Immunological basis of age-related vulnerability in biodefense and emerging infections SP2 UAz"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 96
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 408
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 447
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 192
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 3
+            },
+            {
+                "race": "Other",
+                "count": 2
+            },
+            {
+                "race": "Unknown",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 53
+            }
+        ],
+        "gender": [
+            {
+                "Female": 36
+            },
+            {
+                "Male": 25
+            }
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "study_accession": "SDY400",
+    "actual_completion_date": null,
+    "actual_enrollment": 98,
+    "actual_start_date": "2012-01-01",
+    "age_unit": "Years",
+    "brief_description": "Project 1: Immunologic and genomic signatures of influenza vaccine response  - year3 2012",
+    "brief_title": "Immunologic and genomic signatures of influenza vaccine response - 2012 (see companion studies SDY63, SDY404, SDY520)",
+    "clinical_trial": "N",
+    "condition_studied": "Immunologic and genomic signatures of influenza vaccine response",
+    "dcl_id": 2,
+    "description": "Project 1: Immunologic and genomic signatures of influenza vaccine response  - year3 2012",
+    "doi": "10.21430/M3U7GDOFIT",
+    "endpoints": "B cells (ASC, Memory), T cells (Ag specific CD8 and CD4, memory T cell subsets, Tregs, exhausted/senescent), in vitro activation of flu-specific T cells, Monocyte/DC stim by flu or through TLRs, innate cell TLR expression, Luminex assays of cytokines post vaccine, Illumina HT12 bead chip and Nanostring.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Define signatures for immune responsiveness by functional systems immunology",
+    "initial_data_release_date": "2016-02-05",
+    "initial_data_release_version": "DR17",
+    "intervention_agent": "Trivalent inactivated influenza",
+    "latest_data_release_date": "2016-02-05",
+    "latest_data_release_version": "DR17",
+    "maximum_age": "  90.00",
+    "minimum_age": "  21.00",
+    "objectives": "Identification of immunologic, gene expression, and genetic loci signatures of vaccine response, and effects of aging and functional status on these signatures.",
+    "official_title": "Immunologic and genomic signatures of influenza vaccine response - 2012 (see companion studies SDY63, SDY404, SDY520)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2668,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2350",
+            "description": "Young adults 21-30 years old",
+            "name": "Young adults 21-30 years old"
+        },
+        {
+            "arm_accession": "ARM2351",
+            "description": "Older adults >= 65 years old",
+            "name": "Older adults >= 65 years old"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Hafler",
+            "organization": "Yale",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Yale"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Defining signatures for immune responsiveness by functional systems immunology HIPC1"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 187
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 356
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 6
+            },
+            {
+                "race": "Black or African American",
+                "count": 10
+            },
+            {
+                "race": "Other",
+                "count": 3
+            },
+            {
+                "race": "Unknown",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 76
+            }
+        ],
+        "gender": [
+            {
+                "Female": 57
+            },
+            {
+                "Male": 41
+            }
+        ]
+    }
+}

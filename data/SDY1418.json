@@ -1,0 +1,112 @@
+{
+    "study_accession": "SDY1418",
+    "actual_completion_date": "2017-12-04",
+    "actual_enrollment": 31,
+    "actual_start_date": "2016-01-24",
+    "age_unit": "Years",
+    "brief_description": "Biological mechanisms produce immunologic, metabolomic, proteomic, genomic and microbiomic adaptations during the course of pregnancy.",
+    "brief_title": "Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy",
+    "clinical_trial": "N",
+    "condition_studied": "Pregnancy",
+    "dcl_id": 2,
+    "description": "Biological mechanisms produce immunologic, metabolomic, proteomic, genomic and microbiomic adaptations during the course of pregnancy.",
+    "doi": "10.21430/M302L1ULGW",
+    "endpoints": "immunologic, metabolomic, proteomic, genomic and microbiomic",
+    "gender_included": "Female",
+    "hypothesis": "Modeling the chronology of these adaptations during full-term pregnancy provides the frameworks for future studies examining deviations implicated in pregnancy-related pathologies including preterm birth and preeclampsia.",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  43.00",
+    "minimum_age": "  25.00",
+    "objectives": "Modeling the chronology of these adaptations during full-term pregnancy provides the frameworks for future studies examining deviations implicated in pregnancy-related pathologies including preterm birth and preeclampsia.",
+    "official_title": "Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 17,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4731",
+            "description": "Pregnant women",
+            "name": "Pregnant women"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Martin",
+            "last_name": "Angst",
+            "organization": "Stanford University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University School of Medicine"
+        },
+        {
+            "first_name": "Brice",
+            "last_name": "Gaudilliere",
+            "organization": "Stanford University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University School of Medicine"
+        },
+        {
+            "first_name": "Nima",
+            "last_name": "Aghaeepour",
+            "organization": "Stanford University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy.",
+            "journal": "Bioinformatics.",
+            "month": "Jan",
+            "year": "2019",
+            "doi": "10.1093/bioinformatics/bty537.",
+            "pubmed_id": "30561547"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "Not Specified",
+                "count": 2
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 23
+            }
+        ],
+        "gender": [
+            {
+                "Female": 31
+            }
+        ]
+    }
+}

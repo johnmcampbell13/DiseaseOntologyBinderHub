@@ -1,0 +1,92 @@
+{
+    "study_accession": "SDY1264",
+    "actual_completion_date": "2007-12-28",
+    "actual_enrollment": 25,
+    "actual_start_date": "2006-01-01",
+    "age_unit": "Years",
+    "brief_description": "A major challenge in vaccinology is to prospectively determine vaccine efficacy. Here we have used a systems biology approach to identify early gene signatures that predicted immune responses in humans vaccinated with yellow fever vaccine YF-17D. Vaccination induced genes that regulate virus innate sensing and type I interferon production. Computational analyses identified a gene signature, including complement protein C1qB and eukaryotic translation initiation factor 2 alpha kinase 4, an orchestrator of the integrated stress response that correlated with and predicted YF-17D CD8+ T cell responses with up to 90% accuracy in an independent, blinded trial. A distinct signature, including B cell growth factor TNFRS17, predicted the neutralizing antibody response with up to 100% accuracy. These data highlight the utility of systems biology approaches in predicting vaccine efficacy.",
+    "brief_title": "Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans",
+    "clinical_trial": "N",
+    "condition_studied": "Yellow fever",
+    "dcl_id": 2,
+    "description": "A major challenge in vaccinology is to prospectively determine vaccine efficacy. Here we have used a systems biology approach to identify early gene signatures that predicted immune responses in humans vaccinated with yellow fever vaccine YF-17D. Vaccination induced genes that regulate virus innate sensing and type I interferon production. Computational analyses identified a gene signature, including complement protein C1qB and eukaryotic translation initiation factor 2 alpha kinase 4 an orchestrator of the integrated stress response that correlated with and predicted YF-17D CD8+ T cell responses with up to 90% accuracy in an independent, blinded trial. A distinct signature, including B cell growth factor TNFRS17, predicted the neutralizing antibody response with up to 100% accuracy. These data highlight the utility of systems biology approaches in predicting vaccine efficacy.",
+    "doi": "10.21430/M3XTBR8F18",
+    "endpoints": "1. Gene expression measurements of participants following immunization with YF-17D",
+    "gender_included": "Not Specified",
+    "hypothesis": "It is possible to predict immunogenecity of a vaccine based on transcriptional profiling of peripheral blood post-immunization.",
+    "initial_data_release_date": "2018-07-06",
+    "initial_data_release_version": "DR27",
+    "intervention_agent": "YF-17D vaccine",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  45.00",
+    "minimum_age": "  18.00",
+    "objectives": "The goal of this study is to use a systems biology approach to identify early gene signatures that predict immune responses in humans vaccinated with yellow fever vaccine YF-17D.",
+    "official_title": "Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans",
+    "sponsoring_organization": "NIH",
+    "target_enrollment": 25,
+    "workspace_id": 6133,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4368",
+            "description": "Immunized with YF-17D, blood collected on D0,D1,D3,D7,D21",
+            "name": "Trial1"
+        },
+        {
+            "arm_accession": "ARM4369",
+            "description": "Immunized with YF-17D, blood collected on D0,D3,D7",
+            "name": "Trial2"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Bali",
+            "last_name": "Pulendran",
+            "organization": "Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory Hope Clinic"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans.",
+            "journal": "Nat Immunol.",
+            "month": "Jan",
+            "year": "2009",
+            "doi": "10.1038/ni.1688. Epub 2008 Nov 23.",
+            "pubmed_id": "19029902"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Other Programs",
+            "contract_name": "Sanofi Pasteur"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 87
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 25
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 25
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 25
+            }
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "study_accession": "SDY354",
+    "actual_completion_date": null,
+    "actual_enrollment": 292,
+    "actual_start_date": "1999-11-01",
+    "age_unit": "Years",
+    "brief_description": "Kidney transplantation is often successful. However, despite aggressive anti-rejection drug therapy, some patients will reject their new kidney. This study is designed to test two anti-rejection approaches. Two medications in this study are currently used in children, but there is no information regarding which drug is safer or more effective. Survival rates in renal transplantation are unacceptably low. Therefore, there is a need for an improved post-transplant treatment, such as the induction therapy used in this study.",
+    "brief_title": "A Study To Test An Anti-Rejection Therapy After Kidney Transplantation (IN01/OLN-359)",
+    "clinical_trial": "Y",
+    "condition_studied": "Kidney Transplantation",
+    "dcl_id": 2,
+    "description": "Renal transplantation is recognized as the treatment of choice for children with chronic renal failure. However, patient and graft survival rates in young children are unacceptably low. In preliminary studies, OKT3 (a monoclonal antibody) induction therapy received post transplant has been more successful than standard immunosuppression alone in improving graft survival. This study is designed to assess the impact of induction therapy on graft survival in pediatric kidney transplant patients. Patients are assigned to OKT3 induction or no induction in a 1:1 ratio. Randomization to oral cyclosporine of either Sandimmune or Neoral is also done in a 1:1 ratio. Group 1 receives OKT3 intraoperatively followed by Neoral. Group 2 receives OKT3 intraoperatively followed by Sandimmune. OKT3 is administered at 2.5 mg (if weight less than 30 kg) or 5 mg (if weight above 30 kg) per day for a maximum of 14 days. Group 3 receives IV cyclosporine followed by Neoral. Group 4 receives IV cyclosporine followed by Sandimmune. Oral cyclosporine is administered in a masked preparation. The dose for Sandimmune and Neoral is the same; patients 6 years of age and older begin at a dose of 15 mg/kg/day and patients under 6 years of age receive 500 mg/m2/day. Patients will receive concomitant medications including steroids (IV and po), Nifedipine, anti-CMV therapy, Bactrim, Azathioprine or Mycophenolate Mofetil. Kidney function, incidence of viral infection, graft survival, and incidence of malignancy will be measured to assess the role of OKT3 induction and the role of rejection in graft failure. Graft function will be evaluated at 1-, 2-, and 4-year intervals.",
+    "doi": "10.21430/M3APBCA91H",
+    "endpoints": "To determine one-year graft function, as measured by graft survival and serum creatinine of children undregoing OKT3 induction versus no induction. To compare the efficacy of Sandimmune and Neoral with respect to graft function. Two and four-year graft functions. Safety with respect to viral infections and malignancies in children undergoing a renal transplant. Frequency and severity of rejection episodes. Time to first rejection. Length and frequency of hospitalization. Nature of acute cellular rejection at a molecular level. Nature of heightened immune respons of younger children by studying gene expression in surveillance biopsies. Correlate intragraft events during rejection with cytokine profile in the peripheral blood.",
+    "gender_included": "Female, Male, Unknown",
+    "hypothesis": "We hypothesize that the inferior outcome might be due to: (1) lack of adequate immunosuppression; (2) therapy resistant increased immune reactivity; and (3) a delay in the clinical diagnosis of rejection (and a resultant delay in the initiation of antirejection therapy). This investigation is designed to test each of these hypotheses by conducting a randomized controlled clinical trial of 500 pediatric recipients and by molecular characterization of intragraft events.",
+    "initial_data_release_date": "2014-08-07",
+    "initial_data_release_version": "DR11",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-08-07",
+    "latest_data_release_version": "DR11",
+    "maximum_age": "  18.00",
+    "minimum_age": "    .00",
+    "objectives": "The overall objective of this study is to improve patient and graft survival of pediatric recipients of renal allografts. Despite similar treatment protocols, patient and graft survival rates of children are poorer than that observed in adults, which is related to an inability to reverse rejection episodes.",
+    "official_title": "IN01 Controlled Trial of Induction Therapy in Renal Transplantation",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 292,
+    "workspace_id": 3709,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2216",
+            "description": "Early termination",
+            "name": "Early termination"
+        },
+        {
+            "arm_accession": "ARM2217",
+            "description": "Immunosuppressant therapy with OKT3 and with cyclosporine in the form of Neoral",
+            "name": "Immunosuppressant therapy with OKT3 and with cyclosporine in the form of Neoral"
+        },
+        {
+            "arm_accession": "ARM2218",
+            "description": "Immunosuppressant therapy with OKT3 and with cyclosporine in the form of Sandimmmune",
+            "name": "Immunosuppressant therapy with OKT3 and with cyclosporine in the form of Sandimmmune"
+        },
+        {
+            "arm_accession": "ARM2219",
+            "description": "Immunosuppressant therapy without OKT3 but with cyclosporine in the form of Neoral",
+            "name": "Immunosuppressant therapy without OKT3 but with cyclosporine in the form of Neoral"
+        },
+        {
+            "arm_accession": "ARM2220",
+            "description": "Immunosuppressant therapy without OKT3 but with cyclosporine in the form of Sandimmmune",
+            "name": "Immunosuppressant therapy without OKT3 but with cyclosporine in the form of Sandimmmune"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Ikle",
+            "organization": "PPD",
+            "role_in_study": "Principal Investigator",
+            "site_name": "-"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Cooperative Clinical Trials in Pediatric Transplantation (CCTPT)",
+            "contract_name": "Data Coordinating Center for Cooperative Clinical Trials in Pediatric Transplantation"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 5
+            },
+            {
+                "race": "Black or African American",
+                "count": 47
+            },
+            {
+                "race": "Other",
+                "count": 3
+            },
+            {
+                "race": "Unknown",
+                "count": 76
+            },
+            {
+                "race": "White",
+                "count": 160
+            }
+        ],
+        "gender": [
+            {
+                "Female": 113
+            },
+            {
+                "Male": 178
+            },
+            {
+                "Unknown": 1
+            }
+        ]
+    }
+}

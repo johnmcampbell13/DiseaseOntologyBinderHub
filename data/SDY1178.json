@@ -1,0 +1,254 @@
+{
+    "study_accession": "SDY1178",
+    "actual_completion_date": "2014-05-30",
+    "actual_enrollment": 48,
+    "actual_start_date": "2006-10-01",
+    "age_unit": "Years",
+    "brief_description": "CIT-07: The purpose of this study is to determine the safety and effectiveness of islet transplantation, combined with immunosuppressive medications, for treating type 1 diabetes in individuals experiencing hypoglycemia unawareness and severe hypoglycemic episodes. CIT-08: The purpose of this protocol is to collect long-term follow-up information on the safety and efficacy of islet transplantation in CIT subjects after their completion in their CIT parent study.",
+    "brief_title": "Islet Transplantation in Type 1 Diabetes (CIT-07) and Extended Follow Up after Islet Transplantation in Type 1 Diabetes (CIT-08)",
+    "clinical_trial": "Y",
+    "condition_studied": "Diabetes Mellitus, Type 1",
+    "dcl_id": 2,
+    "description": "The CIT consortium conducted a total of 9 studies across North America (CIT02 through CIT08) and the Nordic region (CIT01). CIT08 was a long-term follow-up study for interested participants at the North American sites. The target population is individuals with type 1 diabetes, normal kidney function, and intractable hypoglycemia. All studies treated participants with up to 3 separate infusions of islets. Subjects in CIT07, a single arm Phase 3 license-enabling study, received induction and maintenance immunosuppression in an open-label fashion consisting of rabbit anti-thymocyte globulin (ATG; basiliximab instead of ATG for the 2nd and 3rd transplants, if applicable), etanercept, sirolimus and low-dose tacrolimus.",
+    "doi": "10.21430/M3P7Q1ZRXJ",
+    "endpoints": "CIT-07: The primary endpoint for this study is the proportion of subjects with an HbA1c <7.0% at Day 365 AND free of severe hypoglycemic events from Day 28 to Day 365 inclusive following the first islet transplant, with the day of transplant designated Day 0. The key secondary endpoints are the following: 1) The proportion of subjects with an HbA1c <7.0% at day 730 AND free of severe hypoglycemic events from Day 28 to Day 730, inclusive, after the first islet transplant. 2) The proportion of subjects with HbA1c <= 6.5% at one year after the first islet transplant AND free of severe hypoglycemic events from Day 28 to Day 365 after the first islet transplant. 3) The proportion of subjects with HbA1c <= 6.5% at two years after the first islet transplant AND free of severe hypoglycemic events from Day 28 to Day 730 after the first islet transplant. 4) The proportion of subjects free of severe hypoglycemic events from Day 28 to Day 365 after the first islet transplant. 5) The proportion of subjects free of severe hypoglycemic events from Day 28 to Day 730 after the first islet transplant. 6) The proportion of subjects with HbA1c <7.0% at one year after the first islet transplant. 7) The proportion of subjects with HbA1c <7.0% at two years after the first islet transplant. 8) The proportion of subjects with HbA1c <=6.5% at one year after the first islet transplant. 9) The proportion of subjects with HbA1c <=6.5% at two years after the first islet transplant. 10) The proportion of insulin-independent subjects at one year after the first islet transplant. 11) The proportion of insulin-independent subjects at two years after the first islet transplant. CIT-08: The primary endpoint is duration of sustained islet allograft function as determined by evidence from MMTT of c-peptide production at each anniversary of the final transplant. A c-peptide level greater than or equal to 0.3 ng/mL at 0, 60, or 90 minutes will be considered evidence of islet allograft function. The secondary endpoints include the following: 1) Serum creatinine and calculated eGFR at each annual study visit. 2) Incidence of serious adverse events during the 12-month period preceding each annual study visit. 3) Insulin requirements during a one-week period preceding each annual study visit. 4) Incidence of severe hypoglycemic events during the 12-month period preceding each annual study visit. 5) HbA1c levels at each annual study visit. 6) All causes of mortality. 6) Presence of alloantibody after graft failure, in the absence of immunosuppression.",
+    "gender_included": "Female, Male",
+    "hypothesis": "CIT-07 and CIT-08: Transplantation of pancreatic islets is a safe and effective treatment, when combined with an immunosuppressive medication regimen, for treating type 1 diabetes in individuals experiencing hypoglycemia unawareness and severe hypoglycemic episodes.",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": "Islet Cell Transplantation",
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "  65.50",
+    "minimum_age": "  26.20",
+    "objectives": "CIT-07: The primary objective is to demonstrate, in a multicenter, single-arm study, the safety and efficacy of islet transplantation for the treatment of T1D in subjects with hypoglycemia unawareness and a history of severe hypoglycemic episodes. The secondary objective is to establish islet release criteria that accurately characterize the islet product and are predictive of clinical transplant outcomes. CIT-08: The primary objective is to provide extended follow-up for safety and efficacy and to support continued islet graft function to participants previously enrolled in CIT02, CIT03, CIT04, CIT05, CIT06, or CIT07.",
+    "official_title": "Islet Transplantation in Type 1 Diabetes (CIT-07) and Extended Follow Up after Islet Transplantation in Type 1 Diabetes (CIT-08)",
+    "sponsoring_organization": "The National Institute of Allergy and Infectious Diseases (NIAID) and The National Institute of Diabetes & Digestive & Kidney Diseases (NIDDK)",
+    "target_enrollment": 48,
+    "workspace_id": 6067,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4114",
+            "description": "Participants will receive up to three separate islet transplants and a regimen of immunosuppressive medications consisting of antithymocyte globulin (ATG), sirolimus, and low-dose tacrolimus.",
+            "name": "Islet Transplantation"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Bernhard",
+            "last_name": "Hering",
+            "organization": "University of Minnesota",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Minnesota"
+        },
+        {
+            "first_name": "Xunrong",
+            "last_name": "Luo",
+            "organization": "Northwestern University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Northwestern University"
+        },
+        {
+            "first_name": "Olle",
+            "last_name": "Korsgren",
+            "organization": "Uppsala Univ. Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Uppsala Univ. Hospital"
+        },
+        {
+            "first_name": "Nicole",
+            "last_name": "Turgeon",
+            "organization": "Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory University"
+        },
+        {
+            "first_name": "Ali",
+            "last_name": "Naji",
+            "organization": "University of Pennsylvania",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Pennsylvania"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Posselt",
+            "organization": "University of California, San Francisco",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of California, San Francisco"
+        },
+        {
+            "first_name": "Camillo",
+            "last_name": "Ricordi",
+            "organization": "University of Miami",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Miami"
+        },
+        {
+            "first_name": "James",
+            "last_name": "Shapiro",
+            "organization": "University of Alberta",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Alberta"
+        },
+        {
+            "first_name": "Dixon",
+            "last_name": "Kaufman",
+            "organization": "University of Wisconsin",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Wisconsin"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Improvement in beta-cell secretory capacity after human islet transplantation according to the CIT07 protocol.",
+            "journal": "Diabetes.",
+            "month": "Aug",
+            "year": "2013",
+            "doi": "10.2337/db12-1802. Epub 2013 Apr 29.",
+            "pubmed_id": "23630300"
+        },
+        {
+            "title": "Insulin sensitivity index in type 1 diabetes and following human islet transplantation: comparison of the minimal model to euglycemic clamp measures.",
+            "journal": "Am J Physiol Endocrinol Metab.",
+            "month": "May",
+            "year": "2014",
+            "doi": "10.1152/ajpendo.00667.2013. Epub 2014 Apr 1.",
+            "pubmed_id": "24691031"
+        },
+        {
+            "title": "Restoration of Glucose Counterregulation by Islet Transplantation in Long-standing Type 1 Diabetes.",
+            "journal": "Diabetes.",
+            "month": "May",
+            "year": "2015",
+            "doi": "10.2337/db14-1620. Epub 2014 Dec 18.",
+            "pubmed_id": "25524910"
+        },
+        {
+            "title": "Consistency of quantitative scores of hypoglycemia severity and glycemic lability and comparison with continuous glucose monitoring system measures in long-standing type 1 diabetes.",
+            "journal": "Diabetes Technol Ther.",
+            "month": "Apr",
+            "year": "2015",
+            "doi": "10.1089/dia.2014.0289. Epub 2015 Jan 28.",
+            "pubmed_id": "25629445"
+        },
+        {
+            "title": "Phase 3 Trial of Transplantation of Human Islets in Type 1 Diabetes Complicated by Severe Hypoglycemia.",
+            "journal": "Diabetes Care.",
+            "month": "Jul",
+            "year": "2016",
+            "doi": "10.2337/dc15-1988. Epub 2016 Apr 18.",
+            "pubmed_id": "27208344"
+        },
+        {
+            "title": "National Institutes of Health-Sponsored Clinical Islet Transplantation Consortium Phase 3 Trial: Manufacture of a Complex Cellular Product at Eight Processing Facilities.",
+            "journal": "Diabetes.",
+            "month": "Nov",
+            "year": "2016",
+            "doi": "b 2016 Jul 27.",
+            "pubmed_id": "27465220"
+        },
+        {
+            "title": "Long-Term Improvement in Glucose Control and Counterregulation by Islet Transplantation for Type 1 Diabetes.",
+            "journal": "J Clin Endocrinol Metab.",
+            "month": "Nov",
+            "year": "2016",
+            "doi": "b 2016 Aug 29.",
+            "pubmed_id": "27571180"
+        },
+        {
+            "title": "Tissue-specific exosome biomarkers for noninvasively monitoring immunologic rejection of transplanted tissue.",
+            "journal": "J Clin Invest.",
+            "month": "Apr",
+            "year": "2017",
+            "doi": "10.1172/JCI87993. Epub 2017 Mar  20.",
+            "pubmed_id": "28319051"
+        },
+        {
+            "title": "Improved Health-Related Quality of Life in a Phase 3 Islet Transplantation Trial in Type 1 Diabetes Complicated by Severe Hypoglycemia.",
+            "journal": "Diabetes Care.",
+            "month": "May",
+            "year": "2018",
+            "doi": "10.2337/dc17-1779. Epub 2018 Mar 21.",
+            "pubmed_id": "29563196"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "ADVANCING ISLET TRANSPLANTS FOR TYPE 1 DIABETES CARE"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "B-LYMPHOCYTE IMMUNOTHERAPY IN ISLET TRANSPLANTATION"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "ISLET TRANSPLANT - COSTIMULATORY BLOCKADE WITH LEA29Y"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "CLINICAL ISLET TRANSPLANTATION: DATA COORDINATING CENTER"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "STRATEGIES TO IMPROVE LONG TERM ISLET GRAFT SURVIVAL"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "INNATE IMMUNITY IN CLINICAL ISLET TRANSPLANTATION"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "ADVANCING ISLET TRANSPLANT FOR TYPE 1 DIABETES CARE"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "CLINICAL REFINEMENT OF ISLET TRANSPLANTATION"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "CLINICAL ISLET TRANSPLANTATION AT NORTHWESTERN"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "IMMUNE TOLERANCE NETWORK"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "CLINICAL ISLET TRANSPLANTATION: CLINICAL CENTERS"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 219
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 5
+            },
+            {
+                "race": "White",
+                "count": 42
+            }
+        ],
+        "gender": [
+            {
+                "Female": 29
+            },
+            {
+                "Male": 19
+            }
+        ]
+    }
+}

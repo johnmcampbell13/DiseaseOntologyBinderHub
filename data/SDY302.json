@@ -1,0 +1,98 @@
+{
+    "study_accession": "SDY302",
+    "actual_completion_date": null,
+    "actual_enrollment": 36,
+    "actual_start_date": null,
+    "age_unit": "Days",
+    "brief_description": "The development of gastritis during Helicobacter pylori infection is dependent on an activated adaptive immune response orchestrated by T helper cells. The relative contributions of T helper 1 (Th1) and T helper 17 (Th17) subsets to gastritis and control of infection are still under investigation. Expression of IL-21, which may be produced by a number of T cell subsets, has been reported to increase during H. pylori infection. To investigate the role of IL-21 in the gastric mucosa during H. pylori infection, we combined mathematical modeling of CD4+ T cell differentiation with in vivo studies to elucidate the impact of IL-21 on H. pylori infection. Our computational modeling efforts predict that IL-21 activates the production of IFN gamma and IL17, the expression of Tbet and RORgamma t, the phosphorylation of STAT3, and suggest a potential role of IL-21 in the modulation of IL-10. To elucidate the role IL-21 in vivo, we infected IL-21 deficient mice and wild-type littermates with H. pylori strain SS1, and assessed colonization, gastric inflammation, cellular infiltration, and cytokine profiles in the gastric tissue.",
+    "brief_title": "IL-21 expression during H. pylori infection",
+    "clinical_trial": "N",
+    "condition_studied": "Role of IL-21 in immune responses to H. pylori infection",
+    "dcl_id": 2,
+    "description": "The development of gastritis during Helicobacter pylori infection is dependent on an activated adaptive immune response orchestrated by T helper (Th) cells. However, the relative contributions of the Th1 and Th17 subsets to gastritis and control of infection are still under investigation. To investigate the role of interleukin-21 (IL-21) in the gastric mucosa during H. pylori infection, we combined mathematical modeling of CD4(+) T cell differentiation with in vivo mechanistic studies. We infected IL-21-deficient and wild-type mice with H. pylori strain SS1 and assessed colonization, gastric inflammation, cellular infiltration, and cytokine profiles. Chronically H. pylori-infected IL-21-deficient mice had higher H. pylori colonization, significantly less gastritis, and reduced expression of proinflammatory cytokines and chemokines compared to these parameters in infected wild-type littermates. These in vivo data were used to calibrate an H. pylori infection-dependent, CD4(+) T cell-specific computational model, which then described the mechanism by which IL-21 activates the production of interferon gamma (IFN-g) and IL-17 during chronic H. pylori infection. The model predicted activated expression of T-bet and ROR?t and the phosphorylation of STAT3 and STAT1 and suggested a potential role of IL-21 in the modulation of IL-10. Driven by our modeling-derived predictions, we found reduced levels of CD4(+) splenocyte-specific tbx21 and rorc expression, reduced phosphorylation of STAT1 and STAT3, and an increase in CD4(+) T cell-specific IL-10 expression in H. pylori-infected IL-21-deficient mice. Our results indicate that IL-21 regulates Th1 and Th17 effector responses during chronic H. pylori infection in a STAT1- and STAT3-dependent manner, therefore playing a major role controlling H. pylori infection and gastritis. Importance: Helicobacter pylori is the dominant member of the gastric microbiota in more than 50% of the world's population. H. pylori colonization has been implicated in gastritis and gastric cancer, as infection with H. pylori is the single most common risk factor for gastric cancer. Current data suggest that, in addition to bacterial virulence factors, the magnitude and types of immune responses influence the outcome of colonization and chronic infection. This study uses a combined computational and experimental approach to investigate how IL-21, a proinflammatory T cell-derived cytokine, maintains the chronic proinflammatory T cell immune response driving chronic gastritis during H. pylori infection. This research will also provide insight into a myriad of other infectious and immune disorders in which IL-21 is increasingly recognized to play a central role. The use of IL-21-related therapies may provide treatment options for individuals chronically colonized with H. pylori as an alternative to aggressive antibiotics.",
+    "doi": "10.21430/M3HIA408ZR",
+    "endpoints": "Immunological markers modulated by IL-21, bacterial loads and gastric lesions.",
+    "gender_included": "Female, Male",
+    "hypothesis": "During chronic infection, H. pylori-infected IL-21-deficient mice have higher H. pylori colonization, significantly less gastritis, and reduced expression of proinflammatory cytokines and chemokines compared to H. pylori-infected wild-type littermates. Moreover, H. pylori infected IL-21-deficient mice had reduced levels of CD4+ T cell specific tbet and RORgamma c when compared to infected wild-type mice. Our results indicate that IL-21 contributes to the control of infection and severity of gastritis, suggesting a role for induction of gastritis in response to H. pylori through activation of both Th1 and Th17 responses.",
+    "initial_data_release_date": "2014-08-07",
+    "initial_data_release_version": "DR11",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-08-07",
+    "latest_data_release_version": "DR11",
+    "maximum_age": "  61.00",
+    "minimum_age": "   8.00",
+    "objectives": "a. Use data provided by H.S.Algood to recalibrate the CD4+ T cell model. This calibration would lead to an exact model that behaves as the data is representing.  b. Once the calibration is finished, we would like to explore which are the pathways upregulated or downregulated by the knocking-down of IL-21 and IL-23 genes.  c. The fluxes, reactions and concentrations are going to be examined.  d. Sensitivity analysis and metabolomics control analysis are going to be run to detect critical affected steps and reactions due to the inhibition of IL-21 or IL-23.  e. In this line, we could reproduce the H. pylori effect on these two genes and detect potential activated pathways in other phenotypes.  f. This collaboration is also intended to start new analysis on the IBD-infectious disease crosstalk. We can explore this via further on.",
+    "official_title": "IL-21 expression during H. pylori infection",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2108",
+            "description": "Case",
+            "name": "H. pylori PM-SS1 Infected Wild-type"
+        },
+        {
+            "arm_accession": "ARM2109",
+            "description": "Case",
+            "name": "H. pylori PMSS1 Infected IL21 null"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        },
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Systems modeling of the role of interleukin-21 in the maintenance of effector CD4+ T cell responses during chronic Helicobacter pylori infection.",
+            "journal": "MBio.",
+            "month": "Jul",
+            "year": "2014",
+            "doi": "10.1128/mBio.01243-14.",
+            "pubmed_id": "25053783"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 60
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 36
+        },
+        {
+            "measurement_technique": "Microscopy",
+            "number_of_expsamples": 36
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 36
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "study_accession": "SDY961",
+    "actual_completion_date": null,
+    "actual_enrollment": 12,
+    "actual_start_date": "2004-04-01",
+    "age_unit": "Years",
+    "brief_description": "Twelve adults will be enrolled in this study to evaluate the safety of using rituximab (Rituxan), a monoclonal antibody, for the treatment of Sjogren's syndrome. Participants will receive 2 intravenous doses of rituximab over a 2-week period and be monitored periodically for 1 year to evaluate for possible side effects and changes in the signs and symptoms and laboratory manifestations of disease. Studies are also planned to evaluate the mechanisms of the treatment effects, including changes in the properties of immune cells and the characteristics of the salivary gland tissue.",
+    "brief_title": "Use of Rituximab for Sjogren's Syndrome (ASJ01)",
+    "clinical_trial": "Y",
+    "condition_studied": "Primary Sjogren's Syndrome",
+    "dcl_id": 2,
+    "description": "This study is an open-label, one arm, Phase I study. The study intends to accrue 12 subjects with primary Sjogren's syndrome as defined by the revised European criteria proposed by the American-European Consensus Group over the course of 12 months. Eligible subjects will receive 2 infusions of rituximab at a dose of 1000 mg. The second treatment visit will be scheduled 14 days from the first infusion, within a window of 3 days. Following the treatment phase, subjects will enter a 50-week post-infusion follow-up period and receive no study medication. The sample size was chosen based on prior studies of rituximab treatment of SLE. This research protocol allows for 2 infusions of rituximab. Even if the treatment is shown to be of benefit, additional infusions of rituximab may not be given while the patient is participating in this study.",
+    "doi": "10.21430/M3G6VGUDEH",
+    "endpoints": "The primary safety endpoint is the proportion of patients who experience a Grade 3, Grade 4 or Grade 5 toxicity defined as possibly, probably, or definitely related to rituximab infusion. Secondary analyses will consider all Grade 3, Grade 4 and Grade 5 toxicities. Safety will be monitored at all subject visits and as needed per subject. The secondary biological and clinical activity endpoints include possible changes in exocrine gland function: unstimulated and stimulated salivary flow; salivary uptake and flow as measured by salivary scintigraphy; and tear flow as measured by the unanesthetized Schirmer's test and the degree of corneal staining using lissamine green. Global symptom improvement will be measured by the Short Form-36 questionnaire and patient-completed visual analogue scale for symptoms of mouth (dryness and discomfort), eye (overall ocular problems, change in ocular dryness, change in tear flow, eye discomfort, sensitivity to light, visual blurring, itching, redness, matting, sense of foreign body, and use of tear substitutes), and other exocrine gland dysfunction (dryness of the skin, vagina, and nasal passages and ability to produce mucus). Changes in immune system function will be measured including serum levels of anti-SS-A and anti-SS-B and rheumatoid factor, peripheral blood B-cell and T-cell subsets, cytokine levels, in vitro T-cell function, and IgH gene usage, character of labial salivary gland infiltrates, delayed hypersensitivity responses to recall antigens, serum levels of BLyS, serum levels of beta2-microglobulin, and global gene expression profiles in peripheral blood.",
+    "gender_included": "Female",
+    "hypothesis": "Depletion of B cells interrupts pathways required for the lymphocyte accumulation and exocrine dysfunction seen in Sjogren's syndrome.",
+    "initial_data_release_date": "2017-06-16",
+    "initial_data_release_version": "DR22",
+    "intervention_agent": "Rituximab",
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "  70.00",
+    "minimum_age": "  31.00",
+    "objectives": "The primary objective of this Phase I study is to establish the safety of rituximab treatment for primary Sjogren's syndrome. The secondary objectives for the study are designed to provide some indication of the extent of biological or clinical activity of rituximab for Sjogren's patients. Specific objectives are to collect data concerning the clinical and biological activity of rituximab in the treatment of Sjogren's syndrome as a guide to develop sufficient information to conduct Phase II/III safety and efficacy trials, to conduct mechanistic studies of the immunological correlates of rituximab treatment by examining T and B cells and their function in the circulation of patients, and to perform immunohistochemical studies on serial minor salivary gland biopsy specimens.",
+    "official_title": "An Open-Label, One Arm, Phase I Safety Study of Anti-CD20 Antibody (rituximab, Rituxan) Therapy for Primary Sjogren's Syndrome",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 12,
+    "workspace_id": 5885,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3496",
+            "description": "Participants will receive rituximab at study entry and at Week 2",
+            "name": "Rituximab Treatment"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Philip",
+            "last_name": "Cohen",
+            "organization": "University of Pennsylvania",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Pennsylvania"
+        },
+        {
+            "first_name": "William",
+            "last_name": "St. Clair",
+            "organization": "Duke University Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Duke University Medical Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Rituximab therapy for primary Sjogren's syndrome: an open-label clinical trial and mechanistic analysis.",
+            "journal": "Arthritis Rheum.",
+            "month": "Apr",
+            "year": "2013",
+            "doi": "10.1002/art.37850.",
+            "pubmed_id": "23334994"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Autoimmunity Centers of Excellence (ACE) AI-12-060, AI-12-059",
+            "contract_name": "MODULATION OF B CELL RESPONSES IN AUTOIMMUNITY (ASJ01)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 11
+            }
+        ],
+        "gender": [
+            {
+                "Female": 12
+            }
+        ]
+    }
+}

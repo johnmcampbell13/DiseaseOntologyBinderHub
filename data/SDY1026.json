@@ -1,0 +1,112 @@
+{
+    "study_accession": "SDY1026",
+    "actual_completion_date": "2015-12-31",
+    "actual_enrollment": 99,
+    "actual_start_date": "2011-05-16",
+    "age_unit": "Years",
+    "brief_description": "This study looks to compare two doses of glycerinated German cockroach allergenic extract versus placebo administered via the sublingual route in 99 children ages 5 to 17 years with perennial allergic rhinitis, asthma, or both. It is designed to study biomarkers of the immune response to allergen immunotherapy as well as the safety of this therapy.",
+    "brief_title": "Biomarkers of Cockroach Sublingual Immunotherapy 2 (BioCSI 2/ICAC-17)",
+    "clinical_trial": "Y",
+    "condition_studied": "Cockroach sensitive allergic rhinitis",
+    "dcl_id": 2,
+    "description": "This study looks to compare two doses of glycerinated German cockroach allergenic extract versus placebo administered via the sublingual route in 99 children ages 5 to 17 years with perennial allergic rhinitis, asthma, or both. It is designed to study biomarkers of the immune response to allergen immunotherapy as well as the safety of this therapy.",
+    "doi": "10.21430/M3LVUFRQOA",
+    "endpoints": "The primary endpoint is the level of cockroach-specific IgE in the high-dose group measured after the initiation of treatment, adjusted for the baseline level. Secondary endpoints include 1) Level of cockroach-specific IgE in the low-dose group. 2) Change in cockroach specific IgG4, in the high-dose and the low-dose groups. 3) Safety assessment, including measures of A) AE severity, seriousness, and treatment relatedness B) SAE, including measures of severity and treatment relatedness",
+    "gender_included": "Female, Male",
+    "hypothesis": "The primary hypothesis is that the cockroach IgE level in the high-dose SLIT group will be 3-times higher than that of the placebo group. A secondary hypothesis is that the low-dose group will demonstrate the same difference compared to placebo.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Cockroach",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "  17.00",
+    "minimum_age": "   5.00",
+    "objectives": "The primary objective is to determine if the high dose of cockraoch SLIT will induce a 3-fold group means difference in cockroach IgE, a biomarker of allergen. The secondary objectives are 1) To determine if the low dose of cockroach SLIT will induce a 3-fold group means difference in cockroach IgE in a pediatric population. 2) To determine whether a 3-month treatment with cockroach SLIT, using the per protocol allergenic extract doses, will induce changes in the serum levels of cockroach-specific IgG4. 3) To determine if treatment with this dose of cockroach SLIT is safe. This will be done by determining the rate of related adverse events and serious adverse events in the course of treatment.",
+    "official_title": "A Biomarker-Based Pilot Study of Cockroach Sublingual Immunotherapy in Cockroach Sensitive Children with Asthma and / or Perennial Allergic Rhinitis",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 100,
+    "workspace_id": 3134,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3623",
+            "description": "Receives placebo for maintenance phase",
+            "name": "Placebo"
+        },
+        {
+            "arm_accession": "ARM3624",
+            "description": "Receives 420ul once daily for maintenance phase",
+            "name": "Low Dose"
+        },
+        {
+            "arm_accession": "ARM3625",
+            "description": "Receives 840ul once daily for maintenance phase",
+            "name": "High Dose"
+        },
+        {
+            "arm_accession": "ARM3626",
+            "description": "Unknown",
+            "name": "Unknown"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Robert",
+            "last_name": "Wood",
+            "organization": "Johns Hopkins University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Johns Hopkins University School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Development of cockroach immunotherapy by the Inner-City Asthma Consortium.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Mar",
+            "year": "2014",
+            "doi": "10.1016/j.jaci.2013.08.047",
+            "pubmed_id": "24184147"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Inner City Asthma Consortium (ICAC) RFA-AI-13-036",
+            "contract_name": "Inner City Asthma Consortium (ICAC)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 79
+            },
+            {
+                "race": "Not Specified",
+                "count": 2
+            },
+            {
+                "race": "Other",
+                "count": 8
+            },
+            {
+                "race": "White",
+                "count": 9
+            }
+        ],
+        "gender": [
+            {
+                "Female": 30
+            },
+            {
+                "Male": 69
+            }
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "study_accession": "SDY352",
+    "actual_completion_date": null,
+    "actual_enrollment": 81,
+    "actual_start_date": "2002-10-23",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to evaluate the effectiveness of nutritional supplements in increasing the amount of omega-3 fatty acids (and arginine) in the red blood cell membranes and plasma of kidney transplant patients, and, secondarily, to compare patient compliance. The long-term goal of this study is to develop low risk therapies that will allow improved and lasting survival of donor tissue with minimal suppression of the immune system.",
+    "brief_title": "Omega-3 Fatty Acids That Affect the Immune System in Kidney Transplant Patients (ID01)",
+    "clinical_trial": "Y",
+    "condition_studied": "Kidney Diseases",
+    "dcl_id": 2,
+    "description": "Short-term survival rates of donor tissue after kidney transplantation have improved significantly in recent years because of improved immunosuppression. Rates of long-term tissue loss have changed less because of a high incidence of chronic rejection, infectious complications, and cardiovascular disease. Data suggest that both early and late complications might be reduced in transplant recipients by dietary intervention to raise levels of omega-3 fatty acids and arginine. Prior to transplantation, participants are randomized to one of three groups. Group 1 participants serve as controls and receive no dietary supplements. Participants in Group 2 receive daily nutritional supplements of arginine and canola oil according to body weight. Group 3 participants receive daily nutritional supplements of arginine and a fish oil emulsion according to body weight. All participants receive a standard, low-fat dietary consultation. The status of participants is evaluated peri-transplant and at 1, 3, 6, and 9 months.",
+    "doi": "10.21430/M3DLCE81CY",
+    "endpoints": "Increases in omega-3 fatty acid levels in plasma and red blood cell membranes observed in each of the three omega-3 supplements used in this study. Compliance rates observed in each of the three study groups.",
+    "gender_included": "Female, Male",
+    "hypothesis": "It is hypothesized that the immunomodulatory diets provided in this study will result in decreased rejection episodes, decreased incidence of acute rejection, improved long-term allograft survival, reduced cardiac and vascular complications, reduced infectious complications, and shorter periods of rehospitalization which can also be examined as secondary efficacy endpoints in this pilot study. It is also hypothesized that high-risk populations, such as African-Americans, may show enhanced improvements in these secondary endpoints compared to other study populations.",
+    "initial_data_release_date": "2014-08-07",
+    "initial_data_release_version": "DR11",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-08-07",
+    "latest_data_release_version": "DR11",
+    "maximum_age": "  71.00",
+    "minimum_age": "  20.00",
+    "objectives": "The primary objective of this prospective, open-label, randomized pilot study in renal transplant recipients is to evaluate the plasma distribution and metabolism of L-arginine and omega-3 fatty acids (omega-3FA) contained in an immunomodulating diet supplemented with arginine and canola oil or Coromega fish-oil emulsion compared to controls given no dietary supplements.",
+    "official_title": "A Randomized Trial of Immunomodulating Diets With Arginine and Omega-3 Fatty Acids in Renal Transplant Recipients",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 75,
+    "workspace_id": 3709,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2210",
+            "description": "Control",
+            "name": "Control"
+        },
+        {
+            "arm_accession": "ARM2211",
+            "description": "Arginine and Canola Oil",
+            "name": "Arginine and Canola Oil"
+        },
+        {
+            "arm_accession": "ARM2212",
+            "description": "Arginine and Coromega",
+            "name": "Arginine and Coromega"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "J.W.",
+            "last_name": "Alexander",
+            "organization": "University of Cincinnati",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Cincinnati"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Cooperative Clinical Trials in Pediatric Transplantation (CCTPT)",
+            "contract_name": "Data Coordinating Center for Cooperative Clinical Trials in Pediatric Transplantation"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 17
+            },
+            {
+                "race": "Other",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 61
+            }
+        ],
+        "gender": [
+            {
+                "Female": 26
+            },
+            {
+                "Male": 55
+            }
+        ]
+    }
+}

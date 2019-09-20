@@ -1,0 +1,106 @@
+{
+    "study_accession": "SDY4",
+    "actual_completion_date": null,
+    "actual_enrollment": 235,
+    "actual_start_date": "2009-03-06",
+    "age_unit": "Years",
+    "brief_description": "Atopic Dermatitis (AD), also known as eczema, is a skin disease that causes the skin to be hot, dry and scaly, and have severe itching. There are different kinds of eczema. Eczema herpeticum (EH) is a type of eczema that spreads due to an underlying herpes virus infection. The purpose of this research study is to identify the risk factors that may cause EH.",
+    "brief_title": "Risk Factors in Atopic Dermatitis for the Development of Eczema Herpeticum (ADEH 06)",
+    "clinical_trial": "Y",
+    "condition_studied": "Atopic Dermatitis Eczema Herpeticum",
+    "dcl_id": 2,
+    "description": "DETAILED_DESCRIPTION<p><body><p>AD is characterized by skin inflammation and recurrent skin infections. In addition, people with AD may have a severe and sometimes fatal reaction to the smallpox vaccine called EV. KLH is a carrier protein that can be used to deliver antibodies to the body. However KLH itself, may cause an immune response.</p><p>The purpose of this study is to determine the body's reaction to pure KLH in people without AD. This will be used to establish a baseline immune response and may be compared to the immune response in people with AD during future studies.</p><p>This study will last 8 weeks and will have 11 study visits. Participants in this study will be randomly assigned to 1 of 4 groups. All participants will receive their immunizations at Visits 5 and 6.</p><ul><li>Participants in Arm 1 will receive 2 immunizations each with 100 &mu;g of KLH each.</li><li>Participants in Arm 2 will receive 2 immunizations through scarification (a shallow cut in the skin) with jabs, each containing 20 mg/mL of KLH. Adverse reactions will be monitored after each immunization. Once safety data from these 2 groups have been reviewed, the next 2 groups will be enrolled.</li><li>Participants in Arm 3 will receive 2 immunizations each with 250 &mu;g of KLH each.</li><li>Participants in Arm 4 will receive 2 immunizations through scarification with 15 jabs, each containing 20mg/mL of KLH. Other study visits will include allergy testing and blood and urine collection.</li></ul></body>",
+    "doi": "10.21430/M398H5TAXP",
+    "endpoints": "<body>Primary Endpoints: <ol><li>The change in anti-KLH IgG antibody response to two administrations of KLH in nonatopic subjects from baseline (Day 47 compared with Day 0 levels of antibodies).</li> <li>The safety of administering KLH by the scarification route as measured by the proportion of subjects with any treatment-emergent abnormailities in the following clinical measurements: vital signs (body temperature, heart rate, respirations, blood pressure) liver function (aspartate aminotransferase [AST], alanine aminotransferase [ALT]) complete blood count (CBC), and renal function (creatinine, blood urea nitrogen [BUN]).</li></ol>Secondary Efficacy Endpoints:  <ol><li>Change in anti-KLH antibody responses from Day 0 to Day 47 in IgG subclasses 1-4, IgA, IgM, and IgE.</li> <li>Change in the diameter of the DTH responses to KLH between Days 2 and 49.</li>  <li>Induction of a T cell response as measured by a change between Days 2 and 49 from negative (<5 mm) to positive (&ge;5 mm) DTH reaction.</li>   <li>The presence or absence of antibody response between Day 0 and 47 as measured by whether or not there is a greater than 2-fold increase in antibody (IgG, IgA, IgM, IgE) titers to two administrations of KLH.</li></ol><ol>Each of these endpoints will be measured in each of the four subject arms.</ol>Secondary Safety Endpoints:  <ol><li>Incidence of all adverse events (AEs).</li>  <li>Changes pre-versus post-administration of KLH in:</li>  <ul><li>Quantitative levels of clinical labs (CBC, liver function [AST, ALT], renal function [creatinine, BUN]).</li><li>Quantitative levels of vital signs (body temperature, heart rate, respirations, blood pressure). </li><li>Physcial exam (presence or absence of abnormalities).</li></ul></li></ol></body>",
+    "gender_included": "Female, Male",
+    "hypothesis": "The hypothesis of the present project postulates that AD subjects who develop EH differ from other AD subjects and healthy volunteers at the level of myeloid and plasmacytoid DCs in the blood and skin.  This study should provide for the first time information on whether myeloid and plasmacytoid DCs of subjects with EH differ: 1. Qualitatively, quantitatively, and phenotypically. 2. Functionally at the level of DC-related cytokines and their interferon-producing capacity and interaction with T-cell subtypes after stimulation with viral stimuli; and the cytokine production of T-cells, B7 molecules, and factors involved in innate immunity. 3. At the level of qualitative and quantitative characteristics of structures involved in the viral entry on myeloid and plasmacytoid DC subtypes in the blood and the skin of these subject subgroups. Based on the knowledge acquired herein, it should be possible to identify differences in DC subtypes in the blood and the skin of AD subjects in response to viral stimuli that will finally enable us to define AD subjects at risk for EH.",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "NA\r",
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "  60.00",
+    "minimum_age": "  18.00",
+    "objectives": "OBJECTIVES<p><body>Primary Objectives:<ol><li>To determine whether two administrations of KLH by the scarification route (15 jabs, 20 mg/mL) induce an anti-KLH IgG antibody response to KLH in nonatopic subjects.</li><li>To determine the safety of administering KLH by the scarification route.</li></ol>Secondary Objectives:<ol><li>To determine whether two administrations of KLH by the scarification route (3 jabs or 15 jabs, 20 mg/mL) will: </li><ul><li>Induce a DTH response to KLH in atopic subjects. -increase the size of the DTH reaction at Day 49 as compared to Day 2.</li><li>Induce IgG subclasses 1-4, IgM, IgA, or IgE antibody responses in nonatopic subjects.</li></ul><li>To determine whether immunizations with KLH by the ID route (two administrations of 100 &mu;g or 250 &mu;g) will:</li><ul><li>induces an IgG antibody response to KLH in nonatopic subjects.</li><li>induces a DTH response to KLH in nonatopic subjects.</li><li>increases the size of the DTH reaction at Day 49 as compared to Day 2.</li><li>induces IgG subclasses 1-4, IgM, IgA, or IgE antibody responses in nonatopic subjects.</li></ul><li>To determine if differences exist in DTH responses of subject groups following two administrations of: </li><ul><li>3 jabs vs. 15 jabs by scarification of KLH.</li><li>100 &mu;g or 250 &mu;g by ID administration of KLH.</li><li>250 &mu;g by ID administration vs. 15 jabs by scarification of KLH.</li></ul><li>To determine if differences exist in anti-KLH antibody (IgG, IgG subclasses 1-4, IgA, IgM, or IgE) of subject groups receiving two administrations of:</li><ul><li>3 jabs vs. 15 jabs by scarification of KLH.</li><li>100 &mu;g vs. 250 &mu;g by ID administration vs. 15 jabs by scarification of KLH.</li><li>250 &mu;g by ID administration vs. 15 jabs by scarification of KLH.</li></ul></ol></body>",
+    "official_title": "Risk Factors in Atopic Dermatitis for the Development of Eczema Herpeticum",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 240,
+    "workspace_id": 1089,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM241",
+            "description": "AD Subjects with acute Eczema Herpeticum and recurrent herpes simplex virus to follow-up 4-12 weeks after baseline.",
+            "name": "AD+ Acute EH+HSV+"
+        },
+        {
+            "arm_accession": "ARM242",
+            "description": "AD Subjects with history of Eczema Herpeticum and recurrent herpes simplex virus.",
+            "name": "AD+ with history of EH+ HSV+"
+        },
+        {
+            "arm_accession": "ARM243",
+            "description": "AD Subjects without  Eczema Herpeticum but with recurrent herpes simplex virus.",
+            "name": "AD+ EH- HSV+"
+        },
+        {
+            "arm_accession": "ARM244",
+            "description": "AD Subjects with no history of Eczema Herpeticum and no recurrent herpes simplex virus.",
+            "name": "AD+ EH- HSV-"
+        },
+        {
+            "arm_accession": "ARM245",
+            "description": "Non-AD (healthy volunteers).",
+            "name": "Healthy controls"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Thomas",
+            "last_name": "Bieber",
+            "organization": "The University of Bonn, Germany",
+            "role_in_study": "Principal Investigator",
+            "site_name": "The University of Bonn, Germany\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Atopic dermo-respiratory syndrome is a correlate of eczema herpeticum.",
+            "journal": "Allergy.",
+            "month": "Jul",
+            "year": "2011",
+            "doi": "10.1111/j.1398-9995.2010.02538.x. Epub 2011  Jan 24.",
+            "pubmed_id": "21255038"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Atopic Dermatitis & Vaccinia Network (ADVN)",
+            "contract_name": "Atopic Dermatitis and Vaccinia Network (ADVN) Clinical Studies Consort-26629c"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 3500
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 235
+            }
+        ],
+        "gender": [
+            {
+                "Female": 117
+            },
+            {
+                "Male": 118
+            }
+        ]
+    }
+}

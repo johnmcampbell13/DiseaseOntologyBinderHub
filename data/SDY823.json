@@ -1,0 +1,103 @@
+{
+    "study_accession": "SDY823",
+    "actual_completion_date": "2015-01-30",
+    "actual_enrollment": 52,
+    "actual_start_date": "2012-07-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of the study is to find out if the experimental study agent, baminercept, is effective in treating patients with Sjogren's syndrome. The study will also determine if the study agent can be safely given to patients with Sjogren's syndrome; examine how it affects symptoms of the disease; and attempt to understand how baminercept affects the underlying mechanisms of Sjogren's syndrome and the immune system.",
+    "brief_title": "Baminercept in Sjogren's Syndrome (ASJ02)",
+    "clinical_trial": "Y",
+    "condition_studied": "Sjogren's Syndrome",
+    "dcl_id": 1,
+    "description": "This is a Phase 2, randomized, double-blind, placebo-controlled multi-center trial of baminercept versus placebo in patients with primary Sjogren's syndrome. The purpose of the study is to find out if the experimental study agent, baminercept, is safe and effective in treating patients with Sjogren's syndrome. The study will also attempt to understand the effect of the study agent on the underlying mechanisms (workings) of Sjogren's syndrome and the immune system. Concurrent therapy with hydroxychloroquine, prednisone, and/or cholinergic stimulants such as pilocarpine or cevimeline is permitted but not required. Seventy-two participants will be assigned by chance to 2 study groups: 48 participants will receive baminercept (the experimental study agent), 24 participants will receive a placebo. Baminercept or placebo will be given by injection under the skin once a week for 24 weeks (6 months). The first three injections of the study agent will be self-administered by the participant or a designated caregiver in the clinic under direct observation. Subsequent injections of study agent will be given at home. The study will consist of a screening phase, a treatment phase, and a post-treatment follow-up phase. During the screening phase, up to 2 visits are planned. Visits during the treatment phase are scheduled for Day 0 and Weeks 4, 8, 12, and 18. Additional safety post-injection visits are scheduled at Weeks 1 and 2. The primary endpoint visit is at Week 24 followed by 3 post-treatment follow-up visits at Weeks 30, 36, and 48.",
+    "doi": "10.21430/M3RT6LAJH3",
+    "endpoints": "The primary efficacy endpoint is change in stimulated whole salivary flow between screening and Week 24. Secondary efficacy endpoints include: Change in stimulated and unstimulated whole salivary flow assessed longitudinally at Screening/baseline and Weeks 4, 8, 12, 18, 24, 30, 36, and 48 with particular interest in trends before and after Week 24. Changes in ESSDAI assessed at Day 0 and Week 24. Changes in response rate assessed longitudinally at Day 0 and Weeks 4, 8, 12, 18, 24, 30, 36, and 48 with particular interest in trends before and after Week 24. Response is defined by 30% or more improvement in at least two of the three VAS scores for patient self-assessment of symptoms of overall dryness, fatigue, and joint pain. Changes in the scores for patient symptom survey of oral and ocular dryness assessed longitudinally at Day 0 and Weeks 4, 8, 12, 18, 24, 30, 36, and 48 with particular interest in trends before and after Week 24. Changes in the VAS scores for patient self-assessments of fatigue, overall dryness, and joint pain assessed longitudinally at Day 0 and Weeks 4, 8, 12, 18, 24, 30, 36, and 48 with particular interest in trends before and after Week 24. Changes in the VAS scores for patient and physician global assessments of disease activity assessed longitudinally at Day 0 and Weeks 4, 8, 12, 18, 24, 30, 36, and 48 with particular interest in trends before and after Week 24. Change in tear secretion as measured by the Schirmer I-test assessed at Day 0 and Weeks 12, 24, and 48. Changes in SF-36 from Day 0 to Weeks 24, 30, and 48.",
+    "gender_included": "Female, Male",
+    "hypothesis": "The study is designed to test the scientific hypothesis that the change in whole stimulated salivary flow from screening to Week 24 will be significantly improved among subjects treated with baminercept compared to those treated with placebo.",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": "Baminercept",
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "  74.00",
+    "minimum_age": "  24.00",
+    "objectives": "The primary objective of this study is to obtain preliminary data about the clinical efficacy of baminercept therapy in patients with pSS based on the improvement in stimulated salivary flow rate over 24 weeks of treatment.",
+    "official_title": "Randomized, Double-blind, Placebo-controlled Phase II Clinical Trial of Baminercept, a Lymphotoxin-beta Receptor Fusion Protein, for the Treatment of Primary Sjogren's Syndrome",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 52,
+    "workspace_id": 5301,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3213",
+            "description": "Subjects randomized to baminercept (2:1) will receive 24 weekly injections of 100 mg administered subcutaneously starting at the Day 0 visit and ending at Week 23.",
+            "name": "Baminercept Experimental"
+        },
+        {
+            "arm_accession": "ARM3214",
+            "description": "Subjects randomized to placebo will receive 24 weekly injections of 100 mg administered subcutaneously starting at the Day 0 visit and ending at Week 23.",
+            "name": "Placebo Comparator"
+        }
+    ],
+    "personnel": [],
+    "pubmed": [
+        {
+            "title": "Clinical Efficacy and Safety of Baminercept, a Lymphotoxin ? Receptor Fusion Protein, in Primary Sjogren's Syndrome: Results From a Phase II Randomized, Double-Blind, Placebo-Controlled Trial.",
+            "journal": "Arthritis Rheumatol.",
+            "month": "Sep",
+            "year": "2018",
+            "doi": "10.1002/art.40513. Epub 2018  Jul 18.",
+            "pubmed_id": "29604186"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Autoimmunity Centers of Excellence (ACE) AI-12-060, AI-12-059",
+            "contract_name": "Baminercept in Sjogren's Syndrome (ASJ02)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 191
+        },
+        {
+            "measurement_technique": "Transcription profiling assay",
+            "number_of_expsamples": 96
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 6
+            },
+            {
+                "race": "Other",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 42
+            }
+        ],
+        "gender": [
+            {
+                "Female": 49
+            },
+            {
+                "Male": 3
+            }
+        ]
+    }
+}

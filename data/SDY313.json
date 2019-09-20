@@ -1,0 +1,143 @@
+{
+    "study_accession": "SDY313",
+    "actual_completion_date": null,
+    "actual_enrollment": 1156,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Juvenile rheumatoid arthritis (JRA) (also known as Juvenile idiopathic arthritis (JIA)) includes the commonest chronic autoimmune arthropathies of childhood. The MHC is involved with respect to risk, either susceptibility or protection in a subtype specific manner with strong gender bias and differences between ethnicities. Multiple MHC effects have been shown, especially in the commonest subtype, so called early onset pauciarticular JRA (Persistent Oligo in the JIA terminology) with three or more MHC regions believed to interact in generating susceptibility. An additional feature of the disease, unlike some other forms of autoimmunity, is the relative absence of common extended or ancestral haplotypes, especially those carrying HLA-DR4 and HLA-DR7 both of which are protective. The three regions include a class I region, or an area telomeric to it, and two class II regions those around HLA DR/DQ and HLA-DP. None of the regions involved are well defined nor were the specific genes involved identified. The alleles marking these regions (HLA-DR8, 11 and HLA-DPB1*0201) are atypical for autoimmunity. This is therefore an unusual MHC contribution to autoimmunity, the elucidation of which lends itself to high throughput technologies. The genetic features, although involving arthritis, are quite distinct from adult rheumatoid arthritis except for about 5% of older children. It is proposed to construct high throughput SNP maps in a family based study. Subtypes have different MHC profiles and in the rarest and most severe form of disease, systemic onset JRA, the MHC effect is rather minimal. In this form, preliminary data involving KIR gene haplotypes is available. Pursuing these KIR gene observations is proposed. The ability to leverage ongoing phenotyping and family based sample collection ensures a large and continuously growing pool of available DMAs for this project. Some of the patients will also have extensive gene expression studies allowing a comprehensive approach to the MHC and KIR genes in JRA and its subtypes.",
+    "brief_title": "HLA Genetics in Pediatric Arthritis",
+    "clinical_trial": "N",
+    "condition_studied": "Juvenile Rheumatoid Arthritis",
+    "dcl_id": 2,
+    "description": "JRA (also known as JIA) includes the commonest chronic autoimmune arthropathies of childhood. The MHC is involved with respect to risk, either susceptibility or protection in a subtype specific manner with strong gender bias and differences between ethnicities. Multiple MHC effects have been shown, especially in the commonest subtype, so called early onset pauciarticular JRA (Persistent Oligo in the JIA terminology) with three or more MHC regions believed to interact in generating susceptibility. An additional feature of the disease, unlike some other forms of autoimmunity, is the relative absence of common extended or ancestral haplotypes, especially those carrying HLA-DR4 and HLA-DR7 both of which are protective. The three regions include a class I region, or an area telomeric to it, and two class II regions those around HLA DR/DQ and HLA-DP. None of the regions involved are well defined nor were the specific genes involved identified. The alleles marking these regions (HLA-DR8, 11 and HLA-DPB1*0201) are atypical for autoimmunity. This is therefore an unusual MHC contribution to autoimmunity, the elucidation of which lends itself to high throughput technologies. The genetic features, although involving arthritis, are quite distinct from adult rheumatoid arthritis except for about 5% of older children. It is proposed to construct high throughput SNP maps in a family based study. Subtypes have different MHC profiles and in the rarest and most severe form of disease, systemic onset JRA, the MHC effect is rather minimal. In this form, preliminary data involving KIR gene haplotypes is available. Pursuing these KIR gene observations is proposed. The ability to leverage ongoing phenotyping and family based sample collection ensures a large and continuously growing pool of available DMAs for this project. Some of the patients will also have extensive gene expression studies allowing a comprehensive approach to the MHC and KIR genes in JRA and its subtypes.",
+    "doi": "10.21430/M33Z8QHOKB",
+    "endpoints": "SNP genotyping, HLA typing and DNA sequencing.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Defining the MHC region genes or markers associated with increased risk for pediatric autoimmune arthropathies will improve the understanding of the molecular mechanisms responsible for disease risk and severity. High density SNP genotyping applied to family-based DNA cohorts, who already have considerable MHC polymorphism data, coupled with extensive fine mapping in other regions of the genome, will be an important step forward in understanding the MHC-specific and epistatic contributions to the risks for these diseases and also allow for comparative studies between JRA subtypes and other autoimmune diseases.",
+    "initial_data_release_date": "2017-04-21",
+    "initial_data_release_version": "DR21",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "18",
+    "minimum_age": "1",
+    "objectives": "The objectives of this study were:<ol><li>To map MHC susceptibility and protective haplotypes using SNP typing in families with JRA.</li><li>To explore KIR genotypes/haplotypes in JRA subtypes with minor HLA effects and to assess the role of functionally relevant KIR-HLA gene combinations in disease susceptibility.</li><li>To refine the clinical phenotype associations and functional genomic data with the SNP-based MHC maps.</li></ol>",
+    "official_title": "HLA Genetics in Pediatric Arthritis",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 532,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2132",
+            "description": "Juvenile rheumatoid arthritis subjects (Juvenile idiopathic arthritis Extended Oligo, Oligo and RF neg Poly subjects)",
+            "name": "JRA (JIA) Group"
+        },
+        {
+            "arm_accession": "ARM2133",
+            "description": "Control Subjects",
+            "name": "Control Group"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Glass",
+            "organization": "Cincinnati Children's Hospital Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Cincinnati Children's Hospital Medical Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Sequence feature variant type (SFVT) analysis of the HLA genetic association in juvenile idiopathic arthritis.",
+            "journal": "Pac Symp Biocomput.",
+            "month": "Nov",
+            "year": "2009",
+            "doi": "-",
+            "pubmed_id": "19908388"
+        },
+        {
+            "title": "Juvenile idiopathic arthritis and HLA class I and class II interactions and age-at-onset effects.",
+            "journal": "Arthritis Rheum.",
+            "month": "Jun",
+            "year": "2010",
+            "doi": "10.1002/art.27424.",
+            "pubmed_id": "20191588"
+        },
+        {
+            "title": "Biologic similarities based on age at onset in oligoarticular and polyarticular subtypes of juvenile idiopathic arthritis.",
+            "journal": "Arthritis Rheum.",
+            "month": "Nov",
+            "year": "2010",
+            "doi": "10.1002/art.27657.",
+            "pubmed_id": "20662067"
+        },
+        {
+            "title": "The susceptibility loci juvenile idiopathic arthritis shares with other autoimmune diseases extend to PTPN2, COG6, and ANGPT1.",
+            "journal": "Arthritis Rheum.",
+            "month": "Nov",
+            "year": "2010",
+            "doi": "10.1002/art.27688.",
+            "pubmed_id": "20722033"
+        },
+        {
+            "title": "Dense genotyping of immune-related disease regions identifies 14 new susceptibility loci for juvenile idiopathic arthritis.",
+            "journal": "Nat Genet.",
+            "month": "Jun",
+            "year": "2013",
+            "doi": "10.1038/ng.2614. Epub 2013 Apr 21.",
+            "pubmed_id": "23603761"
+        },
+        {
+            "title": "Conditional asymmetric linkage disequilibrium (ALD): extending the biallelic r2 measure.",
+            "journal": "Genetics.",
+            "month": "Sep",
+            "year": "2014",
+            "doi": "10.1534/genetics.114.165266. Epub 2014 Jul 14.",
+            "pubmed_id": "25023400"
+        },
+        {
+            "title": "Fine-mapping the MHC locus in juvenile idiopathic arthritis (JIA) reveals genetic heterogeneity corresponding to distinct adult inflammatory arthritic diseases.",
+            "journal": "Ann Rheum Dis.",
+            "month": "Dec",
+            "year": "2016",
+            "doi": "-",
+            "pubmed_id": "27998952"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "HLA Region Genetics in Immune-mediated Diseases I",
+            "contract_name": "HLA/KIR Region Genetics in Pediatric Arthritis"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 1155
+        },
+        {
+            "measurement_technique": "SNP microarray",
+            "number_of_expsamples": 1026
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 1156
+            }
+        ],
+        "gender": [
+            {
+                "Female": 822
+            },
+            {
+                "Male": 334
+            }
+        ]
+    }
+}

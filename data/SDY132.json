@@ -1,0 +1,127 @@
+{
+    "study_accession": "SDY132",
+    "actual_completion_date": null,
+    "actual_enrollment": 130,
+    "actual_start_date": "2005-11-01",
+    "age_unit": "Years",
+    "brief_description": "Over the last 40 years, corticosteroids have been an important part of drug regimens used to prevent organ rejection and maintain the immune health of people who have received organ transplants. Unfortunately, the negative physical effects of corticosteroids can be severe, especially in children. The purpose of this study is to determine the safety and effectiveness of a corticosteroid-free treatment regimen for children and adolescents who have received kidney transplants.",
+    "brief_title": "Tacrolimus with Steroids and Standard Daclizumab Versus Steroid-Free Tacrolimus with Extended Daclizumab in Pediatric Renal Transplantation (SNS01)",
+    "clinical_trial": "Y",
+    "condition_studied": "Pediatric Renal Transplantation",
+    "dcl_id": 1,
+    "description": "<p>Corticosteroids have been a cornerstone of immunosuppressive therapy for kidney transplantation for over 40 years. However, poor growth and bone loss caused by the use of corticosteroids are devastating to pediatric kidney recipients. The negative physical implications of corticosteroid use also greatly impacts patients' compliance to their prescribed corticosteroid-containing regimens. The development of a corticosteroid-free regimen for post-transplant pediatric patients is sorely needed. This study will evaluate the safety and efficacy of a corticosteroid-free treatment regimen in children and adolescents who have received kidney transplants, compared to a standard of care regimen including corticosteroids. Participants in this study will be pediatric patients with end-stage kidney disease who will undergo kidney transplantation at the start of the study.</p><p>Patients will participate in this study for 3 years. Participants will be randomly assigned to one of two groups. Group 1 patients will receive daclizumab, tacrolimus, mycophenolate mofetil (MMF), and prednisone. Group 1 patients will receive daclizumab prior to transplantation and at Weeks 2, 4, 6, and 8 after transplantation. Group 1 patients will receive prednisone at the time of transplantation and will undergo gradual prednisone tapering post-transplant. Group 2 patients will receive daclizumab, tacrolimus, MMF, but no prednisone. Group 2 patients will receive daclizumab prior to transplantation, at Weeks 2, 4, 6, 8, and 11, and at Months 4, 5 and 6 after transplantation. To prevent opportunistic infections, all patients will receive prophylactic medications beginning after transplantation.</p><p>There will be 23 study visits during the 3-year study. A physical exam, medication history, adverse events reporting, blood pressure readings, growth assessment, and blood collection will occur at most visits. At the time of transplantation, patients will have a kidney biopsy. Patients will also undergo cataract screening within 4 months of transplantation.</p>",
+    "doi": "10.21430/M3ZOBVGDW6",
+    "endpoints": "<p><b>Primary endpoints:</b></p> <ol><li>Change of standardized height at 1 year</li><li>Biopsy proven acute rejection (Banff 97) at 1 year</li></ol><p><b>Secondary endpoints:</b></p><ol> <li>Patient and graft survival, severity and treatment for acute rejection, incidence of chronic allograft nephropathy at 6 months, 1 year and 2 years, change in serum creatinine in the first 48 hours and between month 6 and year 1, and renal function at 1 year as determined by the Schwartz method.</li><li>Incidence and severity of hyperlipidemia, hypertension, anemia, leukopenia, neutropenia and the requirement for treatment (reference study definitions for guidelines) </li><li>Infectious complications-bacterial, viral, fungal </li><li>Surgical complications </li><li>Incidence and duration of re-hospitalizations </li><li>Incidence of biopsy proven PTLD </li><li>Incidence of post-transplant diabetes mellitus </li><li>Occurrence of cataracts </li><li>Incidence of opportunistic infections especially CMV and EBV-viremia and treatment for viremia and disease </li><li>Incidence of delayed graft function </li><li>Body disfigurement </li><li>Incidence of return to therapy for subjects assigned to the steroid-free arm </li><li>Total steroid exposure at 6 months</li><li>Incidence of hypomagnesemia and hyperkalemia (reference study definitions for guidelines)</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Steroid avoidance in pediatric kidney transplantation is safe and efficacious compared with the steroid-based standard immunosuppression maintainance.",
+    "initial_data_release_date": "2013-04-05",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "steroid, daclizumab induction, MMF, and tacrolimus immunosuppressive maintanance",
+    "latest_data_release_date": "2013-04-05",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  20.30",
+    "minimum_age": "   1.00",
+    "objectives": "The primary objective of this protocol is to compare the safety and efficacy of steroid-free immunosuppression, given in combination with tacrolimus, CellCept (MMF) and Zenapax (daclizumab) induction with steroid-based immunosuppression.",
+    "official_title": "A Randomized, Multi-Center Comparative Trial of Tacrolimus with Steroids and Standard Daclizumab Induction versus a Novel Steroid-Free Tacrolimus  based Immunosuppression Protocol with Extended Daclizumab Induction in Pediatric Renal Transplantation (SNS01)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 130,
+    "workspace_id": 2872,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM668",
+            "description": "Daclizumab induction for 2 mos with tacrolimus, MMF-Mycophenolate Mofetil and Prednisone (Steroid)",
+            "name": "Steroid-based"
+        },
+        {
+            "arm_accession": "ARM669",
+            "description": "Daclizumab induction for 6 mos with tacrolimus and Mycophenolate Mofetil",
+            "name": "Steroid-free"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Oscar",
+            "last_name": "Salvatierra",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Lucile Salter Packard Children?s Hospital"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Subclinical inflammation and chronic renal allograft injury in a randomized trial on steroid avoidance in pediatric kidney transplantation.",
+            "journal": "Am J Transplant.",
+            "month": "Oct",
+            "year": "2012",
+            "doi": "10.1111/j.1600-6143.2012.04144.x.  Epub 2012 Jun 13.",
+            "pubmed_id": "22694733"
+        },
+        {
+            "title": "Complete steroid avoidance is effective and safe in children with renal transplants: a multicenter randomized trial with three-year follow-up.",
+            "journal": "Am J Transplant.",
+            "month": "Oct",
+            "year": "2012",
+            "doi": "10.1111/j.1600-6143.2012.04145.x.  Epub 2012 Jun 13.",
+            "pubmed_id": "22694755"
+        },
+        {
+            "title": "A peripheral blood diagnostic test for acute rejection in renal transplantation.",
+            "journal": "Am J Transplant.",
+            "month": "Oct",
+            "year": "2012",
+            "doi": "10.1111/j.1600-6143.2012.04253.x.",
+            "pubmed_id": "23009139"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Cooperative Clinical Trials in Pediatric Transplantation (CCTPT)",
+            "contract_name": "Data Coordinating Center for Cooperative Clinical Trials in Pediatric Transplantation"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 3850
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 8
+            },
+            {
+                "race": "Black or African American",
+                "count": 34
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 2
+            },
+            {
+                "race": "Other",
+                "count": 16
+            },
+            {
+                "race": "White",
+                "count": 69
+            }
+        ],
+        "gender": [
+            {
+                "Female": 48
+            },
+            {
+                "Male": 82
+            }
+        ]
+    }
+}

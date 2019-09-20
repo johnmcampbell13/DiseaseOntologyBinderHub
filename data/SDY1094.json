@@ -1,0 +1,93 @@
+{
+    "study_accession": "SDY1094",
+    "actual_completion_date": "2014-07-31",
+    "actual_enrollment": 230,
+    "actual_start_date": "2013-10-01",
+    "age_unit": "Years",
+    "brief_description": "This study is a multicenter, non-randomized, retrospective study to collect long term (5 years posttransplant +/- 6 months) clinical outcome data on subjects previously enrolled in the CTOT-01 study.",
+    "brief_title": "A Retrospective Multicenter Study to Determine 5-Year Clinical Outcomes in Subjects Previously Enrolled in the CTOT-01 Study (CTOT-17)",
+    "clinical_trial": "Y",
+    "condition_studied": "Kidney Transplanation",
+    "dcl_id": 2,
+    "description": "This study is a multicenter, non-randomized, retrospective study to collect long term (5 years posttransplant +/- 6 months) clinical outcome data on subjects previously enrolled in the CTOT-01 study.",
+    "doi": "10.21430/M365BR5LW8",
+    "endpoints": "The primary endpoint is change in eGFR (MDRD in the adult cohort and Schwartz method in the pediatric cohort) from 6 months to 5 years post-transplantation. The following secondary endpoints will be measured: 1. Patient survival as assessed by the incidence of death reported in the first 5 years posttransplant. 2. Graft survival as assessed by the incidence of graft loss reported in the first 5 years posttransplant. 3. Renal function as assessed by the absolute GFR at 5 years post-transplant. 4. Change in Chronic Kidney Disease stages between transplant and 5 years posttransplant.",
+    "gender_included": "Female, Male",
+    "hypothesis": "This study will test whether the results of the noninvasive immune monitoring test strategy performed in the parent study (CTOT-01) in first six-month post-transplant is predictive of 5-year outcomes.",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": null,
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "  89.00",
+    "minimum_age": "   2.00",
+    "objectives": "The primary objective is to evaluate whether the absence of urinary chemokine markers at 6-months post-transplant correlates with better kidney function at 5 years posttransplant independent of the selected clinical variables. The secondary objective is to evaluate whether the absence of urinary chemokine markers at 6-months post-transplant correlates with better clinical outcomes (i.e., patient survival, graft survival, and renal function) at 5 years post transplant.",
+    "official_title": "A Retrospective Multicenter Study to Determine 5-Year Clinical Outcomes in Subjects Previously Enrolled in the CTOT-01 Study",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 230,
+    "workspace_id": 4058,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3845",
+            "description": "Kidney Transplant Recipients",
+            "name": "Kidney Transplant Recipients"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Peter",
+            "last_name": "Heeger",
+            "organization": "Mount Sinai School of Medicine, Ricanati Miller Transplant Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mount Sinai School of Medicine,"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Analysis of Biomarkers Within the Initial 2 Years Posttransplant and 5-Year Kidney Transplant Outcomes: Results From Clinical Trials in Organ Transplantation-17.",
+            "journal": "Transplantation.",
+            "month": "Apr",
+            "year": "2018",
+            "doi": "10.1097/TP.0000000000002026.",
+            "pubmed_id": "29189482"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Clinical Trials in Organ Transplantation (CTOT)",
+            "contract_name": "NONINVASIVE MARKERS AND TRANSPLANT OUTCOME IN HUMANS (CTOT-01, CTOT-05)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 59
+            },
+            {
+                "race": "Other",
+                "count": 16
+            },
+            {
+                "race": "Unknown",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 153
+            }
+        ],
+        "gender": [
+            {
+                "Female": 92
+            },
+            {
+                "Male": 138
+            }
+        ]
+    }
+}

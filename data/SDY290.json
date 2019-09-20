@@ -1,0 +1,130 @@
+{
+    "study_accession": "SDY290",
+    "actual_completion_date": null,
+    "actual_enrollment": 196,
+    "actual_start_date": "2009-10-01",
+    "age_unit": "Years",
+    "brief_description": "The goal of this study is to determine the long-term risks of donor nephrectomy, compared to appropriate control subjects. This study built on information generated from RELIVE-01, a separate but related retrospective study. Through direct contact with previous living kidney donors this study examined the contribution of living kidney donation to the future development of hypertension, proteinuria, renal insufficiency or renal failure and anemia, the potential through these factors or others for increased cardiovascular risk for clinical events including myocardial infarction (MI), congestive heart failure (CHF), need for coronary artery bypass grafting (CABG) or percutaneous coronary angioplasty (PTCA) revascularization, and the impact of living kidney donation on quality of life (QOL) and financial status, compared to applicable control subjects and populations.",
+    "brief_title": "Live Kidney Donor Study - Cross-Sectional and Historical Cohort Study (RELIVE-04)",
+    "clinical_trial": "Y",
+    "condition_studied": "Kidney Transplantation",
+    "dcl_id": 2,
+    "description": "The goal of this study is to determine the long-term risks of donor nephrectomy, compared to appropriate control subjects. This study built on information generated from RELIVE-01, a separate but related retrospective study. Through direct contact with previous living kidney donors this study examined the contribution of living kidney donation to the future development of hypertension, proteinuria, renal insufficiency or renal failure and anemia, the potential through these factors or others for increased cardiovascular risk for clinical events including myocardial infarction (MI), congestive heart failure (CHF), need for coronary artery bypass grafting (CABG) or percutaneous coronary angioplasty (PTCA) revascularization, and the impact of living kidney donation on quality of life (QOL) and financial status, compared to applicable control subjects and populations.",
+    "doi": "10.21430/M39RJDHJVB",
+    "endpoints": "The endpoints of this study concern:<ol><li>Hypertension</li><li>Proteinuria</li><li>Renal disease</li><li>Anemia</li><li>Myocardial infarction</li><li>Heart failure</li><li>Stroke</li><li>History of prior coronary artery bypass graft surgery (CABG)/ or coronary artery angioplasty with or without stent placement (PTCA)</li><li>Quality of life</li><li>Insurance status</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "<ol><li>Uninephrectomy is associated with a modest risk, if any, for the development of hypertension, proteinuria, decreased renal function or renal failure, and anemia when former donors are compared with observed age-, sex- and race-specific prevalences derived (i) from population-based sources and (ii) for a subgroup from age-, sex-, race- and health-matched community controls.</li><li>The risk of development of end stage renal disease will be similar to that of enrolled control subjects and lower than the observed general population rates.</li><li>Uninephrectomy is associated with a modest risk, if any, for the development of myocardial infarction, heart failure, stroke, coronary artery bypass grafting/percutaneous coronary angioplasty when former donors are compared with age-, sex- and race-specific prevalences derived (i) from population-based sources and (ii) for a subgroup from age-, sex-, race- and health-matched community controls.</li><li>The magnitude of risk is related to kidney function (estimated Glomerular Filtration Rate) and/or severity of proteinuria.</li><li>Living donors will report better quality of life on standardized scales across all domains than age- and gender-adjusted national norms.</li><li>Living donors will report better quality of life across all domains than age-, gender- and race-matched controls.</li><li>Self-reported insurance access of living donors is comparable to US population norms and age-, gender-matched controls.</li></ol>",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": null,
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "  71.00",
+    "minimum_age": "  19.00",
+    "objectives": "The primary objectives of this study are:<ol><li>To examine the prevalence of (a) hypertension, (b) proteinuria, (c) decreased renal function or renal failure, and (d) anemia in living kidney donors compared with the observed prevalence of these conditions derived from population-based studies and matched community control subjects.</li><li>To examine the prevalence of cardiovascular disease as manifested by (myocardial infarction (MI), heart failure (HF), stroke, CABG/PTCA) in kidney donors compared with the observed prevalence of these conditions derived from population-based studies and matched community control subjects.</li><li>To examine the impact of living kidney donation on long-term quality of life, and the potential impact of donation on access to insurance compared with quality of life normative data and matched community control subjects.</li></ol>The secondary objectives of this study are:<ol><li>To determine whether there are long-term differences in medical health or quality of life by race.</li><li>To determine whether there are long-term differences in medical health or quality of life within white donors by region (Northern versus Southeastern United States residence).</li><li>To determine whether there are long-term differences in medical health or quality of life by surgical technique (open versus laparoscopic nephrectomy).</li><li>To quantify the operative morbidity of donor nephrectomy by surgical technique (open versus laparoscopic nephrectomy).</li><li>To determine whether there are long-term differences in medical health or quality of life for standard versus extended criteria living donors.</li><li>To determine whether there are differences in medical health or quality of life between those who donated 5-20 years ago and those who donated more than 20 years ago.</li><li>To identify donor family history characteristics (kidney disease, diabetes) that may predict future risks for morbidities or renal disease in living donors</li><li>To identify the predictors and correlates of donors quality of life outcomes.</li><li>To compare post-donation blood pressures, estimated Glomerular Filtration Rate, urine protein levels and hemoglobin levels with those derived from population-based studies and matched community control subjects.</li></ol>",
+    "official_title": "Live Kidney Donor Study - Cross-Sectional and Historical Cohort Study (RELIVE-04)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3546,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2092",
+            "description": "People who donated a kidney at one of the three transplant centers from August 2007 until June 2011",
+            "name": "Living Kidney Donors"
+        },
+        {
+            "arm_accession": "ARM2093",
+            "description": "Matched community control participants",
+            "name": "Community Controls"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Sandra",
+            "last_name": "Taler",
+            "organization": "Division of Nephrology and Hypertension, Mayo Clinic",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mayo Clinic"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Living donor age and kidney transplant outcomes.",
+            "journal": "Am J Transplant.",
+            "month": "Jun",
+            "year": "2011",
+            "doi": "10.1111/j.1600-6143.2011.03552.x. Epub 2011 May 12.",
+            "pubmed_id": "21564530"
+        },
+        {
+            "title": "Demographic, metabolic, and blood pressure characteristics of living kidney donors spanning five decades.",
+            "journal": "Am J Transplant.",
+            "month": "Feb",
+            "year": "2013",
+            "doi": "10.1111/j.1600-6143.2012.04321.x. Epub 2012 Nov 8.",
+            "pubmed_id": "23137211"
+        },
+        {
+            "title": "Health-related quality of life in kidney donors from the last five decades: results from the RELIVE study.",
+            "journal": "Am J Transplant.",
+            "month": "Nov",
+            "year": "2013",
+            "doi": "10.1111/ajt.12434. Epub 2013 Sep 6.",
+            "pubmed_id": "24011252"
+        },
+        {
+            "title": "Satisfaction With Life Among Living Kidney Donors: A RELIVE Study of Long-Term Donor Outcomes.",
+            "journal": "Transplantation.",
+            "month": "Dec",
+            "year": "2014",
+            "doi": "10.1097/TP.0000000000000360.",
+            "pubmed_id": "25136843"
+        },
+        {
+            "title": "Emotional well-being of living kidney donors: findings from the RELIVE Study.",
+            "journal": "Am J Transplant.",
+            "month": "Nov",
+            "year": "2014",
+            "doi": "10.1111/ajt.12906. Epub 2014 Oct 7.",
+            "pubmed_id": "25293374"
+        },
+        {
+            "title": "Emotional and Financial Experiences of Kidney Donors over the Past 50 Years: The RELIVE Study.",
+            "journal": "Clin J Am Soc Nephrol.",
+            "month": "Dec",
+            "year": "2015",
+            "doi": "10.2215/CJN.07120714. Epub 2015 Oct 13.",
+            "pubmed_id": "26463883"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "RELIVE ",
+            "contract_name": "CLINICAL OUTCOMES OF LIVE ORGAN DONORS - DATA COORDINATING CENTER "
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 4
+            },
+            {
+                "race": "White",
+                "count": 192
+            }
+        ],
+        "gender": [
+            {
+                "Female": 102
+            },
+            {
+                "Male": 94
+            }
+        ]
+    }
+}

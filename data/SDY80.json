@@ -1,0 +1,117 @@
+{
+    "study_accession": "SDY80",
+    "actual_completion_date": null,
+    "actual_enrollment": 64,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "The Center for Human Immunology, Autoimmunity, and Inflammatory Diseases proposes this protocol designed to obtain blood from healthy adult subjects (NIH employees) prior to vaccination and then at various time points after receiving the FDA-licensed seasonal and H1N1 influenza vaccine.  These samples will be used to perform a comprehensive and detailed analysis of the immune system at baseline and in response to vaccination. To our knowledge, this protocol will be the first study to characterize the human cellular and molecular immune system parameters, or immunome, in a large number of healthy adults (NIH employees). This information may be useful in designing newer, more effective vaccines to prevent the spread of H1N1 influenza.",
+    "brief_title": "Cellular and molecular characterization of the immune response in healthy NIH employees at baseline and after immunization with the H1N1 or seasonal influenza vaccines",
+    "clinical_trial": "N",
+    "condition_studied": "Seasonal H1N1 vaccine response in healthy humans",
+    "dcl_id": 2,
+    "description": "The Center for Human Immunology, Autoimmunity, and Inflammatory Diseases proposes this protocol designed to obtain blood from healthy adult subjects (NIH employees) prior to vaccination and then at various time points after receiving the FDA-licensed seasonal and H1N1 influenza vaccine. These samples will be used to perform a comprehensive and detailed analysis of the immune system at baseline and in response to vaccination. To our knowledge, this protocol will be the first study to characterize the human cellular and molecular immune system parameters, or immunome, in a large number of healthy adults (NIH employees). This information may be useful in designing newer, more effective vaccines to prevent the spread of H1N1 influenza. ",
+    "doi": "10.21430/M3STAI2V6T",
+    "endpoints": "The study endpoints consists of a set of research laboratory assessments.",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "The primary objective of this protocol is to perform a comprehensive and detailed analysis of the cellular and molecular immune responses in healthy adults at baseline, and after vaccination with either the seasonal H1N1 and the influenza vaccines. This will be the first study to systematically characterize the human immunome in a large number of healthy subjects (specifically NIH Employees).  Furthermore, we anticipate that this protocol may provide information that may be useful in designing newer, more effective vaccines to prevent the spread of influenza, especially H1N1.",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": null,
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "  85.00",
+    "minimum_age": "  18.00",
+    "objectives": "The primary objective of this protocol is to perform a comprehensive and detailed analysis of the cellular and molecular immune responses in healthy adults at baseline, and after vaccination with either the seasonal H1N1 and the influenza vaccines. This will be the first study to systematically characterize the human immunome in a large number of healthy subjects (specifically NIH Employees).  Furthermore, we anticipate that this protocol may provide information that may be useful in designing newer, more effective vaccines to prevent the spread of influenza, especially H1N1.",
+    "official_title": "Cellular and molecular characterization of the immune response in healthy NIH employees at baseline, and after immunization with the H1N1 or seasonal influenza vaccines",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2771,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM557",
+            "description": "Cohort2",
+            "name": "Cohort2"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "John",
+            "last_name": "Tsang",
+            "organization": "NIH",
+            "role_in_study": "Principal Investigator",
+            "site_name": "NIH"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Global analyses of human immune variation reveal baseline predictors of postvaccination responses.",
+            "journal": "Cell.",
+            "month": "Apr",
+            "year": "2014",
+            "doi": "10.1016/j.cell.2014.03.031.",
+            "pubmed_id": "24725414"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIH Center for Human Immunology, Autoimmunity and Inflammation (CHI)",
+            "contract_name": "Center for Human Immunology, Autoimmunity and  Inflammation"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 227
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 2137
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 301
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 564
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 15
+            },
+            {
+                "race": "Black or African American",
+                "count": 4
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 41
+            }
+        ],
+        "gender": [
+            {
+                "Female": 36
+            },
+            {
+                "Male": 27
+            },
+            {
+                "Not Specified": 1
+            }
+        ]
+    }
+}

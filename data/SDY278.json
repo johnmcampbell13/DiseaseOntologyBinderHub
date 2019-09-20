@@ -1,0 +1,74 @@
+{
+    "study_accession": "SDY278",
+    "actual_completion_date": null,
+    "actual_enrollment": 1,
+    "actual_start_date": null,
+    "age_unit": "Days",
+    "brief_description": "Optimization of ICS and phenotyping panels for the Mal067 study using cryopreserved PBMC samples from the SAC cohort",
+    "brief_title": "Optimization FACS panels",
+    "clinical_trial": "N",
+    "condition_studied": "Vaccine immunogenicity and correlates of protection",
+    "dcl_id": 2,
+    "description": "Optimization of ICS and phenotyping panels for the Mal067 study using cryopreserved PBMC samples from the SAC cohort",
+    "doi": "10.21430/M392SKIDA9",
+    "endpoints": "Primary endpoint is to enumerate antigen-specific cytokine-producing T-cells cells by intracellular cytokine staining and flow cytometry. Secondary and exploratory endpoints will include frequency of T cells expressing ctyotoxic markers and relative frequencies of cell subsets using ICS and aphenotyping staining panel.",
+    "gender_included": "Unknown",
+    "hypothesis": "Vaccination induces antigen-specific T cells that can be identified by ICS and flow cytometry upon antigen restimulation in vitro.",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-03-18",
+    "latest_data_release_version": "DR18",
+    "maximum_age": "    .00",
+    "minimum_age": "    .00",
+    "objectives": "To determine antigen-specific T-cell responses, frequencies of cell subsets, and memory and activation immune status",
+    "official_title": "Optimization Flow Cytometry panels for Mal067 study",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2517,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1901",
+            "description": "Cohort of healthy US adults",
+            "name": "SAC Control"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Julie",
+            "last_name": "McElrath",
+            "organization": "FHCRC",
+            "role_in_study": "Principal Investigator",
+            "site_name": "FHCRC"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Immune Profile and Network Analysis of Malaria Infection and Vaccination"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 3
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 1
+            }
+        ],
+        "gender": [
+            {
+                "Unknown": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "study_accession": "SDY404",
+    "actual_completion_date": null,
+    "actual_enrollment": 72,
+    "actual_start_date": "2011-01-01",
+    "age_unit": "Years",
+    "brief_description": "Project 1: Immunologic and genomic signatures of influenza vaccine response  - year2 2011",
+    "brief_title": "Immunologic and genomic signatures of influenza vaccine response - 2011 (see companion studies SDY63, SDY400, SDY520)",
+    "clinical_trial": "N",
+    "condition_studied": "Immunologic and genomic signatures of influenza vaccine response",
+    "dcl_id": 2,
+    "description": "Project 1: Immunologic and genomic signatures of influenza vaccine response  - year2 2011",
+    "doi": "10.21430/M3GWQRC8DT",
+    "endpoints": "B cells (ASC, Memory); T cells (Ag specific CD8 and CD4, memory T cell subsets, Tregs, exhausted/senescent); in vitro activation of flu-specific T cells; Monocyte/DC stim by flu or through TLRs; innate cell TLR expression; Luminex assays of cytokines post vaccine; Illumina HT12 bead chip and Nanostring.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Define signatures for immune responsiveness by functional systems immunology",
+    "initial_data_release_date": "2016-02-05",
+    "initial_data_release_version": "DR17",
+    "intervention_agent": "Trivalent inactivated influenza",
+    "latest_data_release_date": "2016-02-05",
+    "latest_data_release_version": "DR17",
+    "maximum_age": "  90.00",
+    "minimum_age": "  22.00",
+    "objectives": "Identification of immunologic, gene expression, and genetic loci signatures of vaccine response, and effects of aging and functional status on these signatures.",
+    "official_title": "Immunologic and genomic signatures of influenza vaccine response - 2011 (see companion studies SDY63, SDY400, SDY520)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2668,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2358",
+            "description": "Young adults 21-30 years old",
+            "name": "Young adults 21-30 years old"
+        },
+        {
+            "arm_accession": "ARM2359",
+            "description": "Older adults >= 65 years old",
+            "name": "Older adults >= 65 years old"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Hafler",
+            "organization": "Yale",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Yale"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Prolonged proinflammatory cytokine production in monocytes modulated by interleukin 10 after influenza vaccination in older adults.",
+            "journal": "J Infect Dis.",
+            "month": "Apr",
+            "year": "2015",
+            "doi": "10.1093/infdis/jiu573. Epub 2014 Nov 2.",
+            "pubmed_id": "25367297"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Defining signatures for immune responsiveness by functional systems immunology HIPC1"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 2062
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 138
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 512
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 7
+            },
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "Other",
+                "count": 3
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 59
+            }
+        ],
+        "gender": [
+            {
+                "Female": 42
+            },
+            {
+                "Male": 30
+            }
+        ]
+    }
+}

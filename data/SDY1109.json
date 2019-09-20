@@ -1,0 +1,78 @@
+{
+    "study_accession": "SDY1109",
+    "actual_completion_date": "2017-05-01",
+    "actual_enrollment": 128,
+    "actual_start_date": "2015-07-29",
+    "age_unit": "Years",
+    "brief_description": "We performed DENV-specific epitope screening studies in the general population of Managua.  Peptides with the capacity to bind HLA DR molecules most common in the Nicaraguan population have been predicted and screened in an HLA matched fashion in blood donors from the Nicaraguan Red Cross previously exposed to dengue virus.",
+    "brief_title": "CD4 Nicaragua Epitope ID",
+    "clinical_trial": "N",
+    "condition_studied": "Dengue virus-specific epitope screening",
+    "dcl_id": 2,
+    "description": "We performed DENV-specific epitope screening studies in the general population of Managua.  Peptides with the capacity to bind HLA DR molecules most common in the Nicaraguan population have been predicted and screened in an HLA matched fashion in blood donors from the Nicaraguan Red Cross previously exposed to dengue virus.",
+    "doi": "10.21430/M3VF5F8ANE",
+    "endpoints": "HLA Typing, ELISPOT",
+    "gender_included": "Unknown",
+    "hypothesis": "Not hypothesis based. Discovery of epitopes in the general population.",
+    "initial_data_release_date": "2017-11-07",
+    "initial_data_release_version": "DR24",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-11-07",
+    "latest_data_release_version": "DR24",
+    "maximum_age": "  18.00",
+    "minimum_age": "  18.00",
+    "objectives": "To identify and define CD4 epitopes in the general Nicaraguan population.",
+    "official_title": "Identification of CD4 Epitopes in the General Nicaraguan Population",
+    "sponsoring_organization": "NIH",
+    "target_enrollment": 120,
+    "workspace_id": 4845,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3919",
+            "description": "Buffy coats are collected from the Nicaraguan Red Cross blood bank. PBMCs are isolated and then shipped to the U.S.",
+            "name": "Nicaragua National Blood Bank Study"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Alessandro",
+            "last_name": "Sette",
+            "organization": "La Jolla Institute for Allergy and Immunology",
+            "role_in_study": "Principal Investigator",
+            "site_name": "La Jolla Institute for Allergy and Immunology"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Protective Immunity Following Dengue Virus Natural Infections and Vaccination",
+            "contract_name": "Protective Immunity Following Dengue Virus Natural Infections and Vaccination"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 1931
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 127
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 128
+            }
+        ],
+        "gender": [
+            {
+                "Unknown": 128
+            }
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "study_accession": "SDY1464",
+    "actual_completion_date": "2014-01-01",
+    "actual_enrollment": 26,
+    "actual_start_date": "2013-01-01",
+    "age_unit": "Years",
+    "brief_description": "Systems biology approach to examine effects of seasonal flu vaccination in adults of different ages on gene expression, cytokine stimulation and serum cytokines with parameters such as immune senescence to uncover new markers and mechanisms behind failure of immune function in many older people.",
+    "brief_title": "T cell responses to H1N1v and a longitudinal study of seasonal influenza vaccination SLVP015 2014",
+    "clinical_trial": "N",
+    "condition_studied": "Influenza vaccine",
+    "dcl_id": 0,
+    "description": "Systems biology approach to examine effects of seasonal flu vaccination in adults of different ages on gene expression, cytokine stimulation and serum cytokines with parameters such as immune senescence to uncover new markers and mechanisms behind failure of immune function in many older people.",
+    "doi": "10.21430/M3AUKDIXFI",
+    "endpoints": "1. Combinatorial tetramer analysis by FACS and/or CyTOF; Phosphoflow. 2. Luminex; Gene expression profiling (Affymetrix microarray). 3. Luminex; Gene expression profiling (Affymetrix microarry); Microneutralization assays. 4. Gene expression profiling (Affymetrix microarray); Immune phenotyping by CyTOF. 5. Gene expression profiling (Affymetrix microarray). 6. Immune phenotyping by CyTOF; Luminex. 7. ELISA",
+    "gender_included": "Not Specified",
+    "hypothesis": "Human immune metrics can be determined that will predict responsiveness to flu vaccine.",
+    "initial_data_release_date": "2019-09-16",
+    "initial_data_release_version": "DR32",
+    "intervention_agent": "Influenza vaccine",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "  85.00",
+    "minimum_age": "  22.00",
+    "objectives": "1. Compare lymphocyte responses at Days 6-8 and the lymphocyte and serology responses at Day 28 post-immunization following administration of seasonal trivalent inactivated influenza vaccine. 2. Evaluate changes in cytokine profile in the immune response (CD4, CD8, gamma-delta cells, B cell responses) from Day 0 to Day 6-8 for T cells and antibody-secreting cells (ASCs). 3. Evaluate changes in cytokine profile in the immune response (CD4, CD8, gamma-delta cells, B cell, and serology responses) from Day 0 to Day 28 for HAI responses. 4. Evaluate any potential gene expression signatures either at Day 0 or during the early response period Day 6-8 that are associated with immune senescence, potentially providing insight into mechanism. 5. Compare cell specific gene expression differences between age groups for both whole blood and whole PBMC. 6. Determine the effect of cell subset frequency variation on serum cytokine abundance. 7. Evaluate CMV and EBV seroreactivity at Day 0 and additional timepoints throughout the study as able.",
+    "official_title": "T cell responses to H1N1v and a longitudinal study of seasonal influenza vaccination - 2014",
+    "sponsoring_organization": "SLVP015_2007",
+    "target_enrollment": 50,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4810",
+            "description": "60-79 year old adults immunized intramuscularly with Fluzone (TIV)",
+            "name": "Group B"
+        },
+        {
+            "arm_accession": "ARM4811",
+            "description": "18-30 year old adults immunized intramuscularly with Fluzone (TIV)",
+            "name": "Group A"
+        },
+        {
+            "arm_accession": "ARM4812",
+            "description": "80-100 year old adults immunized intramuscularly with Fluzone (TIV)",
+            "name": "Group C"
+        },
+        {
+            "arm_accession": "ARM4813",
+            "description": "phospho  flow_cytometry control samples",
+            "name": "phospho flow_cytometry control samples"
+        },
+        {
+            "arm_accession": "ARM4814",
+            "description": "CyTOF technical control samples",
+            "name": "CyTOF technical control samples"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark",
+            "last_name": "Davis",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "A clinically meaningful metric of immune age derived from high-dimensional longitudinal monitoring.",
+            "journal": "Nat Med.",
+            "month": "Mar",
+            "year": "2019",
+            "doi": "10.1038/s41591-019-0381-y. Epub 2019 Mar 6.",
+            "pubmed_id": "30842675"
+        }
+    ],
+    "program": [],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Other",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 21
+            }
+        ],
+        "gender": [
+            {
+                "Female": 14
+            },
+            {
+                "Male": 12
+            }
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "study_accession": "SDY1099",
+    "actual_completion_date": "2016-12-30",
+    "actual_enrollment": 8,
+    "actual_start_date": "2014-01-04",
+    "age_unit": "Months",
+    "brief_description": "Cytogenetically normal acute myeloid leukemia (CN-AML) represents nearly 50% of human AML. Co-occurring mutations in the de novo DNA methyltransferase DNMT3A and the FMS related tyrosine kinase 3 (FLT3) are common in CN-AML and confer a poorer prognosis, but the molecular mechnism of the double-mutant is unknown. By using a rapid mouse model of FLT3/DNMT3A-Mutant AML and advanced global scRNAseq and methylation profiling techniques, the study demonstrates that DNMT3A haploinsufficiency results in reversible epigenetic alterations that transform FLT3 ITD -mutant myeloproliferative neoplasm into AML.",
+    "brief_title": "DNMT3A Haploinsufficiency Transforms FLT3 ITD Myeloproliferative Disease into AML",
+    "clinical_trial": "N",
+    "condition_studied": "Acute Myeloid Leukemia",
+    "dcl_id": 2,
+    "description": "Cytogenetically normal acute myeloid leukemia (CN-AML) represents nearly 50% of human AML. Co-occurring mutations in the de novo DNA methyltransferase DNMT3A and the FMS related tyrosine kinase 3 (FLT3) are common in CN-AML and confer a poorer prognosis, but the molecular mechnism of the double-mutant is unknown. By using a rapid mouse model of FLT3/DNMT3A-Mutant AML and advanced global scRNAseq and methylation profiling techniques, the study demonstrates that DNMT3A haploinsufficiency results in reversible epigenetic alterations that transform FLT3 ITD -mutant myeloproliferative neoplasm into AML.",
+    "doi": "10.21430/M3NA6MQNX3",
+    "endpoints": "A mouse model of FLT3-ITD/DNMT3A-Mutant AML and its phenotypre data including Survival curve, HE staining, and CFU). Validation of Flt3 and Dnmt3a in models: semi-qPCR, and spectral karyotype analysis. Methylation profiles (GSE77026) and RNAseq results.  RT-qPCR validation on hypomethylated genes. Functional validation of Dnmt3a driver effect.",
+    "gender_included": "Not Specified",
+    "hypothesis": "The synegistic effects of two frequent mutated genes DNMT3A and Flt3-ITD in AML play the role in initiating leukemogenesis",
+    "initial_data_release_date": "2017-06-16",
+    "initial_data_release_version": "DR22",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "   1.00",
+    "minimum_age": "   1.00",
+    "objectives": "To test whether Flt3 and Dnmt3a mutations cooperate to initiate leukemogenesis, to Investigate whether the model recapitulated the epigenetic abnormalities seen in human DNMT3A -mutant AML, to identify the cellular architecture of the murine AML model using single-cell RNA sequencing (scRNA-seq), and to determine whether manipulating DNMT3A levels would reverse methylation, gene expression, and/or clonogenicity.",
+    "official_title": "DNMT3A Haploinsufficiency Transforms FLT3 ITD Myeloproliferative Disease into a Rapid, Spontaneous, and Fully Penetrant Acute Myeloid Leukemia",
+    "sponsoring_organization": "NIH, LAVFW, CancerFree KIDS, University of Cincinnati and CCHMC, LLSTRP",
+    "target_enrollment": 8,
+    "workspace_id": 5595,
+    "research_focus": [
+        "Oncology"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3857",
+            "description": "mice with myeloproliferative neoplasma, Flt3 ITD/ITD; Dnmt3a fl/fl mice, bulk RNA from ckit+ splenocytes",
+            "name": "mus_MPN_control_bulk splenocytes"
+        },
+        {
+            "arm_accession": "ARM3858",
+            "description": "AML mice with Flt3 ITD/ITD; Dnmt3a fl/fl MxCre mice, bulk RNA from ckit+ splenocytes",
+            "name": "mus_AML_bulk splenocytes"
+        },
+        {
+            "arm_accession": "ARM3859",
+            "description": "AML mice with Flt3 ITD/ITD; Dnmt3a fl/fl MxCre mice, single cell  RNA from ckit+ splenocytes",
+            "name": "mus_AML_single splenocyte Cell"
+        },
+        {
+            "arm_accession": "ARM3860",
+            "description": "Wild Type murine LIN ? SCA-1 + c-KIT + (LSK) as a normal baseline comparison in corresponding methylation levels",
+            "name": "mus_WT"
+        },
+        {
+            "arm_accession": "ARM3861",
+            "description": "mice with myeloproliferative neoplasma, Flt3 ITD/ITD; Dnmt3a fl/f",
+            "name": "mus_MPN"
+        },
+        {
+            "arm_accession": "ARM3862",
+            "description": "AML mice with Flt3 ITD/ITD; Dnmt3a fl/fl MxCre",
+            "name": "mus_AML"
+        },
+        {
+            "arm_accession": "ARM3863",
+            "description": "16 patients with AML and identified mut FLT-ITD and Dnmt3a wild type",
+            "name": "hum FLT3-ITD AML-Dnmt3a-wt"
+        },
+        {
+            "arm_accession": "ARM3864",
+            "description": "13 patients with AML and identified mut FLT-ITD and Dnmt3a mutant",
+            "name": "hum FLT3-ITD AML-Dnmt3a-mut"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Leighton",
+            "last_name": "Grimes",
+            "organization": "Cincinnati Children?s Hospital Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Division of Immunobiology"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "DNMT3A Haploinsufficiency Transforms FLT3ITD Myeloproliferative Disease into a Rapid, Spontaneous, and Fully Penetrant Acute Myeloid Leukemia.",
+            "journal": "Cancer Discov.",
+            "month": "May",
+            "year": "2016",
+            "doi": "10.1158/2159-8290.CD-16-0008. Epub 2016 Mar 25.",
+            "pubmed_id": "27016502"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Enhance Applicability of Mouse Models for Translational Research (Oncology Model, OMF)",
+            "contract_name": "A rapid spontaneous murine model of CN-AML (Oncology Model, OMF)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 102
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

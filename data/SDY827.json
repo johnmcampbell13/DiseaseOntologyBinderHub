@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY827",
+    "actual_completion_date": null,
+    "actual_enrollment": 5,
+    "actual_start_date": "2008-09-26",
+    "age_unit": "Weeks",
+    "brief_description": "We leveraged mass cytometry, a platform that allows measurement of multiple parameters simultaneously at the single-cell level, to initiate a reference map of the immune system. By combining the throughput of flow cytometry with the resolution of mass spectrometry, this hybrid technology enables the simultaneous quantification of 40 parameters in single cells. Use of mass cytometry allows fluorophore reporters to be replaced with isotopically-pure, stable heavy metal ions conjugated to antibodies or affinity reagents. These reporter ions are then quantified by time-of-flight mass spectrometry to provide single-cell measurements, enabling a more detailed characterization of complex cellular systems for a robust reference map.",
+    "brief_title": "An Interactive Reference Framework for Modeling a Dynamic Immune System",
+    "clinical_trial": "N",
+    "condition_studied": "Immune cell differentiation and marker expression",
+    "dcl_id": 2,
+    "description": "We leveraged mass cytometry, a platform that allows measurement of multiple parameters simultaneously at the single-cell level, to initiate a reference map of the immune system. By combining the throughput of flow cytometry with the resolution of mass spectrometry, this hybrid technology enables the simultaneous quantification of 40 parameters in single cells. Use of mass cytometry allows fluorophore reporters to be replaced with isotopically-pure, stable heavy metal ions conjugated to antibodies or affinity reagents. These reporter ions are then quantified by time-of-flight mass spectrometry to provide single-cell measurements, enabling a more detailed characterization of complex cellular systems for a robust reference map.",
+    "doi": "10.21430/M3JX1JSOLB",
+    "endpoints": "Measure markers in distinct immune cell types and create reference framework to allow comparison to future datasets.",
+    "gender_included": "Male",
+    "hypothesis": "An immunology reference map can be created by performing mass cytometry on immune system tissues throughout the body. This refernce map can be used to compare future datasets to the reference map.",
+    "initial_data_release_date": "2017-01-31",
+    "initial_data_release_version": "DR20",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-01-31",
+    "latest_data_release_version": "DR20",
+    "maximum_age": "  12.00",
+    "minimum_age": "  12.00",
+    "objectives": "Create interactive immune cell reference map.",
+    "official_title": "An Interactive Reference Framework for Modeling a Dynamic Immune System",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 5341,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3227",
+            "description": "C57BL/6 mice",
+            "name": "C57BL/6 mice"
+        },
+        {
+            "arm_accession": "ARM3228",
+            "description": "morning C57BL/6 mice",
+            "name": "morning C57BL/6 mice"
+        },
+        {
+            "arm_accession": "ARM3229",
+            "description": "afternoon C57BL/6 mice",
+            "name": "afternoon C57BL/6 mice"
+        },
+        {
+            "arm_accession": "ARM3230",
+            "description": "129S1/Sv mice",
+            "name": "129S1/Sv mice"
+        },
+        {
+            "arm_accession": "ARM3231",
+            "description": "Balb/c mice",
+            "name": "Balb/c mice"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Garry",
+            "last_name": "Nolan",
+            "organization": "STANFORD UNIVERSITY",
+            "role_in_study": "Principal Investigator",
+            "site_name": "STANFORD UNIVERSITY"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "IMMUNOLOGY. An interactive reference framework for modeling a dynamic immune system.",
+            "journal": "Science.",
+            "month": "Jul",
+            "year": "2015",
+            "doi": "10.1126/science.1259425.",
+            "pubmed_id": "26160952"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Software and Hardware Inference Engines For Automated Determination Of Primary Cell Function",
+            "contract_name": "SOFTWARE & HARDWARE INFERENCE ENGINES FOR AUTOMATED DETERMINATION OF PRIMARY CELL FUNCTION"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 94
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

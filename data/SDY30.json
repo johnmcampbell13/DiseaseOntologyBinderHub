@@ -1,0 +1,109 @@
+{
+    "study_accession": "SDY30",
+    "actual_completion_date": null,
+    "actual_enrollment": 54,
+    "actual_start_date": "2008-07-07",
+    "age_unit": "Not Specified",
+    "brief_description": "To comprehensively study the humoral response to immunization with rPA with or without Alum using in vitro antibody analyses and tissue staining.",
+    "brief_title": "Comprehensive study of germinal center development and antibody response",
+    "clinical_trial": "N",
+    "condition_studied": "effect of alum on the immune response to rPA",
+    "dcl_id": 2,
+    "description": "To comprehensively study the humoral response to immunization with rPA with or without Alum using in vitro antibody analyses and tissue staining.",
+    "doi": "10.21430/M3THUFGISM",
+    "endpoints": "Mice were sacrificed at designated time points. ELISA and Immunohistochemistry assays were done on samples collected from the mice.",
+    "gender_included": "Female",
+    "hypothesis": null,
+    "initial_data_release_date": "2014-01-17",
+    "initial_data_release_version": "DR7",
+    "intervention_agent": "rPA;Alum\r",
+    "latest_data_release_date": "2014-01-17",
+    "latest_data_release_version": "DR7",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "To comprehensively study the humoral response to immunization with rPA with or without Alum using in vitro antibody analyses and tissue staining.",
+    "official_title": "Comprehensive study of germinal center development and antibody response",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 1885,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM334",
+            "description": "mice were injected day 1 with saline, bleed follow bleeding schedule A (days 2, 8, 15, 22, 29, 36, 50, 64, 79, 86), boost with rPA day 72, sacrifice at day 86",
+            "name": "Saline prime + rPA boost"
+        },
+        {
+            "arm_accession": "ARM335",
+            "description": "mice were injected day 1 with saline, bleed follow bleeding schedule B (day 4, 11, 18, 25, 32, 43, 57, 71, 79, 86), boost with Saline on day 72, sacrifice at day 86",
+            "name": "Saline prime + Saline boost"
+        },
+        {
+            "arm_accession": "ARM336",
+            "description": "mice were injected day 1 with saline, sacrifice at days 2,11, 15, 29, 36, 71 to collect tissues",
+            "name": "Saline prime + No boost"
+        },
+        {
+            "arm_accession": "ARM337",
+            "description": "mice were injected day 1 with rPA 5ug, bleed follow bleeding schedule A (days 2, 8, 15, 22, 29, 36, 50, 64, 79, 86), boost with rPA day 72, sacrifice at day 86",
+            "name": "rPA prime + rPA  boost"
+        },
+        {
+            "arm_accession": "ARM338",
+            "description": "mice were injected day 1 with rPA 5ug, bleed follow bleeding schedule B  (day 4, 11, 18, 25, 32, 43, 57, 71, 79, 86), boost with Saline day 72, sacrifice at day 86",
+            "name": "rPA prime + Saline boost"
+        },
+        {
+            "arm_accession": "ARM339",
+            "description": "mice were injected day 1 with rPA 5ug, sacrifice at days 2,11, 15, 29, 36, 71 to collect tissues",
+            "name": "rPA prime + No boost"
+        },
+        {
+            "arm_accession": "ARM340",
+            "description": "mice were injected day 1 with rPA 5ug and Alum 0.13ug, bleed follow bleeding schedule A  (days 2, 8, 15, 22, 29, 36, 50, 64, 79, 86), boost with rPA day 72, sacrifice at day 86",
+            "name": "rPA - Alum prime + rPA boost"
+        },
+        {
+            "arm_accession": "ARM341",
+            "description": "mice were injected day 1 with rPA 5ug and Alum 0.13ug, bleed follow bleeding schedule B  (day 4, 11, 18, 25, 32, 43, 57, 71, 79, 86), boost with Saline day 72, sacrifice at day 86",
+            "name": "rPA - Alum prime + Saline boost"
+        },
+        {
+            "arm_accession": "ARM342",
+            "description": "mice were injected day 1 with rPA 5ug and Alum 0.13ug, sacrifice at days 2,11, 15, 29, 36, 71 to collect tissues",
+            "name": "rPA - Alum prime + No boost"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Thomas",
+            "last_name": "Kepler",
+            "organization": "Duke Human Vaccine Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Duke Human Vaccine Institute\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "Multiscale Systems Immunology for Adjuvant Development"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 180
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 445
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

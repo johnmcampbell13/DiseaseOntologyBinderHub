@@ -1,0 +1,103 @@
+{
+    "study_accession": "SDY1206",
+    "actual_completion_date": "2015-12-31",
+    "actual_enrollment": 77,
+    "actual_start_date": "2012-01-01",
+    "age_unit": "Years",
+    "brief_description": "This study seeks to identify vaginal microbial community characteristics over time in a large predominantly African-American cohort of pregnant women and test whether particular community characteristics are associated with the risk for subsequent preterm birth.",
+    "brief_title": "Early pregnancy vaginal microbiome trends and preterm birth (see companion study SDY1341)",
+    "clinical_trial": "N",
+    "condition_studied": "Preterm Birth",
+    "dcl_id": 2,
+    "description": "Previous studies have shown that vaginal microbiota of asymptomatic, nonpregnant, reproductive age women cluster into 5 distinct ?community-state types?, which differ both by dominant <i>Lactobacillus</i> species as well as overall community composition. A much greater proportion of African-American and Hispanic women harbored a non-<i>Lactobacillus</i>-dominant community, suggesting that in some women a non-<i>Lactobacillus</i>-based vaginal community may be a normal variant. \nA recent study examined vaginal microbial composition and the risk for preterm birth but had very few African-American subjects and few preterm births. This study characterizes vaginal microbial community characteristics over time in a large predominantly African-American cohort of pregnant women and test whether particular community characteristics are associated with the risk for subsequent preterm birth.",
+    "doi": "10.21430/M3H1U3KJMZ",
+    "endpoints": "Microbiome",
+    "gender_included": "Not Specified",
+    "hypothesis": "Differences in vaginal microbial community structure during pregnancy are associated with preterm birth.",
+    "initial_data_release_date": "2018-01-04",
+    "initial_data_release_version": "DR25",
+    "intervention_agent": "NA",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  39.00",
+    "minimum_age": "  17.00",
+    "objectives": "Identify vaginal microbial community characteristics in a large, predominantly African-American, longitudinal cohort of pregnant women and test whether particular vaginal microbial community characteristics are associated with the risk for subsequent preterm birth.",
+    "official_title": "Early pregnancy vaginal microbiome trends and preterm birth (see companion study SDY1341)",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 77,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4194",
+            "description": "Delivery prior to 37 weeks of gestation",
+            "name": "Case ? Preterm Birth"
+        },
+        {
+            "arm_accession": "ARM4195",
+            "description": "Delivery after 37 weeks of gestation",
+            "name": "Control ? Full Term Birth"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Methodius",
+            "last_name": "Tuuli",
+            "organization": "Washington University in St Louis School of Medicine, St. Louis, MO",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Washington University in St Louis School of Medicine, St. Louis, MO"
+        },
+        {
+            "first_name": "Molly",
+            "last_name": "Stout",
+            "organization": "Washington University in St Louis School of Medicine, St. Louis, MO",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Washington University in St Louis School of Medicine, St. Louis, MO"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Early pregnancy vaginal microbiome trends and preterm birth.",
+            "journal": "Am J Obstet Gynecol.",
+            "month": "Sep",
+            "year": "2017",
+            "doi": "10.1016/j.ajog.2017.05.030. Epub 2017 May 23.",
+            "pubmed_id": "28549981"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "16S rRNA gene sequencing",
+            "number_of_expsamples": 149
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 53
+            },
+            {
+                "race": "Other",
+                "count": 5
+            },
+            {
+                "race": "White",
+                "count": 19
+            }
+        ],
+        "gender": [
+            {
+                "Female": 77
+            }
+        ]
+    }
+}

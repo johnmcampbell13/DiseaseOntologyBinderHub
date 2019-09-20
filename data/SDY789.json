@@ -1,0 +1,83 @@
+{
+    "study_accession": "SDY789",
+    "actual_completion_date": null,
+    "actual_enrollment": 2,
+    "actual_start_date": "2010-09-30",
+    "age_unit": "Years",
+    "brief_description": "Purpose: mRNA expression analysis of DC response to influenza viruses. Experiment variables (brief description of biological sample treatments and time points): human mDCs are infected with H1N1 influenza viruses (IAV) Brevig/1918, California/09, New Caledonia/99 and Texas/91 for 2, 2.4, 3.2, 4, 5, 6, 7 and 8 hours. RNA is isolated and hybridized to gene expression microarrays",
+    "brief_title": "Temporal Response to seasonal and pandemic H1N1 infection in human DCs",
+    "clinical_trial": "N",
+    "condition_studied": "Influenza",
+    "dcl_id": 2,
+    "description": "Purpose: mRNA expression analysis of DC response to influenza viruses. Experiment variables (brief description of biological sample treatments and time points): human mDCs are infected with H1N1 influenza viruses (IAV) Brevig/1918, California/09, New Caledonia/99 and Texas/91 for 2, 2.4, 3.2, 4, 5, 6, 7 and 8 hours. RNA is isolated and hybridized to gene expression microarrays",
+    "doi": "10.21430/M3I7TJB7L2",
+    "endpoints": "Purpose: mRNA expression analysis of DC response to influenza viruses. Experiment variables (brief description of biological sample treatments and time points): human mDCs are infected with H1N1 influenza viruses (IAV) Brevig/1918, California/09, New Caledonia/99 and Texas/91 for 2, 2.4, 3.2, 4, 5, 6, 7 and 8 hours. RNA is isolated and hybridized to gene expression microarrays",
+    "gender_included": "Male",
+    "hypothesis": "Purpose: mRNA expression analysis of DC response to influenza viruses. Experiment variables (brief description of biological sample treatments and time points): human mDCs are infected with H1N1 influenza viruses (IAV) Brevig/1918, California/09, New Caledonia/99 and Texas/91 for 2, 2.4, 3.2, 4, 5, 6, 7 and 8 hours. RNA is isolated and hybridized to gene expression microarrays",
+    "initial_data_release_date": "2016-06-17",
+    "initial_data_release_version": "DR19",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  65.00",
+    "minimum_age": "  50.00",
+    "objectives": "Purpose: mRNA expression analysis of DC response to influenza viruses. Experiment variables (brief description of biological sample treatments and time points): human mDCs are infected with H1N1 influenza viruses (IAV) Brevig/1918, California/09, New Caledonia/99 and Texas/91 for 2, 2.4, 3.2, 4, 5, 6, 7 and 8 hours. RNA is isolated and hybridized to gene expression microarrays",
+    "official_title": "Temporal Response to seasonal and pandemic H1N1 infection in human DCs",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2034,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3149",
+            "description": "Blood Donors",
+            "name": "Donors"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Stuart",
+            "last_name": "Sealfon",
+            "organization": "ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI",
+            "role_in_study": "Principal Investigator",
+            "site_name": "ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Human Dendritic Cell Response Signatures Distinguish 1918, Pandemic, and Seasonal H1N1 Influenza Viruses.",
+            "journal": "J Virol.",
+            "month": "Oct",
+            "year": "2015",
+            "doi": "10.1128/JVI.01523-15. Epub 2015 Jul 29.",
+            "pubmed_id": "26223639"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Mount Sinai School of Medicine Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 240
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 2
+            }
+        ],
+        "gender": [
+            {
+                "Male": 2
+            }
+        ]
+    }
+}

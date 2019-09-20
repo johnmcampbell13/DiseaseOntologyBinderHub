@@ -1,0 +1,88 @@
+{
+    "study_accession": "SDY1373",
+    "actual_completion_date": "2017-08-30",
+    "actual_enrollment": 18,
+    "actual_start_date": "2016-01-01",
+    "age_unit": "Years",
+    "brief_description": "10 adult participants of dose group 3x10^6 pfu, and 10 participants of dose group 20x10^6 pfu. Reads were aligned to the human reference assembly (GRCh38.p7) using STAR software (v2.4.2a; option '--quantMode GeneCounts'). Gene annotation was obtained from Ensembl (release 79, ensemble.org). VOOM+Limma analysis (R software, version 3.2.2) was used to assess differential gene expression at each post-vaccination day (d1, d3 and d7) against baseline (d0). Next, we intergreted gene expression data and antibody response using an sPLS algorithm, in order to down-select genes correlating with multivariate antibody responses at days 28, 54, 84,180.",
+    "brief_title": "Next Generation Sequencing RNA Seq data from UKE Phase I rVSV ZEBOV vaccine clinical trial, from full blood samples on Days 0,1,3,7",
+    "clinical_trial": "N",
+    "condition_studied": "UKE Phase I rVSV ZEBOV vaccine",
+    "dcl_id": 2,
+    "description": "10 adult participants of dose group 3x10^6 pfu, and 10 participants of dose group 20x10^6 pfu. Reads were aligned to the human reference assembly (GRCh38.p7) using STAR software (v2.4.2a; option '--quantMode GeneCounts'). Gene annotation was obtained from Ensembl (release 79, ensemble.org). VOOM+Limma analysis (R software, version 3.2.2) was used to assess differential gene expression at each post-vaccination day (d1, d3 and d7) against baseline (d0). Next, we intergreted gene expression data and antibody response using an sPLS algorithm, in order to down-select genes correlating with multivariate antibody responses at days 28, 54, 84,180.",
+    "doi": "10.21430/M33F47FE9U",
+    "endpoints": "RNA sequencing and array",
+    "gender_included": "Not Specified",
+    "hypothesis": "3x10^6 pfu and 20x10^6 pfu doses of UKE Phase 1 rVSV ZEBOV vaccine will affect gene expression",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": "UKE Phase I rVSV ZEBOV vaccine and effect on differential gene expression",
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "  65.00",
+    "minimum_age": "  18.00",
+    "objectives": "Gene expression by RNA Sequencing and Array to determine efficacy of vaccine",
+    "official_title": "Next Generation Sequencing RNA Seq data from UKE Phase I rVSV ZEBOV vaccine clinical trial, from full blood samples on Days 0,1,3,7",
+    "sponsoring_organization": "NIH",
+    "target_enrollment": 20,
+    "workspace_id": 6133,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4645",
+            "description": "UKE Phase I rVSV ZEBOV vaccine dose received by subject in study",
+            "name": "dose 3x10^6 pfu"
+        },
+        {
+            "arm_accession": "ARM4646",
+            "description": "UKE Phase I rVSV ZEBOV vaccine dose received by subject in study",
+            "name": "dose 20x10^6 ofu"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Lorenzo",
+            "last_name": "Hadrien",
+            "organization": "INSERM/INRIA",
+            "role_in_study": "Principal Investigator",
+            "site_name": "SISTM, Biostatistiques, INSERM/INRIA"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Systems Vaccinology Identifies an Early Innate Immune Signature as a Correlate of Antibody Responses to the Ebola Vaccine rVSV-ZEBOV.",
+            "journal": "Cell Rep.",
+            "month": "Aug",
+            "year": "2017",
+            "doi": "10.1016/j.celrep.2017.08.023.",
+            "pubmed_id": "28854372"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Other Programs",
+            "contract_name": "German Center for Infection Research (DZIF)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 56
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 18
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 18
+            }
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "study_accession": "SDY356",
+    "actual_completion_date": null,
+    "actual_enrollment": 74,
+    "actual_start_date": "2003-06-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to determine if IGIV-C, 10% will be effective in converting a donor-recipient crossmatch status from positive to negative. The crossmatch test is used to determine if the donor tissue and recipient tissue are compatible. The study will also evaluate if IGIV-C, 10% will allow successful kidney transplantation in a patient who otherwise would not be able to receive a transplant. Three dose levels of IGIV-C, 10% will be evaluated to determine what dose level is most effective.",
+    "brief_title": "IG03 Improving Transplant Options of Highly Sensitized Recipients Using IGIV-C 10%",
+    "clinical_trial": "Y",
+    "condition_studied": "Kidney Failure, Chronic",
+    "dcl_id": 2,
+    "description": "Kidney transplantation has emerged as the treatment of choice for patients with end-stage renal disease (ESRD). Preliminary data suggest that IGIV therapy could have significant benefits in modifying allograft rejection episodes, stabilizing long-term allograft function, and reducing ischemia/reperfusion injury. Qualified patients will have an in-vitro assessment of the ability of IGIV-C, 10% to convert the donor-specific crossmatch (cytotoxic assay) from positive to negative. Those patients with successful in-vitro conversion of the donor-specific crossmatch assay will be randomized to receive IGIV-C, 10% intravenously at a dose of either 2 gm/kg, 1 gm/kg, or 0.5 gm/kg. IGIV-C, 10% will be administered 3 to 5 days prior to planned transplantation and, if transplantation is successful, 7 days post-transplant. If after receiving the IGIV-C infusion the donor-specific crossmatch reveals that cell death has fallen to 20% or less above background, the crossmatch will be considered negative. If after receiving one infusion the crossmatch remains positive, additional IGIV-C infusions may be administered at one-month intervals, up to 4 infusions. A repeat crossmatch must be obtained after each infusion. Patients will be followed for 12 months post-transplant. Concomitant therapy will include a standard immunosuppression regimen of mycophenolate mofetil, tacrolimus, and prednisone following induction therapy with thymoglobulin.",
+    "doi": "10.21430/M3TH57S6X3",
+    "endpoints": "Monitoring of crossmatch conversion rate after one infusion of IGIV. Graft survival and function. average percentage panel reactive antibodies (PRA) reduction. donor-specific unresponsiveness and allo-responsiveness in ESRD patients. subject survival. safety endpoints, including incidence rates of infection, adverse events, and hospitalizations.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Preliminary data suggest that IGIV therapy could have significant benefits in modifying allograft rejection episodes, stabilizing long-term allograft function, and reducing ischemia/reperfusion injury.",
+    "initial_data_release_date": "2014-08-07",
+    "initial_data_release_version": "DR11",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-08-07",
+    "latest_data_release_version": "DR11",
+    "maximum_age": "  70.00",
+    "minimum_age": "  11.00",
+    "objectives": "The purpose of this study is to determine if IGIV-C, 10% will be effective in converting a donor-recipient crossmatch status from positive to negative",
+    "official_title": "IG03 Evaluation of Immune Globulin Intravenous (Human), 10%, Manufactured by Chromatography Process (IGIV-C, 10%), as an Agent to Reduce Anti-HLA Antibodies and Improve Transplantation Results in Cross Match Positive Living Donor Kidney Allograft Recipients",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 56,
+    "workspace_id": 3709,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2223",
+            "description": "Low Dose",
+            "name": "Low Dose"
+        },
+        {
+            "arm_accession": "ARM2224",
+            "description": "Middle Dose",
+            "name": "Middle Dose"
+        },
+        {
+            "arm_accession": "ARM2225",
+            "description": "High Dose",
+            "name": "High Dose"
+        },
+        {
+            "arm_accession": "ARM2226",
+            "description": "disqualified from study",
+            "name": "disqualified from study"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Ikle",
+            "organization": "PPD",
+            "role_in_study": "Principal Investigator",
+            "site_name": "-"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Cooperative Clinical Trials in Pediatric Transplantation (CCTPT)",
+            "contract_name": "Data Coordinating Center for Cooperative Clinical Trials in Pediatric Transplantation"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "Black or African American",
+                "count": 7
+            },
+            {
+                "race": "Other",
+                "count": 12
+            },
+            {
+                "race": "White",
+                "count": 53
+            }
+        ],
+        "gender": [
+            {
+                "Female": 53
+            },
+            {
+                "Male": 21
+            }
+        ]
+    }
+}

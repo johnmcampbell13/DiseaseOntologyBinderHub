@@ -1,0 +1,84 @@
+{
+    "study_accession": "SDY654",
+    "actual_completion_date": null,
+    "actual_enrollment": 10,
+    "actual_start_date": "2012-11-01",
+    "age_unit": "Months",
+    "brief_description": "Aging of the world population and a concomitant increase in age-related diseases and disabilities mandates the search for strategies to increase healthspan, the length of time an individual lives healthy and productively. Due to the age-related decline of the immune system, infectious diseases remain among the top 5-10 causes of mortality and morbidity in the elderly, and improving immune function during aging remains an important aspect of healthspan extension. Calorie restriction (CR) and more recently rapamycin (rapa) feeding have both been used to extend lifespan in mice. Preciously few studies have actually investigated the impact of each of these interventions upon in vivo immune defense against relevant microbial challenge in old organisms. We tested how rapa and CR each impacted the immune system in adult and old mice. We report that each intervention differentially altered T-cell development in the thymus, peripheral T-cell maintenance, T-cell function and host survival after West Nile virus infection, inducing distinct but deleterious consequences to the aging immune system. We conclude that neither rapa feeding nor CR, in the current form/administration regimen, may be optimal strategies for extending healthy immune function and, with it, lifespan.",
+    "brief_title": "Lifespan-extending caloric restriction or mTOR inhibition impair adaptive immunity of old mice by distinct mechanisms.",
+    "clinical_trial": "N",
+    "condition_studied": "Life-prolonging CR and rapa erode immunity",
+    "dcl_id": 2,
+    "description": "Aging of the world population and a concomitant increase in age-related diseases and disabilities mandates the search for strategies to increase healthspan, the length of time an individual lives healthy and productively. Due to the age-related decline of the immune system, infectious diseases remain among the top 5-10 causes of mortality and morbidity in the elderly, and improving immune function during aging remains an important aspect of healthspan extension. Calorie restriction (CR) and more recently rapamycin (rapa) feeding have both been used to extend lifespan in mice. Preciously few studies have actually investigated the impact of each of these interventions upon in vivo immune defense against relevant microbial challenge in old organisms. We tested how rapa and CR each impacted the immune system in adult and old mice. We report that each intervention differentially altered T-cell development in the thymus, peripheral T-cell maintenance, T-cell function and host survival after West Nile virus infection, inducing distinct but deleterious consequences to the aging immune system. We conclude that neither rapa feeding nor CR, in the current form/administration regimen, may be optimal strategies for extending healthy immune function and, with it, lifespan.\n",
+    "doi": "10.21430/M33E7TCYXT",
+    "endpoints": "FCM, challenge,",
+    "gender_included": "Male",
+    "hypothesis": "Calorie restriction and rapamycin treatment have a negative impact during primary viral infection",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": null,
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "  18.00",
+    "minimum_age": "   4.00",
+    "objectives": "Determine the effects of calorie restriction during acute viral challenge",
+    "official_title": "Lifespan-extending caloric restriction or mTOR inhibition impair adaptive immunity of old mice by distinct mechanisms.",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3365,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2901",
+            "description": "4 months old C57BL/6 mice",
+            "name": "Goldberg_AgingCell_2015_Adult"
+        },
+        {
+            "arm_accession": "ARM2902",
+            "description": "16-18 months old C57BL/6 mice",
+            "name": "Goldberg_AgingCell_2015_Old"
+        },
+        {
+            "arm_accession": "ARM2903",
+            "description": "16-18 months old C57BL/6 mice that have been calorie restricted",
+            "name": "Goldberg_AgingCell_2015_Old_CR"
+        },
+        {
+            "arm_accession": "ARM2904",
+            "description": "16-18 months old C57BL/6 mice that have been treated with rapamycin",
+            "name": "Goldberg_AgingCell_2015_Old_Rapa"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Janko",
+            "last_name": "Nikolich-Zugich",
+            "organization": "University of Arizona",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Arizona"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Lifespan-extending caloric restriction or mTOR inhibition impair adaptive immunity of old mice by distinct mechanisms.",
+            "journal": "Aging Cell.",
+            "month": "Feb",
+            "year": "2015",
+            "doi": "10.1111/acel.12280. Epub 2014 Nov 26.",
+            "pubmed_id": "25424641"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Immunological basis of age-related vulnerability in biodefense and emerging infections SP2 UAz"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

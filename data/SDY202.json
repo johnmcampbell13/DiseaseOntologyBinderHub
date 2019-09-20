@@ -1,0 +1,128 @@
+{
+    "study_accession": "SDY202",
+    "actual_completion_date": null,
+    "actual_enrollment": 79,
+    "actual_start_date": "2009-01-01",
+    "age_unit": "Years",
+    "brief_description": "To study the plasmablast response to monovalent inactivated 2009 pandemic pH1N1 vaccine",
+    "brief_title": "Heterovariant cross-reactive B-cell responses induced by the 2009 pandemic influenza virus A subtype H1N1 vaccine SLVP021",
+    "clinical_trial": "Y",
+    "condition_studied": "Peripheral plasmablast response to influenza vaccines at day 7 after vaccination",
+    "dcl_id": 2,
+    "description": "To study the plasmablast response to monovalent inactivated 2009 pandemic pH1N1 vaccine",
+    "doi": "10.21430/M3LS2SRM8M",
+    "endpoints": "PPAb titer by Elisa",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "Inactivated influenza pH1N1 vaccine induced different plasmablast response in different age groups",
+    "initial_data_release_date": "2015-02-18",
+    "initial_data_release_version": "DR12",
+    "intervention_agent": "Monovalent inactivated pH1N1 vaccine",
+    "latest_data_release_date": "2015-02-18",
+    "latest_data_release_version": "DR12",
+    "maximum_age": "81",
+    "minimum_age": "18",
+    "objectives": "To measure plasmablast resposne to monovalent inactivated influenza pH1N1 vaccines",
+    "official_title": "Heterovariant cross-reactive B-cell responses induced by the 2009 pandemic influenza virus A subtype H1N1 vaccine",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2215",
+            "description": "Flow cytometry phenotyping technical control samples",
+            "name": "Flow cytometry phenotyping technical control samples"
+        },
+        {
+            "arm_accession": "ARM855",
+            "description": "18-32 year old adults immunized intramuscularly with inactivated 2009 pandemic influenza A/H1N1 (pH1N1) vaccine",
+            "name": "18-32 year old adults immunized intramuscularly with inactivated pH1N1 vaccine"
+        },
+        {
+            "arm_accession": "ARM856",
+            "description": "60-69 year old adults immunized intramuscularly with inactivated 2009 pandemic influenza A/H1N1 (pH1N1) vaccine",
+            "name": "60-69 year old adults immunized intramuscularly inactivated pH1N1 vaccine"
+        },
+        {
+            "arm_accession": "ARM857",
+            "description": ">69 year old adults immunized intramuscularly with inactivated 2009 pandemic influenza A/H1N1 (pH1N1) vaccine",
+            "name": ">69 year old adults immunized intramuscularly with inactivated pH1N1 vaccine"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Harry",
+            "last_name": "Greenberg",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Heterovariant cross-reactive B-cell responses induced by the 2009 pandemic influenza virus A subtype H1N1 vaccine.",
+            "journal": "J Infect Dis.",
+            "month": "Jan",
+            "year": "2013",
+            "doi": "10.1093/infdis/jis664. Epub 2012 Oct 29.",
+            "pubmed_id": "23107783"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 56
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 58
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 1225
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 116
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 501
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 7
+            },
+            {
+                "race": "White",
+                "count": 71
+            }
+        ],
+        "gender": [
+            {
+                "Female": 43
+            },
+            {
+                "Male": 35
+            },
+            {
+                "Not Specified": 1
+            }
+        ]
+    }
+}

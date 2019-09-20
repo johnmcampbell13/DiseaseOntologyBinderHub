@@ -1,0 +1,104 @@
+{
+    "study_accession": "SDY396",
+    "actual_completion_date": "2012-12-28",
+    "actual_enrollment": 18,
+    "actual_start_date": "2011-10-01",
+    "age_unit": "Years",
+    "brief_description": "To use system biology approaches to compare differences in immune responses to vaccine",
+    "brief_title": "Immune Responses to Seasonal LAIV 2011-2012 Influenza Vaccination in Humans (see companion study SDY224,SDY564)",
+    "clinical_trial": "N",
+    "condition_studied": "Immune response in healthy volunteers",
+    "dcl_id": 2,
+    "description": "To use system biology approaches to compare differences in immune responses to vaccine",
+    "doi": "10.21430/M3S7UQFBVS",
+    "endpoints": "Blood samples prior to vaccination and daily sampling  post vaccination up to 10 days and day 21",
+    "gender_included": "Female, Male",
+    "hypothesis": "To understand and describe the mulitdimensional immune response to vaccination",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "LAIV 2011-2012 Seasonal Influenza Vaccine",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "  63.00",
+    "minimum_age": "  21.00",
+    "objectives": "Develop detailed, multi-level, multi-scale high dimensional mathematical models of  the immune response to seasonal influenza vaccination",
+    "official_title": "Immune Responses to Seasonal LAIV 2011-2012 Influenza Vaccination in Humans (see companion study SDY224,SDY564)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 20,
+    "workspace_id": 2104,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2343",
+            "description": "Subjects receiving LAIV seasonal vaccine in the 2011-2012 influenza season",
+            "name": "LAIV 2011"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Hulin",
+            "last_name": "Wu",
+            "organization": "University of Rochester Center for Biodefense Immune Modeling",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester Medical Center"
+        },
+        {
+            "first_name": "Martin",
+            "last_name": "Zand",
+            "organization": "University of Rochester Center for Biodefense Immune Modeling",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester Medical Center"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "University of Rochester Center for Biodefense Immune Modeling II"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 642
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 381
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 1513
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 693
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 14
+            }
+        ],
+        "gender": [
+            {
+                "Female": 10
+            },
+            {
+                "Male": 8
+            }
+        ]
+    }
+}

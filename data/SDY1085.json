@@ -1,0 +1,99 @@
+{
+    "study_accession": "SDY1085",
+    "actual_completion_date": "2016-12-30",
+    "actual_enrollment": 6,
+    "actual_start_date": "2014-10-01",
+    "age_unit": "Months",
+    "brief_description": "The molecular mechanism of microglial associated optic glioma is still unknown. To identify potential tumor-associated microglial factors, global RNAseq gene expression experiment was conducted in the mouse glioma models. After validating of prioritized potential secreted or membrane-bound proteins, chemokine (C-C motif) ligand 5 (Ccl5) was identified as a chemokine highly expressed in genetically engineered Nf1 mouse optic gliomas relative to nonneoplastic optic nerves. Some positive effects of targeted Ccl5 in vito and vivo experiments establish Ccl5 as a relevant stroma-targeted low-grade brain tumor treatment marker",
+    "brief_title": "RNAseq of Tumor-Associated Microglia Reveals Ccl5 as a Stromal Chemokine Critical for NF1 Glioma Growth",
+    "clinical_trial": "N",
+    "condition_studied": "Brain tumor ? optic glioma",
+    "dcl_id": 2,
+    "description": "Solid cancers develop within a supportive microenvironment that promotes tumor formation and growth through the elaboration of mitogens and chemokines. Within these tumors, monocytes (macrophages and microglia) represent rich sources of these stromal factors. Leveraging a genetically engineered mouse model of neurofibromatosis type 1 (NF1) low-grade brain tumor (optic glioma), we have previously demonstrated that microglia are essential for glioma formation and maintenance. To identify potential tumor-associated microglial factors that support glioma growth (gliomagens), we initiated a comprehensive large-scale discovery effort using optimized RNA-sequencing methods focused specifically on glioma-associated microglia. Candidate microglial gliomagens were prioritized to identify potential secreted or membrane-bound proteins, which were next validated by quantitative real-time polymerase chain reaction as well as by RNA fluorescence in situ hybridization following minocycline-mediated microglial inactivation in vivo. Using these selection criteria, chemokine (C-C motif) ligand 5 (Ccl5) was identified as a chemokine highly expressed in genetically engineered Nf1 mouse optic gliomas relative to nonneoplastic optic nerves. As a candidate gliomagen, recombinant Ccl5 increased Nf1-deficient optic nerve astrocyte growth in vitro. Importantly, consistent with its critical role in maintaining tumor growth, treatment with Ccl5 neutralizing antibodies reduced Nf1 mouse optic glioma growth and improved retinal dysfunction in vivo. Collectively, these findings establish Ccl5 as an important microglial growth factor for low-grade glioma maintenance relevant to the development of future stroma-targeted brain tumor therapies",
+    "doi": "10.21430/M3AZ2NQ0XP",
+    "endpoints": "images on microglial phenotype changes (microglial process length) and RNA-FISH on Ccl5 and Cxcl13, gene expression levels of prioritized gene in paired samples, and function analysis results of cell proliferation or tumor growth after treatment of Minocycline and Ccl5 neutralizing antibodies",
+    "gender_included": "Not Specified",
+    "hypothesis": "Brain tumor surrounding microenviroment such as microglia has the potential to provide mitogens and chemokins to promote tumor formation and growth",
+    "initial_data_release_date": "2017-06-16",
+    "initial_data_release_version": "DR22",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "   3.00",
+    "minimum_age": "   3.00",
+    "objectives": "To identify and validate potential tumor-associated microglial factors that support glioma growth and explore the theraputic potentials in mouse model",
+    "official_title": "RNA Sequencing of Tumor-Associated Microglia Reveals Ccl5 as a Stromal Chemokine Critical for Neurofibromatosis-1 Glioma Growth Type",
+    "sponsoring_organization": "NCI, NIH, W.M. Keck Foundation, James S. McDonnell Foundation",
+    "target_enrollment": null,
+    "workspace_id": 5597,
+    "research_focus": [
+        "Oncology"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3820",
+            "description": "Nf1(flox/flox), Exons 31 and 32 of the Nf1 gene flanked by loxP sites, CNS Abnormality-none",
+            "name": "WT"
+        },
+        {
+            "arm_accession": "ARM3821",
+            "description": "Nf1(flox/mut), littermates were used as non-glioma controls, Reduced Nf1 gene expression, CNS Abnormality-No glioma",
+            "name": "FM"
+        },
+        {
+            "arm_accession": "ARM3822",
+            "description": "Nf1(flox/mut)_GFAP-Cre (FMC), Complete Nf1 loss in Neuroglial progenitors and Reduced Nf1 gene expression in Surrounding cells, CNS Abnormality-optic glioma",
+            "name": "FMC"
+        },
+        {
+            "arm_accession": "ARM3823",
+            "description": "Nf1(flox/mut), Pten flox/wt, GFAP-Cre (FMPC), Complete Nf1 loss and Pten+/? in Neuroglial progenitors and Reduced Nf1 gene expression in Surrounding cells, CNS Abnormality-optic glioma",
+            "name": "FMPC"
+        },
+        {
+            "arm_accession": "ARM3824",
+            "description": "Minocycline treatment in FMC mice",
+            "name": "Minocycline"
+        },
+        {
+            "arm_accession": "ARM3825",
+            "description": "Anti-Ccl5 Antibody treatment in FMC mice",
+            "name": "Anti-Ccl5 Antibody"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Gutmann",
+            "organization": "Washington University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Neurology"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "RNA Sequencing of Tumor-Associated Microglia Reveals Ccl5 as a Stromal Chemokine Critical for Neurofibromatosis-1 Glioma Growth.",
+            "journal": "Neoplasia.",
+            "month": "Oct",
+            "year": "2015",
+            "doi": "10.1016/j.neo.2015.10.002.",
+            "pubmed_id": "26585233"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Enhance Applicability of Mouse Models for Translational Research (Oncology Model, OMF)",
+            "contract_name": "Leveraging Genetically-Engineered Mice to Optimize Pediatric Glioma Management"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 7
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

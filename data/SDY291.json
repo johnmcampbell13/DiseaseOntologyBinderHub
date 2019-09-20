@@ -1,0 +1,143 @@
+{
+    "study_accession": "SDY291",
+    "actual_completion_date": "2010-01-29",
+    "actual_enrollment": 413,
+    "actual_start_date": "2009-09-01",
+    "age_unit": "Years",
+    "brief_description": "As part of a cross-sectional study of living kidney donors from 5 to more than 50 years following donor nephrectomy, this study's goal is to accurately measure current Glomerular Filtration Rate (GFR), then to look at the change in GFR from pre to post donation and from early to late time points after donation. This study builds on information generated from RELIVE-01 and RELIVE-04. Through direct contact with previous living kidney donors, this study aims to quantify changes in renal function (measured GFR) from pre to early post donation using data already collected in a related retrospective study (RELIVE 01), and the change in renal function from early (in the first 2 years) post donation to late (beyond the first 2 years) post donation by repeating a GFR measurement. Cross-sectional GFR measurements from black donors compared to white donors matched for age, sex, weight and time from donation will provide data on differences in GFR late after donor nephrectomy by race. When compared to GFR estimates using predictive equations at each of these time points, we can evaluate the accuracy of estimated GFR in white and black donor populations.",
+    "brief_title": "Live Kidney Donor Study -Renal Function Study (RELIVE-06)",
+    "clinical_trial": "Y",
+    "condition_studied": "Kidney Transplantation",
+    "dcl_id": 2,
+    "description": "As part of a cross-sectional study of living kidney donors from 5 to more than 50 years following donor nephrectomy, this study's goal is to accurately measure current Glomerular Filtration Rate (GFR), then to look at the change in GFR from pre to post donation and from early to late time points after donation. This study builds on information generated from RELIVE-01 and RELIVE-04. Through direct contact with previous living kidney donors, this study aims to quantify changes in renal function (measured GFR) from pre to early post donation using data already collected in a related retrospective study (RELIVE 01), and the change in renal function from early (in the first 2 years) post donation to late (beyond the first 2 years) post donation by repeating a GFR measurement. Cross-sectional GFR measurements from black donors compared to white donors matched for age, sex, weight and time from donation will provide data on differences in GFR late after donor nephrectomy by race. When compared to GFR estimates using predictive equations at each of these time points, we can evaluate the accuracy of estimated GFR in white and black donor populations. ",
+    "doi": "10.21430/M33MG60QVQ",
+    "endpoints": "The primary outcomes of this study are:<ol><li>Change in measured GFR from before donor nephrectomy compared to early (within first 2 years) after donor nephrectomy.</li><li>Change in measured GFR from early after donor nephrectomy compared to late (beyond first 2 years) after donor nephrectomy.</li><li>Differences in measured GFR in black donors compared to white donors matched by age, sex, weight and time from donation.</li><li>Incremental differences between measured GFR and estimated GFR before donor nephrectomy, early after donor nephrectomy, and late after donor nephrectomy.</li></ol>The secondary outcomes of this study are:<ol><li>Differences in measured GFR between hypertensive donors and normotensive donors.</li><li>Differences in measured GFR between donors with familial history of renal disease (LRD) and donors without familial history of renal disease (LURD).</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "<ol><li>Uninephrectomy is associated with a reduction in Glomerular Filtration Rate (GFR) of 50% immediately and with a net reduction of 30-40 % within the first 2 years after donor nephrectomy.</li><li>Uninephrectomy is associated with a net reduction of 30-40 % within the first 2 years after donor nephrectomy which remains stable with minimal additional function loss (<5%) over subsequent decades.</li><li>Measured GFR will differ between black donors and white donors following donor nephrectomy when controlled for age, sex, weight, time from donation and the absence of hypertension or proteinuria. Specifically, measured GFR of black donors will be up to 20% higher than the measured GFR of their white donor counterparts in linear regression analysis.</li><li>MDRD equations will underestimate and CG equations will overestimate the level of measured GFR in living kidney donors.</li></ol>",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": "Glomerular Filtration Rate with Iothalamate, Glomerular Filtration Rate with Iohexol",
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "  71.00",
+    "minimum_age": "  16.00",
+    "objectives": "The primary objectives of this study are:<ol><li>To quantify the change in Glomerular Filtration Rate (GFR) from before to early after nephrectomy. This objective will be available for the larger Mayo Clinic donor group using data collected in RELIVE 01, dating from 1994 on.</li><li>To quantify the change in GFR from early after nephrectomy to late after nephrectomy, stratified by decade and clinical variables. This objective will be accomplished by inviting donors who underwent a previous GFR measurement at some time after donor nephrectomy to undergo a second measurement using similar technique. These donors will be invited back to their transplant center to undergo GFR measurement. Special attention will be paid to donor characteristics at the time of donation to enrich the study group with special interest donors who were hypertensive, obese, or older at the time of donation and to invite donors with longer time since donation to assess changes over a longer time.</li><li>To compare measured GFR in black donors to measured GFR in white donors matched by age, sex, weight and time from donation between study sites (Mayo and UAB) and within a single center (UAB).</li><li>To compare measured GFR at each time point (before, early after and late after) donor nephrectomy to estimated GFR from prediction equations to examine the accuracy of these equations in the donor population. Comparison by race will also be performed at the late after time-point.</li></ol>The secondary objectives of this study are:<ol><li>To compare the change in measured GFR from before, early after, and late after donor nephrectomy in hypertensive donors to normotensive donors.</li><li>To compare the change in measured GFR from before, early after, and late after donor nephrectomy in donors with family members with renal disease compared to those without family members with renal disease (LRD versus LURD donors).</li></ol>",
+    "official_title": "Live Kidney Donor Study -Renal Function Study (RELIVE-06)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3546,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2094",
+            "description": "Subjects who donated a kidney at location 8201",
+            "name": "Subjects who donated a kidney at location 8201"
+        },
+        {
+            "arm_accession": "ARM2095",
+            "description": "Subjects who donated a kidney at location 8128",
+            "name": "Subjects who donated a kidney at location 8128"
+        },
+        {
+            "arm_accession": "ARM2096",
+            "description": "Subjects who donated a kidney at the University of Alabama",
+            "name": "Subjects who donated a kidney at the University of Alabama"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Sandra",
+            "last_name": "Taler",
+            "organization": "Division of Nephrology and Hypertension, Mayo Clinic",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mayo Clinic"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Living donor age and kidney transplant outcomes.",
+            "journal": "Am J Transplant.",
+            "month": "Jun",
+            "year": "2011",
+            "doi": "10.1111/j.1600-6143.2011.03552.x. Epub 2011 May 12.",
+            "pubmed_id": "21564530"
+        },
+        {
+            "title": "Demographic, metabolic, and blood pressure characteristics of living kidney donors spanning five decades.",
+            "journal": "Am J Transplant.",
+            "month": "Feb",
+            "year": "2013",
+            "doi": "10.1111/j.1600-6143.2012.04321.x. Epub 2012 Nov 8.",
+            "pubmed_id": "23137211"
+        },
+        {
+            "title": "Health-related quality of life in kidney donors from the last five decades: results from the RELIVE study.",
+            "journal": "Am J Transplant.",
+            "month": "Nov",
+            "year": "2013",
+            "doi": "10.1111/ajt.12434. Epub 2013 Sep 6.",
+            "pubmed_id": "24011252"
+        },
+        {
+            "title": "Satisfaction With Life Among Living Kidney Donors: A RELIVE Study of Long-Term Donor Outcomes.",
+            "journal": "Transplantation.",
+            "month": "Dec",
+            "year": "2014",
+            "doi": "10.1097/TP.0000000000000360.",
+            "pubmed_id": "25136843"
+        },
+        {
+            "title": "Emotional well-being of living kidney donors: findings from the RELIVE Study.",
+            "journal": "Am J Transplant.",
+            "month": "Nov",
+            "year": "2014",
+            "doi": "10.1111/ajt.12906. Epub 2014 Oct 7.",
+            "pubmed_id": "25293374"
+        },
+        {
+            "title": "Emotional and Financial Experiences of Kidney Donors over the Past 50 Years: The RELIVE Study.",
+            "journal": "Clin J Am Soc Nephrol.",
+            "month": "Dec",
+            "year": "2015",
+            "doi": "10.2215/CJN.07120714. Epub 2015 Oct 13.",
+            "pubmed_id": "26463883"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "RELIVE ",
+            "contract_name": "CLINICAL OUTCOMES OF LIVE ORGAN DONORS - DATA COORDINATING CENTER "
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 67
+            },
+            {
+                "race": "Unknown",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 342
+            }
+        ],
+        "gender": [
+            {
+                "Female": 240
+            },
+            {
+                "Male": 173
+            }
+        ]
+    }
+}

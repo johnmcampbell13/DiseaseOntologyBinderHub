@@ -1,0 +1,85 @@
+{
+    "study_accession": "SDY355",
+    "actual_completion_date": null,
+    "actual_enrollment": 26,
+    "actual_start_date": "1999-11-02",
+    "age_unit": "Years",
+    "brief_description": "This study is designed to test the clinical and laboratory observations that suggest IVIG given before and after kidney transplant to patients who are sensitized (highly sensitive) to certain transplant antigens could result in reduced sensitization and reduced rates of kidney rejection. Some ESRD patients are highly sensitive to certain transplant antigens (foreign substances that activate the immune system) and must wait for a long time before a well-matched kidney becomes available. Transplant rejection is more likely among highly sensitized patients than in patients who are not highly sensitized. There is no proven method to improve a highly-sensitized patient's chances of receiving and keeping a transplanted kidney.",
+    "brief_title": "An Evaluation of IV Gamma Globulin As a Method to Improve Kidney Transplant Survival in Patients With End-Stage Renal Disease Who Are Highly Sensitized to Transplant Antigens (IG02)",
+    "clinical_trial": "Y",
+    "condition_studied": "End-Stage Renal Disease,Kidney Transplantation",
+    "dcl_id": 2,
+    "description": "Kidney transplantation is the treatment of choice for patients with end-stage renal disease (ESRD). However, many patients do not receive this treatment due to immune sensitization to HLA antigens. IVIG has been shown to somewhat reduce anti-HLA antibody activity. By blocking this activity, IVIG may make transplants more feasible and increase graft survival in transplant recipients. Patients are randomized to receive IV infusion of either 2 g/kg (maximum dose 180 g) IVIG 10% S/D (Gamimune-N, 10%, manufactured by Bayer) or placebo (0.1% human albumin, manufactured by Bayer) at time of dialysis at study entry and monthly for 3 months. If patients have not received a transplant at 1 year, they receive a booster dose of IVIG or placebo; patients receive another booster at 24 months if transplant still has not occurred. If transplant occurs, patients receive 2 g/kg (up to 180 g) IVIG or placebo monthly for 4 months, beginning at time of transplant. Before and after initiation of IVIG/albumin placebo treatment, specific immune parameters, including panel reactive antibodies (PRA) levels, MLR, serum inhibition of MLR, and cytokine gene transcription in the MLR, and AECA levels are measured. Outcomes studied include time on dialysis and graft survival rates.",
+    "doi": "10.21430/M30FFHBV3W",
+    "endpoints": "Penalized months of dialysis during the study.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Many patients with end-stage renal disease (ESRD) do not receive transplants due to immune sensitization to HLA antigens. IVIG has been shown to somewhat reduce anti-HLA antibody activity. By blocking this activity, IVIG may make transplants more feasible and increase graft survival in transplant recipients.",
+    "initial_data_release_date": "2014-08-07",
+    "initial_data_release_version": "DR11",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-08-07",
+    "latest_data_release_version": "DR11",
+    "maximum_age": "  20.00",
+    "minimum_age": "   6.00",
+    "objectives": "This study is designed to test the clinical and laboratory observations that suggest IVIG given before and after kidney transplant to patients who are sensitized (highly sensitive) to certain transplant antigens could result in reduced sensitization and reduced rates of kidney rejection.",
+    "official_title": "IG02 Evaluation of Intravenous Gamma Globulin (IVIG) As an Agent to Lower Allosensitization and Improve Allograft Survival in Highly-Sensitized Adult End-Stage Renal Disease (ESRD) Patients (IG02)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 100,
+    "workspace_id": 3709,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2221",
+            "description": "Early termination subjects",
+            "name": "Early termination subjects"
+        },
+        {
+            "arm_accession": "ARM2222",
+            "description": "Study subjects",
+            "name": "Study subjects"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Ikle",
+            "organization": "PPD",
+            "role_in_study": "Principal Investigator",
+            "site_name": "-"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Cooperative Clinical Trials in Pediatric Transplantation (CCTPT)",
+            "contract_name": "Data Coordinating Center for Cooperative Clinical Trials in Pediatric Transplantation"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 22
+            },
+            {
+                "race": "White",
+                "count": 3
+            }
+        ],
+        "gender": [
+            {
+                "Female": 9
+            },
+            {
+                "Male": 17
+            }
+        ]
+    }
+}

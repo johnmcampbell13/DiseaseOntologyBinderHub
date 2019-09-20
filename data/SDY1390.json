@@ -1,0 +1,58 @@
+{
+    "study_accession": "SDY1390",
+    "actual_completion_date": "2017-12-04",
+    "actual_enrollment": 1,
+    "actual_start_date": "2015-01-01",
+    "age_unit": "Years",
+    "brief_description": "Ex vivo genome editing of primary human T cells can be used to identify viral host factors",
+    "brief_title": "CRISPR-Cas9 Engineering in Primary Cell Protocol",
+    "clinical_trial": "N",
+    "condition_studied": "Ex vivo activated primary CD4+ T cells from healthy, anonymous donors",
+    "dcl_id": 2,
+    "description": "A detailed, peer-reviewed protocol published in Nature Protocols for optimizing CRISPR-Cas9 editing pipelines to primary cell types. A detailed example is provided for editing primary CD4+ T cells to identify HIV host factors.",
+    "doi": "10.21430/M3R9N6OS6C",
+    "endpoints": "Once primary T cells are isolated from patient blood, they are activated, subjected to CRIOSPR-Cas9 genome editing, and challenged with HIV-1 to monitor replication.",
+    "gender_included": "Not Specified",
+    "hypothesis": "Primary CD4+ T cells can be used as a genetically tractable system for arrayed functional genomics",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "CRISPR-Cas9",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "85",
+    "minimum_age": "1",
+    "objectives": "Provide a detailed protocol for CRISPR-Cas9 genome engineering, primary T cell isolation, HIV preparation, and HIV spreading infection. Also, provide general tips for primary cell gene editing.",
+    "official_title": "CRISPR-Cas9 Genome Engineering of Primary CD4+ T Cells for the Interrogation of HIV-host factor Interactions",
+    "sponsoring_organization": "American Foundation for AIDS Research / Human Immunology Project Consortium",
+    "target_enrollment": 1,
+    "workspace_id": 4875,
+    "research_focus": [],
+    "arm": [
+        {
+            "arm_accession": "ARM4676",
+            "description": "optimize a high-throughput crispr knock out in primary cells",
+            "name": "Assay optimization"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Judd",
+            "last_name": "Hultquist",
+            "organization": "J. David Gladstone Institutes",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Gladstone Institutes"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+            "contract_name": "Dengue Human Immunology Project Consortium (DHIPC MSSM)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

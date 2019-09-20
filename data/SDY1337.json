@@ -1,0 +1,91 @@
+{
+    "study_accession": "SDY1337",
+    "actual_completion_date": "2015-12-31",
+    "actual_enrollment": 339,
+    "actual_start_date": "2014-04-18",
+    "age_unit": "Years",
+    "brief_description": "DNA sequence-based typing at the HLA-A, -B, -C, -DPB1, -DQA1, -DQB1, and -DRB1 loci",
+    "brief_title": "Sequence-based HLA-A, B, C, DP, DQ, and DR typing",
+    "clinical_trial": "N",
+    "condition_studied": "Expression of HLA phenotypes in populations from dengue endemic areas",
+    "dcl_id": 2,
+    "description": "DNA sequence-based typing at the HLA-A, -B, -C, -DPB1, -DQA1, -DQB1, and -DRB1 loci",
+    "doi": "10.21430/M3M9Y78QLF",
+    "endpoints": "HLA Typing",
+    "gender_included": "Unknown",
+    "hypothesis": "To characterize allele frequencies in the local population to support studies of T cell immunity",
+    "initial_data_release_date": "2018-07-06",
+    "initial_data_release_version": "DR27",
+    "intervention_agent": "None",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  65.00",
+    "minimum_age": "  17.00",
+    "objectives": "To characterize allele frequencies in the local population to support studies of T cell immunity",
+    "official_title": "Sequence-based HLA-A, B, C, DP, DQ, and DR typing of 339 adults from",
+    "sponsoring_organization": "NIH",
+    "target_enrollment": 140,
+    "workspace_id": 4845,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4560",
+            "description": "Anonymous blood donations from 339 adults were obtained from the National Blood Center (NBC) of the Nicaraguan Red Cross in Managua, Nicaragua. PBMCs are isolated and then shipped to the La Jolla Institute for Allergy and Immunology",
+            "name": "Nicaragua National Blood Center"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Alessandro",
+            "last_name": "Sette",
+            "organization": "La Jolla Institute for Allergy and Immunology",
+            "role_in_study": "Principal Investigator",
+            "site_name": "La Jolla Institute for Allergy and Immunology"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Sequence-based HLA-A, B, C, DP, DQ, and DR typing of 339 adults from Managua, Nicaragua.",
+            "journal": "Hum Immunol.",
+            "month": "Jan",
+            "year": "2018",
+            "doi": "10.1016/j.humimm.2017.11.002. Epub 2017 Nov 7.",
+            "pubmed_id": "29122684"
+        },
+        {
+            "title": "Sequence-based HLA-A, B, C, DP, DQ, and DR typing of 339 adults from Managua, Nicaragua",
+            "journal": "Human Immunology",
+            "month": "January",
+            "year": "2018",
+            "doi": "10.1016/j.humimm.2017.11.002",
+            "pubmed_id": "PMC5788571"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity Following Dengue Virus Natural Infections and Vaccination",
+            "contract_name": "Protective Immunity Following Dengue Virus Natural Infections and Vaccination"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 339
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 339
+            }
+        ],
+        "gender": [
+            {
+                "Unknown": 339
+            }
+        ]
+    }
+}

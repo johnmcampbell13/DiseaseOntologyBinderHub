@@ -1,0 +1,84 @@
+{
+    "study_accession": "SDY147",
+    "actual_completion_date": null,
+    "actual_enrollment": 80,
+    "actual_start_date": null,
+    "age_unit": "Months",
+    "brief_description": "Influenza is a contagious, acute respiratory disease that is a major cause of morbidity and mortality throughout the world. CD4 T cells play an important role in the immune response to this pathogen through the secretion of antiviral cytokines, and by providing help to CD8 T cells and B cells to promote the development of immunological memory and neutralizing antibody responses. Despite these well-defined roles in the anti-influenza response, our understanding of CD4 T-cell diversity and specificity remains limited. In the study reported here, overlapping peptides representing 5 different influenza viral proteins were used in EliSpot assays to enumerate and identify the specificity of anti-influenza CD4 T cells directly ex vivo following infection of mice with influenza virus, using two strains that express unrelated MHC class II molecules. These experiments evaluated whether the reactivity of CD4 T cells generally tracked with particular influenza proteins, or whether MHC preferences were the predominant factor dictating anti-CD4 T-cell specificity in the primary immune response. We made the unexpected discovery that the distribution of CD4 T-cell specificities for different influenza proteins varied significantly depending on the single class II molecule expressed in vivo. In SJL mice, the majority of epitopes were specific for the HA protein, while the NP protein dominated the response in C57BL/10 mice. Given the diversity of human MHC class II molecules, these findings have important implications for the ability to rationally design a vaccine that will generate a specific CD4 T-cell immune response that is effective across diverse human populations.",
+    "brief_title": "Analyses of the specificity of CD4 T Cells during the primary immune response to influenza virus reveals dramatic MHC-linked asymmetries in reactivity to individual viral proteins",
+    "clinical_trial": "N",
+    "condition_studied": "CD4 T cell response",
+    "dcl_id": 2,
+    "description": "Influenza is a contagious, acute respiratory disease that is a major cause of morbidity and mortality throughout the world. CD4 T cells play an important role in the immune response to this pathogen through the secretion of antiviral cytokines, and by providing help to CD8 T cells and B cells to promote the development of immunological memory and neutralizing antibody responses. Despite these well-defined roles in the anti-influenza response, our understanding of CD4 T-cell diversity and specificity remains limited. In the study reported here, overlapping peptides representing 5 different influenza viral proteins were used in EliSpot assays to enumerate and identify the specificity of anti-influenza CD4 T cells directly ex vivo following infection of mice with influenza virus, using two strains that express unrelated MHC class II molecules. These experiments evaluated whether the reactivity of CD4 T cells generally tracked with particular influenza proteins, or whether MHC preferences were the predominant factor dictating anti-CD4 T-cell specificity in the primary immune response. We made the unexpected discovery that the distribution of CD4 T-cell specificities for different influenza proteins varied significantly depending on the single class II molecule expressed in vivo. In SJL mice, the majority of epitopes were specific for the HA protein, while the NP protein dominated the response in C57BL/10 mice. Given the diversity of human MHC class II molecules, these findings have important implications for the ability to rationally design a vaccine that will generate a specific CD4 T-cell immune response that is effective across diverse human populations.",
+    "doi": "10.21430/M38LME8QIB",
+    "endpoints": "Identification of anti-influenza CD4 T cell epitopes restricted to the I-A^s and I-A^b MHC class II molecules, which allowed us to determine that the distribution of CD4 T cell specificities for different influenza proteins varied significantly depending on the single class II molecule expressed in vivo.",
+    "gender_included": "Female",
+    "hypothesis": "To evaluate whether the reactivity of CD4 T cells generally tracked with particular influenza proteins or whether MHC preferences were the predominant factor dictating anti-CD4 T cell specificity in the primary immune response.",
+    "initial_data_release_date": "2013-09-30",
+    "initial_data_release_version": "DR4",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-09-30",
+    "latest_data_release_version": "DR4",
+    "maximum_age": "   3.00",
+    "minimum_age": "   3.00",
+    "objectives": "To restimulate CD4 T cells with overlapping peptides representing 5 different influenza viral proteins in EliSpot assays to enumerate and identify the specificity of the anti-influenza CD4 T cell response directly ex vivo following infection of two mouse strains expressing unrelated MHC class II molecules.",
+    "official_title": "Analyses of the specificity of CD4 T Cells during the primary immune response to influenza virus reveals dramatic MHC-linked asymmetries in reactivity to individual viral proteins",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2014,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM705",
+            "description": "C57BL/10 mouse",
+            "name": "B10"
+        },
+        {
+            "arm_accession": "ARM706",
+            "description": "SJL mouse",
+            "name": "SJL"
+        },
+        {
+            "arm_accession": "ARM707",
+            "description": "B10.S mouse",
+            "name": "B10.S"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Andrea",
+            "last_name": "Sant",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "ROC034"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Analyses of the specificity of CD4 T cells during the primary immune response to influenza virus reveals dramatic MHC-linked asymmetries in reactivity to individual viral proteins.",
+            "journal": "Viral Immunol.",
+            "month": "Apr",
+            "year": "2010",
+            "doi": "10.1089/vim.2009.0099.",
+            "pubmed_id": "20373997"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "New York Influenza Center of Excellence"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 1715
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

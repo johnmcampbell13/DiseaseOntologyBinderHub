@@ -1,0 +1,74 @@
+{
+    "study_accession": "SDY21",
+    "actual_completion_date": "2010-05-30",
+    "actual_enrollment": 4,
+    "actual_start_date": "2007-08-01",
+    "age_unit": "Not Specified",
+    "brief_description": "Microarray and Luminex assays.",
+    "brief_title": "Gene Expression Study of TLR Responses on Dendritic Cells",
+    "clinical_trial": "N",
+    "condition_studied": "LPS, CpG and Papain",
+    "dcl_id": 2,
+    "description": "Cytokine and gene expression profile after TLR activation of dendritic cells.",
+    "doi": "10.21430/M3YUM4W1N9",
+    "endpoints": "Microarray and Luminex assays.",
+    "gender_included": "Female, Male",
+    "hypothesis": "The innate immune responses following TLR receptor activation are driven at the transcription level, and lead to the modulation of transcription of a big group of genes.",
+    "initial_data_release_date": "2014-01-17",
+    "initial_data_release_version": "DR7",
+    "intervention_agent": "FTL3\r",
+    "latest_data_release_date": "2014-01-17",
+    "latest_data_release_version": "DR7",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "Characterization of the cytokine/chemokine and gene expression profile after TLR receptor activation.",
+    "official_title": "Gene Expression Study of TLR Responses on Dendritic Cells",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 1885,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM316",
+            "description": "C57BL6/J female mice, FLT3-L treatment, 20ug/200ul/mouse/day for 9days",
+            "name": "FLT3 treated B6 mice"
+        },
+        {
+            "arm_accession": "ARM317",
+            "description": "p53-knockout C57BL/6 mouse, donor of JAWS II cell line, GM-CSF-dependent DC line established from bone marrow cells",
+            "name": "mice for JAWS II cell line"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Thomas",
+            "last_name": "Kepler",
+            "organization": "Duke Human Vaccine Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Duke Human Vaccine Institute\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "Multiscale Systems Immunology for Adjuvant Development"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 5612
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 150
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

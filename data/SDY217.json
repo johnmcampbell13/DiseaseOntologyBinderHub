@@ -1,0 +1,98 @@
+{
+    "study_accession": "SDY217",
+    "actual_completion_date": null,
+    "actual_enrollment": 283,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "A detailed understanding of the molecular and cellular mechanisms that underlie epitope preferences in T cell priming is important for vaccines designed to elicit a broad T cell response. Protein vaccinations generally elicit CD4 T cell responses that are skewed toward a small fraction of epitopes, a phenomenon known as immunodominance. This characteristic of T cell responses, that limits the diversity of CD4 T cell recognition, is generally attributed to intracellular antigen processing. However, we recently discovered that immunodominance hierarchies persist even after vaccination with synthetic peptides. In this study, we probed the regulatory mechanisms that cause diminished CD4 T cell responses to subdominant peptides after such multi-peptide immunization in mice. We have found that the delivery of subdominant and dominant epitopes on separate dendritic cells rescues expansion of less favored CD4 T cells. Furthermore, through the use of genetic models and inhibitors, we have found that selective losses in CD4 T cell responses are mediated by an IFN-gamma-induced pathway, involving indoleamine 2,3-dioxygenase (IDO), and that regulatory T cell (Treg) activities may also regulate preferences in CD4 T cell specificity. We propose that after multi-peptide immunization, the expansion and differentiation of dominant T cells initiate complex regulatory events that determine the final peptide specificity of the elicited CD4 T cell response.",
+    "brief_title": "Orchestration of CD4 T cell epitope preferences after multi-peptide immunization",
+    "clinical_trial": "N",
+    "condition_studied": "CD4 T cell responses were measured in response to single or multi-peptide immunization and dendritic cell immunizations in wild type or transgenic mice.",
+    "dcl_id": 2,
+    "description": "A detailed understanding of the molecular and cellular mechanisms that underlie epitope preferences in T cell priming is important for vaccines designed to elicit a broad T cell response. Protein vaccinations generally elicit CD4 T cell responses that are skewed toward a small fraction of epitopes, a phenomenon known as immunodominance. This characteristic of T cell responses, that limits the diversity of CD4 T cell recognition, is generally attributed to intracellular antigen processing. However, we recently discovered that immunodominance hierarchies persist even after vaccination with synthetic peptides. In this study, we probed the regulatory mechanisms that cause diminished CD4 T cell responses to subdominant peptides after such multi-peptide immunization in mice. We have found that the delivery of subdominant and dominant epitopes on separate dendritic cells rescues expansion of less favored CD4 T cells. Furthermore, through the use of genetic models and inhibitors, we have found that selective losses in CD4 T cell responses are mediated by an IFN-gamma-induced pathway, involving indoleamine 2,3-dioxygenase (IDO), and that regulatory T cell (Treg) activities may also regulate preferences in CD4 T cell specificity. We propose that after multi-peptide immunization, the expansion and differentiation of dominant T cells initiate complex regulatory events that determine the final peptide specificity of the elicited CD4 T cell response.",
+    "doi": "10.21430/M35YNXHF8K",
+    "endpoints": "IL-2 and IFN-gamma ELISPOT assay of responder CD4 T cell. Flow cytometry was used to quantify expression of costimulatory and MHC molecules on the surface of dendritic cells.  Flow cytometry was used to quantify the numbers of Tregs.   Treg suppression assays were used to assess the function of Tregs when in the presence or absence of competing responses.",
+    "gender_included": "Unknown",
+    "hypothesis": "After multi-peptide immunization, the expansion and differentiation of dominant T cells initiate complex regulatory events that determine the final peptide specificity of the elicited CD4 T cell response.",
+    "initial_data_release_date": "2013-09-30",
+    "initial_data_release_version": "DR4",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-09-30",
+    "latest_data_release_version": "DR4",
+    "maximum_age": "   6.00",
+    "minimum_age": "   6.00",
+    "objectives": "Understaanding of the molecular and cellular mechanisms that underlie epitope preferences in CD4 T cell priming.",
+    "official_title": "Orchestration of CD4 T cell epitope preferences after multi-peptide immunization",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2014,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM909",
+            "description": "Control strain",
+            "name": "BALB/c"
+        },
+        {
+            "arm_accession": "ARM910",
+            "description": "Foxp3GFP strain",
+            "name": "Foxp3GFP"
+        },
+        {
+            "arm_accession": "ARM911",
+            "description": "Foxp3DTR strain",
+            "name": "Foxp3DTR"
+        },
+        {
+            "arm_accession": "ARM912",
+            "description": "IFN-gKO strain",
+            "name": "IFN-gKO"
+        },
+        {
+            "arm_accession": "ARM913",
+            "description": "Thy1.1 strain",
+            "name": "Thy1.1"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Andrea",
+            "last_name": "Sant",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "ROC034"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Orchestration of CD4 T cell epitope preferences after multipeptide immunization.",
+            "journal": "J Immunol.",
+            "month": "Jul",
+            "year": "2013",
+            "doi": "10.4049/jimmunol.1300312. Epub 2013 Jun 14.",
+            "pubmed_id": "23772029"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "New York Influenza Center of Excellence"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 494
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 64
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

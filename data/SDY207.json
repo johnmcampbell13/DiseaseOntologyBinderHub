@@ -1,0 +1,86 @@
+{
+    "study_accession": "SDY207",
+    "actual_completion_date": null,
+    "actual_enrollment": 6,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "High dimensional analysis of CD8+ T cell phenotype and function",
+    "brief_title": "Cytometry by time-of-flight shows combinatorial cytokine expression and virus-specific cell niches within a continuum of CD8+ T cell phenotypes",
+    "clinical_trial": "N",
+    "condition_studied": "Normal donors",
+    "dcl_id": 2,
+    "description": "High dimensional analysis of CD8+ T cell phenotype and function",
+    "doi": "10.21430/M33C1GNCXF",
+    "endpoints": "1.  CyTOF analysis with tetramer staining",
+    "gender_included": "Female, Male",
+    "hypothesis": "Phenotype and functional capactities of T cells are interlated",
+    "initial_data_release_date": "2013-09-30",
+    "initial_data_release_version": "DR4",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-09-30",
+    "latest_data_release_version": "DR4",
+    "maximum_age": "  74.00",
+    "minimum_age": "  52.00",
+    "objectives": "Analyze CD8+ T cell phenotype and function",
+    "official_title": "Cytometry by Time-Of-Flight shows Combinatorial Cytokine Expression and Virus-Specific Cell Niches within a Continuum of CD8+ T Cell Phenotypes",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 6,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM880",
+            "description": "Normal blood bank donors",
+            "name": "Group A"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark",
+            "last_name": "Davis",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Cytometry by time-of-flight shows combinatorial cytokine expression and virus-specific cell niches within a continuum of CD8+ T cell phenotypes.",
+            "journal": "Immunity.",
+            "month": "Jan",
+            "year": "2012",
+            "doi": "10.1016/j.immuni.2012.01.002.",
+            "pubmed_id": "22265676"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 34
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 6
+            }
+        ],
+        "gender": [
+            {
+                "Female": 5
+            },
+            {
+                "Male": 1
+            }
+        ]
+    }
+}

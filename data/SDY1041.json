@@ -1,0 +1,98 @@
+{
+    "study_accession": "SDY1041",
+    "actual_completion_date": null,
+    "actual_enrollment": 20,
+    "actual_start_date": "2013-06-28",
+    "age_unit": "Years",
+    "brief_description": "An analysis of human cytomegalovirus (CMV)-specific T cell responses and CMV persistence in multiple anatomic sites including blood, lymphoid, mucosal and secretory tissues of CMV-seropositive donors.",
+    "brief_title": "CMV CD8 T Cells",
+    "clinical_trial": "N",
+    "condition_studied": "CMV-specific T cell differentiation, homeostasis and persistence in blood, lymphoid, and mucosal tissues",
+    "dcl_id": 2,
+    "description": "We present human T cell responses in multiple sites including blood, lymphoid, mucosal and secretory tissues of 20 CMV seropositive donors. Overall, CMV-specific T cells were maintained in distinct distribution patterns, either predominant in blood, bone marrow (BM) and lung, or lymph nodes (LN) with the frequency and function in blood distinct from tissues. Together, our results reveal tissue T cell reservoirs for CMV control, with global effects on T cell homeostasis over the human lifespan.",
+    "doi": "10.21430/M3MIPLU7ZU",
+    "endpoints": "FCS data classifying T cells",
+    "gender_included": "Female, Male",
+    "hypothesis": "CMV-specific T cells in peripheral tissues have varied differentiation, maintenance, and function, as a function of individual, tissue site, and viral persistence",
+    "initial_data_release_date": "2017-06-16",
+    "initial_data_release_version": "DR22",
+    "intervention_agent": null,
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "  70.00",
+    "minimum_age": "  21.00",
+    "objectives": "Characterize tissue CMV-specific CD8 T-cell and polyclonal T cell phenotypes",
+    "official_title": "Tissue reservoirs of anti-viral T cell immunity in persistent human CMV infection",
+    "sponsoring_organization": "NIAID, NIA, NCRR",
+    "target_enrollment": 20,
+    "workspace_id": 3670,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3654",
+            "description": "CMV seropositive donors",
+            "name": "CMV seropositive donors"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Donna",
+            "last_name": "Farber",
+            "organization": "Columbia University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "CCTI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Tissue reservoirs of antiviral T cell immunity in persistent human CMV infection.",
+            "journal": "J Exp Med.",
+            "month": "Mar",
+            "year": "2017",
+            "doi": "10.1084/jem.20160758. Epub 2017 Jan 27.",
+            "pubmed_id": "28130404"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Tissue compartmentalization of human lymphocytes P01AI106697",
+            "contract_name": "Tissue compartmentalization of human lymphocytes"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 342
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "Not Specified",
+                "count": 10
+            },
+            {
+                "race": "White",
+                "count": 7
+            }
+        ],
+        "gender": [
+            {
+                "Female": 7
+            },
+            {
+                "Male": 13
+            }
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "study_accession": "SDY17",
+    "actual_completion_date": null,
+    "actual_enrollment": 4,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "To map, isolate and validate human genes that confer susceptibility or resistance to influenza infection and its complications.",
+    "brief_title": "Susceptibility to Influenza Infection and Complications",
+    "clinical_trial": "N",
+    "condition_studied": "Susceptibility or resistance to influenza infection and its complications.",
+    "dcl_id": 1,
+    "description": "Many descendents of Spanish flu victims and survivors have given broad consent to deCODE's research and have been genotyped on the 370K chip. Using the chip data from the descendants, we have imputed genotypes of the Spanish flu victims and survivors of the same birth cohort to enable genome-wide association studies to identify markers associated with risk for severe outcome of H1N1 influenza.",
+    "doi": "10.21430/M3H2I5WF3K",
+    "endpoints": "<ol><li>Two-color spotted array gene expression assay.</li><li>Luminex cytokine expression.</li></ol>",
+    "gender_included": "Not Specified",
+    "hypothesis": "<p>All common diseases have a significant genetic component, the clinical expression which is in part brought out by environmental exposure.  Over the years deCODE has built a system of information for about 50 common diseases in Iceland and has collected blood samples from over 100,000 Icelanders or half of the adult population, all with specific informed consent. As a resource for determining all family relationships among patients, deCODE has assembled a genealogy database that includes the entire nation along with most of their ancestors extending to the time Iceland was settled between 874 and 930AD.</p><p>This study combines the human population genetics infrastructure of deCODE Genetics with the capabilities of other collaborators, to discover and validate human genes that confer susceptibility or resistance to influenza infection and its complications.</p>",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Not Applicable\r",
+    "latest_data_release_date": "2012-11-16",
+    "latest_data_release_version": "DR1",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "To map, isolate, and validate human host genes that confer susceptibility or resistance to influenza infection and its complications.",
+    "official_title": "Susceptibility to Influenza Infection and Complications",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 1054,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM114",
+            "description": "diagnosed with influenza, not hospitalized",
+            "name": "Flu_Diag"
+        },
+        {
+            "arm_accession": "ARM115",
+            "description": "hospitalized, swine flu ",
+            "name": "Flu_Swine_Hosp"
+        },
+        {
+            "arm_accession": "ARM116",
+            "description": "population controls, excluding all Flu_Diag and Flu_Swine_Hosp",
+            "name": "Flu_Ctrl"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jeffrey",
+            "last_name": "Gulcher",
+            "organization": "deCODE",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Population Genetics Analysis Program (1)",
+            "contract_name": "Population Genetics Analysis Program: Immunity to Vaccines/Infections"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 3
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 4
+            }
+        ]
+    }
+}

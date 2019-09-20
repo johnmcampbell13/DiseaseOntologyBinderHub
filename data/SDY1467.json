@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY1467",
+    "actual_completion_date": "2010-01-01",
+    "actual_enrollment": 51,
+    "actual_start_date": "2007-01-01",
+    "age_unit": "Years",
+    "brief_description": "Systems biology approach to examine effects of seasonal flu vaccination in adults of different ages on gene expression, cytokine stimulation and serum cytokines with parameters such as immune senescence to uncover new markers and mechanisms behind failure of immune function in many older people.",
+    "brief_title": "B-cell Immunity to Influenza SLVP017 2009",
+    "clinical_trial": "N",
+    "condition_studied": "Influenza vaccine",
+    "dcl_id": 1,
+    "description": "Systems biology approach to examine effects of seasonal flu vaccination in adults of different ages on gene expression, cytokine stimulation and serum cytokines with parameters such as immune senescence to uncover new markers and mechanisms behind failure of immune function in many older people.",
+    "doi": "10.21430/M3BNBGK39S",
+    "endpoints": "1. Combinatorial tetramer analysis by FACS and/or CyTOF; Phosphoflow. 2. Luminex; Gene expression profiling (Affymetrix microarray). 3. Luminex; Gene expression profiling (Affymetrix microarry); Microneutralization assays. 4. Gene expression profiling (Affymetrix microarray); Immune phenotyping by CyTOF. 5. Gene expression profiling (Affymetrix microarray). 6. Immune phenotyping by CyTOF; Luminex. 7. ELISA",
+    "gender_included": "Female, Male",
+    "hypothesis": "Human immune metrics can be determined that will predict responsiveness to flu vaccine.",
+    "initial_data_release_date": "2019-09-16",
+    "initial_data_release_version": "DR32",
+    "intervention_agent": "Influenza vaccine",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "  90.00",
+    "minimum_age": "  10.52",
+    "objectives": "1. Compare lymphocyte responses at Days 6-8 and the lymphocyte and serology responses at Day 28 post-immunization following administration of seasonal trivalent inactivated influenza vaccine. 2. Evaluate changes in cytokine profile in the immune response (CD4, CD8, gamma-delta cells, B cell responses) from Day 0 to Day 6-8 for T cells and antibody-secreting cells (ASCs). 3. Evaluate changes in cytokine profile in the immune response (CD4, CD8, gamma-delta cells, B cell, and serology responses) from Day 0 to Day 28 for HAI responses. 4. Evaluate any potential gene expression signatures either at Day 0 or during the early response period Day 6-8 that are associated with immune senescence, potentially providing insight into mechanism. 5. Compare cell specific gene expression differences between age groups for both whole blood and whole PBMC. 6. Determine the effect of cell subset frequency variation on serum cytokine abundance. 7. Evaluate CMV and EBV seroreactivity at Day 0 and additional timepoints throughout the study as able.",
+    "official_title": "B-cell Immunity to Influenza (SLVP017) 2009",
+    "sponsoring_organization": "SLVP017_2009",
+    "target_enrollment": 50,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4831",
+            "description": "60-79 year old adults immunized intramuscularly with Fluzone (TIV)",
+            "name": "Group B"
+        },
+        {
+            "arm_accession": "ARM4832",
+            "description": "18-30 year old adults immunized intramuscularly with Fluzone (TIV)",
+            "name": "Group A"
+        },
+        {
+            "arm_accession": "ARM4833",
+            "description": "80-100 year old adults immunized intramuscularly with Fluzone (TIV)",
+            "name": "Group C"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark",
+            "last_name": "Davis",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University"
+        }
+    ],
+    "pubmed": [],
+    "program": [],
+    "assay": [
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 294
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 10
+            },
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 38
+            }
+        ],
+        "gender": [
+            {
+                "Female": 33
+            },
+            {
+                "Male": 18
+            }
+        ]
+    }
+}

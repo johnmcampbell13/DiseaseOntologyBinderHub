@@ -1,0 +1,142 @@
+{
+    "study_accession": "SDY58",
+    "actual_completion_date": null,
+    "actual_enrollment": 135,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Project 2: Immunologic and genomic signatures of response to neuroinvasive or non-neuroinvasive West Nile Virus infection.",
+    "brief_title": "Defining signatures for immune responsiveness by functional systems immunology",
+    "clinical_trial": "N",
+    "condition_studied": "Immunologic and genomic signatures of response to neuroinvasive or non-neuroinvasive West Nile Virus infection.\r",
+    "dcl_id": 2,
+    "description": "Project 2: Immunologic and genomic signatures of response to neuroinvasive or non-neuroinvasive West Nile Virus infection.",
+    "doi": "10.21430/M3Q6U5GGRT",
+    "endpoints": " B cells (ASC, Memory); T cells (CD8 effector); monocyte/macrophage/DC stim by WNV or via TLRs; innate cell TLR expression; Luminex assays of cytokines post vaccine; Illumina HT12 bead chip and Nanostring.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Define signatures for immune responsiveness by functional systems immunology",
+    "initial_data_release_date": "2015-12-14",
+    "initial_data_release_version": "DR16",
+    "intervention_agent": null,
+    "latest_data_release_date": "2015-12-14",
+    "latest_data_release_version": "DR16",
+    "maximum_age": "  88.00",
+    "minimum_age": "  20.00",
+    "objectives": "Identification of immunologic, gene expression, and genetic loci signatures of WNV disease severity.",
+    "official_title": "Defining signatures for immune responsiveness by functional systems immunology",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2412,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM447",
+            "description": "Asymptomatics",
+            "name": "Asymptomatics"
+        },
+        {
+            "arm_accession": "ARM448",
+            "description": "Severe Disease",
+            "name": "Encephalitis"
+        },
+        {
+            "arm_accession": "ARM449",
+            "description": "Severe Disease",
+            "name": "Meningitis"
+        },
+        {
+            "arm_accession": "ARM450",
+            "description": "Severe Disease",
+            "name": "MeningitisAndEncephalitis"
+        },
+        {
+            "arm_accession": "ARM451",
+            "description": "Mild Disease",
+            "name": "Fever"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Hafler",
+            "organization": "Yale ",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Yale\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "The order of hepatic cytotoxicity of bile salts in vitro does not agree with that examined in vivo in rats.",
+            "journal": "Life Sci.",
+            "month": "Jul",
+            "year": "1990",
+            "doi": "-",
+            "pubmed_id": "2355795"
+        },
+        {
+            "title": "The natural killer cell response to West Nile virus in young and old individuals with or without a prior history of infection.",
+            "journal": "PLoS One.",
+            "month": "Feb",
+            "year": "2017",
+            "doi": "10.1371/journal.pone.0172625. eCollection 2017.",
+            "pubmed_id": "28235099"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Defining signatures for immune responsiveness by functional systems immunology HIPC1"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 138
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 784
+        },
+        {
+            "measurement_technique": "Meso Scale Discovery ECL",
+            "number_of_expsamples": 69
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 195
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 11
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 118
+            }
+        ],
+        "gender": [
+            {
+                "Female": 59
+            },
+            {
+                "Male": 76
+            }
+        ]
+    }
+}

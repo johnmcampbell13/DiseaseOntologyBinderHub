@@ -1,0 +1,129 @@
+{
+    "study_accession": "SDY1064",
+    "actual_completion_date": "2016-12-30",
+    "actual_enrollment": 2,
+    "actual_start_date": "2013-01-01",
+    "age_unit": "Months",
+    "brief_description": "1) High ARNTL2 is a top predictor of lung adenocarcinoma patient outcome,2) Arntl2 is required for metastatic ability in vivo and clonal growth in cell culture,3) An Arntl2-driven pro-metastatic secretome controls metastatic self-sufficiency,4) Smoc2 is an Arntl2/Clock-dependent pro-metastatic secreted factor",
+    "brief_title": "An Arntl2-Driven Secretome Enables Lung Adenocarcinoma Metastatic Self-Sufficiency",
+    "clinical_trial": "N",
+    "condition_studied": "Lung adenocarcinoma",
+    "dcl_id": 2,
+    "description": "The ability of cancer cells to establish lethal metastatic lesions requires the survival and expansion of single cancer cells at distant sites. The factors controlling the clonal growth ability of individual cancer cells remain poorly understood. Here, we show that high expression of the transcription factor ARNTL2 predicts poor lung adenocarcinoma patient outcome. Arntl2 is required for metastatic ability in vivo and clonal growth in cell culture. Arntl2 drives metastatic self-sufficiency by orchestrating the expression of a complex pro-metastatic secretome. We identify Clock as an Arntl2 partner and functionally validate the matricellular protein Smoc2 as a pro-metastatic secreted factor. These findings shed light on the molecular mechanisms that enable single cancer cells to form allochthonous tumors in foreign tissue environments",
+    "doi": "10.21430/M3LJ1COIXP",
+    "endpoints": "1.Microarray signals of ARNTL2 in Tmet, Met, and T-nonmet cell lines in mouse models; 2) qRT-PCR ARNTL2 expression in different subtypes and progressive stages of mouse KT models; 3) Survery data set and anslysis result from TCGA samples; 4) RNAseq expression and significant enriched geneset on ARNTL2 knockdown models; 5) RNA in situ hybridization images (H&E and Tomato) on more than 150 human lung adenocarcinoma samples; 6) Cell culture assays to measure ARNTL2's clonogenic ability of human Lung adenocarcinoma cells. 7) chromatin immunoprecipitation (ChIP)-qPCR for Smock, the pro-metastases factors regulated by ARNTL2. 8) Cell culture and conditioned aedia assays of knockdown models.",
+    "gender_included": "Not Specified",
+    "hypothesis": "Arntl2 has the role of a driver on lung adenocarcinoma metastatic ability by remodeling of the cancer cell secretome promotes metastatic seeding and expansion",
+    "initial_data_release_date": "2017-06-16",
+    "initial_data_release_version": "DR22",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "  14.00",
+    "minimum_age": "   8.00",
+    "objectives": "Investigate the role of ARNTL2 in various adenocarcinoma subtypes ( from neoplastic cells to different stages of malignant progression and metastases) in mouse models. Survey the ARNTL2 expression in TCGA lung adenocarcinomas and its predictive power on patient survival outcomes. Functional investigation of ARNTL2's driver role in lung cancer metastatic ability and gene enrichment analysis by using ARNTL2 knockdown models.",
+    "official_title": "An Arntl2-Driven Secretome Enables Lung Adenocarcinoma Metastatic Self-Sufficiency",
+    "sponsoring_organization": "NCI - Oncology Model Forum project",
+    "target_enrollment": null,
+    "workspace_id": 5590,
+    "research_focus": [
+        "Oncology"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3731",
+            "description": "482N1 lymph node metastasis-derived cell line (Kras LSL-G12D/+ ;Trp53 flox/flox model) knockdown with control shLuciferase",
+            "name": "482N1 shLuciferase"
+        },
+        {
+            "arm_accession": "ARM3732",
+            "description": "482N1 lymph node metastasis-derived cell line (Kras LSL-G12D/+ ;Trp53 flox/flox model) knockdown with shArntl2",
+            "name": "482N1 shArntl2"
+        },
+        {
+            "arm_accession": "ARM3733",
+            "description": "482N1 lymph node metastasis-derived cell line (Kras LSL-G12D/+ ;Trp53 flox/flox model) knockdown with shSmoc2",
+            "name": "482N1 shSmoc2"
+        },
+        {
+            "arm_accession": "ARM3734",
+            "description": "482N1 lymph node metastasis-derived cell line (Kras LSL-G12D/+ ;Trp53 flox/flox model) knockdown with shClock",
+            "name": "482N1 shClock"
+        },
+        {
+            "arm_accession": "ARM3735",
+            "description": "889DTC derived from disseminated cancer cells from the pleural cavity of a KPT mouse, knockdown with shControl",
+            "name": "889DTC shControl"
+        },
+        {
+            "arm_accession": "ARM3736",
+            "description": "889DTC derived from disseminated cancer cells from the pleural cavity of a KPT mouse, knockdown with shArntl2",
+            "name": "889DTC shArntl2"
+        },
+        {
+            "arm_accession": "ARM3737",
+            "description": "H1792 (ATCC) cellline derived from human stage 4 adenocarcinoma metastatic site: pleural effusion; knockdown with shControl",
+            "name": "H1792 shControl"
+        },
+        {
+            "arm_accession": "ARM3738",
+            "description": "H1792 (ATCC) cellline derived from human stage 4 adenocarcinoma metastatic site: pleural effusion; knockdown with shARNTL2",
+            "name": "H1792 shARNTL2"
+        },
+        {
+            "arm_accession": "ARM3739",
+            "description": "H1792 (ATCC) cellline derived from human stage 4 adenocarcinoma metastatic site: pleural effusion; knockdown with shSMOC2",
+            "name": "H1792 shSMOC2"
+        },
+        {
+            "arm_accession": "ARM3740",
+            "description": "H2009 (ATCC) derived from metastatic Site: Lymph Node, stage 4, lung adenocarcinoma, knockdown with shControl",
+            "name": "H2009 shControl"
+        },
+        {
+            "arm_accession": "ARM3741",
+            "description": "H2009 (ATCC) derived from metastatic Site: Lymph Node, stage 4, lung adenocarcinoma, knockdown with shARNTL2",
+            "name": "H2009 shARNTL2"
+        },
+        {
+            "arm_accession": "ARM3742",
+            "description": "H2009 (ATCC) derived from metastatic Site: Lymph Node, stage 4, lung adenocarcinoma, knockdown with shSMOC2",
+            "name": "H2009 shSMOC2"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Monte",
+            "last_name": "Winslow",
+            "organization": "Stanford Cancer Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "An Arntl2-Driven Secretome Enables Lung Adenocarcinoma Metastatic Self-Sufficiency.",
+            "journal": "Cancer Cell.",
+            "month": "May",
+            "year": "2016",
+            "doi": "10.1016/j.ccell.2016.03.003. Epub 2016 Apr 14.",
+            "pubmed_id": "27150038"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Enhance Applicability of Mouse Models for Translational Research (Oncology Model, OMF)",
+            "contract_name": "A Quantitative Multiplexed Platform for the Pharmacogenomic Analysis of Lung Cancer (Oncology Model, OMF)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 6
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

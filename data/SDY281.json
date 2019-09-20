@@ -1,0 +1,79 @@
+{
+    "study_accession": "SDY281",
+    "actual_completion_date": null,
+    "actual_enrollment": 80,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "The overall goal of the study is to define comprehensively and in molecular and cellular detail, differences in recognition and response to microbes between adults and  neonates and how these, in turn, contribute to differences in innate immunity and the induction of antigen-specific (adaptive) immunity.",
+    "brief_title": "Study responses of Adult and neonatal APCs to TLR ligands",
+    "clinical_trial": "N",
+    "condition_studied": "APC stimulation by prototype ligands for TLRs 1-9",
+    "dcl_id": 2,
+    "description": "The assays in this study entail stimulation of adult and neonatal blood cells with various concentrations of defined prototype ligands for TLRs 1-9.  Multiparameter flow cytometry was used to detect intracellular cytokines (TNF, IL-6, IL-10, IL-12p40, IL-12p70, and IFN-alpha) in whole blood and PBMCs.\n",
+    "doi": "10.21430/M38S6PGG9Z",
+    "endpoints": "Analysis of cytokine production by the entire cell population assayed in culture supernatants using multiparameter flow cytometry analysis.",
+    "gender_included": "Not Specified",
+    "hypothesis": "none",
+    "initial_data_release_date": "2014-08-07",
+    "initial_data_release_version": "DR11",
+    "intervention_agent": "Prototype ligands for TLRs 1-9",
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": null,
+    "minimum_age": "0.0027",
+    "objectives": "To define comprehensively responses of human neonatal compared to adult APCs to TLR ligands.",
+    "official_title": "Study responses of Adult and neonatal APCs to TLR ligands",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 431,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1906",
+            "description": "Neonate human",
+            "name": "Neonate human"
+        },
+        {
+            "arm_accession": "ARM1907",
+            "description": "Adult human",
+            "name": "Adult human"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Christopher",
+            "last_name": "Wilson",
+            "organization": "Department of Immunology",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Washington"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "TLRs in Innate Immunity and the Induction of Adaptive Immunity in the Neonate and Infant"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 3596
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 80
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 80
+            }
+        ]
+    }
+}

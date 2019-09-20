@@ -1,0 +1,123 @@
+{
+    "study_accession": "SDY1528",
+    "actual_completion_date": "2018-08-01",
+    "actual_enrollment": 23,
+    "actual_start_date": "2017-08-01",
+    "age_unit": "Years",
+    "brief_description": "Preeclampsia is one of the most severe pregnancy complications and a leading cause of maternal death. However, early diagnosis of preeclampsia remains a clinical challenge, only limited information of select immune cell subsets is available. The goal is to detect characteristic immune dysfunctions in the maternal blood prior to the clinical onset of preeclampsia.  The study used a high-dimensional mass cytometry immunoassay to characterize the dynamic changes of over 370 immune cell features in maternal blood during healthy and preeclamptic pregnancies. Results: A set of eight cell-specific immune features that accurately predict the preeclampsia well before the clinical diagnosis is identified. Several features recapitulated previously known immune dysfunctions in preeclampsia, such as elevated pro-inflammatory innate immune responses early in pregnancy and impaired regulatory T (Treg) cell signaling. The analysis revealed additional novel immune responses that were strongly associated with, and preceded the onset of preeclampsia, notably abnormal STAT5ab signaling dynamics in CD4+T cell subsets (AUC 0.92, p = 8.0E-5). These results provide a global readout of the dynamics of the maternal immune system early in pregnancy and lay the groundwork for identifying clinically-relevant immune dysfunctions for the prediction and prevention of preeclampsia",
+    "brief_title": "Preeclampsia Study",
+    "clinical_trial": "N",
+    "condition_studied": "Preeclampsia",
+    "dcl_id": 2,
+    "description": "Preeclampsia is one of the most severe pregnancy complications and a leading cause of maternal death. However, early diagnosis of preeclampsia remains a clinical challenge, only limited information of select immune cell subsets is available. The goal is to detect characteristic immune dysfunctions in the maternal blood prior to the clinical onset of preeclampsia.  The study used a high-dimensional mass cytometry immunoassay to characterize the dynamic changes of over 370 immune cell features in maternal blood during healthy and preeclamptic pregnancies. Results: A set of eight cell-specific immune features that accurately predict the preeclampsia well before the clinical diagnosis is identified. Several features recapitulated previously known immune dysfunctions in preeclampsia, such as elevated pro-inflammatory innate immune responses early in pregnancy and impaired regulatory T (Treg) cell signaling. The analysis revealed additional novel immune responses that were strongly associated with, and preceded the onset of preeclampsia, notably abnormal STAT5ab signaling dynamics in CD4+T cell subsets (AUC 0.92, p = 8.0E-5). These results provide a global readout of the dynamics of the maternal immune system early in pregnancy and lay the groundwork for identifying clinically-relevant immune dysfunctions for the prediction and prevention of preeclampsia",
+    "doi": "10.21430/M32422NUZU",
+    "endpoints": "mass cytometry (CyTOF), Demographics of study participants",
+    "gender_included": "Not Specified",
+    "hypothesis": "Preeclampsia is associated with a immune dysfuction which may be detected well before the clinical onset of preeclampsia. High-dimensionality of the data, mass cytometry is uniquely capable of identifying dynamic alterations in immune system.",
+    "initial_data_release_date": "2019-09-16",
+    "initial_data_release_version": "DR32",
+    "intervention_agent": "NA",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "  18.00",
+    "minimum_age": "  18.00",
+    "objectives": "To detect characteristic immune dysfunctions in the maternal blood prior to the clinical onset of preeclampsia",
+    "official_title": "Differential Dynamics of the Maternal Immune System in Healthy Pregnancy and Preeclampsia",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 23,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4997",
+            "description": "healthy pregnancy",
+            "name": "Ctrl subjects"
+        },
+        {
+            "arm_accession": "ARM4998",
+            "description": "preeclampsia pregnancy",
+            "name": "PreE subjects"
+        },
+        {
+            "arm_accession": "ARM4999",
+            "description": "PBMC from healthy pregnancy at 1st time point, stimulated with LPS+INFa.",
+            "name": "Ctrl_LPS+IFNa_T1"
+        },
+        {
+            "arm_accession": "ARM5000",
+            "description": "PBMC from healthy pregnancy at 2nd time point, stimulated with LPS+INFa.",
+            "name": "Ctrl_LPS+IFNa_T2"
+        },
+        {
+            "arm_accession": "ARM5001",
+            "description": "PBMC from healthy pregnancy at 1st time point, unstimulated.",
+            "name": "Ctrl_unstim_T1"
+        },
+        {
+            "arm_accession": "ARM5002",
+            "description": "PBMC from healthy pregnancy at 2nd time point, unstimulated.",
+            "name": "Ctrl_unstim_T2"
+        },
+        {
+            "arm_accession": "ARM5003",
+            "description": "PBMC from preeclampsia at 1st time point, stimulated with LPS+INFa.",
+            "name": "PreE_LPS+IFNa_T1"
+        },
+        {
+            "arm_accession": "ARM5004",
+            "description": "PBMC from preeclampsia at 2nd time point, stimulated with LPS+INFa.",
+            "name": "PreE_LPS+IFNa_T2"
+        },
+        {
+            "arm_accession": "ARM5005",
+            "description": "PBMC from preeclampsia at 1st time point, unstimulated.",
+            "name": "PreE_unstim_T1"
+        },
+        {
+            "arm_accession": "ARM5006",
+            "description": "PBMC from preeclampsia at 2nd time point, unstimulated.",
+            "name": "PreE_unstim_T2"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Brice",
+            "last_name": "Gaudilliere",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Anesthesiology, Perioperative and Pain Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Differential Dynamics of the Maternal Immune System in Healthy Pregnancy and Preeclampsia.",
+            "journal": "Front Immunol.",
+            "month": "Jun",
+            "year": "2019",
+            "doi": "10.3389/fimmu.2019.01305. eCollection 2019.",
+            "pubmed_id": "31263463"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 23
+            }
+        ],
+        "gender": [
+            {
+                "Female": 23
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "study_accession": "SDY1293",
+    "actual_completion_date": "2004-12-31",
+    "actual_enrollment": 58,
+    "actual_start_date": "2003-12-01",
+    "age_unit": "Years",
+    "brief_description": "The goals of the present study were to determine whether there is a gene expression profile that is predictive of an individual's response to the adjuvanted RTS,S malaria vaccine and to identify the time at which that profile can be discerned before challenge.",
+    "brief_title": "Expression of genes associated with immunoproteasome processing of major histocompatibility complex peptides is indicative of protection with adjuvanted RTS,S malaria vaccine.",
+    "clinical_trial": "N",
+    "condition_studied": "double blinded study to test malaria vaccine",
+    "dcl_id": 2,
+    "description": "Background. Patterns of expressed genes in the peripheral blood mononuclear cells of persons who were receiving RTS,S/AS01 or RTS,S/AS02 malaria vaccine and were undergoing experimental challenge with mosquito-borne falciparum malaria were examined to identify markers associated with protection.",
+    "doi": "10.21430/M3ETOL8TGS",
+    "endpoints": "Microarray, RTPCR",
+    "gender_included": "Not Specified",
+    "hypothesis": "The immunologic response of malaria-naive adults to vaccination with adjuvanted RTS,S shows significant individual variation: some vaccine recipients are protected, and among those who are not protected, some exhibit a delay in the development of parasitemia [1, 3?7, 11]. Protection of malaria-naive volunteers is associated with both CSP-specific antibody and T cell responses. CSP-specific CD4+ T cells associated with interleukin (IL)-2, interferon (IFN)-_, tumor necrosis factor (TNF)-_, and CD40L; anti-CSP immunoglobulin (Ig) G levels; and ex vivo CSP-specific IFN-_ enzyme-linked immunospots are observed in persons protected from malaria after challenge with infected mosquitoes [7, 12]. These immunologic markers approximate, but do not accurately predict, which of the vaccine recipients will be fully protected, will be unprotected, or will show a delay in disease onset.",
+    "initial_data_release_date": "2018-07-06",
+    "initial_data_release_version": "DR27",
+    "intervention_agent": "malaria vaccine RTS,S with ASO2A/ASO1B adjuvant",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  65.00",
+    "minimum_age": "  18.00",
+    "objectives": "To identify expression of genes in the immunoproteasome pathway that impinge on the efficiency of MHC class 1 processing and subsequent antigen presentation, and that are differentially expressed in persons protected by the vaccine and are discerned before human challenge with the pathogen.",
+    "official_title": "Expression of genes associated with immunoproteasome processing of major histocompatibility complex peptides is indicative of protection with adjuvanted RTS,S malaria vaccine.",
+    "sponsoring_organization": "GlaxoSmithKline Biologicals",
+    "target_enrollment": 104,
+    "workspace_id": 6133,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4461",
+            "description": "Subjects received adjuvanted RTS,S malaria vaccine regimen prior to malaria challenge",
+            "name": "adjuvanted RTS,S malaria vaccine cohort"
+        },
+        {
+            "arm_accession": "ARM4488",
+            "description": "No vaccine",
+            "name": "Infectivity control"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Christian",
+            "last_name": "Ockenhouse",
+            "organization": "Walter Reed Army Institute of Research",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Malaria Research Initiative"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Expression of genes associated with immunoproteasome processing of major histocompatibility complex peptides is indicative of protection with adjuvanted RTS,S malaria vaccine.",
+            "journal": "Journal of Infectious Diseases",
+            "month": "February",
+            "year": "2010",
+            "doi": "https://doi.org/10.1086/650310",
+            "pubmed_id": "20078211"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Other Programs",
+            "contract_name": "Walter Reed Army Institute of Research"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 254
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 58
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 58
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY1327",
+    "actual_completion_date": "2014-12-31",
+    "actual_enrollment": 339,
+    "actual_start_date": "2013-04-01",
+    "age_unit": "Years",
+    "brief_description": "This study is a meta-analysis evaluating differential gene expression signals in spontaneous preterm birth (sPTB). Three studies related to sPTB with maternal whole blood samples were selected in publicly available datasets, resulting in data from 339 samples. A meta-analysis of the aggregated and normalized transcriptomic datasets led to identification of 210 genes differentially expressed in sPTB relative to term birth. These genes were enriched in immune related pathways, showing upregulation of innate immunity and downregulation of adaptive immunity in women who delivered preterm. Additional analyses identified potential clinically relevant biomarkers.",
+    "brief_title": "Adaptive and innate immunity in sPTB",
+    "clinical_trial": "N",
+    "condition_studied": "spontaneous pre-term birth",
+    "dcl_id": 0,
+    "description": "This study is a meta-analysis evaluating differential gene expression signals in spontaneous preterm birth (sPTB). Three studies related to sPTB with maternal whole blood samples were selected in publicly available datasets, resulting in data from 339 samples. A meta-analysis of the aggregated and normalized transcriptomic datasets led to identification of 210 genes differentially expressed in sPTB relative to term birth. These genes were enriched in immune related pathways, showing upregulation of innate immunity and downregulation of adaptive immunity in women who delivered preterm. Additional analyses identified potential clinically relevant biomarkers.",
+    "doi": "10.21430/M30O36DLJZ",
+    "endpoints": "Meta-Analysis",
+    "gender_included": "Not Specified",
+    "hypothesis": "maternal plasma biomarkers are  associated with spontaneous preterm birth",
+    "initial_data_release_date": "2018-05-10",
+    "initial_data_release_version": "DR26",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "60",
+    "minimum_age": "18",
+    "objectives": "Identify gene signature associated with spontaneous preterm birth",
+    "official_title": "Meta-Analysis of Maternal and Fetal Transcriptomic Data Elucidates the Role of Adaptive and Innate Immunity in Preterm Birth",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 339,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4531",
+            "description": "Term",
+            "name": "GSE46510 data, Term"
+        },
+        {
+            "arm_accession": "ARM4532",
+            "description": "PreTerm",
+            "name": "GSE46510 data, Pre-Term"
+        },
+        {
+            "arm_accession": "ARM4533",
+            "description": "Term",
+            "name": "GSE59491 data, Term"
+        },
+        {
+            "arm_accession": "ARM4534",
+            "description": "PreTerm",
+            "name": "GSE59491 data, Pre-Term"
+        },
+        {
+            "arm_accession": "ARM4535",
+            "description": "Term",
+            "name": "GSE46510 data, Term"
+        },
+        {
+            "arm_accession": "ARM4536",
+            "description": "PreTerm",
+            "name": "GSE46510 data, Pre-Term"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Marina",
+            "last_name": "Sirota",
+            "organization": "Institute for Computational Health Sciences, University of California, San Francisco, California",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Institute for Computational Health Sciences, University of California, San Francisco, California"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Meta-Analysis of Maternal and Fetal Transcriptomic Data Elucidates the Role of Adaptive and Innate Immunity in Preterm Birth.",
+            "journal": "Front Immunol.",
+            "month": "May",
+            "year": "2018",
+            "doi": "10.3389/fimmu.2018.00993. eCollection 2018.",
+            "pubmed_id": "29867970"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "study_accession": "SDY32",
+    "actual_completion_date": null,
+    "actual_enrollment": 210,
+    "actual_start_date": "2009-10-29",
+    "age_unit": "Weeks",
+    "brief_description": "Inbred C57BL/6 female mice (12-15 weeks old) were immunized subcutaneously according to the 7 immunization groups.  Serum samples were collected weekly from subgroup A and analyzed serum antibody response using ELISA, Toxin Neutralization Assays, and Surface Plasmon Resonance.  Also, brachial and inguinal lymph nodes were harvested from 3 of each group at 10 time points.  Lymph nodes from one side of each mouse were used for histology and nodes from the other side were used for phenotyping by flow cytometry.",
+    "brief_title": "Determining the effect of different adjuvants and doses on the immune response to rPA",
+    "clinical_trial": "N",
+    "condition_studied": "different adjuvants and doses on the immune response to rPA",
+    "dcl_id": 2,
+    "description": "Inbred C57BL/6 female mice (12-15 weeks old) were immunized subcutaneously according to the 7 immunization groups.  Serum samples were collected weekly from subgroup A and analyzed serum antibody response using ELISA, Toxin Neutralization Assays, and Surface Plasmon Resonance.  Also, brachial and inguinal lymph nodes were harvested from 3 of each group at 10 time points.  Lymph nodes from one side of each mouse were used for histology and nodes from the other side were used for phenotyping by flow cytometry.",
+    "doi": "10.21430/M3OL4ZG9JN",
+    "endpoints": "Mice were sacrificed at designated time points. ELISA and Immunohistochemistry assays were done on samples collected from the mice.",
+    "gender_included": "Female",
+    "hypothesis": null,
+    "initial_data_release_date": "2014-01-17",
+    "initial_data_release_version": "DR7",
+    "intervention_agent": "LPS, oCpG\r",
+    "latest_data_release_date": "2014-01-17",
+    "latest_data_release_version": "DR7",
+    "maximum_age": "15",
+    "minimum_age": "12",
+    "objectives": "To determine the effect of different adjuvants and doses on the immune response to rPA",
+    "official_title": "Determining the effect of different adjuvants and doses on the immune response to rPA",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 210,
+    "workspace_id": 1885,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM367",
+            "description": "rPA + no adjuvants, saline boost",
+            "name": "Adjuvant Treatment Group 1, saline boost"
+        },
+        {
+            "arm_accession": "ARM368",
+            "description": "rPA + no adjuvants, rPA boost",
+            "name": "Adjuvant Treatment Group 1, rPA boost"
+        },
+        {
+            "arm_accession": "ARM369",
+            "description": "rPA + LPS 5ug, saline boost",
+            "name": "Adjuvant Treatment Group 2, saline boost"
+        },
+        {
+            "arm_accession": "ARM370",
+            "description": "rPA + LPS 5ug, rPA boost",
+            "name": "Adjuvant Treatment Group 2, rPA boost"
+        },
+        {
+            "arm_accession": "ARM371",
+            "description": "rPA + LPS 50ug, saline boost",
+            "name": "Adjuvant Treatment Group 3, saline boost"
+        },
+        {
+            "arm_accession": "ARM372",
+            "description": "rPA + LPS 50ug, rPA boost",
+            "name": "Adjuvant Treatment Group 3, rPA boost"
+        },
+        {
+            "arm_accession": "ARM373",
+            "description": "rPA + oCpG 5ug, saline boost",
+            "name": "Adjuvant Treatment Group 4, saline boost"
+        },
+        {
+            "arm_accession": "ARM374",
+            "description": "rPA + oCpG 5ug, rPA boost",
+            "name": "Adjuvant Treatment Group 4, rPA boost"
+        },
+        {
+            "arm_accession": "ARM375",
+            "description": "rPA + oCpG 50ug, saline boost",
+            "name": "Adjuvant Treatment Group 5, saline boost"
+        },
+        {
+            "arm_accession": "ARM376",
+            "description": "rPA + oCpG 50ug, rPA boost",
+            "name": "Adjuvant Treatment Group 5, rPA boost"
+        },
+        {
+            "arm_accession": "ARM377",
+            "description": "rPA + LPS 5ug +oCpG 5ug, saline boost",
+            "name": "Adjuvant Treatment Group 6, saline boost"
+        },
+        {
+            "arm_accession": "ARM378",
+            "description": "rPA + LPS 5ug +oCpG 5ug, rPA boost",
+            "name": "Adjuvant Treatment Group 6, rPA boost"
+        },
+        {
+            "arm_accession": "ARM379",
+            "description": "rPA + LPS 50ug + oCpG 50ug , saline boost",
+            "name": "Adjuvant Treatment Group 7, saline boost"
+        },
+        {
+            "arm_accession": "ARM380",
+            "description": "rPA + LPS 50ug + oCpG 50ug , rPA boost",
+            "name": "Adjuvant Treatment Group 7, rPA boost"
+        },
+        {
+            "arm_accession": "ARM381",
+            "description": "rPA + no adjuvants, no boost",
+            "name": "Adjuvant Treatment Group 1, for tissue collection, no boost"
+        },
+        {
+            "arm_accession": "ARM382",
+            "description": "rPA + LPS 5ug, no boost",
+            "name": "Adjuvant Treatment Group 2, for tissue collection, no boost"
+        },
+        {
+            "arm_accession": "ARM383",
+            "description": "rPA + LPS 50ug, no boost",
+            "name": "Adjuvant Treatment Group 3, for tissue collection, no boost"
+        },
+        {
+            "arm_accession": "ARM384",
+            "description": "rPA + oCpG 5ug, no boost",
+            "name": "Adjuvant Treatment Group 4, for tissue collection, no boost"
+        },
+        {
+            "arm_accession": "ARM385",
+            "description": "rPA + oCpG 50ug, no boost",
+            "name": "Adjuvant Treatment Group 5, for tissue collection, no boost"
+        },
+        {
+            "arm_accession": "ARM386",
+            "description": "rPA + LPS 5ug +oCpG 5ug, no boost",
+            "name": "Adjuvant Treatment Group 6, for tissue collection, no boost"
+        },
+        {
+            "arm_accession": "ARM387",
+            "description": "rPA + LPS 50ug + oCpG 50ug , no boost",
+            "name": "Adjuvant Treatment Group 7, for tissue collection, no boost"
+        },
+        {
+            "arm_accession": "ARM388",
+            "description": "without immunization",
+            "name": "unimmunized group"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Thomas",
+            "last_name": "Kepler",
+            "organization": "Duke Human Vaccine Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Duke Human Vaccine Institute\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "Multiscale Systems Immunology for Adjuvant Development"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 2290
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 8309
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

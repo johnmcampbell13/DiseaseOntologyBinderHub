@@ -1,0 +1,107 @@
+{
+    "study_accession": "SDY689",
+    "actual_completion_date": null,
+    "actual_enrollment": 757,
+    "actual_start_date": "2006-03-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to determine whether treatment with rituximab (anti-CD20, Rituxan, MabThera) in individuals who develop new anti-HLA antibodies after renal (kidney) transplant will promote longer-term survival of the transplanted kidney. The pilot study compares the use of rituximab (Rituxan) + site-specific standard immunosuppression to placebo + site-specific standard immunosuppression in the treatment of circulating anti-HLA antibodies in subjects who develop de novo anti-HLA antibodies between 3-36 months after transplant.",
+    "brief_title": "B-Cell depletion by anti-CD20 in renal allograft recipients who develop de novo anti-HLA alloantibodies (CCTPT-02/CTOT-02)",
+    "clinical_trial": "Y",
+    "condition_studied": "Organ Transplantation",
+    "dcl_id": 2,
+    "description": "The purpose of this study is to determine whether treatment with rituximab (anti-CD20, Rituxan, MabThera) in individuals who develop new anti-HLA antibodies after renal (kidney) transplant will promote longer-term survival of the transplanted kidney. The pilot study compares the use of rituximab (Rituxan) + site-specific standard immunosuppression to placebo + site-specific standard immunosuppression in the treatment of circulating anti-HLA antibodies in subjects who develop de novo anti-HLA antibodies between 3-36 months after transplant.",
+    "doi": "10.21430/M3VC8YZQ9K",
+    "endpoints": "The primary endpoint of the screening study is to study the incidence and timing of alloantibody development within the screening window of 3-60 months post-transplant. The secondary endpoints of the screening study are to study the natural history and risk factors for development of alloantibodies:<ol><li>Natural History:<ol><li>Graft function at 3 and 5 years, change in renal function assessed by calculated GFR, and change in renal function assessed by serum creatinine.</li><li>Graft survival at 3 and 5 years.</li><li>Evolution of Antibody Profile including Anti-HLA Ab specificities and strength and presence of MICA.</li></ol></li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "B-cell depletion by anti-CD20 (Rituximab) in renal allograft recipients who develop (by 3-36 months) de novo anti-HLA alloantibodies will result in inhibition of antibody production, attenuation of chronic humoral rejection and improvement of renal transplant function and pathological changes of chronic allograft nephropathy.",
+    "initial_data_release_date": "2016-06-17",
+    "initial_data_release_version": "DR19",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  69.00",
+    "minimum_age": "   2.00",
+    "objectives": "The primary objective of the screening study is to determine the incidence and timing of alloantibody development after transplantation. The secondary objective of the screening study is to study the natural history and risk factors of conversion to Anti-HLA Ab positivity by examining the clinical and mechanistic data. The primary objective of the pilot study is to test the hypothesis that treatment with anti-CD20 (Rituximab) in renal allograft recipients who develop (by 3-36 months) de novo anti-HLA alloantibodies will result in inhibition of antibody production, and attenuation of both chronic humoral rejection and the pathological changes of chronic allograft nephropathy. The secondary objectives of the pilot study are to gather additional information about the combination of therapy using Rituximab with other immunosuppressive agents: <ol><li>Examine whether treatment with anti-CD20 (Rituximab) decreases circulating anti-HLA antibodies and leads to loss of PTC C4d staining on renal biopsy and a lower degree of graft loss.</li><li>Examine the degree and duration of B-cell depletion on inhibition of indirect alloreactivity mediated by B-cell antigen presentation by use of sensitive and specific assays, including peripheral cellular/humoral assays and intragraft molecular assays.</li><li>Examine the frequencies of alloreactive T-cells determined by ELISPOT and intragraft analysis for lineage specific markers and immunohistology.</li><li>Viral replication for BKV, EBV and CMV measured by PCR.</li><li>Examine whether treatment with anti-CD20 (Rituximab) decreases circulating non-HLA autoantibodies directed against endothelial cells MICA, angiotensin II receptor and the agrin epitope of glomerular basement membrane.</li><li>To determine the impact of de novo antibody production on renal function at 12 months.</li></ol>",
+    "official_title": "B-Cell Depletion by Anti-CD20 (Rituximab) in Renal Allograft Recipients Who Develop Early De Novo Anti-HLA Alloantibodies Will Result in Inhibition of Alloantibody Production and Attenuation of Chronic Humoral Rejection",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 4059,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2971",
+            "description": "Rituximab plus immunosuppression",
+            "name": "Rituximab plus immunosuppression"
+        },
+        {
+            "arm_accession": "ARM2972",
+            "description": "Placebo plus immunosuppression",
+            "name": "Placebo plus immunosuppression"
+        },
+        {
+            "arm_accession": "ARM2973",
+            "description": "Subjects with no detection of anti-HLA antibodies",
+            "name": "Screening group"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mohamed",
+            "last_name": "Sayegh",
+            "organization": "Brigham and Women's Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Brigham and Women's Hospital"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Clinical Trials in Organ Transplantation (CTOT)",
+            "contract_name": "NOVEL THERAPIES OF CHRONIC ALLOGRAFT DYSFUNCTION (CTOT-02)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 1507
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 37
+            },
+            {
+                "race": "Black or African American",
+                "count": 161
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 6
+            },
+            {
+                "race": "Unknown",
+                "count": 93
+            },
+            {
+                "race": "White",
+                "count": 459
+            }
+        ],
+        "gender": [
+            {
+                "Female": 251
+            },
+            {
+                "Male": 506
+            }
+        ]
+    }
+}

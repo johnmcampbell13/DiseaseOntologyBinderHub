@@ -1,0 +1,108 @@
+{
+    "study_accession": "SDY545",
+    "actual_completion_date": null,
+    "actual_enrollment": 51,
+    "actual_start_date": "2006-05-01",
+    "age_unit": "Months",
+    "brief_description": "The purpose of this study is to determine whether early childhood exposure to common allergens (substances that can trigger allergies and asthma) can prevent the development of asthma in children at high risk for developing the disease.",
+    "brief_title": "GPAC ITN025AD: Promoting Tolerance to Common Allergens in High-Risk Children:  Global Prevention of Asthma in Children",
+    "clinical_trial": "Y",
+    "condition_studied": "Asthma|Allergic Sensitization",
+    "dcl_id": 2,
+    "description": "Researchers suspect that allergies to common inhaled allergens (such as house dust mite, cat dander, and grass pollens) are a major cause of childhood asthma. Recent evidence suggests that if allergies to inhaled allergens are prevented, this can cause changes in the immune system that may inhibit the development of asthma. Although strategies to prevent allergies generally focus on avoiding the allergen, complete avoidance of the common allergens linked to asthma would require extreme measures and is impractical. Oral mucosal immunoprophylaxis (OMIP) therapy is an allergy treatment that can induce long-lasting immune tolerance in people already suffering from allergies. By exposing the patient to small, repeated, but increasing doses of the problem allergen over a long period of time, the patient's immune system is eventually desensitized to that particular allergen. OMIP therapy has been shown to be safe in children as young as 2 years old. This study will evaluate if OMIP therapy against common inhaled allergens is safe and effective in preventing the development of asthma in children at high risk for developing the disease. Children enrolled in this study have been diagnosed with eczema or food allergies and have a family history of eczema, allergic rhinitis, or asthma. There are two groups in this study. The experimental arm participants will receive OMIP therapy (a mixture of house dust mite, cat, and timothy grass allergens) as daily oral drops under the tongue for 1 year; Placebo arm participants will receive an allergen free placebo solution. Participants will be followed for an additional 3 years to see whether they develop allergies or asthma and to determine how OMIP affects their immune system's response to allergens. There will be 5 study visits in the first year and 6 visits over the next 3 years. At all visits, participants will be assessed for allergy/asthma symptoms, will be asked to complete questionnaires, and may be asked to provide blood or saliva samples.",
+    "doi": "10.21430/M3BK0YTX2J",
+    "endpoints": "Endpoints: Allergic sensitization at Month 36:  reduction in serum allergen specific IgE CAP test or allergy skin prick testReduction in asthma status at Month 36: ",
+    "gender_included": "Not Specified",
+    "hypothesis": "see protocol",
+    "initial_data_release_date": "2015-12-14",
+    "initial_data_release_version": "DR16",
+    "intervention_agent": null,
+    "latest_data_release_date": "2015-12-14",
+    "latest_data_release_version": "DR16",
+    "maximum_age": "  30.00",
+    "minimum_age": "  12.00",
+    "objectives": "Objectives:Determine whether early childhood exposure to common allergens can prevent the development of asthma in children at high risk for developing the disease. ",
+    "official_title": "A Phase II Multicenter, Controlled, Double-Blind Study Using Immunoprophylaxis in the Primary Prevention of Allergic Disease (ITN025AD)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 51,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2663",
+            "description": "Not enrolled",
+            "name": "Not enrolled"
+        },
+        {
+            "arm_accession": "ARM2664",
+            "description": "OMIP",
+            "name": "OMIP"
+        },
+        {
+            "arm_accession": "ARM2665",
+            "description": "Placebo",
+            "name": "Placebo"
+        },
+        {
+            "arm_accession": "ARM2666",
+            "description": "Screen Failures",
+            "name": "Screen Failures"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Patrick",
+            "last_name": "Holt",
+            "organization": "Telethon Institute for Child Health Research",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Telethon Institute for Child Health Research"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Prophylactic use of sublingual allergen immunotherapy in high-risk children: a pilot study.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Oct",
+            "year": "2013",
+            "doi": "10.1016/j.jaci.2013.04.049. Epub 2013 Jun 12.",
+            "pubmed_id": "23768574"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 47
+            }
+        ],
+        "gender": [
+            {
+                "Female": 26
+            },
+            {
+                "Male": 25
+            }
+        ]
+    }
+}

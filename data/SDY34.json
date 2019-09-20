@@ -1,0 +1,135 @@
+{
+    "study_accession": "SDY34",
+    "actual_completion_date": null,
+    "actual_enrollment": 97,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "To determine the effects of chronic immunosuppressive therapies on the magnitude and character of the adaptive immune response to influenza vaccination.",
+    "brief_title": "Comparison of immune response to influenza vaccine in transplant patients and healthy controls",
+    "clinical_trial": "N",
+    "condition_studied": "Assessment of influenza vaccine response administered 6 months post-renal transplant in patients receiving immunosuppressive treatments.",
+    "dcl_id": 2,
+    "description": "This is a prospective longitudinal study to determine the effects of chronic immunosuppressive therapies on the magnitude and character of the adaptive immune response to influenza vaccination in healthy controls compared to renal transplant patients.",
+    "doi": "10.21430/M3KEDFBDQ7",
+    "endpoints": "<ol><li>HLA genotyping of enrolled subjects.</li><li>FCM experiment to measure frequency and phenotypic profile of B and T cell subsets in chronically immunosuppressed patients.</li><li>CD107A degranulation assay to assess numbers and function of antigen-specific memory T cells in chronic immunosuppression.</li><li>CFSE proliferation assay to assess numbers and function of antigen-specific memory T cells in chronic immunosuppression.</li><li>ELISPOT assay to assess memory B cell function in renal transplant patients with tacrolimus and sirolimus treatment.</li><li>ELISA serum antibody titers to assess memory B cell function in renal transplant patients with tacrolimus and sirolimus treatment.</li><li>Effects of chronic immunosuppression on dendritic cell function.</li><li>Microarray experiment to define the transcriptional signatures associated with specific immunosuppressive regimens.</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Not provided.",
+    "initial_data_release_date": "2013-04-10",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "tacrolimus-based or sirolimus-based immunosuppressants, influenza vaccine. \r",
+    "latest_data_release_date": "2013-04-10",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  65.00",
+    "minimum_age": "  22.00",
+    "objectives": "<ol><li>To determine the effects of chronic immunosuppressive therapies on the magnitude and character of the adaptive immune response to influenza vaccination.</li><li>To determine the effects of chronic immunosuppressive therapies on innate immunity during response to influenza vaccination.</li><li>To define the transcriptional signatures after influenza  vaccination with chronic immunosuppressive therapies.</li></ol>",
+    "official_title": "Comparison of immune response to influenza vaccine in transplant patients and healthy controls",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM226",
+            "description": "Renal Transplant Recipients, Greater than 6 Months Post-Transplant Receiving Trivalent Inactivated Influenza Vaccination.",
+            "name": "6 month post-transplant subjects receiving trivalent influenza vaccine"
+        },
+        {
+            "arm_accession": "ARM227",
+            "description": "Healthy Adult Subjects Receiving Trivalent Inactivated Influenza Vaccination.",
+            "name": "Healthy Controls"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Christian",
+            "last_name": "Larsen",
+            "organization": "Emory Transplant Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\"Emory Transplant Center, GA\"\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Rapid cloning of high-affinity human monoclonal antibodies against influenza virus.",
+            "journal": "Nature.",
+            "month": "May",
+            "year": "2008",
+            "doi": "10.1038/nature06890. Epub 2008 Apr 30.",
+            "pubmed_id": "18449194"
+        },
+        {
+            "title": "Rapid generation of fully human monoclonal antibodies specific to a vaccinating antigen.",
+            "journal": "Nat Protoc.",
+            "month": "-",
+            "year": "2009",
+            "doi": "10.1038/nprot.2009.3.",
+            "pubmed_id": "19247287"
+        },
+        {
+            "title": "Broadly cross-reactive antibodies dominate the human B cell response against 2009 pandemic H1N1 influenza virus infection.",
+            "journal": "J Exp Med.",
+            "month": "Jan",
+            "year": "2011",
+            "doi": "10.1084/jem.20101352. Epub 2011 Jan 10.",
+            "pubmed_id": "21220454"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "Protective Immunity in Transplant Recipients"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 448
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 42
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 21
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 5
+            },
+            {
+                "race": "Asian",
+                "count": 10
+            },
+            {
+                "race": "Black or African American",
+                "count": 27
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 4
+            },
+            {
+                "race": "White",
+                "count": 50
+            }
+        ],
+        "gender": [
+            {
+                "Female": 51
+            },
+            {
+                "Male": 46
+            }
+        ]
+    }
+}

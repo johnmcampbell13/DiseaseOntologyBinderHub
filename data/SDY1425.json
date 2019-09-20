@@ -1,0 +1,91 @@
+{
+    "study_accession": "SDY1425",
+    "actual_completion_date": "2016-10-03",
+    "actual_enrollment": 19,
+    "actual_start_date": "2011-09-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study was to assess whether a new drug, Nulojix (belatacept), would minimize serious long term side effects associated with anti-rejection medications while still protecting the new kidney from damage. The researchers also wanted to learn more about the safety of this treatment and long term health of the transplanted kidney.",
+    "brief_title": "Optimization of Belatacept Usage As A Means of Avoiding CNI and steroids in Renal Transplantation (CTOT-10)",
+    "clinical_trial": "Y",
+    "condition_studied": "Kidney Transplantation",
+    "dcl_id": 2,
+    "description": "Dialysis or kidney transplant are the two ways to treat kidney failure. Transplant recipients have to take anti-rejection medications to prevent their immune system (the body's natural defense system against illness) from rejecting their new kidney. Most patients who undergo a kidney transplant must take these anti-rejection medications for the rest of their lives. Taking standard anti-rejection medications for a long time can cause serious side effects, including kidney damage. There would be a benefit to finding new anti-rejection medications that work just as well, but don't damage the kidney.",
+    "doi": "10.21430/M3W0NBNCXA",
+    "endpoints": "Major study endpoints will be determined for each participant 52 weeks after enrollment. Subjects will be followed until the end of the study (52 to 156 weeks) with additional endpoint assessments. The primary endpoint is mean glomerular filtration rate (GFR) calculated for each treatment group using the CKD-EPI equation at 52 weeks.",
+    "gender_included": "Female, Male",
+    "hypothesis": "This study will test the hypothesis that steroid-free Belatacept-based regimens using either Campath (alemtuzumab) or Prograf (tacrolimus) induction will achieve superior renal function with comparable rates of rejection compared with a tacrolimus -based maintenance immunosuppressive regimen.",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "Belatacept",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  65.00",
+    "minimum_age": "  26.00",
+    "objectives": "The primary objective is to evaluate a NULOJIX (belatacept) based regimens as a means of improving long term graft function without increasing the risks of immunologic graft injury by avoiding both CNI and corticosteroids. The secondary objective is to compare the impact of belatacept-based and tacrolimus-based regimens on protective immunity with emphasis on control of latent viral infections and protective immune function.",
+    "official_title": "Optimization of NULOJIX (Belatacept) Usage as a Means of Avoiding CNI and Steroids in Renal Transplantation",
+    "sponsoring_organization": "The National Institute of Allergy and Infectious Diseases (NIAID)",
+    "target_enrollment": 210,
+    "workspace_id": 4058,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4741",
+            "description": "Group 1 Study Therapy Regimen:Induction with alemtuzumab and maintenance immunosuppression with tacrolimus and mycophenolate mofetil (MMF).",
+            "name": "Group 1 Tac maintenance"
+        },
+        {
+            "arm_accession": "ARM4742",
+            "description": "Group 2 Study Therapy Regimen: Induction with alemtuzumab and maintenance with Nulojix (belatacept) and mycophenolate mofetil (MMF).",
+            "name": "Group 2 Belatacept maintenance"
+        },
+        {
+            "arm_accession": "ARM4743",
+            "description": "Group 3 Study Therapy Regimen: Induction with 2 doses of basiliximab and tacrolimus for 84 days and maintenance with Nulojix (belatacept) and mycophenolate mofetil (MMF).",
+            "name": "Group 3 Basiliximab induction/Short-term Tac"
+        },
+        {
+            "arm_accession": "ARM4744",
+            "description": "Subject did not continue with the version 4.0 protocol.",
+            "name": "Unknown"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Christian",
+            "last_name": "Larsen",
+            "organization": "Emory University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory University School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Lessons Learned: Early Termination of a Randomized Trial of Calcineurin Inhibitor and Corticosteroid Avoidance Using Belatacept.",
+            "journal": "Am J Transplant.",
+            "month": "Oct",
+            "year": "2017",
+            "doi": "10.1111/ajt.14377. Epub 2017 Jul 3.",
+            "pubmed_id": "28556519"
+        }
+    ],
+    "program": [],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 19
+            }
+        ],
+        "gender": [
+            {
+                "Female": 6
+            },
+            {
+                "Male": 13
+            }
+        ]
+    }
+}

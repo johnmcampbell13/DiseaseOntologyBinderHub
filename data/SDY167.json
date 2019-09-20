@@ -1,0 +1,124 @@
+{
+    "study_accession": "SDY167",
+    "actual_completion_date": null,
+    "actual_enrollment": 45,
+    "actual_start_date": "2006-12-21",
+    "age_unit": "Years",
+    "brief_description": "VRC304 - A Phase I, double-blind, placebo-controlled, randomized, dose escalation study to evaluate safety, tolerability, and immunogenicity of a recombinant DNA vaccine against the influenza virus hemagglutinin H5.",
+    "brief_title": "VRC304 - A Phase I Study of the Safety and Immunogenicity of a Recombinant DNA Plasmid Vaccine (VRC-AVIDNA036-00-VP) Encoding for the Influenza Virus H5 Hemagglutinin Protein in Healthy Adults",
+    "clinical_trial": "Y",
+    "condition_studied": "Influenza A Virus, H5N1 Subtype",
+    "dcl_id": 2,
+    "description": "The primary objective was to evaluate the safety and tolerability of an investigational vaccine VRC-AVIDNA036-00-VP in humans at doses 1 mg and 4 mg administered intramuscularly using a needle-free injection system. The secondary objectives included evaluation of whether VRC-AVIDNA036-00-VP (at doses 1 mg and 4 mg) induced antibodies as assessed by an HAI assay at Day 0 and Week 12.  Exploratory analyses included evaluation of the immunogenicity of VRC-AVIDNA036-00-VP at doses 1 mg and 4 mg using intracellular cytokine staining, ELISpot, neutralizing antibody assay, HAI assay to H1 or H3HA or other immunological assays at time intervals between Day 0 and Week 42.",
+    "doi": "10.21430/M3SGHW16WZ",
+    "endpoints": "<ol><li>ELISA</li><li>ELISpot</li><li>Flow Cytometry</li><li>Hemagglutinin Inhibition Assay</li><li>Neutralization Assay</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "It was hypothesized that this vaccine would be safe for human administration and would elicit immune responses to the H5 protein.",
+    "initial_data_release_date": "2013-06-12",
+    "initial_data_release_version": "DR2",
+    "intervention_agent": "VRC-AVIDNA036-00-VP vaccine",
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  57.00",
+    "minimum_age": "  19.00",
+    "objectives": "<ol><li>To evaluate the safety and tolerability in humans of VRC-AVIDNA036-00-VP at a dose of 1 mg and 4 mg administered intramuscularly using a needle-free injection system.</li><li>To evaluate whether VRC-AVIDNA036-00-VP at a dose of 1 mg and 4 mg induces antibodies to H5 HA as assessed by an HAI assay at Day 0 and Week 12.</li><li>To evaluate the immunogenicity of VRC-AVIDNA036-00-VP at a dose of 1 mg and 4 mg administered intramuscularly using a needle-free injection system as indicated by intracellular cytokine staining, ELISpot, neutralizing antibody assay, HAI to H1 or H3 or other immunological assays at intervals between Day 0 and Week 42.</li></ol>",
+    "official_title": "VRC304 - A Phase I Study of the Safety and Immunogenicity of a Recombinant DNA Plasmid Vaccine (VRC-AVIDNA036-00-VP) Encoding for the Influenza Virus H5 Hemagglutinin Protein in Healthy Adults",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 45,
+    "workspace_id": 2996,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM747",
+            "description": "The 1 mg vaccine arm received three 1 mg IM injections at least 21 days between injections",
+            "name": "1 mg vaccine arm"
+        },
+        {
+            "arm_accession": "ARM748",
+            "description": "The 4 mg vaccine arm received three 4 mg IM injections at least 21 days between injections",
+            "name": "4 mg vaccine arm"
+        },
+        {
+            "arm_accession": "ARM749",
+            "description": "The placebo arm received three PBS IM injections at least 21 days between injections",
+            "name": "placebo arm"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Julie",
+            "last_name": "Ledgerwood",
+            "organization": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases (NIAID)",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases (NIAID)"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Influenza virus h5 DNA vaccination is immunogenic by intramuscular and intradermal routes in humans.",
+            "journal": "Clin Vaccine Immunol.",
+            "month": "Nov",
+            "year": "2012",
+            "doi": "10.1128/CVI.05663-11. Epub 2012 Sep 5.",
+            "pubmed_id": "22956656"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Vaccine Research Center (VRC)",
+            "contract_name": "NIAID Vaccine Research Center (VRC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 430
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 300
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 874
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 44
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 88
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "Black or African American",
+                "count": 6
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 36
+            }
+        ],
+        "gender": [
+            {
+                "Female": 25
+            },
+            {
+                "Male": 20
+            }
+        ]
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "study_accession": "SDY131",
+    "actual_completion_date": "2006-08-31",
+    "actual_enrollment": 34,
+    "actual_start_date": "2001-02-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to see the effect of using drugs other than calcineurin inhibitors to improve the rate of kidney transplant failure.Kidney transplantation can help children with end-stage kidney disease. However, it has been difficult to find treatment for donor graft rejection that does not have a lot of side effects. Researchers hope to find treatments (immunosuppressants) with fewer side effects. One approach is to avoid using calcineurin inhibitors and to try a new drug known as sirolimus instead. Another is to use steroids less often. This study will test whether using sirolimus, fewer steroid treatments, MMF, and certain antibodies will improve long-term graft survival in children receiving kidney transplants from living donors.",
+    "brief_title": "Pediatric Kidney Transplant Without Calcineurin Inhibitors (CN01)",
+    "clinical_trial": "Y",
+    "condition_studied": "Allograft rejection or hyporesponsiveness in recipients of renal transplants",
+    "dcl_id": 1,
+    "description": "<p>This protocol tests whether immunosuppression by IL-2r antibody, sirolimus, MMF, and alternate-day steroids will provide comparable graft survival for living donor recipients, compared to current immunosuppression, but with reduced complications of calcineurin inhibitors.</p><p>Evaluations prior to transplantation include a complete history and physical examination, CBC, liver function tests, and antibodies for CMV, EBV, HIV, HbsAG, and HCV.All appropriate vaccinations are provided before transplantation. Transplant recipients receive immunosuppression therapy using antibody induction (daclizumab), corticosteroids, mycophenolate mofetil, and sirolimus. Serum sirolimus levels are measured so that doses can be adjusted to maintain certain blood levels of the drug. Bactrim and ganciclovir are given for infection prophylaxis. If the patient has consistent high levels of fasting cholesterol, treatment with lipitor may be given. A transplant biopsy is performed at the time of the transplant and at 3, 6, and 12 months post transplantation and at times when a rejection is suspected. A radionuclide GFR is done at the same time points, and at 1, 24, and 36 months. The protocol biopsies, blood, and urine samples will be analyzed by genomic methods to determine differences in gene expression post transplantation. In the event of a first acute rejection, patients are treated with Solu-Medrol for 3 consecutive days. A second rejection (at the discretion of the transplant center) or severe rejection (Banff Grade 3) is treated with antibody therapy and, after a second or severe rejection, the immunosuppressant regimen is changed. Patients are followed for 36 months with routine physical examinations and laboratory assessments</p>",
+    "doi": "10.21430/M38TWQ85KW",
+    "endpoints": "hypertension, serious infection, chronic nephrotoxicity, acute rejection",
+    "gender_included": "Female, Male",
+    "hypothesis": "The use of sirolimus, fewer steroid treatments, MMF, and certain antibodies improves long-term graft survival in children receiving kidney transplants from living donors.",
+    "initial_data_release_date": "2013-04-05",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Sirolimus",
+    "latest_data_release_date": "2013-04-05",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  21.70",
+    "minimum_age": "   1.20",
+    "objectives": "<p><b>Primary objective:</b><p>To determine whether a protocol without calcineurin-inhibitors can provide efficacy as good as or better than current standard immunosuppressive protocols  with fewer adverse effects, especially hypertension, serious infections and chronic nephrotoxicity.  Specifically, this is an uncontrolled pilot assessment of freedom from rejection in the first post-transplant year, using historical rejection rates as a comparison.</p><p><b>Secondary objective:</b><p>To determine whether the immune inhibition resulting from this protocol can be detected by sensitive and specific assays, including intragraft and peripheral monitoring, for expression patterns of activation and effector function markers. These studies are directed to understanding the mechanisms of action of this immunosuppression and to develop a set of surrogate markers of allograft rejection or hyporesponsiveness in recipients of renal transplants.</p>",
+    "official_title": "CALCINEURIN INHIBITOR SPARING PROTOCOL IN LIVING DONOR PEDIATRIC KIDNEY TRANSPLANTATION (CN01)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 35,
+    "workspace_id": 2872,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM667",
+            "description": "To compare with historic acute rejection rate",
+            "name": "Sirolimus"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "William",
+            "last_name": "Harmon",
+            "organization": "Boston Children's Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Boston Children's Hospital"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Short sirolimus half-life in pediatric renal transplant recipients on a calcineurin inhibitor-free protocol.",
+            "journal": "Pediatr Transplant.",
+            "month": "Apr",
+            "year": "2004",
+            "doi": "-",
+            "pubmed_id": "15049798"
+        },
+        {
+            "title": "Measuring T cell alloreactivity to predict kidney transplant outcomes: are we there yet?",
+            "journal": "J Am Soc Nephrol.",
+            "month": "Feb",
+            "year": "2006",
+            "doi": "b 2005 Dec 28.",
+            "pubmed_id": "16382014"
+        },
+        {
+            "title": "Safety and efficacy of a calcineurin inhibitor avoidance regimen in pediatric renal transplantation.",
+            "journal": "J Am Soc Nephrol.",
+            "month": "Jun",
+            "year": "2006",
+            "doi": "b 2006 May 10.",
+            "pubmed_id": "16687625"
+        },
+        {
+            "title": "Subsets of human CD4(+) regulatory T cells express the peripheral homing receptor CXCR3.",
+            "journal": "Eur J Immunol.",
+            "month": "Aug",
+            "year": "2011",
+            "doi": "10.1002/eji.201041095. Epub 2011 Jun 24.",
+            "pubmed_id": "21538345"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Cooperative Clinical Trials in Pediatric Transplantation (CCTPT)",
+            "contract_name": "Data Coordinating Center for Cooperative Clinical Trials in Pediatric Transplantation"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 12189
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 32
+            }
+        ],
+        "gender": [
+            {
+                "Female": 12
+            },
+            {
+                "Male": 22
+            }
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "study_accession": "SDY1401",
+    "actual_completion_date": "2017-12-04",
+    "actual_enrollment": 40,
+    "actual_start_date": "2016-01-01",
+    "age_unit": "Years",
+    "brief_description": "Historically the human womb has been thought to be sterile in healthy pregnancies, but this idea has been challenged by recent studies using DNA sequence-based methods, which have suggested that the womb is colonized with bacteria.  For example, analysis of DNA from placenta samples yielded small proportions of microbial sequences, which were proposed to represent normal bacterial colonization.  However, an analysis by our group showed no distinction between background negative controls and placenta samples",
+    "brief_title": "Lack of detection of a human placenta microbiome in samples from preterm and term deliveries",
+    "clinical_trial": "N",
+    "condition_studied": "Pregnancy",
+    "dcl_id": 2,
+    "description": "Historically the human womb has been thought to be sterile in healthy pregnancies, but this idea has been challenged by recent studies using DNA sequence-based methods, which have suggested that the womb is colonized with bacteria.  For example, analysis of DNA from placenta samples yielded small proportions of microbial sequences, which were proposed to represent normal bacterial colonization.  However, an analysis by our group showed no distinction between background negative controls and placenta samples",
+    "doi": "10.21430/M3BCUKEU3X",
+    "endpoints": "16S rRNA gene sequences using 16S rRNA gene quantitative PCR (qPCR), 16S rRNA gene sequencing and shotgun metagenomic sequencing",
+    "gender_included": "Female",
+    "hypothesis": "Human womb is sterile and does not have a microbiome",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "None",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  44.00",
+    "minimum_age": "  18.00",
+    "objectives": "Identify possible causes on conflicting literature reports on human womb microbiome inlcuding reagent contamination, sequencee database issues, analysis tool configurations and iinterpretations",
+    "official_title": "Lack of detection of a human placenta microbiome in samples from preterm and term deliveries",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 40,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4708",
+            "description": "Adult women with singleton pregnancies who delivered between 23-0/7 and 34-6/7 weeks gestational age following idiopathic preterm labor (regular contractions and cervical dilation), preterm premature rupture of membranes (PPROM), or cervical insufficiency (painless cervical dilation).",
+            "name": "Preterm pregancy"
+        },
+        {
+            "arm_accession": "ARM4709",
+            "description": "Uncomplicated singleton pregnancies delivered at term following spontaneous labor (regular contractions, cervical dilation) or spontaneous rupture of membranes.",
+            "name": "Term pregancy"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Frederic",
+            "last_name": "Bushman",
+            "organization": "University of Pennsylvania School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Pennsylvania School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Lack of detection of a human placenta microbiome in samples from preterm and term deliveries.",
+            "journal": "Microbiome.",
+            "month": "Oct",
+            "year": "2018",
+            "doi": "10.1186/s40168-018-0575-4.",
+            "pubmed_id": "30376898"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "16S rRNA gene sequencing",
+            "number_of_expsamples": 320
+        },
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 180
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "Black or African American",
+                "count": 22
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 14
+            }
+        ],
+        "gender": [
+            {
+                "Female": 40
+            }
+        ]
+    }
+}

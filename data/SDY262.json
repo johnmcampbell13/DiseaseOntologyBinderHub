@@ -1,0 +1,112 @@
+{
+    "study_accession": "SDY262",
+    "actual_completion_date": null,
+    "actual_enrollment": 35,
+    "actual_start_date": null,
+    "age_unit": "Days",
+    "brief_description": "This time-course study assesses systemic and local immune responses in pigs challenged with a European and African strain of Helicobacter pylori. Immunophenotype and gene expression was assessed in peripheral blood mononuclear cells every week over a course of 2 months. At the end of the study animals were euthanized and local immune responses as well as histological changes and bacterial burden were assessed.",
+    "brief_title": "SWHP03 A novel pig model of Helicobacter pylori infection demonstrating Th1 and cytotoxic T cell responses",
+    "clinical_trial": "N",
+    "condition_studied": "Host responses to H. pylori infection",
+    "dcl_id": 2,
+    "description": "Pigs were divided into 4 groups of uninfected (n=9), infected with H. pylori strain J99 (n=9), strain SS1 (n=8) and SW-SS1 (n=9). Following a 12-hour fasting period, bacterial challenge was performed by orogastric gavage with 1x1010 CFU H. pylori live organisms (strains J99, SS1 or SW-SS1) resuspended in sterile brucella broth administered on days 0 and 2 of the study. As a control, the uninfected group received sterile brucella broth without any bacteria. A delay in gastric emptying was ensured by oral administration of brucella broth supplemented with fetal bovine serum (FBS) prior to the bacterial or mock challenges. To suppress gastric acidity and to increase the efficiency of H. pylori colonization, all pigs received Famotidine (1mg/kg) intramuscularly 90 minutes prior to each bacterial and control inoculation and 5% urea was added to drinking water for 4 days post-infection to provide sufficient substrate for H. pylori urease and to increase gastric pH. Pigs were monitored and scored for clinical signs of disease daily. Peripheral blood was collected from the vena cava weekly to study systemic immune responses by flow cytometry. Pigs were euthanized between day 51 and 60 post-infection to assess gastric colonization with H. pylori, to study lesions and local immune responses in the gastric mucosa and lymph node (GLN).  Tissue was collected from 3 major regions of the stomach: fundus gland (F), pyloric gland (P), cardiac gland (C) and further subdivided in 2 sections (F-A, F-B, P-A, P-B, C-A, C-B) for specific applications. Furthermore, Spleen and GLN were collected for further analysis.",
+    "doi": "10.21430/M3BAR04LX3",
+    "endpoints": "Systemic and mucosa immunological assessment, bacterial burden, and gastric lesions.",
+    "gender_included": "Female, Male",
+    "hypothesis": "This study on the immune responses towards H. pylori in a pig model was designed to validate and further strengthen data obtained from SWHP01. We are expecting see systemic and local Th1 and cytotoxic T cell responses upon H. pylori infection.",
+    "initial_data_release_date": "2014-04-01",
+    "initial_data_release_version": "DR8",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-04-01",
+    "latest_data_release_version": "DR8",
+    "maximum_age": "  16.00",
+    "minimum_age": "  16.00",
+    "objectives": "The objectives of the study were to validate data obtained in a previous study (SWHP01) and to expand and generate data on local and functional immune responses in this pig model of H. pylori infection.",
+    "official_title": "A novel pig model of Helicobacter pylori infection demonstrating Th1 and cytotoxic T cell responses",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1831",
+            "description": "Treated or infected with HP SS1",
+            "name": "HP_SS1"
+        },
+        {
+            "arm_accession": "ARM1832",
+            "description": "Control",
+            "name": "Uninfected"
+        },
+        {
+            "arm_accession": "ARM1833",
+            "description": "Treated or infected with HP SW_SS1",
+            "name": "HP_SW_SS1"
+        },
+        {
+            "arm_accession": "ARM1861",
+            "description": "Treated or infected with HP J99",
+            "name": "J99"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        },
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Helicobacter pylori infection in a pig model is dominated by Th1 and cytotoxic CD8+ T cell responses.",
+            "journal": "Infect Immun.",
+            "month": "Oct",
+            "year": "2013",
+            "doi": "10.1128/IAI.00660-13. Epub 2013 Jul 29.",
+            "pubmed_id": "23897614"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 140
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 2785
+        },
+        {
+            "measurement_technique": "Microscopy",
+            "number_of_expsamples": 156
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 168
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 234
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

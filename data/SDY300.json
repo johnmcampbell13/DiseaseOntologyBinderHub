@@ -1,0 +1,85 @@
+{
+    "study_accession": "SDY300",
+    "actual_completion_date": null,
+    "actual_enrollment": 10,
+    "actual_start_date": "2011-01-01",
+    "age_unit": "Years",
+    "brief_description": "The described experiments in this study were designed to deconvolute the molecular signature observed in the whole blood of healthy subsets at early time points following the administration of Fluzone 2010-2011 vaccines. RNA-seq data generated from sorted purified cell populations, including mDC and monocyte subsets will permit us to reveal distinct roles that DC and monocyte subsets play in eliciting immune responses to vaccines against flu in healthy adults using system biology approaches.",
+    "brief_title": "Healthy Human DC and monocyte subsets transcriptional regulations in response to Fluzone 2010-2011 and pneumococcal vaccinations",
+    "clinical_trial": "N",
+    "condition_studied": "Vaccine responses in healthy adult population",
+    "dcl_id": 2,
+    "description": "The described experiments in this study were designed to deconvolute the molecular signature observed in the whole blood of healthy subsets at early time points following the administration of Fluzone 2010-2011 vaccines. RNA-seq data generated from sorted purified cell populations, including mDC and monocyte subsets will permit us to reveal distinct roles that DC and monocyte subsets play in eliciting immune responses to vaccines against flu in healthy adults using system biology approaches.",
+    "doi": "10.21430/M3FJJ9G9ZZ",
+    "endpoints": "N/A",
+    "gender_included": "Female, Male",
+    "hypothesis": "Early activation of DC and monocyte subsets is associated to later protective immunity as a result of vaccination",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": "TIV Fluzone",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  61.00",
+    "minimum_age": "  35.00",
+    "objectives": "Cells collected from apheresis on day 1, day3 and day 60 post vaccination will be compared to each other and then comparisons will be made between subsets in each cell group",
+    "official_title": "Healthy Human DC and monocyte subsets transcriptional regulations in response to Fluzone 2010-2011 and pneumococcal vaccinations",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2799,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2106",
+            "description": "Healthy adults Fluzone 2010-2011",
+            "name": "DC_MONO_FLU_2011"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "A. Karolina",
+            "last_name": "Palucka",
+            "organization": "Baylor Research Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Baylor Research Institute"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Systems Analysis Vaccine Responses in Healthy and Hyporesponsive Humans"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 90
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 8
+            }
+        ],
+        "gender": [
+            {
+                "Female": 4
+            },
+            {
+                "Male": 6
+            }
+        ]
+    }
+}

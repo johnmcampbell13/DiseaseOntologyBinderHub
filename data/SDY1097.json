@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY1097",
+    "actual_completion_date": null,
+    "actual_enrollment": 43,
+    "actual_start_date": "2013-07-01",
+    "age_unit": "Years",
+    "brief_description": "We present here an analysis of lymphoid and mucosal tissue T cells derived from pediatric organ donors in the first two years of life, as compared to adult organ donors, revealing early compartmentalization of T cell differentiation and regulation.",
+    "brief_title": "Early-life compartmentalization of human T cells",
+    "clinical_trial": "N",
+    "condition_studied": "Age-specific T cell differentiation, homeostasis and persistence in blood, lymphoid, and mucosal tissues",
+    "dcl_id": 2,
+    "description": "Knowledge of human immune responses during early life remains sparse, owing to the difficulty and impracticality of obtaining blood and tissue samples from infants. Our current view of normal infant immune responses, including T cell differentiation and function, is based mainly on the sampling of umbilical cord blood or fetal tissue, which reflect immune responses in utero but not responses to the diverse antigens encountered in early life. Fundamental information about the establishment of adaptive immunity during infancy, including how T cells respond, differentiate and populate tissue sites, remains undefined. Through collaboration with organ procurement agencies, we have established protocols for obtaining lymphoid and mucosal tissues from individual organ donors for whom consent has been given for the use of tissues for research.",
+    "doi": "10.21430/M35HJN0H16",
+    "endpoints": "Flow cytometry data classifying T cells",
+    "gender_included": "Female, Male",
+    "hypothesis": "To investigate T cell immunity in tissues during early life, we obtained multiple lymphoid and mucosal tissues (and blood) from a cohort of infant and pediatric organ donors in the first 2 years of life (n = 17). We compared these to tissues from a cohort of adult donors stratified into young adults, aged 15?25 years (n = 23), and adults, aged >25 years (n = 24).",
+    "initial_data_release_date": "2017-06-16",
+    "initial_data_release_version": "DR22",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "  63.00",
+    "minimum_age": "    .20",
+    "objectives": "Characterize T cells from various tissues in infant vs young adult and adult humans",
+    "official_title": "Early-life compartmentalization of human T cell differentiation and regulatory function in mucosal and lymphoid tissues",
+    "sponsoring_organization": "NIAID, NIA, NCRR, BD Bioscience",
+    "target_enrollment": null,
+    "workspace_id": 3670,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3848",
+            "description": "All subjects are included in a single arm",
+            "name": "All subjects for Early Life study"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Donna",
+            "last_name": "Farber",
+            "organization": "Columbia University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Columbia University Medical Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Early-life compartmentalization of human T cell differentiation and regulatory function in mucosal and lymphoid tissues",
+            "journal": "Nature Medicine",
+            "month": "Jan",
+            "year": "2016",
+            "doi": "10.1038/nm.4008",
+            "pubmed_id": "26657141"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Tissue compartmentalization of human lymphocytes P01AI106697",
+            "contract_name": "Tissue compartmentalization of human lymphocytes"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 358
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 11
+            },
+            {
+                "race": "Not Specified",
+                "count": 13
+            },
+            {
+                "race": "White",
+                "count": 19
+            }
+        ],
+        "gender": [
+            {
+                "Female": 10
+            },
+            {
+                "Male": 33
+            }
+        ]
+    }
+}

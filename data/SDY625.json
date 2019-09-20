@@ -1,0 +1,93 @@
+{
+    "study_accession": "SDY625",
+    "actual_completion_date": null,
+    "actual_enrollment": 24,
+    "actual_start_date": "2002-05-10",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to determine the safety and effectiveness of rituximab (anti-CD20) in treating systemic lupus erythematosus (SLE). White blood cells in the body called B cells give off substances that are active in promoting SLE disease. Researchers have found that anti-CD20 can block production of these substances in another disease. This study explores whether anti-CD20 will also be safe in people with SLE and whether it may be effective in treating SLE.",
+    "brief_title": "Anti-CD20 in SLE (AC002)",
+    "clinical_trial": "Y",
+    "condition_studied": "Systemic Lupus Erythematosus",
+    "dcl_id": 2,
+    "description": "B cells clearly play an essential role in the pathogenesis of SLE since they produce autoantibodies. Clinical observations support the contention that intervening in the production of autoantibodies by the B lymphocyte will be effective therapy. Current approved therapy for B-cell non-Hodgkin's lymphoma includes anti-CD20. The results of anti-CD20 administration in SLE are anticipated to be similar to those in lymphoma patients. The current proposal explores the mechanisms and applicability of B-cell depletion as a potential treatment for SLE.",
+    "doi": "10.21430/M3M92Y22FG",
+    "endpoints": "The primary outcome measurements of this study are: 1) Relative change per subject in peripheral autoantibody levels over time. 2) Relative change per subject in serum C3, C4 complement levels over time. 3) SLE symptoms as measured by Systemic Lupus Activity Measure (SLAM). 4) SLE disease activity as measured by Systemic Lupus Erythematosus Disease Activity Index (SLEDAI). 5) Relative change per subject in ESR sedimentation rate over time. 6) Relative change of Prednisone dose per subject over time. The secondary outcome measurements of this study are: 1) Renal function as measured by relative change (or lack of change) in total protein and creatinine clearance values per subject over time. 2) Modified Health Assessment Questionnaire to assess health status, functional ability, and activities of daily living and assess a patient's level of functional ability, and difficulty with activities of daily living, over the previous week. 3) Physician Global Assessment (VAS), a visual analog scale of the physician's (investigator) subjective assessment of the general well-being of the subject. 4) Patient Global Assessment (VAS), a visual analog scale of the subject's subjective assessment of their general well-being. 5) Systemic Lupus International Collaborating Clinics/American College of Rheumatology Damage Index for Systemic Lupus Erythematosus, a weighted index of damage to organ systems in SLE patients. 6) Short Form - 36 Health Survey (SF-36), a validated tool for assessing mobility and fatigue in the preceding month from date of administration.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Treatment of subjects with systemic lupus erythematosus (SLE) with anti-CD20 therapy results in inhibition of the production of autoantibodies and improvement in SLE symptoms as measured by Systemic Lupus Erythematosus Disease Activity Index (SLEDAI).",
+    "initial_data_release_date": "2017-06-16",
+    "initial_data_release_version": "DR22",
+    "intervention_agent": "Rituximab (anti-CD20)",
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "  70.00",
+    "minimum_age": "  18.00",
+    "objectives": "The primary objective of this study is to assess the safety and efficacy of rituximab in the treatment of SLE.",
+    "official_title": "An Open-Label Safety and Efficacy Study of an Anti-CD20 Antibody (rituximab, Rituxan) for Anti-B Cell Therapy in the Treatment of Systemic Lupus Erythematosus",
+    "sponsoring_organization": "NIAID, Genentech/IDEC, Inc. Pharmaceuticals Corporation",
+    "target_enrollment": 30,
+    "workspace_id": 4345,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2837",
+            "description": "Subjects with active systemic lupus erythematosus with visceral involvement, having failed at least one immunosuppressive therapy.",
+            "name": "Systemic Lupus Erythematosus subjects"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Robert",
+            "last_name": "Eisenberg",
+            "organization": "University of Pennsylvania",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Pennsylvania"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "A longitudinal analysis of SLE patients treated with rituximab (anti-CD20): factors associated with B lymphocyte recovery.",
+            "journal": "Clin Immunol.",
+            "month": "Mar",
+            "year": "2008",
+            "doi": "10.1016/j.clim.2007.11.012. Epub 2008  Jan 15.",
+            "pubmed_id": "18226586"
+        },
+        {
+            "title": "Variability in the biological response to anti-CD20 B cell depletion in systemic lupus erythaematosus.",
+            "journal": "Ann Rheum Dis.",
+            "month": "Dec",
+            "year": "2008",
+            "doi": "10.1136/ard.2007.083162. Epub 2008 Feb 4.",
+            "pubmed_id": "18250115"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Autoimmunity Centers of Excellence (ACE) AI-12-060, AI-12-059",
+            "contract_name": "An Open-Label Safety and Efficacy Study of an Anti-CD20 Antibody (Rituximab, Rituxan) for Anti-B Cell Therapy in the Treatment of Systemic Lupus Erythematosus (AC002)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 11
+            },
+            {
+                "race": "White",
+                "count": 13
+            }
+        ],
+        "gender": [
+            {
+                "Female": 22
+            },
+            {
+                "Male": 2
+            }
+        ]
+    }
+}

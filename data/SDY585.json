@@ -1,0 +1,69 @@
+{
+    "study_accession": "SDY585",
+    "actual_completion_date": "2014-12-26",
+    "actual_enrollment": 36,
+    "actual_start_date": "2013-07-18",
+    "age_unit": "Weeks",
+    "brief_description": "Study of Influenza vaccine coupled with adjuvant in Murine model",
+    "brief_title": "2013 Murine Vaccine with Adjuvant Study",
+    "clinical_trial": "N",
+    "condition_studied": "Immune response in mouse model",
+    "dcl_id": 2,
+    "description": "Study of Influenza vaccine coupled with adjuvant in Murine model",
+    "doi": "10.21430/M3I8W54C3M",
+    "endpoints": "Blood, spleen, bone marrow and lymph node samples prior to prime, prior to boosting with influenza vaccine with adjuvant and daily sampling up to 10 days post boosting.",
+    "gender_included": "Female",
+    "hypothesis": "To understand and describe the multidimensional murine immune response to influenza vaccine coupled with adjuvant",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "X31 influenza",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "   9.00",
+    "minimum_age": "   9.00",
+    "objectives": "Design and conduct in vivo murine experiments with X31(H3N2) infection primed and purified inactivated A/Port Chalmers/1/73 (H3N2) whole virus with MF59-like adjuvant boosted mice to build, identify and experimentally validate the proposed immune response models by generating high frequency sampling and high dimensional datasets.",
+    "official_title": "2013 Murine Vaccine with Adjuvant Study",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 35,
+    "workspace_id": 2104,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2743",
+            "description": "Mice primed with X31 (H3N2) intranasal infection followed by an intramuscular boost with purified inactivated A/Port Chalmers/1/73 (H3N2) whole virus with MF59-like adjuvant.",
+            "name": "Murine vaccine with adjuvant run"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Martin",
+            "last_name": "Zand",
+            "organization": "University of Rochester Center for Biodefense Immune Modeling",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester Medical Center"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "University of Rochester Center for Biodefense Immune Modeling II"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 3564
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 341
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

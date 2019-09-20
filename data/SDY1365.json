@@ -1,0 +1,72 @@
+{
+    "study_accession": "SDY1365",
+    "actual_completion_date": "2017-12-29",
+    "actual_enrollment": 13,
+    "actual_start_date": "2016-12-26",
+    "age_unit": "Years",
+    "brief_description": "Establish whether MAIT cells participate in pathophysiology of UC",
+    "brief_title": "UC MAIT study",
+    "clinical_trial": "N",
+    "condition_studied": "Ulcerative Colitis",
+    "dcl_id": 0,
+    "description": "Establish whether MAIT cells participate in pathophysiology of UC",
+    "doi": "10.21430/M3AV8VFYCB",
+    "endpoints": "flow cytometry, gene expression",
+    "gender_included": "Female, Male",
+    "hypothesis": "MAIT cell frequency and gene expression differ according to presence or absence of UC-associated inflammation.",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": "N/A",
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "  70.00",
+    "minimum_age": "  22.00",
+    "objectives": "1. Determine MAIT frequency in peripheral blood, normal and inflamed colonic mucosa in patients with UC. 2. Profile MAIT cells from patients with UC using single cell analysis",
+    "official_title": "Characterizing the Activation of Mucosal-Associated Invariant T (MAIT) Cells in Ulcerative Colitis (UC)",
+    "sponsoring_organization": "Scripps Clinic Medical Group Research and Education Award 2016 (awarded to G. Konijeti)",
+    "target_enrollment": 20,
+    "workspace_id": 6193,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4630",
+            "description": "Patients with UC, not on immunosuppression or systemic steroids",
+            "name": "Patients with UC"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Gauree",
+            "last_name": "Konijeti",
+            "organization": "Scripps Clinic",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Scripps Clinic"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Other Programs",
+            "contract_name": "G. Konijeti Career Development Award"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 13
+            }
+        ],
+        "gender": [
+            {
+                "Female": 11
+            },
+            {
+                "Male": 2
+            }
+        ]
+    }
+}

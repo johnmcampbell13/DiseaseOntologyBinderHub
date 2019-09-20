@@ -1,0 +1,101 @@
+{
+    "study_accession": "SDY939",
+    "actual_completion_date": null,
+    "actual_enrollment": 4,
+    "actual_start_date": "2014-01-01",
+    "age_unit": "Years",
+    "brief_description": "CD4+ T cells are central mediators of autoimmune pathology; however, defining their key effector functions in specific autoimmune diseases remains challenging. CD4+ T cells with high PD-1 expression are expanded in rheumatoid arthritis patients.",
+    "brief_title": "Pathologically expanded peripheral B cell-helper T cells in Rheumatoid Arthritis",
+    "clinical_trial": "N",
+    "condition_studied": "Rheumatoid Arthritis",
+    "dcl_id": 1,
+    "description": "CD4+ T cells are central mediators of autoimmune pathology; however,",
+    "doi": "10.21430/M3OLBPJIB1",
+    "endpoints": "CDAI, mass cytometry (CyToF) , flow cytometry, RNA Sequencing, ELISA, Intracellular cytokine staining, intracellular transcription factor staining, RT-PCR, in vitro cell stimulation assays",
+    "gender_included": "Not Specified",
+    "hypothesis": "Subpopulations of CD4+ T cells associated with rheumatoid arthritis pathology can be found with multidimensional cytometry and gene expression analysis.",
+    "initial_data_release_date": "2017-01-31",
+    "initial_data_release_version": "DR20",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "  64.00",
+    "minimum_age": "  37.00",
+    "objectives": "Identify biomarkers of subpopulations of CD4+ T cells associated with rheumatoid arthritis pathology",
+    "official_title": "Pathologically expanded peripheral B cell-helper T cells in Rheumatoid Arthritis",
+    "sponsoring_organization": "William Docken Inflammatory Autoimmune Disease Fund",
+    "target_enrollment": null,
+    "workspace_id": 5881,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3463",
+            "description": "rheumatoid factor+ or anti-citrullinated peptide antibody+",
+            "name": "seropositive rheumatoid arthritis"
+        },
+        {
+            "arm_accession": "ARM3464",
+            "description": "rheumatoid factor- or anti-citrullinated peptide antibody-",
+            "name": "Spondyloarthropathy"
+        },
+        {
+            "arm_accession": "ARM3465",
+            "description": "rheumatoid factor- or anti-citrullinated peptide antibody-",
+            "name": "seronegative rheumatoid arthritis"
+        },
+        {
+            "arm_accession": "ARM3466",
+            "description": "rheumatoid factor- or anti-citrullinated peptide antibody-",
+            "name": "juvenile idiopathic arthritis"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Michael",
+            "last_name": "Brenner",
+            "organization": "Division of Rheumatology, Immunology, and Allergy, Brigham and Womens Hospital and Harvard Medical School",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Brigham and Women's Hospital"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Pathologically expanded peripheral T helper cell subset drives B cells in rheumatoid arthritis.",
+            "journal": "Nature.",
+            "month": "Feb",
+            "year": "2017",
+            "doi": "10.1038/nature20810.",
+            "pubmed_id": "28150777"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "PROSET-HD Profiling of Cell Subsets in Human Disease",
+            "contract_name": "PROSET-HD Profiling of Cell Subsets in Human Disease"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 64
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 4
+            }
+        ],
+        "gender": [
+            {
+                "Female": 3
+            },
+            {
+                "Male": 1
+            }
+        ]
+    }
+}

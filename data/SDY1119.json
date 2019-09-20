@@ -1,0 +1,105 @@
+{
+    "study_accession": "SDY1119",
+    "actual_completion_date": "2013-01-02",
+    "actual_enrollment": 78,
+    "actual_start_date": "2011-01-01",
+    "age_unit": "Years",
+    "brief_description": "Blood samples will be collected at days 0 (pre-vaccination) and 3,7,30,180  after vaccination, and used to Identify signatures of innate immunity, plasmablasts, lymphocytes and monocytes which correlate with antibody responses to the vaccine.",
+    "brief_title": "Systems Biology of 2011 trivalent Influenza vaccine (TIV) in young and elderly individuals, healthy or with T2D (see companion study SDY61 2007, SDY270 2009, SDY56 2010)",
+    "clinical_trial": "N",
+    "condition_studied": "Influenza vaccine",
+    "dcl_id": 2,
+    "description": "Blood samples will be collected at days 0 (pre-vaccination) and 3,7,30,180  after vaccination. Peripheral blood mononuclear cells",
+    "doi": "10.21430/M3ZU72TO6V",
+    "endpoints": "Primary endpoints: Correlation (and prediction) of signatures of innate immunity and plasmablasts with influenza antibody titers at 1 month after vaccination across multiple seasons. Association of these signatures with the longevity of the response. Integrative analysis of microRNAs and transcriptomic profiling to reveal potential regulators of vaccine immunity. Secondary endpoints: Comparisons between the in vivo response of young and elderly individuals (HAI, plasmablasts). Analysis of the composition of the peripheral B cell pool in young and elderly individuals. Comparison between antibody class switch recombination and in vitro antibody production between young and elderly individuals.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Elderly individuals respond poorly to the influenza vaccine We hypothesize that this occurs across consecutive influenza vaccine seasons and that the signatures characterizing the response of individuals of different ages is shared through multiple sesons. These signatures represent effective predictive biomarkers of the response.",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "Trivalent Inactivated Influenza Vaccine",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  80.00",
+    "minimum_age": "  20.00",
+    "objectives": "Identify signatures of innate immunity, plasmablasts, lymphocytes and monocytes which correlate with antibody responses to the vaccine.",
+    "official_title": "Systems Biology of 2011 trivalent Influenza vaccine (TIV) in young and elderly individuals, healthy or with T2D (see companion study SDY61 2007, SDY270 2009, SDY56 2010)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 77,
+    "workspace_id": 2516,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3950",
+            "description": "Subjects 60 y.o. and older without T2D",
+            "name": "old healthy"
+        },
+        {
+            "arm_accession": "ARM3951",
+            "description": "Subjects 60 y.o. and older with type 2 diabetes",
+            "name": "old T2D"
+        },
+        {
+            "arm_accession": "ARM3952",
+            "description": "Subjects 20-59 y.o. without T2D",
+            "name": "young healthy"
+        },
+        {
+            "arm_accession": "ARM3953",
+            "description": "Subjects 20-59 y.o. with type 2 diabetes",
+            "name": "young T2D"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Bonnie",
+            "last_name": "Blomberg",
+            "organization": "University of Miami",
+            "role_in_study": "Principal Investigator",
+            "site_name": "UM Miller School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Systems Analysis of Immunity to Influenza Vaccination across Multiple Years and in Diverse Populations Reveals Shared Molecular Signatures",
+            "journal": "Immunity",
+            "month": "Dec",
+            "year": "2015",
+            "doi": "10.1016/j.immuni.2015.11.012",
+            "pubmed_id": "26682988"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Systems Biological Analysis of Innate and Adaptive Responses to Vaccination"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 468
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 177
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 78
+            }
+        ],
+        "gender": [
+            {
+                "Female": 49
+            },
+            {
+                "Male": 29
+            }
+        ]
+    }
+}

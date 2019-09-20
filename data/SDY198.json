@@ -1,0 +1,119 @@
+{
+    "study_accession": "SDY198",
+    "actual_completion_date": "2008-12-31",
+    "actual_enrollment": 74,
+    "actual_start_date": "2007-01-01",
+    "age_unit": "Years",
+    "brief_description": "Compare the major components of the normal immune response to flu vaccination in SLE patients and control subjects in order to identify abnormalities in SLE group of immunocompromised individuals.",
+    "brief_title": "Responses to Influenza Vaccination in Systemic Lupus Year 3 2007-2008",
+    "clinical_trial": "N",
+    "condition_studied": "Systemic Lupus",
+    "dcl_id": 2,
+    "description": "Influenza is an important pathogen in the United States, with approximately 20,000 deaths per year, mainly among elderly people or those with underlying medical conditions that increase susceptibility to complications from the disease. In addition, considerable morbidity is associated with influenza with a significant impact in productivity in the workplace and home. Influenza has the potential for much more serious consequences as demonstrated by the appearance of four world-wide pandemics in the last century.  In principle, serious influenza outbreaks can be prevented by vaccination. However, vaccination is complicated by two features: First, the influenza virus undergoes frequent mutations in the genes encoding the surface proteins hemagglutinin (HA) and neuraminidase (NA), leading to the need to reformulate the vaccine every year. Second, the appearance of the rapidity with which influenza infections can spread. Thus, influenza holds significant potential as a bioterrorism agent. Lupus patients have an increased risk of infection and mount lower responses to vaccinations. The objectives of this study will use genetic, cellular and humoral techniques to identify and explain abnormalities in the immune response to influenza vaccination in lupus patients. The results will clarify vaccine effectiveness among affected patients, increase the understanding of immune dysregulation in lupus, and aid in establishing guidelines for the effective vaccination of lupus patients. The benefits to the subjects are not direct; however, information gained may improve responses of reducing or preventing influenza among the affected population. Additionally, with an increased understanding of the processes of lupus, targets for disease intervention or strategies for treatment may appear.",
+    "doi": "10.21430/M3D393V41D",
+    "endpoints": "PGA assessment, SLAM assessment, SLICC assessment, SLEDAI assessment, Autoantibody lab test results, anti-influenza responses lab test, flow cytometry, western, ELISPOT.",
+    "gender_included": "Female, Male",
+    "hypothesis": "There is identifiable abnormalities regarding to major components of normal immune response in SLE patients compared to control subjects.",
+    "initial_data_release_date": "2013-06-12",
+    "initial_data_release_version": "DR2",
+    "intervention_agent": "Influenza vaccine",
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "  70.00",
+    "minimum_age": "  15.00",
+    "objectives": "To understand why many patients with systemic lupus erythematosus (SLE) fail to make adequate responses to immunization with the influenza vaccine.",
+    "official_title": "Responses to Influenza Vaccination in Systemic Lupus Year 3 2007-2008",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3027,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM847",
+            "description": "SLE patient",
+            "name": "SLE case subjects"
+        },
+        {
+            "arm_accession": "ARM848",
+            "description": "Healthy control",
+            "name": "Healthy control subjects"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Linda",
+            "last_name": "Thompson",
+            "organization": "Oklahoma Medical Research Foundation (OMRF)",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Oklahoma Medical Research Foundation"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Influenza vaccination responses in human systemic lupus erythematosus: impact of clinical and demographic features.",
+            "journal": "Arthritis Rheum.",
+            "month": "Aug",
+            "year": "2011",
+            "doi": "10.1002/art.30388.",
+            "pubmed_id": "21598235"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "Responses to Influenza Vaccination in Systemic Lupus"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 148
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 296
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 2733
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 223
+        },
+        {
+            "measurement_technique": "Western Blot",
+            "number_of_expsamples": 52
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 36
+            },
+            {
+                "race": "Other",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 34
+            }
+        ],
+        "gender": [
+            {
+                "Female": 72
+            },
+            {
+                "Male": 2
+            }
+        ]
+    }
+}

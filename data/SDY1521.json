@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY1521",
+    "actual_completion_date": "2017-03-01",
+    "actual_enrollment": null,
+    "actual_start_date": "2016-03-01",
+    "age_unit": "Years",
+    "brief_description": "To understand how the humoral immune system generates and matures protective responses to influenza virus infections and vaccinations. The group isolated B membory single cell clones from three unrelated, adult donors post TIV-vaccination, characterized the cross-reacting Abs to fluA (H1-H3) antigens, and generated the VDJ lineage tree of Bmem clones from one donor. The lineage and crystal structure analysis showed that members of a lineage had a BCR structure similar to that of a previously described Ab, encoded by different gene segments. Comparison showed that both Abs contacted the HA receptor-binding site through long heavy-chain third complementarity determining regions (HCDR3). Affinities of the clonal-lineage BCRs for historical influenza-virus HAs from both group 1 (H1) and group 2 (H3) viruses suggested that serial responses to seasonal influenza exposures had elicited the lineage and driven affinity maturation.",
+    "brief_title": "Memory B Cells with cross-reactive Abs to fluA(H1-H3)",
+    "clinical_trial": "N",
+    "condition_studied": "influenza vaccine",
+    "dcl_id": 2,
+    "description": "To understand how the humoral immune system generates and matures protective responses to influenza virus infections and vaccinations. The group isolated B membory single cell clones from three unrelated, adult donors post TIV-vaccination, characterized the cross-reacting Abs to fluA (H1-H3) antigens, and generated the VDJ lineage tree of Bmem clones from one donor. The lineage and crystal structure analysis showed that members of a lineage had a BCR structure similar to that of a previously described Ab, encoded by different gene segments. Comparison showed that both Abs contacted the HA receptor-binding site through long heavy-chain third complementarity determining regions (HCDR3). Affinities of the clonal-lineage BCRs for historical influenza-virus HAs from both group 1 (H1) and group 2 (H3) viruses suggested that serial responses to seasonal influenza exposures had elicited the lineage and driven affinity maturation.",
+    "doi": "10.21430/M3VTDIBF4T",
+    "endpoints": "Flow_Cytometry, Bmem clones with BCRs cross-reactive to fluA(H1/H3), MBAA, cDNAseq of V(D)J and infered lineage tree, microneutralization assay, Biolayer interferometry (BLI), coordinates and diffraction data for crystal structure of HA1or3-receptor(Fab)",
+    "gender_included": "Not Specified",
+    "hypothesis": "Serial responses to seasonal influenza exposures had elicited the lineage and driven affinity maturation. Appropriate immunization regimens might elicit comparable responses.",
+    "initial_data_release_date": "2019-09-16",
+    "initial_data_release_version": "DR32",
+    "intervention_agent": "influenza vaccine",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "39",
+    "minimum_age": "35",
+    "objectives": "To answer three questions: 1) Are cross-reactive BCRs usually elicited by one serotype and ?broadened? by subsequent exposure to another, related variant, and if so, does co-exposure to multiple serotypes offer any advantage?   2) What are the differences among the epitopes on antigens from different strains that are recognized by cross-reactive Abs and what are the features of the antigen combining site (Ab paratope) that permit avid recognition of disparate influenza Has?  3) how closely does the Bmem BCR repertoire reflect that of serum IgG antibody?",
+    "official_title": "Memory B Cells that Cross-React with Group 1 and Group 2 Influenza A Viruses Are Abundant in Adult Human Repertoires",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 3,
+    "workspace_id": 1885,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4965",
+            "description": "Abs from healthy donors who had received the 2014?15 TIV",
+            "name": "2014?15 TIV"
+        },
+        {
+            "arm_accession": "ARM4966",
+            "description": "Abs from healthy donors who had received the 2015?16 TIV",
+            "name": "2015?16 TIV"
+        },
+        {
+            "arm_accession": "ARM4967",
+            "description": "a monoclonal standard Ab, which binds HA H3 WI-05 and H1 SI-06",
+            "name": "Ab2210"
+        },
+        {
+            "arm_accession": "ARM4968",
+            "description": "antibody C05, phage-library rAb, neutralizes strains from multiple subtypes of fluA, including H1, H2, and H3",
+            "name": "C05"
+        },
+        {
+            "arm_accession": "ARM4969",
+            "description": "Human antibody binds to (X-31) (H3N2)",
+            "name": "H2214"
+        },
+        {
+            "arm_accession": "ARM4970",
+            "description": "Human antibody binds to subtype H1",
+            "name": "H2227"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Stephen",
+            "last_name": "Harrison",
+            "organization": "Harvard Medical School",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Howard Hughes Medical Institute"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Memory B Cells that Cross-React with Group 1 and Group 2 Influenza A Viruses Are Abundant in Adult Human Repertoires.",
+            "journal": "Immunity.",
+            "month": "Jan",
+            "year": "2018",
+            "doi": "10.1016/j.immuni.2017.12.009.",
+            "pubmed_id": "29343437"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense RFA-AI-14-028",
+            "contract_name": "Modeling Affinity Maturation At Molecular Resolution"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

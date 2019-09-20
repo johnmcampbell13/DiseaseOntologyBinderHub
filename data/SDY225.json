@@ -1,0 +1,106 @@
+{
+    "study_accession": "SDY225",
+    "actual_completion_date": null,
+    "actual_enrollment": 5,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "Examined how the method of inoculation affected immunity and disease pathogenesis in mice using mouseadaptedH3N2 A/Aichi/2/68 (x31)",
+    "brief_title": "Aerosol Inoculation with a Sub-lethal Influenza Virus Leads to Exacerbated Morbidity and Pulmonary Disease Pathogenesis",
+    "clinical_trial": "N",
+    "condition_studied": "Intranazal and aerosol routes of inoculation were compared and end-points of immunity and disease pathogenesis were evaluated in mice using mouse-adapted H3N2 A/Aichi/2/68 (x31)",
+    "dcl_id": 2,
+    "description": "A mouse model has been extensively used to investigate disease intervention approaches and correlates of immunity following influenza virus infection. IN and aerosol routes of inoculation were compared and end-points of immunity and disease pathogenesis were evaluated in mice using mouse-mouseadapted H3N2 A/Aichi/2/68 (x31).",
+    "doi": "10.21430/M3SE0EVY36",
+    "endpoints": "HIA, serum microneutralization assay, plaque assay in lung tissue",
+    "gender_included": "Female",
+    "hypothesis": "Results show that aerosol inoculation with x31 caused more severe lung pathology and enhanced morbidity and mortality compared to IN inoculation with x31. Also, enhanced disease may be associated with increased pulmonary IL-6 expression.",
+    "initial_data_release_date": "2013-11-01",
+    "initial_data_release_version": "DR5",
+    "intervention_agent": "H3N2 A/Aichi/2/68 (x31) and H1N1A/Puerto Rico/8/34 (PR8)",
+    "latest_data_release_date": "2013-11-01",
+    "latest_data_release_version": "DR5",
+    "maximum_age": "   7.00",
+    "minimum_age": "   7.00",
+    "objectives": "Results show that aerosol inoculation with x31 caused more severe lung pathology and enhanced morbidity and mortality compared to IN inoculation with x31. Also, enhanced disease may be associated with increased pulmonary IL-6 expression.",
+    "official_title": "Aerosol Inoculation with a Sub-lethal Influenza Virus Leads to Exacerbated Morbidity and Pulmonary Disease Pathogenesis",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2149,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM929",
+            "description": "mice (5 mice/group) were inoculated by IN instillation of 0.05mL/nare, for a total inoculation of 0.1mL with 106 TCID50/mL x31 virus",
+            "name": "X31 intranasal (IN) virus inoculation"
+        },
+        {
+            "arm_accession": "ARM930",
+            "description": "mice  (5 mice/group) were inoculated for 45 sec using a nebulizer for approximately 750 mL of virus suspension, based on exposure time at a flow rate of 1 cc/min.",
+            "name": "X31 Aerosal virus inoculation"
+        },
+        {
+            "arm_accession": "ARM931",
+            "description": "mice were inoculated by IN instillation of PR8",
+            "name": "PR8 intranasal (IN) virus inoculation"
+        },
+        {
+            "arm_accession": "ARM932",
+            "description": "mice  (9 mice/group) were IP injected with 0.5 mg of a purified rat IgG isotype as control",
+            "name": "X31-Aerosal with purified rat IgG"
+        },
+        {
+            "arm_accession": "ARM933",
+            "description": "mice  (9 mice/group) were inoculated with X31-Aerosal with anti-IL-6 antibody prophylactic treatment",
+            "name": "X31-Aerosal with anti-IL-6 antibody treatment"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Ralph",
+            "last_name": "Tripp",
+            "organization": "College of Veterinary Medicine, University of Georgia",
+            "role_in_study": "Principal Investigator",
+            "site_name": "College of Veterinary Medicine, University of Georgia"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Aerosol inoculation with a sub-lethal influenza virus leads to exacerbated morbidity and pulmonary disease pathogenesis.",
+            "journal": "Viral Immunol.",
+            "month": "Apr",
+            "year": "2011",
+            "doi": "10.1089/vim.2010.0085.",
+            "pubmed_id": "21449723"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "Influenza Pathogenesis & Immunology Research Center (IPIRC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 10
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 2
+        },
+        {
+            "measurement_technique": "Microscopy",
+            "number_of_expsamples": 16
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 22
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

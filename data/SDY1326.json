@@ -1,0 +1,115 @@
+{
+    "study_accession": "SDY1326",
+    "actual_completion_date": "2017-01-27",
+    "actual_enrollment": 31,
+    "actual_start_date": "2014-08-01",
+    "age_unit": "Years",
+    "brief_description": "Advances in multiplexed platform technologies facilitated exploration of human plasma proteins in term pregnancies indicating the existence of a proteomic clock",
+    "brief_title": "A proteomic clock of human pregnancy",
+    "clinical_trial": "N",
+    "condition_studied": "Pregnancy",
+    "dcl_id": 2,
+    "description": "Advances in multiplexed platform technologies facilitated exploration of human plasma proteins in term pregnancies indicating the existence of a proteomic clock",
+    "doi": "10.21430/M3C9848DA7",
+    "endpoints": "proteomics",
+    "gender_included": "Female",
+    "hypothesis": "Term pregnancy gestation plasma proteins track gestational age",
+    "initial_data_release_date": "2018-05-10",
+    "initial_data_release_version": "DR26",
+    "intervention_agent": null,
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "  43.00",
+    "minimum_age": "  25.00",
+    "objectives": "The major aim of this study was to examine whether analysis of plasma collected during gestation of term pregnancy would allow identifying a set of proteins that tightly track gestational age. A second aim was to gain insight into functional attributes of identified proteins and link such attributes to relevant immunological changes.",
+    "official_title": "A proteomic clock of human pregnancy",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 31,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4529",
+            "description": "Training Cohort",
+            "name": "Training Cohort"
+        },
+        {
+            "arm_accession": "ARM4530",
+            "description": "Validation Cohort",
+            "name": "Validation Cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Martin",
+            "last_name": "Angst",
+            "organization": "March of Dimes Prematurity Research Center at Stanford University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "March of Dimes Prematurity Research Center at Stanford University School of Medicine"
+        },
+        {
+            "first_name": "Nima",
+            "last_name": "Aghaeepour",
+            "organization": "March of Dimes Prematurity Research Center at Stanford University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "March of Dimes Prematurity Research Center at Stanford University School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "A proteomic clock of human pregnancy.",
+            "journal": "Am J Obstet Gynecol.",
+            "month": "Mar",
+            "year": "2018",
+            "doi": "10.1016/j.ajog.2017.12.208. Epub 2017 Dec 24.",
+            "pubmed_id": "29277631"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 122
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "Not Specified",
+                "count": 2
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 23
+            }
+        ],
+        "gender": [
+            {
+                "Female": 31
+            }
+        ]
+    }
+}

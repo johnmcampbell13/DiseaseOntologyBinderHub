@@ -1,0 +1,95 @@
+{
+    "study_accession": "SDY1385",
+    "actual_completion_date": "2018-01-30",
+    "actual_enrollment": 48,
+    "actual_start_date": "2002-01-01",
+    "age_unit": "Years",
+    "brief_description": "FCS and workspaces files from T cell ICS Flow Cytometry",
+    "brief_title": "Flow Cytometry of T cells for TB Resistance Study",
+    "clinical_trial": "N",
+    "condition_studied": "Resistance to TB",
+    "dcl_id": 2,
+    "description": "Intracellular Cytokine Staining data for human T cell responses to antigens specific to and not specific to Mycobacterium tuberculosis. COMPASS analysis shows that Ugandan TB ?resisters? exhibit IFNg-independent CD4 T cell responses, suggesting exposure to TB antigens despite negative test results.  \n  \nSee the accompanying article published in Nature Medicine, titled \"IFN-?-independent immune markers of Mycobacterium tuberculosis exposure\". https://www.nature.com/articles/s41591-019-0441-3  \n\nCode to reproduce the COMPASS analysis is here: https://github.com/seshadrilab/ResisterCOMPASSAnalysis",
+    "doi": "10.21430/M3SA04CC03",
+    "endpoints": "FCS data characterizing T cell function",
+    "gender_included": "Female, Male",
+    "hypothesis": "TB resisters exhibit unique functional T cell responses to TB antigens.",
+    "initial_data_release_date": "2019-04-12",
+    "initial_data_release_version": "DR30",
+    "intervention_agent": "Standard of care",
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "  67.00",
+    "minimum_age": "  14.00",
+    "objectives": "Characterize T cell responses to TB and Non-TB antigens in TB-resistant individuals from Uganda.",
+    "official_title": "Flow Cytometry of T cells for TB Resistance Study",
+    "sponsoring_organization": "NIH",
+    "target_enrollment": 50,
+    "workspace_id": 6256,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4669",
+            "description": "Resister",
+            "name": "Resister"
+        },
+        {
+            "arm_accession": "ARM4670",
+            "description": "Latent TB Infection",
+            "name": "LTBI"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Chetan",
+            "last_name": "Seshadri",
+            "organization": "University of Washington",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Washington"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "IFN-?-independent immune markers of Mycobacterium tuberculosis exposure.",
+            "journal": "Nat Med.",
+            "month": "May",
+            "year": "2019",
+            "doi": "-",
+            "pubmed_id": "31110348"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Mechanisms of Immune Protection from TB among HIV-infected Individuals (R01) RFA-AI-14-072",
+            "contract_name": "Resistance To MTB Infection In HIV Infected Individuals In Uganda And S. Africa"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 375
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 28
+            },
+            {
+                "race": "Other",
+                "count": 19
+            }
+        ],
+        "gender": [
+            {
+                "Female": 23
+            },
+            {
+                "Male": 24
+            }
+        ]
+    }
+}

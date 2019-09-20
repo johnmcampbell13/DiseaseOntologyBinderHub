@@ -1,0 +1,85 @@
+{
+    "study_accession": "SDY284",
+    "actual_completion_date": null,
+    "actual_enrollment": 5,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "The study's aim is to generate human TLR and MD-2 knockin (KI) mice to assess host responses to infections with Y. pestis and to evaluate the safety and efficacy of purified/synthetic TLR4 ligand immunotherapeutics.",
+    "brief_title": "Human TLR4/MD-2 knockin (KI) mice and comparison of TLR4 agonists ability to enhance innate immunity and development of adaptive immunity in mice",
+    "clinical_trial": "N",
+    "condition_studied": "Cell mediated immune reponse mechanisms.",
+    "dcl_id": 2,
+    "description": "The study's aim is to generate knockin (KI) mice expressing human TLR4 (huTLR4KI mice), human MD-2 (huMD-2KI mice) and both human TLR4 and MD-2 (TLR4/MD-2 KI mice) rather than the endogenous murine gene(s). The rationale is that differences in responses to non-enteric (variant) LPSs between humans and mice may limit the applicability of murine models as a means to 1) assess host responses to infection with organisms like Y. pestis, from which LPS triggers little response via human compared to murine TLR4/MD-2. 2) evaluate the safety and efficacy of purified/synthetic TLR4 ligand immunotherapeutics.  Initial characterization of KI mice was done to determination the safety of MPL, a purified TLR4 agonist, in TLR4/MD-2 KI mice compared to wildtype mice.  The study generated data to evaluate the ability of MPL (and for comparison a CpG TLR9 agonist) to enhance antibody and T cell responses and thus protective immunity induced by immunization of wildtype and TLR4/MD-2 KI mice with F1 plus V antigen from Y. pestis.",
+    "doi": "10.21430/M30ZC7U5IW",
+    "endpoints": "Flow cytometry",
+    "gender_included": "Male",
+    "hypothesis": "none",
+    "initial_data_release_date": "2014-08-07",
+    "initial_data_release_version": "DR11",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-08-07",
+    "latest_data_release_version": "DR11",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "Generate human TLR4 and MD-2 knockin (KI) mice and compare the ability of TLR4 agonists to elicity immune response.",
+    "official_title": "Human TLR4/MD-2 knockin (KI) mice and comparison of TLR4 agonists ability to enhance innate immunity and development of adaptive immunity in mice",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 431,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1912",
+            "description": "Wild type mouse",
+            "name": "Wild type mouse"
+        },
+        {
+            "arm_accession": "ARM1913",
+            "description": "Human TLR4 knockin mouse",
+            "name": "Human TLR4 knockin mouse"
+        },
+        {
+            "arm_accession": "ARM1914",
+            "description": "Human MD-2 knockin mouse",
+            "name": "Human MD-2 knockin mouse"
+        },
+        {
+            "arm_accession": "ARM1915",
+            "description": "Human TLR4/MD-2 knockin mouse",
+            "name": "Human TLR4/MD-2 knockin mouse"
+        },
+        {
+            "arm_accession": "ARM1916",
+            "description": "TL4/MD-2 knockout mouse",
+            "name": "TLR4/MD-2 knockout mouse"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Christopher",
+            "last_name": "Wilson",
+            "organization": "University of Washington",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Washington"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "TLRs in Innate Immunity and the Induction of Adaptive Immunity in the Neonate and Infant"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 83
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

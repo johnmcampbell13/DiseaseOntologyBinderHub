@@ -1,0 +1,74 @@
+{
+    "study_accession": "SDY663",
+    "actual_completion_date": null,
+    "actual_enrollment": 6,
+    "actual_start_date": "2012-11-01",
+    "age_unit": "Months",
+    "brief_description": "T-cell recognition of self and foreign peptide antigens presented in MHC molecules (pMHC) is essential for life-long immunity. How the ability of the CD4+ T-cell compartment to bind self- and foreign-pMHC changes over the lifespan remains a fundamental aspect of T-cell biology that is largely unexplored. We report that, while old mice (18-22 months) contain fewer CD4+ T-cells compared with adults (8-12 weeks), those that remain have a higher intrinsic affinity for self-pMHC, as measured by CD5 expression. Old mice also have more cells that bind individual or multiple distinct foreign-pMHCs, and the fold increase in pMHC-binding populations is directly related to their CD5 levels. These data demonstrate that the CD4+ T-cell compartment preferentially accumulates promiscuous constituents with age as a consequence of higher affinity T-cell receptor interactions with self-pMHC.",
+    "brief_title": "Self-recognition drives the preferential accumulation of promiscuous CD4+ T-cells in aged mice",
+    "clinical_trial": "N",
+    "condition_studied": "CD4 T cell compartment",
+    "dcl_id": 2,
+    "description": "T-cell recognition of self and foreign peptide antigens presented in MHC molecules (pMHC) is essential for life-long immunity. How the ability of the CD4+ T-cell compartment to bind self- and foreign-pMHC changes over the lifespan remains a fundamental aspect of T-cell biology that is largely unexplored. We report that, while old mice (18-22 months) contain fewer CD4+ T-cells compared with adults (8-12 weeks), those that remain have a higher intrinsic affinity for self-pMHC, as measured by CD5 expression. Old mice also have more cells that bind individual or multiple distinct foreign-pMHCs, and the fold increase in pMHC-binding populations is directly related to their CD5 levels. These data demonstrate that the CD4+ T-cell compartment preferentially accumulates promiscuous constituents with age as a consequence of higher affinity T-cell receptor interactions with self-pMHC.\n",
+    "doi": "10.21430/M3SR2T3WZF",
+    "endpoints": "FCM",
+    "gender_included": "Male",
+    "hypothesis": "The CD4+ T-cell compartment preferentially accumulates promiscuous constituents with age",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": null,
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "  22.00",
+    "minimum_age": "   4.00",
+    "objectives": "Determine how age shapes the CD4 T cell compartment",
+    "official_title": "Self-recognition drives the preferential accumulation of promiscuous CD4+ T-cells in aged mice",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3365,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2923",
+            "description": "4 months old C57BL/6 mice",
+            "name": "Deshpande_eLife_2015_Adult"
+        },
+        {
+            "arm_accession": "ARM2924",
+            "description": "16-18 months old C57BL/6 mice",
+            "name": "Deshpande_eLife_2015_Old"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Michael",
+            "last_name": "Kuhns",
+            "organization": "University of Arizona",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Arizona"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Self-recognition drives the preferential accumulation of promiscuous CD4(+) T-cells in aged mice.",
+            "journal": "Elife.",
+            "month": "Jul",
+            "year": "2015",
+            "doi": "10.7554/eLife.05949.",
+            "pubmed_id": "26173205"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Immunological basis of age-related vulnerability in biodefense and emerging infections SP2 UAz"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

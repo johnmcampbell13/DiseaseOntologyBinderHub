@@ -1,0 +1,158 @@
+{
+    "study_accession": "SDY1108",
+    "actual_completion_date": "2016-12-30",
+    "actual_enrollment": 13,
+    "actual_start_date": "2015-01-01",
+    "age_unit": "Days",
+    "brief_description": "A systems approach reveals that engagement of systemic immunity is critical to the process of tumor rejection following immunotherapy. Using a spontaneous model of triple-negative breast cancer, we assessed immune cell dynamics across the organism during tumor rejection",
+    "brief_title": "Systemic Immunity for Cancer Immunotherapy",
+    "clinical_trial": "N",
+    "condition_studied": "cancer immunotherapy",
+    "dcl_id": 2,
+    "description": "A systems approach reveals that engagement of systemic immunity is critical to the process of tumor rejection following immunotherapy. Using a spontaneous model of triple-negative breast cancer, we assessed immune cell dynamics across the organism during tumor rejection",
+    "doi": "10.21430/M3L410EFMQ",
+    "endpoints": "Mass CyTOF, Scaffold maps, Cell population profiles in MMTV models, BP melanoma models, and metastatic melanoma patients on clinical trial, Adoptive T Cell Transfer study, and Statistical Scaffold in R.  The highlighted results: System-wide models reveal coordinated anti-tumor immunity across the organism, Tumor eradication requires immune activation in the periphery, Network analysis identifies CD4 T cells sufficient to initiate immune responses, PD-L1 upregulation early post-therapy protects distal tumors from systemic immunity",
+    "gender_included": "Not Specified",
+    "hypothesis": "A global immune dynamics is required for effective cancer immunotherapy.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Oncology immunotherapy",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "    .00",
+    "minimum_age": "    .00",
+    "objectives": "By using mass CyTOF to systematically characterizing diverse cell subsets and their activation states simultaneously under different treatment conitions in a spontaneous mouse model of triple-negative breast cancer. To assess immune cell dynamics across the organism during tumor rejection, the lab developed intuitive models for visualizing single-cell data with statistical inference. To conduct validations on the hypothesis generated from the global analysis results.",
+    "official_title": "Systemic Immunity Is Required for Effective Cancer Immunotherapy",
+    "sponsoring_organization": "DoD, FDA, Gates Foundation, NIAID",
+    "target_enrollment": 10,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Oncology"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3904",
+            "description": "no treatment to MMTV mice,a spontaneous model of triple-negative breast cancer, sample collected at day3",
+            "name": "MMTV_UnTreated_Day3"
+        },
+        {
+            "arm_accession": "ARM3905",
+            "description": "no treatment to MMTV mice, sample collected at day8 (matched to treatment group)",
+            "name": "MMTV_UnTreated_Day8"
+        },
+        {
+            "arm_accession": "ARM3906",
+            "description": "effective tumor-binding antibody therapy, B6-alloIgG + anti-CD40 + IFNg, priming phase",
+            "name": "MMTV_B6Antibodies_Day3"
+        },
+        {
+            "arm_accession": "ARM3907",
+            "description": "effective tumor-binding antibody therapy, B6-alloIgG + anti-CD40 + IFNg, rejection phase",
+            "name": "MMTV_B6Antibodies_Day8"
+        },
+        {
+            "arm_accession": "ARM3908",
+            "description": "effective tumor-binding antibody therapy, CD-1-alloIgG + anti-CD40 + IFNg, priming phase",
+            "name": "MMTV_CD1Antibodies_Day3"
+        },
+        {
+            "arm_accession": "ARM3909",
+            "description": "effective tumor-binding antibody therapy, CD-1-alloIgG + anti-CD40 + IFNg, rejection phase",
+            "name": "MMTV_CD1Antibodies_Day8"
+        },
+        {
+            "arm_accession": "ARM3910",
+            "description": "ineffective therapy, anti-PD-1, priming phase",
+            "name": "MMTV_antiPD1_Day3"
+        },
+        {
+            "arm_accession": "ARM3911",
+            "description": "ineffective therapy, anti-PD-1, rejection phase",
+            "name": "MMTV_antiPD1_Day8"
+        },
+        {
+            "arm_accession": "ARM3912",
+            "description": "therapy of effective CD4 T cells transfer to naive MMTV mice, time series assay",
+            "name": "MMTV_CD4_Tcell_transfer"
+        },
+        {
+            "arm_accession": "ARM3913",
+            "description": "ineffctive therapy in the inducible mouse model of melanoma driven by Braf^V600E and loss of Pten",
+            "name": "BP_ineffective"
+        },
+        {
+            "arm_accession": "ARM3914",
+            "description": "effective therapy in the inducible mouse model of melanoma driven by Braf^V600E and loss of Pten",
+            "name": "BP_effective"
+        },
+        {
+            "arm_accession": "ARM3915",
+            "description": "vehicle control to MMTV mice with multi-focal disease after tumor-binding antibody therapy",
+            "name": "MMTV_vehicle"
+        },
+        {
+            "arm_accession": "ARM3916",
+            "description": "antiPD-L1 therapy combined with tumor-binding antibody therapy to MMTV mice with multi-focal disease",
+            "name": "MMTV_antiPD-L1"
+        },
+        {
+            "arm_accession": "ARM3917",
+            "description": "metastatic melanoma patients responded to the therapy of anti-CTLA-4 antibodies (Ipilimumab) in combination with GM-CSF",
+            "name": "hum_responder"
+        },
+        {
+            "arm_accession": "ARM3918",
+            "description": "metastatic melanoma patients patients did not respond to the therapy of anti-CTLA-4 antibodies (Ipilimumab) in combination with GM-CSF",
+            "name": "hum_non-responders"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Matthew",
+            "last_name": "Spitzer",
+            "organization": "UCSF; Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Helen Diller Comprehensive Cancer Center, Dept. of Pathology, Dept. of Microbiology and Immunology"
+        },
+        {
+            "first_name": "Garry",
+            "last_name": "Nolan",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Microbiology and Immunology"
+        },
+        {
+            "first_name": "Edgar",
+            "last_name": "Engleman",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Pathology"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Systemic Immunity Is Required for Effective Cancer Immunotherapy.",
+            "journal": "Cell.",
+            "month": "Jan",
+            "year": "2017",
+            "doi": "10.1016/j.cell.2016.12.022. Epub 2017  Jan 19.",
+            "pubmed_id": "28111070"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 130
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

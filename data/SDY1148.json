@@ -1,0 +1,149 @@
+{
+    "study_accession": "SDY1148",
+    "actual_completion_date": "2017-01-27",
+    "actual_enrollment": 141,
+    "actual_start_date": "2013-07-23",
+    "age_unit": "Months",
+    "brief_description": "Gliomas are diverse neoplasms with multiple molecular subtypes. How tumor-initiating mutations relate to molecular subtypes as these tumors evolve during malignant progression remains unclear. We used genetically-engineered mouse models, histopathology, genetic lineage tracing, expression profiling, and copy number analyses to examine how genomic tumor diversity evolves during the course of malignant progression from low-to high-grade disease.",
+    "brief_title": "Genomic profiles of glioma progression",
+    "clinical_trial": "N",
+    "condition_studied": "Brain tumor-Glioma",
+    "dcl_id": 2,
+    "description": "Gliomas are diverse neoplasms with multiple molecular subtypes. How tumor-initiating mutations relate to molecular subtypes as these tumors evolve during malignant progression remains unclear. We used genetically-engineered mouse models, histopathology, genetic lineage tracing, expression profiling, and copy number analyses to examine how genomic tumor diversity evolves during the course of malignant progression from low-to high-grade disease.",
+    "doi": "10.21430/M31MOIU91D",
+    "endpoints": "gene expression profiles (Agilent array), CNV from cGH array, and MRI images for tracing tumor progression.",
+    "gender_included": "Female, Male, Unknown",
+    "hypothesis": "The genetic requirements during tumor progression from low- to high- grade and heterogenity gliomas can be achieved through genomic analysis on a series of inducible GEM models in oncogenic driver mutations. The GEM models with the similar genetic alterations as in the human gliomas could drive the similar malignant progression; CNA may be a consequence of Kras-G12D inducibe malignant progression; p53 deletion contributed to the difference between genomic landscapes in these models.",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": "NA",
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "90",
+    "minimum_age": "13",
+    "objectives": "Expanded on our previous work with a series of conditional, inducible GEM models in which the MAPK and/or PI3K effector arms of RTK signaling are mutationally activated in G1/S checkpoint-defective adult mouse astrocytes. We use this model system here to examine the genetic requirements for tumorigenesis within G1/S and MAPK pathways and the genomics of tumor evolution during progression from low- to high-grade disease, and validate subsequent hypothesis in other GEM models and human tumor xenografts in mouse.",
+    "official_title": "Genomic profiles of low-grade murine gliomas evolve during progression to glioblastoma",
+    "sponsoring_organization": "NIH, HHMI, UCRF, DOD, DRCRF",
+    "target_enrollment": 141,
+    "workspace_id": 5996,
+    "research_focus": [
+        "Oncology"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4032",
+            "description": "C57/Bl6 background mice",
+            "name": "GEMM_control"
+        },
+        {
+            "arm_accession": "ARM4033",
+            "description": "Genotype: Pten +/- ; GFAP-CreER",
+            "name": "GEMM_Phet"
+        },
+        {
+            "arm_accession": "ARM4034",
+            "description": "Genotype: Pten -/- ; GFAP-CreER",
+            "name": "GEMM_Pnull"
+        },
+        {
+            "arm_accession": "ARM4035",
+            "description": "Genotype: Kras G12D+/- ; GFAP-CreER,",
+            "name": "GEMM_R"
+        },
+        {
+            "arm_accession": "ARM4036",
+            "description": "Genotype:K ras G12D+/-; Pten +/- ; GFAP-CreER",
+            "name": "GEMM_RPhet"
+        },
+        {
+            "arm_accession": "ARM4037",
+            "description": "Genotype:Kras G12D+/-; Pten -/- ; GFAP-CreER",
+            "name": "GEMM_RPnull"
+        },
+        {
+            "arm_accession": "ARM4038",
+            "description": "Genotype:TgGZT 121 ; GFAP-CreER",
+            "name": "GEMM_T"
+        },
+        {
+            "arm_accession": "ARM4039",
+            "description": "Genotype:TgGZT 121 ; Pten +/- ; GFAP-CreER",
+            "name": "GEMM_TPhet"
+        },
+        {
+            "arm_accession": "ARM4040",
+            "description": "Genotype:TgGZT 121 ; Pten -/- ; GFAP-CreER",
+            "name": "GEMM_TPnull"
+        },
+        {
+            "arm_accession": "ARM4041",
+            "description": "Genotype:TgGZT 121 ; Kras G12D+/- ; GFAP-CreER",
+            "name": "GEMM_TR"
+        },
+        {
+            "arm_accession": "ARM4042",
+            "description": "Genotype:TgGZT 121 ; Kras G12D+/- ; Pten +/- ; GFAP-CreER",
+            "name": "GEMM_TRPhet"
+        },
+        {
+            "arm_accession": "ARM4043",
+            "description": "Genotype:TgGZT 121 ; Kras G12D+/- ; Pten -/- ; GFAP-CreER",
+            "name": "GEMM_TRPnull"
+        },
+        {
+            "arm_accession": "ARM4044",
+            "description": "human glioblastoma xenograft in mouse (orthotopic tumors)",
+            "name": "Hum_GBM Xenograft"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Ryan",
+            "last_name": "Miller",
+            "organization": "University of North Carolina",
+            "role_in_study": "Principal Investigator",
+            "site_name": "School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Genomic profiles of low-grade murine gliomas evolve during progression to glioblastoma.",
+            "journal": "Neuro Oncol.",
+            "month": "Sep",
+            "year": "2017",
+            "doi": "10.1093/neuonc/nox050.",
+            "pubmed_id": "28398584"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Enhance Applicability of Mouse Models for Translational Research (Oncology Model, OMF)",
+            "contract_name": "Credentialing Murine Models For Glioblastoma Preclinical Drug Development (Oncology Model, OMF)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 211
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 39
+            }
+        ],
+        "gender": [
+            {
+                "Female": 2
+            },
+            {
+                "Male": 11
+            },
+            {
+                "Unknown": 26
+            }
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "study_accession": "SDY60",
+    "actual_completion_date": null,
+    "actual_enrollment": 70,
+    "actual_start_date": "2005-09-19",
+    "age_unit": "Years",
+    "brief_description": "To expand our study of T cell memory repertoires in an aging population for which the repertoires may be decaying. These studies will provide data about the aging-specific dynamics of memory repertoires. ",
+    "brief_title": "Decay of Memory T cells In Old Population",
+    "clinical_trial": "N",
+    "condition_studied": "T cell memory ",
+    "dcl_id": 2,
+    "description": "To expand our study of T cell memory repertoires in an aging population for which the repertoires may be decaying. These studies will provide data about the aging-specific dynamics of memory repertoires. ",
+    "doi": "10.21430/M38OJI5XI0",
+    "endpoints": "1. Compare the characteristics of repertoires in healthy older individuals with those of the middle-aged population. This analysis should allow us to define repertoire characteristics that degrade with age and correlate these changes with possible influenza exposure and vaccination.  2. Measure the nascent and developing memory T cell repertoires against influenza in 35 children ages 3 to 16 who will be followed longitudinally for a minimum of three years. 3. Measure the nascent and developing memory T cell repertoires against influenza in children ages 3 to 16 with JRA who are undergoing immunosuppressive therapy. 4. Model the effect of immunosuppression on memory repertoire formation using normal and autoimmune HLA transgenic mice.",
+    "gender_included": "Female, Male",
+    "hypothesis": "T cell memory generation changes with age.",
+    "initial_data_release_date": "2013-11-01",
+    "initial_data_release_version": "DR5",
+    "intervention_agent": "\r",
+    "latest_data_release_date": "2013-11-01",
+    "latest_data_release_version": "DR5",
+    "maximum_age": "  85.00",
+    "minimum_age": "  65.00",
+    "objectives": "To expand our study of T cell memory repertoires in an aging population for which the repertoires may be decaying. These studies will provide data about the aging-specific dynamics of memory repertoires. ",
+    "official_title": "Decay of Memory T cells In Old Population",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 135,
+    "workspace_id": 593,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM455",
+            "description": "Individuals greater than 65 years old.",
+            "name": "A2 - Seniors"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jack",
+            "last_name": "Gorski",
+            "organization": "BloodCenter of Wisconsin",
+            "role_in_study": "Principal Investigator",
+            "site_name": "BloodCenter of Wisconsin\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Selective T cell expansion during aging of CD8 memory repertoires to influenza revealed by modeling.",
+            "journal": "J Immunol.",
+            "month": "Jun",
+            "year": "2011",
+            "doi": "10.4049/jimmunol.1100091. Epub 2011 Apr 22.",
+            "pubmed_id": "21515795"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "Generation and Decay of Memory T Cell in Young, Old and Immunocompromised Populations"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 539
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 106
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 70
+            }
+        ],
+        "gender": [
+            {
+                "Female": 36
+            },
+            {
+                "Male": 34
+            }
+        ]
+    }
+}

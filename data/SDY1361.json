@@ -1,0 +1,114 @@
+{
+    "study_accession": "SDY1361",
+    "actual_completion_date": "2018-04-30",
+    "actual_enrollment": 27,
+    "actual_start_date": "2014-07-01",
+    "age_unit": "Years",
+    "brief_description": "This data comes from peripheral blood from individuals that had a kidney transplantation. The study is a longitudinal study with data collected at time 0 (considered pre-transplant), 6 and 24 months after the transplant. They are classified in three clinical outcomes defined by pathology reads of serial allograft biopsies scored by Banff criteria and the chronic allograft damage index (CADI) score: Non progressors (NP; n=10) had low non incremental CADI score without acute rejection, progressors with no rejection (PNR; n=10) had incremental CADI score over 2 years without rejection, and progressors with rejection (PR; n=7) had incremental high CADI scores over 2 years with rejection episodes. This data reveal that the immune repertoire diversity of individuals that reject the organ is higher in comparison with those that did not reject the organ. Additionally, after 2 years of follow-up, patients who developed rejection show an overall reduction of B-celll diversity with persistence in and expansion of specific clones.",
+    "brief_title": "B cell sequencing data from individuals with kidney transplantation (SNS01)",
+    "clinical_trial": "Y",
+    "condition_studied": "peripheral blood B-cell immune repertoire associated with kidney transplant status",
+    "dcl_id": 2,
+    "description": "This data comes from peripheral blood from individuals that had a kidney transplantation. The study is a longitudinal study with data collected at time 0 (considered pre-transplant), 6 and 24 months after the transplant. They are classified in three clinical outcomes defined by pathology reads of serial allograft biopsies scored by Banff criteria and the chronic allograft damage index (CADI) score: Non progressors (NP; n=10) had low non incremental CADI score without acute rejection, progressors with no rejection (PNR; n=10) had incremental CADI score over 2 years without rejection, and progressors with rejection (PR; n=7) had incremental high CADI scores over 2 years with rejection episodes. This data reveal that the immune repertoire diversity of individuals that reject the organ is higher in comparison with those that did not reject the organ. Additionally, after 2 years of follow-up, patients who developed rejection show an overall reduction of B-celll diversity with persistence in and expansion of specific clones.",
+    "doi": "10.21430/M37EGAHB65",
+    "endpoints": "B-cell immune repertoire sequencing",
+    "gender_included": "Female, Male",
+    "hypothesis": "Characterization of peripheral blood IR diversity before and after Ktx using BCR-Seq can be used to identify predispostition to reject an organ donor and offer clues about allo-immune target and immune pathways driving transplant injury post-surgery.",
+    "initial_data_release_date": "2019-04-12",
+    "initial_data_release_version": "DR30",
+    "intervention_agent": "Patient clincial outcome, defined by serial allograph biopsies and chronic allograft damage index",
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "  19.00",
+    "minimum_age": "   1.00",
+    "objectives": "Characterization of peripheral blood IR diversity before and after Ktx using BCR-Seq can be used to identify predispostition to reject an organ donor and offer clues about allo-immune target and immune pathways driving transplant injury post-surgery.",
+    "official_title": "B cell sequencing data from individuals with kidney transplantation",
+    "sponsoring_organization": "NAID",
+    "target_enrollment": 27,
+    "workspace_id": 6194,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4613",
+            "description": "Clinical Phenotype groups defined by blinded oathology reads of serial allograft biopsies scored my Banff criteria, and chronic allograft damage index (CADI) score: Non- progressors (NP), projressors with no rejection (PNR), progressors with rejection (PR)",
+            "name": "Non- progressors"
+        },
+        {
+            "arm_accession": "ARM4614",
+            "description": "Clinical Phenotype groups defined by blinded oathology reads of serial allograft biopsies scored my Banff criteria, and chronic allograft damage index (CADI) score: Non- progressors (NP), projressors with no rejection (PNR), progressors with rejection (PR)",
+            "name": "Progressors with no rejection"
+        },
+        {
+            "arm_accession": "ARM4615",
+            "description": "Clinical Phenotype groups defined by blinded oathology reads of serial allograft biopsies scored my Banff criteria, and chronic allograft damage index (CADI) score: Non- progressors (NP), projressors with no rejection (PNR), progressors with rejection (PR)",
+            "name": "Progressors with rejection"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Minnie",
+            "last_name": "Sarwal",
+            "organization": "UCSF",
+            "role_in_study": "Principal Investigator",
+            "site_name": "UCSF"
+        },
+        {
+            "first_name": "Marina",
+            "last_name": "Sirota",
+            "organization": "UCSF",
+            "role_in_study": "Principal Investigator",
+            "site_name": "UCSF"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Steroid-free immunosuppression since 1999: 129 pediatric renal transplants with sustained graft and patient benefits.",
+            "journal": "Am J Transplant.",
+            "month": "Jun",
+            "year": "2009",
+            "doi": "10.1111/j.1600-6143.2009.02640.x. Epub 2009 May 13.",
+            "pubmed_id": "19459814"
+        }
+    ],
+    "program": [],
+    "assay": [
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 137
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 6
+            },
+            {
+                "race": "Other",
+                "count": 7
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 12
+            }
+        ],
+        "gender": [
+            {
+                "Female": 11
+            },
+            {
+                "Male": 16
+            }
+        ]
+    }
+}

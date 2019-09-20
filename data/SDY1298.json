@@ -1,0 +1,91 @@
+{
+    "study_accession": "SDY1298",
+    "actual_completion_date": "2015-01-30",
+    "actual_enrollment": 7,
+    "actual_start_date": "2014-06-01",
+    "age_unit": "Weeks",
+    "brief_description": "As a master regulator of chromatin function, the lysine methyltransferase EZH2 orchestrates transcriptional silencing of developmental gene networks. Overexpression of EZH2 is commonly observed in human epithelial cancers. Overexpression of EZH2 is commonly observed in human epithelial cancers. The paper demonstrated the causal role of EZH2 overexpression in NSCLC with humEZH2 in mouse models of lung adenocarcinoma, which featured distinct transcription program from KRAS- and EGFR models. To target EZH2-dependent cancers, the lab designed an open-source EZH2 inhibitor JQEZ5 and shown antitumor efficacy in preclinical studies in EZH2-driven models.",
+    "brief_title": "EZH2 as an Therapy Target in Lung Cancer",
+    "clinical_trial": "N",
+    "condition_studied": "Lung cancer",
+    "dcl_id": 2,
+    "description": "As a master regulator of chromatin function, the lysine methyltransferase EZH2 orchestrates transcriptional silencing of developmental gene networks. Overexpression of EZH2 is commonly observed in human epithelial cancers. Overexpression of EZH2 is commonly observed in human epithelial cancers. The paper demonstrated the causal role of EZH2 overexpression in NSCLC with humEZH2 in mouse models of lung adenocarcinoma, which featured distinct transcription program from KRAS- and EGFR models. To target EZH2-dependent cancers, the lab designed an open-source EZH2 inhibitor JQEZ5 and shown antitumor efficacy in preclinical studies in EZH2-driven models.",
+    "doi": "10.21430/M3G6V89CIE",
+    "endpoints": "GEMM EZH2, RNAseq-GE, ChIP-seq (SE signatures), PRC2 methyltransferase assay, Western blot, H&E and IHC, Cell proliferation assays, EZH2 shRNAs, EZH2 inhibitor JQEZ5 efficacy",
+    "gender_included": "Unknown",
+    "hypothesis": "Disruption of chromatin architecture is a common event in lung cancer pathogenesis, either permissive with or distinct from oncogenic signaling pathways, functioning to deregulate transcriptional programs associated with cellular differentiation",
+    "initial_data_release_date": "2018-05-10",
+    "initial_data_release_version": "DR26",
+    "intervention_agent": "NA",
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "  51.00",
+    "minimum_age": "  51.00",
+    "objectives": "To generate LSL-EZH2 conditional transgenic mice  of lung cancer and to demonstrate EZH2 causality and targeted drug efficacy in preclinical studies",
+    "official_title": "Oncogenic Deregulation of EZH2 as an Opportunity for Targeted Therapy in Lung Cancer",
+    "sponsoring_organization": "NIH/NCI",
+    "target_enrollment": 7,
+    "workspace_id": 5598,
+    "research_focus": [
+        "Oncology"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4470",
+            "description": "EZH2 overexpressing lung tumor in CRE-LSL-EZH2 GEMM",
+            "name": "EZH2OE_lung_tumor"
+        },
+        {
+            "arm_accession": "ARM4471",
+            "description": "EZH2 overexpressing normal lung  in CRE-LSL-EZH2 GEMM",
+            "name": "EZH2OE_normal_lung"
+        },
+        {
+            "arm_accession": "ARM4472",
+            "description": "Wild type mouse normal lung",
+            "name": "WT_lung"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Kowk",
+            "last_name": "Wong",
+            "organization": "Dana-Farber Cancer Institute, Harvard Medical School",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Medical Oncology"
+        },
+        {
+            "first_name": "James",
+            "last_name": "Bradner",
+            "organization": "Dana-Farber Cancer Institute, Harvard Medical School",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Medical Oncology"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Oncogenic Deregulation of EZH2 as an Opportunity for Targeted Therapy in Lung Cancer.",
+            "journal": "Cancer Discov.",
+            "month": "Sep",
+            "year": "2016",
+            "doi": "10.1158/2159-8290.CD-16-0164. Epub 2016 Jun 16.",
+            "pubmed_id": "27312177"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Enhance Applicability of Mouse Models for Translational Research (Oncology Model, OMF)",
+            "contract_name": "Credentialing Mouse Models for Immune System Therapy Research (Oncology Model, OMF)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 7
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "study_accession": "SDY903",
+    "actual_completion_date": "2017-01-02",
+    "actual_enrollment": 29,
+    "actual_start_date": "2016-10-01",
+    "age_unit": "Years",
+    "brief_description": "T cell human Immune Signature of Zika infection was studied",
+    "brief_title": "Human Immune Signature of Zika virus infection",
+    "clinical_trial": "N",
+    "condition_studied": "Zika virus infection",
+    "dcl_id": 2,
+    "description": "The human Immune Signature of Zika virus infection was studied in a Zika endemic area, Brazil. T cell responses were compared in acute infected patients as well as convalescent patients.",
+    "doi": "10.21430/M340DHRY4Y",
+    "endpoints": "Compare T cell response of acute and convalescent Zika virus infected patients by flow cytometry and RNA sequencing",
+    "gender_included": "Not Specified",
+    "hypothesis": "Compare T cell response of acute versus convalescent Zika virus infected patients",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "Zika",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  17.00",
+    "minimum_age": "  17.00",
+    "objectives": "To determine the T cell immune signature of Zika virus infection",
+    "official_title": "Phenotyping and mRNA profiling of Zika virus-specific CD4 and CD8 T cells",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 30,
+    "workspace_id": 4876,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3367",
+            "description": "Patients with an acute Zika virus infection living in a Zika endemic area such as Brazil",
+            "name": "Acute Zika virus infected patients"
+        },
+        {
+            "arm_accession": "ARM3368",
+            "description": "Patients who had an acute Zika virus infection and are now at least 2 weeks post-infection that were infected in an endemic area",
+            "name": "Convalescent Zika virus infected patients"
+        },
+        {
+            "arm_accession": "ARM3369",
+            "description": "Individuals from a Zika endemic areas, such as Brazil, who have not been infected with Zika virus",
+            "name": "Non-Zika virus infected individuals from a Zika endemic area"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Daniela",
+            "last_name": "Weiskopf",
+            "organization": "La Jolla Institute for Allergy and Immunology",
+            "role_in_study": "Principal Investigator",
+            "site_name": "La Jolla Institute for Allergy and Immunology"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+            "contract_name": "Human immune signatures of dengue virus and mycobacterium tuberculosis exposure in infection; disease and vaccination (La Jolla)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 72
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 29
+        },
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 60
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 28
+            }
+        ],
+        "gender": [
+            {
+                "Female": 6
+            },
+            {
+                "Male": 8
+            },
+            {
+                "Unknown": 15
+            }
+        ]
+    }
+}

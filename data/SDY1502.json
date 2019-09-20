@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY1502",
+    "actual_completion_date": null,
+    "actual_enrollment": 26,
+    "actual_start_date": "2017-07-01",
+    "age_unit": "Weeks",
+    "brief_description": "Electron microscopy demonstrates that mouse lung ILC2 expressing PSGL-1 have platelets attached to their surface and that platelet depletion reduces lung ILC2 proliferation and Th2 cytokines suggesting ILC2 function is influenced by attachment to platelets",
+    "brief_title": "Platelets attach to lung ILC2 expressing PSGL-1 and influence ILC2 function",
+    "clinical_trial": "N",
+    "condition_studied": "Allergy",
+    "dcl_id": 2,
+    "description": "Electron microscopy demonstrates that mouse lung ILC2 expressing PSGL-1 have platelets attached to their surface and that platelet depletion reduces lung ILC2 proliferation and Th2 cytokines suggesting ILC2 function is influenced by attachment to platelets",
+    "doi": "10.21430/M3208RB6VB",
+    "endpoints": "Flow cytometry, electron microscopy, qPCR",
+    "gender_included": "Female",
+    "hypothesis": "Platelets may bind to ILC2s and infleunce their function",
+    "initial_data_release_date": "2019-06-19",
+    "initial_data_release_version": "DR31",
+    "intervention_agent": "Alternaria",
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "   8.00",
+    "minimum_age": "   6.00",
+    "objectives": "Determine whether platelets bind to ILC2s and influence their function",
+    "official_title": "Platelets attach to lung ILC2 expressing PSGL-1 and influence ILC2 function",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 20,
+    "workspace_id": 5830,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4922",
+            "description": "PBS intranasally challenged, isotype intraperitoneally injected",
+            "name": "PBS/CD41isotype"
+        },
+        {
+            "arm_accession": "ARM4923",
+            "description": "Alternaria intranasally challenged, isotype intraperitoneally injected",
+            "name": "Alt/CD41isotype"
+        },
+        {
+            "arm_accession": "ARM4924",
+            "description": "PBS intranasally challenged, aCD41 intraperitoneally injected",
+            "name": "PBS/aCD41"
+        },
+        {
+            "arm_accession": "ARM4925",
+            "description": "Alternaria intranasally challenged, aCD41 intraperitoneally injected",
+            "name": "Alt/aCD41"
+        },
+        {
+            "arm_accession": "ARM4926",
+            "description": "Pooled mice, ILC2s expanded in vivo for cell sorting enrichment and subsequent qPCR",
+            "name": "10D Alt model"
+        },
+        {
+            "arm_accession": "ARM4927",
+            "description": "Pooled mice, ILC2s sorted for subsequent electron microscopy",
+            "name": "Naive sort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Broide",
+            "organization": "UCSD",
+            "role_in_study": "Principal Investigator",
+            "site_name": "UCSD"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Asthma and Allergic Diseases Cooperative Research Centers (AADCRC) RFA-AI-15-032",
+            "contract_name": "Airway inflammation and airway remodeling"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 203
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 6
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

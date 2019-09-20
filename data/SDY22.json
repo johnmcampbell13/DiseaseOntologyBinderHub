@@ -1,0 +1,106 @@
+{
+    "study_accession": "SDY22",
+    "actual_completion_date": "2010-08-01",
+    "actual_enrollment": 1003,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Innate immunity gene products are known to be the first-line of host-defense and to control and assist the adaptive immune system. This research represents the opportunity to study, in detail, the responses longitudinally to vaccination (using clinical examination and laboratory assays) in a large ethnic population. Consequently, a prioritized set of genes and gene products from both systems will be evaluated.",
+    "brief_title": "Genotype Polymorphism effects on Typhoid Vaccine responses.",
+    "clinical_trial": "N",
+    "condition_studied": "Responses to typhoid vaccines by a population stratified by age, gender and ethnicity.",
+    "dcl_id": 2,
+    "description": "The objective is to understand role of polymorphisms in genes of innate and adaptive immunity in modulating the response to vaccines for typhoid gastrointestinal tract infections by:<ol><li>Collecting blood and saliva from 1000 vaccine study participants for each vaccine in Kolkata, India, at days 1, 3, and 28.</li><li>Determining vaccine-specific titers using ELISA, vibriocidal, and multiplex bead antibody assays.</li><li>Discover and validate SNP polymorphisms in this population and screen all participant's DNA for SNPs to 14 innate immunity genes and genome scans for adaptive immunity genes.</li><li>Characterize protein/peptide expression using LC/MS, immunoassay, and flow cytometry for protein mediators of innate/adaptive immunity and 22 proteins involved in cell stimulation and signal transduction; and 2-D gel MS/MS on 100-200 proteins, protein isoforms and protein fragments to determine more generalized effects of immune activation, signal transduction and general response to vaccination.</li><li>Determine haplotypes, perform association analyses between vaccine response (defined either categorically or quantitatively) and SNPs, haplotypes, or protein expression parameters, and perform association analyses between genomic and proteomic assessments.</li><li>Conduct resequencing of genes with SNPs that are significantly associated to vaccine response.</li></ol>",
+    "doi": "10.21430/M36AEP1T4U",
+    "endpoints": "<ol><li>Standard ELISA assays for measuring anti-Vi IgM, IgA and IgG titers.</li><li>Widal, Tubex and Typhidot-M tests for determination of typhoid in the event of serious adverse reactions following vaccination.</li></ol> ",
+    "gender_included": "Female, Male",
+    "hypothesis": "The hypotheses to be tested are;<ol><li>Genetic variants exist in these Indian populations that are not included in public databases.</li><li>Selected SNPs among the targeted innate and adaptive immunity genes are associated with the strength of response to vaccination.</li><li>High transferrin concentrations in salvia are indicative of blood contamination; because of the high protein concentrations of proteins in blood, quantifying and controlling for transferrin concentrations in saliva samples will provide better detection capabilities for the proteomics assays for saliva-specific protein concentrations.</li><li>Determine strength of response to vaccination.</li><li>Selected defensins concentrations are associated with the strength of response to vaccination.</li><li>Selected serum cytokines concentrations are associated with the strength of response to vaccination.</li><li>Selected saliva cytokines concentrations are associated with the strength of response to vaccination.</li><li>Selected serum proteins are associated with the strength of response to vaccination.</li><li>Selected saliva proteins are associated with the strength of response to vaccination.  Only saliva samples with low to no blood contamination were included.</li><li>Accurate resequencing of genes containing SNPs associated with strength of response to vaccine may indentify additional genetic variants, including causal SNPs, located in exon regions of the genes and/or associated haplotype blocks.</li><li>Identification of and quantification of proteins in plasma that are related to the immune response to a typhoid cholera vaccination will vary by strength of response to vaccine.</li><li>Identification of and quantification of proteins in saliva that are related to the immune response to a typhoid cholera vaccination will vary by strength of response to vaccine.</li></ol>",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Salmonella typhi vaccine\r",
+    "latest_data_release_date": "2012-11-16",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  80.00",
+    "minimum_age": "  10.00",
+    "objectives": "The objective is to understand role of polymorphisms in genes of innate and adaptive immunity in modulating the response to typhoid vaccine.",
+    "official_title": "Genotype Polymorphism effects on Typhoid Vaccine responses.",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 1091,
+    "workspace_id": 49,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM15",
+            "description": "1,000 participants receiving Salmonella typhi vaccine studied in a stratified random sampling design for gender, age and ethnicity.",
+            "name": "Typhoid Vaccine Recipients"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Diane",
+            "last_name": "Wagener",
+            "organization": "Research Triangle Institute, NC",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\"Research Triangle Institute, NC\"\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Development of a bead immunoassay to measure Vi polysaccharide-specific serum IgG after vaccination with the Salmonella enterica serovar Typhi Vi polysaccharide.",
+            "journal": "Clin Vaccine Immunol.",
+            "month": "Mar",
+            "year": "2010",
+            "doi": "10.1128/CVI.00354-09. Epub 2010  Jan 27.",
+            "pubmed_id": "20107010"
+        },
+        {
+            "title": "Evaluation of vaccine-induced antibody responses: impact of new technologies.",
+            "journal": "Vaccine.",
+            "month": "Jun",
+            "year": "2013",
+            "doi": "10.1016/j.vaccine.2013.03.065. Epub 2013 Apr 11.",
+            "pubmed_id": "23583812"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Population Genetics Analysis Program (1)",
+            "contract_name": "Immune Response Polymorphisms: Typhoid/Cholera Vaccines"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "2D Gel",
+            "number_of_expsamples": 1
+        },
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 1
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 3
+        },
+        {
+            "measurement_technique": "Mass Spectrometry",
+            "number_of_expsamples": 3
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1003
+            }
+        ],
+        "gender": [
+            {
+                "Female": 539
+            },
+            {
+                "Male": 464
+            }
+        ]
+    }
+}

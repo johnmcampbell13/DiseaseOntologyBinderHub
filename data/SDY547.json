@@ -1,0 +1,103 @@
+{
+    "study_accession": "SDY547",
+    "actual_completion_date": null,
+    "actual_enrollment": 83,
+    "actual_start_date": "2005-05-01",
+    "age_unit": "Years",
+    "brief_description": "Patients who have been diagnosed with clinically isolated syndrome (CIS) often develop problems related to the central nervous system, which controls the nerves in the body. Some of these patients may later be diagnosed with multiple sclerosis (MS), a progressive disease of the nervous system. The purpose of this study is to determine if the drug atorvastatin is helpful to CIS patients. Study hypothesis: Early intervention with atorvastatin in patients with CIS will result in a state of immunological tolerance.",
+    "brief_title": "STAyCIS ITN020AI:  Atorvastatin (Lipitor) Therapy in Patients with Clinically Isolated Syndrome (CIS) at Risk for Multiple Sclerosis",
+    "clinical_trial": "Y",
+    "condition_studied": "Multiple Sclerosis",
+    "dcl_id": 2,
+    "description": "CIS is a single clinical event indicating temporary disruption of normal nerve function. CIS patients may have a loss of vision in one eye; trouble with balance; double vision; numbness in the face; and tingling, numbness, or weakness in the arms or legs. Some CIS patients may develop MS, but others may not. Studies have shown that when CIS is accompanied by magnetic resonance imaging (MRI)-detected brain lesions that are consistent with those seen in MS, there is a high risk of a second neurologic event and a diagnosis of MS within several years. This study will evaluate the efficacy of atorvastatin, an antihyperlipidemic, in the prevention of MS in CIS patients. This study will last 18 months. All participants must complete a 3- to 5-day course of corticosteroids at least 28 days before the baseline evaluations. This corticosteroid therapy must be initiated within 60 days of CIS onset. Participants will be randomly assigned to receive 80 mg of either atorvastatin or placebo by mouth daily for 12 months. Study visits will occur at screening and every 3 months thereafter until the end of the 18-month study. Blood collection will occur at selected visits, and other additional evaluations will be performed at Months 1 and 2. Selected participants will undergo MRI brain scans. Participants will be offered interferon beta-1a (AvonexNONASCIINONASCII), free of charge, if they develop disease activity. Participants will be instructed to report any change in their health status to their treating physician within 48 hours of the onset of symptoms.",
+    "doi": "10.21430/M3CS60JPJJ",
+    "endpoints": "Number of T2 lesions, with or without gadnolinium (GD+) enhancement or clincial exacerbation, through 12 months",
+    "gender_included": "Not Specified",
+    "hypothesis": "see protocol",
+    "initial_data_release_date": "2015-12-14",
+    "initial_data_release_version": "DR16",
+    "intervention_agent": null,
+    "latest_data_release_date": "2015-12-14",
+    "latest_data_release_version": "DR16",
+    "maximum_age": "55",
+    "minimum_age": "18",
+    "objectives": "Determine if clinically isolated syndrome (CIS) patients are helped with atorvastatin",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled, Multi-Center Study to Evaluate the Efficacy and Safety of Atorvastatin in Patients With Clinically Isolated Syndrome and High Risk of Conversion to Multiple Sclerosis (ITN020AI)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 82,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2670",
+            "description": "Placebo treatment",
+            "name": "Placebo"
+        },
+        {
+            "arm_accession": "ARM2671",
+            "description": "Atorvastatin treatment",
+            "name": "Atorvastatin"
+        },
+        {
+            "arm_accession": "ARM2672",
+            "description": "Lab Normal",
+            "name": "Lab Normal"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Scott",
+            "last_name": "Zamvil",
+            "organization": "University of California, San Francisco",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Immune Tolerance Network"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Randomized controlled trial of atorvastatin in clinically isolated syndrome: the STAyCIS study.",
+            "journal": "Neurology.",
+            "month": "Apr",
+            "year": "2012",
+            "doi": "10.1212/WNL.0b013e31824f7fdd. Epub 2012 Mar 28.",
+            "pubmed_id": "22459680"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 4
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 77
+            }
+        ],
+        "gender": [
+            {
+                "Female": 64
+            },
+            {
+                "Male": 19
+            }
+        ]
+    }
+}

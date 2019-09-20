@@ -1,0 +1,86 @@
+{
+    "study_accession": "SDY568",
+    "actual_completion_date": null,
+    "actual_enrollment": 12,
+    "actual_start_date": "2003-03-01",
+    "age_unit": "Years",
+    "brief_description": "IBC-VSO1 vaccine, a synthetic metabolically inactive form of insulin is being evaluated as means of preventing pancreatic beta-cell destruction in newly diagnosed type 1 diabetes patients.",
+    "brief_title": "Orban ITN012AI: Evaluation of Diabetes Vaccine IBC-VSO1 in Newly Diagnosed Diabetics",
+    "clinical_trial": "Y",
+    "condition_studied": "Diabetes Mellitus",
+    "dcl_id": 2,
+    "description": "This study will evaluate whether IBC-VSO1 vaccine, a synthetic metabolically inactive form of insulin designed to prevent pancreatic beta-cell destruction, protects against autoimmune attack in newly diagnosed type 1 diabetes patients.  Halting beta-cell destruction may result in a prolonged remission and subsequent delay in diabetes related complications.  Patients in this study must have been diagnosed with type 1 diabetes no more than 3 months prior to study enrollment.",
+    "doi": "10.21430/M3IBWCGI97",
+    "endpoints": "Safety assessment based on clinical endpoints:  adverse events, local reactions, routine physical exams, insulin dose and laboratory tests.  Additional endpoints include c-peptide levels in response to mixed meal tolerance test, HbA1c, GAD65Ab, IAA, IA2Ab, CD4-CD8- v-alpha 24jalphaQ+, IL-4 and INF-gamma T cell secretion",
+    "gender_included": "Female, Male",
+    "hypothesis": "IBC-VSO1 vaccine prevents pancreatic beta-cell destruction",
+    "initial_data_release_date": "2015-06-19",
+    "initial_data_release_version": "DR14",
+    "intervention_agent": "Insulin-based vaccine IBC-VSO1",
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  35.00",
+    "minimum_age": "  18.00",
+    "objectives": "Investigate safety and immunologic mechanisms of IBC-VSO1 vaccine and prevent or delay loss of pancreatic beta-cells in newly diagnosed type 1 diabetes patients.",
+    "official_title": "Autoantigen Vaccination in Human Type 1 Newly Diagnosed Diabetes Mellitus",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 12,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2705",
+            "description": "IBC-VSO1 vaccine administered twice",
+            "name": "IBC-VSO1"
+        },
+        {
+            "arm_accession": "ARM2706",
+            "description": "Placebo-VSO2 administered twice",
+            "name": "Placebo-VSO2"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Tihamer",
+            "last_name": "Orban",
+            "organization": "Joslin Diabetes Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Children's Hospital, Joslin Diabetes Center, Boston"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Autoantigen-specific regulatory T cells induced in patients with type 1 diabetes mellitus by insulin B-chain immunotherapy.",
+            "journal": "J Autoimmun.",
+            "month": "Jun",
+            "year": "2010",
+            "doi": "10.1016/j.jaut.2009.10.005.",
+            "pubmed_id": "19931408"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 12
+            }
+        ],
+        "gender": [
+            {
+                "Female": 3
+            },
+            {
+                "Male": 9
+            }
+        ]
+    }
+}

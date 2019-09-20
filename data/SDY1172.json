@@ -1,0 +1,166 @@
+{
+    "study_accession": "SDY1172",
+    "actual_completion_date": "2017-11-01",
+    "actual_enrollment": 80,
+    "actual_start_date": "2011-05-12",
+    "age_unit": "Years",
+    "brief_description": "Systems biology study to determine the molecular hallmarks of naturally acquired clinical immunity to Plasmodium falciparum (Pf) malaria using multi-omic datasets (including RNA-seq transcriptomics, Pf antigen microarray, multi-parameter flow cytometry, multiplex cytokine analysis) in a cohort of Malian children who underwent active bi-weekly surveillance during an intense 6-month malaria transmission season.",
+    "brief_title": "Systems Immunology of Malaria",
+    "clinical_trial": "Y",
+    "condition_studied": "Immunity to Malaria",
+    "dcl_id": 2,
+    "description": "Immunity to malaria can be acquired through natural exposure to Plasmodium falciparum (Pf), but only after years of repeated infections. Typically, this immunity is acquired by adolescence and confers protection against disease, but Pf infection per se. Efforts to understand the mechanisms of this immunity are integral to the development of a vaccine that would mimic the induction of adult immunity in children. The current study applies systems biology approaches to a cohort from the rural village of Kalifabougou, Mali, where Pf transmission is intense and seasonal. Signatures that correlate with protection from malaria may yield new hypotheses regarding the biological mechanisms through which malaria immunity is induced by natural Pf infection. The resulting datasets will be of considerable value in the urgent worldwide effort to develop a malaria vaccine that could prevent more than a million deaths annually.",
+    "doi": "10.21430/M3CFFNO2V3",
+    "endpoints": "Weekly active surveillance visits and passive case detection of acute malaria episodes to determine time from Pf blood-stage infection to febrile malaria.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Distinct molecular signatures in peripheral blood can differentiate children who are protected from malarial symptoms after documented Pf blood-stage infection from those who progressed to fever once infected.",
+    "initial_data_release_date": "2018-01-04",
+    "initial_data_release_version": "DR25",
+    "intervention_agent": "NA",
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "  11.00",
+    "minimum_age": "   6.00",
+    "objectives": "Identify molecular signatures in peripheral blood that best predict protection from febrile malaria using a systems biology approach.",
+    "official_title": "Systems Immunology of Malaria",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 80,
+    "workspace_id": 6011,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4102",
+            "description": "Sample of n = 80 Malian children and young adults age 3 months to 25 years old, selected from a larger cohort of 695 subjects initially enrolled in the study",
+            "name": "Kalifabougou 2011 cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Peter",
+            "last_name": "Crompton",
+            "organization": "NIH / NIAID / LIG",
+            "role_in_study": "Principal Investigator",
+            "site_name": "NIH / NIAID / LIG"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "An intensive longitudinal cohort study of Malian children and adults reveals no evidence of acquired immunity to Plasmodium falciparum infection",
+            "journal": "Clinical Infectious Diseases",
+            "month": "July",
+            "year": "2013",
+            "doi": "10.1093/cid/cit174",
+            "pubmed_id": "23487390"
+        },
+        {
+            "title": "Naturally acquired antibodies specific for Plasmodium falciparum reticulocyte-binding protein homologue 5 inhibit parasite growth and predict protection from malaria.",
+            "journal": "Journal of Infectious Diseases",
+            "month": "March",
+            "year": "2014",
+            "doi": "10.1093/infdis/jit553",
+            "pubmed_id": "24133188"
+        },
+        {
+            "title": "Co-infection of long-term carriers of Plasmodium falciparum with Schistosoma haematobium enhances protection from febrile malaria: a prospective cohort study in Mali.",
+            "journal": "PLoS Neglected Tropical Diseases",
+            "month": "September",
+            "year": "2014",
+            "doi": "10.1371/journal.pntd.0003154",
+            "pubmed_id": "25210876"
+        },
+        {
+            "title": "A nested real-time PCR assay for the quantification of Plasmodium falciparum DNA extracted from dried blood spots",
+            "journal": "Malaria Journal",
+            "month": "October",
+            "year": "2014",
+            "doi": "10.1186/1475-2875-13-393",
+            "pubmed_id": "25282516"
+        },
+        {
+            "title": "Gut microbiota elicits a protective immune response against malaria transmission",
+            "journal": "Cell",
+            "month": "December",
+            "year": "2014",
+            "doi": "10.1016/j.cell.2014.10.053",
+            "pubmed_id": "25480293"
+        },
+        {
+            "title": "Impact of acute malaria on pre-existing antibodies to viral and vaccine antigens in mice and humans",
+            "journal": "PLoS One",
+            "month": "April",
+            "year": "2015",
+            "doi": "10.1371/journal.pone.0125090",
+            "pubmed_id": "25919588"
+        },
+        {
+            "title": "Stool microbiota composition is associated with the prospective risk of Plasmodium falciparum infection",
+            "journal": "BMC Genomics",
+            "month": "August",
+            "year": "2015",
+            "doi": "10.1186/s12864-015-1819-3",
+            "pubmed_id": "26296559"
+        },
+        {
+            "title": "Circulating Th1-Cell-type Tfh cells that exhibit impaired B cell help are preferentially activated during acute malaria in children",
+            "journal": "Cell Reports",
+            "month": "October",
+            "year": "2015",
+            "doi": "10.1016/j.celrep.2015.09.004",
+            "pubmed_id": "26440897"
+        },
+        {
+            "title": "Transcriptome evidence for modulation of host inflammatory response during febrile P. falciparum malaria",
+            "journal": "Scientific Reports",
+            "month": "August",
+            "year": "2016",
+            "doi": "10.1038/srep31291",
+            "pubmed_id": "27506615"
+        },
+        {
+            "title": "Treatment of chronic asymptomatic Plasmodium falciparum infection does not increase the risk of clinical malaria upon reinfection",
+            "journal": "Clinical Infectious Diseases",
+            "month": "March",
+            "year": "2017",
+            "doi": "10.1093/cid/ciw849",
+            "pubmed_id": "28362910"
+        },
+        {
+            "title": "Public antibodies to malaria antigens generated by two LAIR1 insertion modalities",
+            "journal": "Nature",
+            "month": "August",
+            "year": "2017",
+            "doi": "10.1038/nature23670",
+            "pubmed_id": "28847005"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Laboratory of Immunogenetics",
+            "contract_name": "NIAID Laboratory of Immunogenetics"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 151
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 80
+            }
+        ],
+        "gender": [
+            {
+                "Female": 45
+            },
+            {
+                "Male": 35
+            }
+        ]
+    }
+}

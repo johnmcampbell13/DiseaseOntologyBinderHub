@@ -1,0 +1,115 @@
+{
+    "study_accession": "SDY1267",
+    "actual_completion_date": null,
+    "actual_enrollment": 67,
+    "actual_start_date": "2011-08-10",
+    "age_unit": "Years",
+    "brief_description": "This study will evaluate whether administration of two investigational malaria vaccines (257049 and Ad35.CS.01 vaccines) combined in one immunization schedule increases protection against malaria infection as compared to protection induced by the 257049 vaccine alone. The study will also evaluate the safety and the immune response to the new combination of the two experimental malaria vaccines.",
+    "brief_title": "Malaria Vaccine in Healthy Adults",
+    "clinical_trial": "Y",
+    "condition_studied": "Malaria",
+    "dcl_id": 2,
+    "description": "Approximately 168 healthy, malaria-naive volunteers aged 18 - 50 years, divided into 2 groups (84 in each group), will receive either one dose of Ad35.CS.01 followed by two doses of 257049 at monthly intervals or 3 doses of 257049 vaccine at monthly intervals. Of these, a maximum of 138 vaccinated volunteers will be challenged with P. falciparum infected mosquitoes. The challenge will occur 2 weeks following the third immunization. A group of up to 18 infectivity controls will begin participation in the study at the challenge stage. These controls receive no vaccine and are enrolled for malaria-challenge only in order to provide comparison group for vaccinated individuals.",
+    "doi": "10.21430/M3FVO9SM7Y",
+    "endpoints": "Primary Outcome Measures : gene expression",
+    "gender_included": "Female, Male",
+    "hypothesis": "This study will evaluate whether administration of two investigational malaria vaccines (257049 and Ad35.CS.01 vaccines) combined in one immunization schedule increases protection against malaria infection as compared to protection induced by the 257049 vaccine alone.",
+    "initial_data_release_date": "2019-06-19",
+    "initial_data_release_version": "DR31",
+    "intervention_agent": "Biological: Crucell's replication deficient adenovirus type 35 circumsporozoite malaria vaccine (Ad35.CS.01)",
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "  50.00",
+    "minimum_age": "  18.00",
+    "objectives": "To evaluatae Safety, Immunogenicity and Efficacy Against malaria of a Combined Malaria Vaccine in Healthy Malaria-naive Adults",
+    "official_title": "Safety, Immunogenicity and Efficacy Against malaria of a Combined Malaria Vaccine in Healthy Malaria-naive Adults",
+    "sponsoring_organization": "GlaxoSmithKline",
+    "target_enrollment": 168,
+    "workspace_id": 6133,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4383",
+            "description": "Healthy male or non-pregnant female subjects, aged 18 to 50 years, were administered one dose of Ad35.CS.01 vaccine at Month 0, and 2 doses of GSK257049 at Months 1 and 2 intramuscularly in the deltoid of the non-dominant arm.",
+            "name": "ARR"
+        },
+        {
+            "arm_accession": "ARM4384",
+            "description": "Healthy male or non-pregnant female subjects, aged 18 to 50 years, were administered 3 doses of GSK257049 vaccine at Months 0, 1 and 2 intramuscularly in the deltoid of the non-dominant arm.",
+            "name": "RRR"
+        },
+        {
+            "arm_accession": "ARM4385",
+            "description": "Healthy male or non-pregnant female subjects, aged 18 to 50 years, were volunteers who did not receive any immunization but were subjected to the sporozoite challenge.",
+            "name": "Infectivity control"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "GSK Clinical Trials",
+            "last_name": "GSK Clinical Trials",
+            "organization": "GlaxoSmithKline",
+            "role_in_study": "Principal Investigator",
+            "site_name": "GSK Investigational Site Silver Spring, Maryland, United States, 20910"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Ad35.CS.01-RTS,S/AS01 Heterologous Prime Boost Vaccine Efficacy against Sporozoite Challenge in Healthy Malaria-Naive Adults.",
+            "journal": "PLoS One.",
+            "month": "Jul",
+            "year": "2015",
+            "doi": "10.1371/journal.pone.0131571. eCollection 2015.",
+            "pubmed_id": "26148007"
+        },
+        {
+            "title": "Systems analysis of protective immune responses to RTS,S malaria vaccination in humans.",
+            "journal": "Proc Natl Acad Sci U S A.",
+            "month": "Feb",
+            "year": "2017",
+            "doi": "10.1073/pnas.1621489114. Epub 2017 Feb 13.",
+            "pubmed_id": "28193898"
+        }
+    ],
+    "program": [],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 583
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 30
+            },
+            {
+                "race": "Other",
+                "count": 4
+            },
+            {
+                "race": "White",
+                "count": 29
+            }
+        ],
+        "gender": [
+            {
+                "Female": 32
+            },
+            {
+                "Male": 35
+            }
+        ]
+    }
+}

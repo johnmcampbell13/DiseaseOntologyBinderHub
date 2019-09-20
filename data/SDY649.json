@@ -1,0 +1,89 @@
+{
+    "study_accession": "SDY649",
+    "actual_completion_date": null,
+    "actual_enrollment": 5,
+    "actual_start_date": "2011-02-01",
+    "age_unit": "Months",
+    "brief_description": "Naive T cell responses are eroded with aging. We and others have recently shown that unimmunized old mice lose ? 70% of Ag-specific CD8 T cell precursors and that many of the remaining precursors acquire a virtual (central) memory (VM; CD44(hi)CD62L(hi)) phenotype. In this study, we demonstrate that unimmunized TCR transgenic (TCRTg) mice also undergo massive VM conversion with age, exhibiting rapid effector function upon both TCR and cytokine triggering. Age-related VM conversion in TCRTg mice directly depended on replacement of the original TCRTg specificity by endogenous TCR? rearrangements, indicating that TCR signals must be critical in VM conversion. Importantly, we found that VM conversion had adverse functional effects in both old wild-type and old TCRTg mice; that is, old VM, but not old true naive, T cells exhibited blunted TCR-mediated, but not IL-15-mediated, proliferation. This selective proliferative senescence correlated with increased apoptosis in old VM cells in response to peptide, but decreased apoptosis in response to homeostatic cytokines IL-7 and IL-15. Our results identify TCR as the key factor in differential maintenance and function of Ag-specific precursors in unimmunized mice with aging, and they demonstrate that two separate age-related defects--drastic reduction in true naive T cell precursors and impaired proliferative capacity of their VM cousins--combine to reduce naive T cell responses with aging.",
+    "brief_title": "Two separate defects affecting true naive or virtual memory T cell precursors combine to reduce naive T cell responses with aging.",
+    "clinical_trial": "N",
+    "condition_studied": "Maintenance of Naive CD8 Precursor Pools with Aging",
+    "dcl_id": 2,
+    "description": "Naive T cell responses are eroded with aging. We and others have recently shown that unimmunized old mice lose ? 70% of Ag-specific CD8 T cell precursors and that many of the remaining precursors acquire a virtual (central) memory (VM; CD44(hi)CD62L(hi)) phenotype. In this study, we demonstrate that unimmunized TCR transgenic (TCRTg) mice also undergo massive VM conversion with age, exhibiting rapid effector function upon both TCR and cytokine triggering. Age-related VM conversion in TCRTg mice directly depended on replacement of the original TCRTg specificity by endogenous TCR? rearrangements, indicating that TCR signals must be critical in VM conversion. Importantly, we found that VM conversion had adverse functional effects in both old wild-type and old TCRTg mice; that is, old VM, but not old true naive, T cells exhibited blunted TCR-mediated, but not IL-15-mediated, proliferation. This selective proliferative senescence correlated with increased apoptosis in old VM cells in response to peptide, but decreased apoptosis in response to homeostatic cytokines IL-7 and IL-15. Our results identify TCR as the key factor in differential maintenance and function of Ag-specific precursors in unimmunized mice with aging, and they demonstrate that two separate age-related defects--drastic reduction in true naive T cell precursors and impaired proliferative capacity of their VM cousins--combine to reduce naive T cell responses with aging.\n",
+    "doi": "10.21430/M337H2FFFJ",
+    "endpoints": "FCM, proliferation, cell transfer,",
+    "gender_included": "Male",
+    "hypothesis": "Naive cells are not properly mainatined with age.",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": null,
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "   2.00",
+    "minimum_age": "   2.00",
+    "objectives": "Examine the rules guiding long-term maintenance of naive cells and the emergence of VM cells in unimmunized old mice.",
+    "official_title": "Two separate defects affecting true naive or virtual memory T cell precursors combine to reduce naive T cell responses with aging.",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3365,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2884",
+            "description": "3 months old C57BL/6 mice",
+            "name": "Renkema_JI_2013_Adult"
+        },
+        {
+            "arm_accession": "ARM2885",
+            "description": "18-23 months old C57BL/6 mice",
+            "name": "Renkema_JI_2013_Old"
+        },
+        {
+            "arm_accession": "ARM2886",
+            "description": "Renkema_JI_2013_B6.OT-I.Rag-knockout (KO) B6.Ly5-1 F1",
+            "name": "Renkema_JI_2013_B6.OT-I.Rag-knockout (KO) B6.Ly5-1 F1"
+        },
+        {
+            "arm_accession": "ARM2887",
+            "description": "Renkema_JI_2013_B6.P14.Rag-KO B6.Thy1.1 F1",
+            "name": "Renkema_JI_2013_B6.P14.Rag-KO B6.Thy1.1 F1"
+        },
+        {
+            "arm_accession": "ARM2888",
+            "description": "Renkema_JI_2013_B6.gBT-1.Rag-KO B6.Thy1.1 F1",
+            "name": "Renkema_JI_2013_B6.gBT-1.Rag-KO B6.Thy1.1 F1"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Janko",
+            "last_name": "Nikolich-Zugich",
+            "organization": "University of Arizona",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Arizona"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Two separate defects affecting true naive or virtual memory T cell precursors combine to reduce naive T cell responses with aging.",
+            "journal": "J Immunol.",
+            "month": "Jan",
+            "year": "2014",
+            "doi": "10.4049/jimmunol.1301453. Epub 2013 Nov  29.",
+            "pubmed_id": "24293630"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Immunological basis of age-related vulnerability in biodefense and emerging infections SP2 UAz"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "study_accession": "SDY24",
+    "actual_completion_date": null,
+    "actual_enrollment": 1563,
+    "actual_start_date": "2003-07-01",
+    "age_unit": "Years",
+    "brief_description": "Genetic Associations in the AVA000 trial population and functional mechanism of that variation. Keywords in the study are: SNPs, Anthrax Vaccine Adsorbed (AVA), Illumina BeadChip array, Pyrosequencing, Genotyping, Genetic variation, Saline placebo",
+    "brief_title": "Genetic Associations in subjects of anthrax trial [Anthrax Vaccine Adsorbed: Human Reactogenicity and Immunogenicity Trial to Address Change in Route of Administration and Dose Reduction (AVA000)]",
+    "clinical_trial": "Y",
+    "condition_studied": "Influence of nucleotide sequence variation on vaccine response",
+    "dcl_id": 2,
+    "description": "<p>AVA000 is an ongoing 43-month prospective, randomized, double-blinded, placebo controlled comparison of AVA administered either SQ or IM in up to 8 doses (licensed regimen) or as few as 4 doses. From inception the trial has been on schedule in enrolling 1,560 healthy adults (as of 07/2003, 1480 subjects) at 5 clinical sites in the US, randomized into six study groups with 260 per group.  Group 1 receives the licensed regimen (8 doses, SQ), and groups 2-5 receive 4-8 doses, IM. Group 6 receives placebo, either SQ or IM.</p><p>For immunogenicity analysis, blood samples are obtained from all subjects at enrollment, then prior to and 4 weeks after each injection (except at week 2). Levels of AbPA are measured in all subjects at all time points. A functional in vitro toxin (PA) neutralization assay is also performed on a subset of serum samples. For reactogenicity analysis, all adverse events, including local reactions at the injection sites, are actively monitored with both subject diaries and objective assessments by research study staff.</p>",
+    "doi": "10.21430/M3TT5SPDGV",
+    "endpoints": "<ol><li>Genotyping - iSelect Bead Chip (Illumina)</li><li>Genotyping - HLA class I and II by PCR-based techniques</li><li>Genotyping - Pyrosequencing</li><li>Genotyping - ABI SNPlex</li><li>Genotyping - Genome-wide association study</li><li>Flow cytometric response to anthrax vaccine (AVA)</li><li>Genotyping - PCR for insertion polymorphism</li><li>Protein expression - Serum immunoglobulin levels</li><li>Quantification of serum cytokines and chemokines</li><li>Protein expression - Flow cytometry</li></ol>",
+    "gender_included": "Not Specified",
+    "hypothesis": "Identify important single nucleotide polymorphisms (SNPs) in the genes, and search for associations between the polymorphisms and immune response outcomes in upwards of 1000 genotyped AVA recipients in the AVA000 trial.",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Anthrax Vaccine Adsorbed (AVA)\r",
+    "latest_data_release_date": "2013-08-15",
+    "latest_data_release_version": "DR3",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "To identify nucleotide sequence variation in immunologically relevant genes in order to investigate of the influence of that variation on vaccine response in the AVA000 trial population and to direct further investigation of the functional mechanisms of that variation.",
+    "official_title": "Genetic Associations in subjects of anthrax trial [Anthrax Vaccine Adsorbed: Human Reactogenicity and Immunogenicity Trial to Address Change in Route of Administration and Dose Reduction (AVA000)]",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 1560,
+    "workspace_id": 598,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM17",
+            "description": "Anthrax Vaccine Adsorbed by 8 doses of Subcutaneous Injection",
+            "name": "8 doses of AVA by SQ"
+        },
+        {
+            "arm_accession": "ARM18",
+            "description": "8 doses of AVA by IM Anthrax Vaccine Adsorbed by 8 doses of Intramuscular Injection",
+            "name": "8 doses of AVA by IM"
+        },
+        {
+            "arm_accession": "ARM19",
+            "description": "Anthrax Vaccine Adsorbed by 7 doses of Intramuscular Injection",
+            "name": "7 doses of AVA by IM"
+        },
+        {
+            "arm_accession": "ARM20",
+            "description": "Anthrax Vaccine Adsorbed by 5 doses of Intramuscular Injection",
+            "name": "5 doses of AVA by IM"
+        },
+        {
+            "arm_accession": "ARM21",
+            "description": "Anthrax Vaccine Adsorbed by 4 doses of Intramuscular Injection",
+            "name": "4 doses of AVA by IM"
+        },
+        {
+            "arm_accession": "ARM22",
+            "description": "Saline Placebo by 8 doses of Intramuscular Injection",
+            "name": "8 doses of SP by IM"
+        },
+        {
+            "arm_accession": "ARM23",
+            "description": "Saline Placebo by 8 doses of Subcutaneous Injection",
+            "name": "8 doses of SP by SQ"
+        },
+        {
+            "arm_accession": "ARM24",
+            "description": "Subjects whose assignment to treatment arm are unknown",
+            "name": "Unknown vaccine treatment"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Richard",
+            "last_name": "Kaslow",
+            "organization": "University of Alabama at Birmingham",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\"University of Alabama, Birmingham\"\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Effects of a reduced dose schedule and intramuscular administration of anthrax vaccine adsorbed on immunogenicity and safety at 7 months: a randomized trial.",
+            "journal": "JAMA.",
+            "month": "Oct",
+            "year": "2008",
+            "doi": "10.1001/jama.300.13.1532.",
+            "pubmed_id": "18827210"
+        },
+        {
+            "title": "The role of HLA-DR-DQ haplotypes in variable antibody responses to anthrax vaccine adsorbed.",
+            "journal": "Genes Immun.",
+            "month": "Sep",
+            "year": "2011",
+            "doi": "10.1038/gene.2011.15. Epub 2011 Mar 3.",
+            "pubmed_id": "21368772"
+        },
+        {
+            "title": "Human leukocyte antigens and cellular immune responses to anthrax vaccine adsorbed.",
+            "journal": "Infect Immun.",
+            "month": "Jul",
+            "year": "2013",
+            "doi": "10.1128/IAI.00269-13. Epub 2013 May 6.",
+            "pubmed_id": "23649091"
+        },
+        {
+            "title": "Genomic copy number variants: evidence for association with antibody response to anthrax vaccine adsorbed.",
+            "journal": "PLoS One.",
+            "month": "May",
+            "year": "2013",
+            "doi": "10.1371/journal.pone.0064813. Print 2013.",
+            "pubmed_id": "23741398"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Population Genetics Analysis Program (1)",
+            "contract_name": "Population Genetics Analysis Program: Immunity to Vaccines/Infections"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 17980
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 949
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 94
+            },
+            {
+                "race": "Not Specified",
+                "count": 1203
+            },
+            {
+                "race": "Other",
+                "count": 22
+            },
+            {
+                "race": "White",
+                "count": 244
+            }
+        ],
+        "gender": [
+            {
+                "Female": 164
+            },
+            {
+                "Male": 196
+            },
+            {
+                "Not Specified": 1203
+            }
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "study_accession": "SDY62",
+    "actual_completion_date": null,
+    "actual_enrollment": 86,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "Assess the humoral response of mice immunized with drifted variant H5 hemagglutinin proteins",
+    "brief_title": "Vaccination with drifted variants of H5 hemagglutinin protein elicits a broadened antibody response",
+    "clinical_trial": "N",
+    "condition_studied": "Humoral responses elicited by vaccination with drifted hemaglutinin variants",
+    "dcl_id": 2,
+    "description": "Substantial H5 influenza HA directed immunity is elicited after vaccination of human subjects who had been previously immunized with a drifted H5 HA variant. We sought to investigate the characteristics of H5 HA specific immune responses in more depth by developing an animal model of H5 HA vaccination using drift variants of recombinant H5 HA proteins. HA proteins derived from influenzas A/Vietnam/1203/04 (Clade 1) and A/Indonesia/05/05 (Clade 2.1) were chosen. The sequence of vaccination consisted of two doses of homologous protein, followed by one additional dose of the homologous or heterologous, drifted HA protein. Each dose of HA was combined with CpG as an adjuvant and was injected subcutaneously. All the animals exhibited a serum IgG antibody response that cross-reacted with both HAs in an ELISA. However, those animals that received the drifted variant exhibited higher reactivity to the heterologous HA. Competitive ELISA of serum from drift-variant recipients showed evidence of antibody focusing towards the drifted HA, suggesting modification of the response towards improved cross-reactivity, though development of neutralizing antibodies was limited. Nevertheless, animals were protected against live-virus challenge, and passive transfer of serum was sufficient to confer protection to otherwise naive mice, indicating that both neutralizing and non-neutralizing antibodies offer some degree of protection. These findings suggest that pre-vaccination against H5 influenza has the potential to prime immunity against emerging drifted H5 strains, and could also lower the dose requirements of vaccination in the event of a pandemic.",
+    "doi": "10.21430/M3RH4FT7XC",
+    "endpoints": "Various timepoints fllowing immunization",
+    "gender_included": "Male",
+    "hypothesis": "Pre-vaccination with rHA establishes a baseline HA-specific humoral response that is beneficial, over no immunity, upon challenge with a virus containing a drifted variant HA.",
+    "initial_data_release_date": "2013-06-12",
+    "initial_data_release_version": "DR2",
+    "intervention_agent": "Recombinant Hemagglutinin proteins from A/Vietnam/1203/04 and A/Indonesia/05/05.  Virus: A/Vietnam/1203/04 (HA,NA) x A/PR/8/34 \r",
+    "latest_data_release_date": "2013-06-12",
+    "latest_data_release_version": "DR2",
+    "maximum_age": "  23.00",
+    "minimum_age": "  23.00",
+    "objectives": "Determine the degree of antibody cross-reactivity elicited by vaccination with drifted variant H5 hemagglutinins. Determine the neutralization activity of the antibodies elicited by vaccination. Determine the extent of protection elicited by vacciantion.",
+    "official_title": "Vaccination with drifted variants of avian H5 hemagglutinin protein elicits a broadened antibody response that is protective against challenge with homologous or drifted live H5 influenza virus",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2014,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM462",
+            "description": "homologous vaccination ",
+            "name": "H5VN04-H5VN04-H5VN04"
+        },
+        {
+            "arm_accession": "ARM463",
+            "description": "Drift variant vaccination",
+            "name": "H5IN05-H5IN05-H5VN04"
+        },
+        {
+            "arm_accession": "ARM464",
+            "description": "Single dose vaccination",
+            "name": "H5VN04-CpG-CpG"
+        },
+        {
+            "arm_accession": "ARM465",
+            "description": "homologous vaccination with mismatch HA",
+            "name": "H5IN05-H5IN05-H5IN05"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Felix",
+            "last_name": "Santiago",
+            "organization": "University of Rochester",
+            "role_in_study": "Principal Investigator",
+            "site_name": "ROC034\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Vaccination with drifted variants of avian H5 hemagglutinin protein elicits a broadened antibody response that is protective against challenge with homologous or drifted live H5 influenza virus.",
+            "journal": "Vaccine.",
+            "month": "Nov",
+            "year": "2011",
+            "doi": "10.1016/j.vaccine.2011.09.069. Epub 2011 Sep 28.",
+            "pubmed_id": "21963871"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "New York Influenza Center of Excellence"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 108
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 66
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

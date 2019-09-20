@@ -1,0 +1,102 @@
+{
+    "study_accession": "SDY35",
+    "actual_completion_date": null,
+    "actual_enrollment": 19,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "To study the immune response to vaccinia vaccine in immunosuppressed Rhesus macaques and to develop a relevant preclinical model in which the efficacy and safety of vaccines in the setting of transplantation can be evaluated.",
+    "brief_title": "Responses to and control of vaccinia in immunosuppressed Rhesus Macaques",
+    "clinical_trial": "N",
+    "condition_studied": "Assessment of Modified Vaccinia Ankara and Vaccinia vaccine responses in Rhesus Macaques receiving CNI-based or sirolimus-based immunosuppressive regimens without renal allografts.",
+    "dcl_id": 2,
+    "description": "A detailed mechanistic study of the immune response to vaccinia vaccine in immunosuppressed Rhesus macaques and development of a relevant preclinical model in which the efficacy and safety of vaccines in the setting of transplantation can be evaluated. ",
+    "doi": "10.21430/M381YQIYXY",
+    "endpoints": "<ol><li>PCR monitoring of viral load.</li><li>FCM experiment to measure frequency and phenotypic profile of T cell subsets in rhesus macaques.</li><li>ELISPOT assay to assess memory B cell function in rhesus macaques with tacrolimus and sirolimus treatment.</li><li>ELISA serum antibody titers to assess memory B cell function in rhesus macaques with tacrolimus and sirolimus treatment.</li><li>FCM experiment to study effects of vaccination on renal allograft in rhesus macaques.</li><li>ELISPOT experiment to study effects of vaccination on renal allograft in rhesus macaques.</li><li>Microarray gene expression analysis.</li></ol>",
+    "gender_included": "Male",
+    "hypothesis": "Not provided.",
+    "initial_data_release_date": "2013-04-10",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "CNI-based or sirolimus-based immunosuppressants, Modified Vaccinia Ankara and Vaccinia vaccines. \r",
+    "latest_data_release_date": "2013-04-10",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "   6.00",
+    "minimum_age": "   3.00",
+    "objectives": "<ol><li>Describe Rhesus cellular response to VV and map epitopes in MHC-typed macaques.</li><li>To compare the magnitude and character of immune responses (T and B cell responses and molecular signature) after immunization with the MVA in macaques receiving CNI or sirolimus-based immunosuppressive regimens relative to untreated controls.</li><li>To determine whether prior immunization with replication deficient MVA enhances the response to and improves viral control after VV challenge in immunosuppressed macaques.</li></ol>",
+    "official_title": "Responses to and control of vaccinia in immunosuppressed Rhesus Macaques",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 45,
+    "workspace_id": 3,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM228",
+            "description": "Rhesus Macaques not receiving any immunosuppressant drugs but receive Vaccinia Vaccine (VV) and the Modified Vaccinia Ankara (MVA) vaccine.",
+            "name": "No ISD + VV + MVA"
+        },
+        {
+            "arm_accession": "ARM229",
+            "description": "Rhesus Macaques not receiving any immunosuppressant drugs but receive the Modified Vaccinia Ankara (MVA) vaccine.",
+            "name": "No ISD + MVA + MVA"
+        },
+        {
+            "arm_accession": "ARM230",
+            "description": "Rhesus Macaques receiving CNI-based immunosuppressant receiving Modified Vaccinia Ankara (MVA) vaccinations.",
+            "name": "CNI + MVA + MVA"
+        },
+        {
+            "arm_accession": "ARM231",
+            "description": "Rhesus Macaques receiving sirolimus-based immunosuppressant receiving Modified Vaccinia Ankara (MVA) vaccinations.",
+            "name": "Sirolimus + MVA + MVA"
+        },
+        {
+            "arm_accession": "ARM232",
+            "description": "Rhesus Macaques receiving sirolimus-based immunosuppressant receiving Vaccinia Vaccine (VV) and Modified Vaccinia Ankara (MVA) vaccine.",
+            "name": "Sirolimus + VV + MVA"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Christian",
+            "last_name": "Larsen",
+            "organization": "Emory Transplant Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\"Emory Transplant Center, GA\"\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Sirolimus enhances the magnitude and quality of viral-specific CD8+ T-cell responses to vaccinia virus vaccination in rhesus macaques.",
+            "journal": "Am J Transplant.",
+            "month": "Mar",
+            "year": "2011",
+            "doi": "10.1111/j.1600-6143.2010.03407.x.",
+            "pubmed_id": "21342450"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "Protective Immunity in Transplant Recipients"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 31
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 3433
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 24
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "study_accession": "SDY312",
+    "actual_completion_date": null,
+    "actual_enrollment": 84,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Systems biology approach to examine effects of seasonal flu vaccination in adults of different ages on gene expression, cytokine stimulation and serum cytokines with parameters such as immune senescence to uncover new markers and mechanisms behind failure of immune function in many older people.",
+    "brief_title": "T cell responses to H1N1v and a longitudinal study of seasonal influenza vaccination (TIV) SLVP015 2009 (See companion studies SDY315 2012 / SDY314 2008 / SDY311 2010 / SDY112 2011)",
+    "clinical_trial": "Y",
+    "condition_studied": "Aging, Immune responses to influenza vaccine.",
+    "dcl_id": 2,
+    "description": "Systems biology approach to examine effects of seasonal flu vaccination in adults of different ages on gene expression, cytokine stimulation and serum cytokines with parameters such as immune senescence to uncover new markers and mechanisms behind failure of immune function in many older people.",
+    "doi": "10.21430/M3G230OYOM",
+    "endpoints": "1. Combinatorial tetramer analysis by FACS and/or CyTOF; Phosphoflow. 2. Luminex; Gene expression profiling (Affymetrix microarray). 3. Luminex; Gene expression profiling (Affymetrix microarry); Microneutralization assays. 4. Gene expression profiling (Affymetrix microarray); Immune phenotyping by CyTOF. 5. Gene expression profiling (Affymetrix microarray). 6. Immune phenotyping by CyTOF; Luminex. 7. ELISA",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "HYPOTHESIS NEEDED",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": "Fluzone single-dose syringe 49281-009-50",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "90",
+    "minimum_age": "18",
+    "objectives": "1. Compare lymphocyte responses at Days 5-7 and the lymphocyte and serology responses at Day 28 post-immunization following administration of seasonal trivalent inactivated influenza vaccine. 2. Evaluate changes in cytokine profile in the immune response (CD4, CD8, gamma delta cells, B cell responses) from Day 0 to Day 5-7 for T cells and antibody-secreting cells (ASCs). 3. Evaluate changes in cytokine profile in the immune response (CD4, CD8, gamma delta cells, B cell, and serology responses) from Day 0 to Day 28 for HAI responses. 4. Evaluate any potential gene expression signatures either at Day 0 or during the early response period Day 5-7 that are associated with immune senescence, potentially providing insight into mechanism. 5. Compare monocyte reactivity to activating stimuli at Days 0 and 5-7 with the lymphocyte and serology responses at Day 28 post-immunization following administration of seasonal trivalent inactivated influenza vaccine (Year 1 only). ",
+    "official_title": "T cell responses to H1N1v and a longitudinal study of seasonal influenza vaccination - 2009 (See companion studies SDY315 2012 / SDY311 2010 / SDY314 2008)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 90,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2129",
+            "description": "18-30 year old adults immunized intramuscularly with Fluzone (TIV)",
+            "name": "Group A"
+        },
+        {
+            "arm_accession": "ARM2130",
+            "description": "60-79 year old adults immunized intramuscularly with Fluzone (TIV)",
+            "name": "Group B"
+        },
+        {
+            "arm_accession": "ARM2131",
+            "description": "80-90 year old adults immunized intramuscularly with Fluzone (TIV)",
+            "name": "Group C"
+        },
+        {
+            "arm_accession": "ARM2520",
+            "description": "Phosphoflow cytometry control samples",
+            "name": "Phosphoflow cytometry control samples"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark",
+            "last_name": "Davis",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford-LPCH Vaccine Program"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Defective Signaling in the JAK-STAT Pathway Tracks with Chronic Inflammation and Cardiovascular Risk in Aging Humans.",
+            "journal": "Cell Syst.",
+            "month": "Oct",
+            "year": "2016",
+            "doi": "10.1016/j.cels.2016.09.009. Epub 2016 Oct 13.",
+            "pubmed_id": "27746093"
+        },
+        {
+            "title": "A clinically meaningful metric of immune age derived from high-dimensional longitudinal monitoring.",
+            "journal": "Nat Med.",
+            "month": "Mar",
+            "year": "2019",
+            "doi": "-",
+            "pubmed_id": "30842675"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 1155
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 158
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 484
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 73
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 7
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 6
+            },
+            {
+                "race": "White",
+                "count": 69
+            }
+        ],
+        "gender": [
+            {
+                "Female": 47
+            },
+            {
+                "Male": 36
+            },
+            {
+                "Not Specified": 1
+            }
+        ]
+    }
+}

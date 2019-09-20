@@ -1,0 +1,109 @@
+{
+    "study_accession": "SDY1343",
+    "actual_completion_date": null,
+    "actual_enrollment": 69,
+    "actual_start_date": "2012-01-01",
+    "age_unit": "Years",
+    "brief_description": "Low-cost methods for monitoring fetal development could improve prenatal care, especially in low-resource settings. By measuring the levels of certain placental RNA transcripts in maternal blood, Ngo et al. developed two noninvasive blood tests that provide a window into the progression of individual pregnancies. In a small proof-of-concept study, the first blood test predicted fetal age and delivery date with an accuracy comparable to that of ultrasound. The second blood test, also examined in a small pilot study, discriminated women at risk of preterm delivery from those who delivered at full term. The next step will be to assess the reliability of the tests in large, blinded clinical trials.",
+    "brief_title": "Toward more predictable birthdays",
+    "clinical_trial": "N",
+    "condition_studied": "Preterm birth",
+    "dcl_id": 2,
+    "description": "Low-cost methods for monitoring fetal development could improve prenatal care, especially in low-resource settings. By measuring the levels of certain placental RNA transcripts in maternal blood, Ngo et al. developed two noninvasive blood tests that provide a window into the progression of individual pregnancies. In a small proof-of-concept study, the first blood test predicted fetal age and delivery date with an accuracy comparable to that of ultrasound. The second blood test, also examined in a small pilot study, discriminated women at risk of preterm delivery from those who delivered at full term. The next step will be to assess the reliability of the tests in large, blinded clinical trials.",
+    "doi": "10.21430/M3RP599G2M",
+    "endpoints": "qRT-PCR, cfRNA seq",
+    "gender_included": "Not Specified",
+    "hypothesis": "a set of markers measured via cfRNA sequencing can help predict gestational age as well as potential for preterm delivery in pregnant subjects",
+    "initial_data_release_date": "2019-04-12",
+    "initial_data_release_version": "DR30",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "  33.10",
+    "minimum_age": "  18.00",
+    "objectives": "identify markers associated with gestational age and preterm delivery potential in cfRNA from maternal blood thanks to predictive modeling.",
+    "official_title": "Noninvasive blood tests for fetal development predict gestational age and preterm delivery.",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 69,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4572",
+            "description": "Full term training",
+            "name": "Danish Cohort ? training"
+        },
+        {
+            "arm_accession": "ARM4573",
+            "description": "Full term validation",
+            "name": "Danish cohort ? validation"
+        },
+        {
+            "arm_accession": "ARM4574",
+            "description": "premature contractions",
+            "name": "Pennsylvania cohort"
+        },
+        {
+            "arm_accession": "ARM4575",
+            "description": "previous preterm birth",
+            "name": "Alabama cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Stephen",
+            "last_name": "Quake",
+            "organization": "March of Dimes Prematurity Research Center at Stanford University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "March of Dimes Prematurity Research Center at Stanford University School of Medicine"
+        },
+        {
+            "first_name": "Mads",
+            "last_name": "Malbye",
+            "organization": "Department of Epidemiology Research, Statens Serum Institute, Copenhagen, Denmark",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Epidemiology Research, Statens Serum Institute, Copenhagen, Denmark"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Noninvasive blood tests for fetal development predict gestational age and preterm delivery.",
+            "journal": "Science",
+            "month": "June",
+            "year": "2018",
+            "doi": "10.1126/science.aar3819",
+            "pubmed_id": "29880692"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 15
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 37
+            },
+            {
+                "race": "White",
+                "count": 32
+            }
+        ],
+        "gender": [
+            {
+                "Female": 69
+            }
+        ]
+    }
+}

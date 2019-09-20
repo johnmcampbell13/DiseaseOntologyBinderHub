@@ -1,0 +1,289 @@
+{
+    "study_accession": "SDY41",
+    "actual_completion_date": null,
+    "actual_enrollment": 903,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "To assess the effects of the impairments in innate immunity identified in the study titled <i><u>Delineate innate immune responses in populations at risk (the elderly and the immunosuppressed) that are different from the general population</u></i> on the efficiency of the response to agents of Bioterrorism, using WN virus infection and influenza vaccination as models.<br/><br/>Will also assess these responses directly from patients who had WN virus infection or the influenza vaccine.  Will elucidate mechanisms mediating innate immune responses to viral infection using murine models.",
+    "brief_title": "Determine whether differences in TLR-responsiveness alter susceptibility to Biodefense priority pathogens using WN virus as a paradigm or responsiveness to vaccination using influenza as a model shared to Semi-Public Workspace (SPW) Project",
+    "clinical_trial": "N",
+    "condition_studied": "West Nile Virus, immune response, aging, infectious diseases",
+    "dcl_id": 2,
+    "description": "The Study's goal is to quantify the innate immune response of macrophages from the three populations identified in the study titled '<i><u>Delineate innate immune responses in populations at risk (the elderly and the immunosuppressed) that are different from the general population</u></i>', to agents of Biodefense, using West Nile virus infection and influenza vaccination as models.<br/><br/>  In addition, by recruiting patients who have had West Nile virus infection or received influenza vaccine, we will assess the efficiency of immune responses to these potential agents of bioterrorism.",
+    "doi": "10.21430/M3KDRIKJOB",
+    "endpoints": "<ol><li>Effects of aging and immunosuppression on the efficiency of activation of monocytes and DCs by influenza vaccine.</li><li>Employ standard hemagglutination inhibition assays to determine responsiveness to influenza vaccine.</li><li>WN viral titers will be determined by ELISA on serum samples.</li><li>Isolated cells will be stimulated with WN virus in vitro and elaboration of inflammatory cytokines (including MIF), and TLR expression will be quantified.</li>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Innate immune responses are weak in the elderly and the immunocompromised and may be influenced by polymorphisms in certain TLRs and a prototype TLR-dependent cytokine, macrophage migration inhibitory factor (MIF).",
+    "initial_data_release_date": "2013-06-12",
+    "initial_data_release_version": "DR2",
+    "intervention_agent": "\r",
+    "latest_data_release_date": "2013-06-12",
+    "latest_data_release_version": "DR2",
+    "maximum_age": "  90.00",
+    "minimum_age": "  21.00",
+    "objectives": "To address the possibility that alterations in TLR function may correlate with vaccine responsiveness the study assess TLR signaling in responsive and non-responsive older individuals immunized with influenza vaccine. ",
+    "official_title": "Determine whether differences in TLR-responsiveness alter susceptibility to Biodefense priority pathogens using WN virus as a paradigm or responsiveness to vaccination using influenza as a model shared to Semi-Public Workspace (SPW) Project",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 280,
+    "workspace_id": 1995,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM408",
+            "description": "Healthy subjects between the ages of 21 to 49 years old receiving influenza vaccination or have WNv infection.",
+            "name": "Young Adults"
+        },
+        {
+            "arm_accession": "ARM409",
+            "description": "Elderly subjects 50 years of age or older receiving influenza vaccination or have WNv infection.",
+            "name": "Elderly"
+        },
+        {
+            "arm_accession": "ARM410",
+            "description": "Immunocompromised subjects",
+            "name": "Immunocompromised"
+        },
+        {
+            "arm_accession": "ARM411",
+            "description": "WNV Infected subjects",
+            "name": "WNV Infected"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Erol",
+            "last_name": "Fikrig ",
+            "organization": "Yale School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Yale University - School of Medicine\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Age-associated defect in human TLR-1/2 function.",
+            "journal": "J Immunol.",
+            "month": "Jan",
+            "year": "2007",
+            "doi": "-",
+            "pubmed_id": "17202359"
+        },
+        {
+            "title": "Prevaccine determination of the expression of costimulatory B7 molecules in activated monocytes predicts influenza vaccine responses in young and older adults.",
+            "journal": "J Infect Dis.",
+            "month": "Jun",
+            "year": "2007",
+            "doi": "b 2007 Apr 17.",
+            "pubmed_id": "17471428"
+        },
+        {
+            "title": "Toll-like receptors in older adults.",
+            "journal": "J Am Geriatr Soc.",
+            "month": "Sep",
+            "year": "2007",
+            "doi": "-",
+            "pubmed_id": "17767688"
+        },
+        {
+            "title": "Abrogation of macrophage migration inhibitory factor decreases West Nile virus lethality by limiting viral neuroinvasion.",
+            "journal": "J Clin Invest.",
+            "month": "Oct",
+            "year": "2007",
+            "doi": "-",
+            "pubmed_id": "17909632"
+        },
+        {
+            "title": "West Nile virus envelope protein inhibits dsRNA-induced innate immune responses.",
+            "journal": "J Immunol.",
+            "month": "Dec",
+            "year": "2007",
+            "doi": "-",
+            "pubmed_id": "18056386"
+        },
+        {
+            "title": "Icam-1 participates in the entry of west nile virus into the central nervous system.",
+            "journal": "J Virol.",
+            "month": "Apr",
+            "year": "2008",
+            "doi": "10.1128/JVI.02621-07. Epub 2008 Feb 6.",
+            "pubmed_id": "18256150"
+        },
+        {
+            "title": "West nile virus attenuates activation of primary human macrophages.",
+            "journal": "Viral Immunol.",
+            "month": "Mar",
+            "year": "2008",
+            "doi": "10.1089/vim.2007.0072.",
+            "pubmed_id": "18355125"
+        },
+        {
+            "title": "Dysregulation of TLR3 impairs the innate immune response to West Nile virus in the elderly.",
+            "journal": "J Virol.",
+            "month": "Aug",
+            "year": "2008",
+            "doi": "10.1128/JVI.00618-08. Epub 2008 May 28.",
+            "pubmed_id": "18508883"
+        },
+        {
+            "title": "Matrix metalloproteinase 9 facilitates West Nile virus entry into the brain.",
+            "journal": "J Virol.",
+            "month": "Sep",
+            "year": "2008",
+            "doi": "10.1128/JVI.00314-08. Epub 2008 Jul 16.",
+            "pubmed_id": "18632868"
+        },
+        {
+            "title": "RNA interference screen for human genes associated with West Nile virus infection.",
+            "journal": "Nature.",
+            "month": "Sep",
+            "year": "2008",
+            "doi": "10.1038/nature07207.",
+            "pubmed_id": "18690214"
+        },
+        {
+            "title": "Toll-like receptor 7 mitigates lethal West Nile encephalitis via interleukin 23-dependent immune cell infiltration and homing.",
+            "journal": "Immunity.",
+            "month": "Feb",
+            "year": "2009",
+            "doi": "10.1016/j.immuni.2008.11.012. Epub 2009  Feb 5.",
+            "pubmed_id": "19200759"
+        },
+        {
+            "title": "The influence of macrophage migration inhibitory factor gene polymorphisms on outcome from community-acquired pneumonia.",
+            "journal": "FASEB J.",
+            "month": "Aug",
+            "year": "2009",
+            "doi": "10.1096/fj.09-129445. Epub 2009 Apr 3.",
+            "pubmed_id": "19346297"
+        },
+        {
+            "title": "Human innate immunosenescence: causes and consequences for immunity in old age.",
+            "journal": "Trends Immunol.",
+            "month": "Jul",
+            "year": "2009",
+            "doi": "10.1016/j.it.2009.05.004. Epub 2009 Jun 21.",
+            "pubmed_id": "19541535"
+        },
+        {
+            "title": "IL-10 signaling blockade controls murine West Nile virus infection.",
+            "journal": "PLoS Pathog.",
+            "month": "Oct",
+            "year": "2009",
+            "doi": "10.1371/journal.ppat.1000610. Epub 2009 Oct 9.",
+            "pubmed_id": "19816558"
+        },
+        {
+            "title": "Age-associated decrease in TLR function in primary human dendritic cells predicts influenza vaccine response.",
+            "journal": "J Immunol.",
+            "month": "Mar",
+            "year": "2010",
+            "doi": "10.4049/jimmunol.0901022. Epub 2010 Jan 25.",
+            "pubmed_id": "20100933"
+        },
+        {
+            "title": "Circulating monocytes from systemic sclerosis patients with interstitial lung disease show an enhanced profibrotic phenotype.",
+            "journal": "Lab Invest.",
+            "month": "Jun",
+            "year": "2010",
+            "doi": "10.1038/labinvest.2010.73. Epub 2010 Apr  19.",
+            "pubmed_id": "20404807"
+        },
+        {
+            "title": "Increased TLR4 expression and downstream cytokine production in immunosuppressed adults compared to non-immunosuppressed adults.",
+            "journal": "PLoS One.",
+            "month": "Jun",
+            "year": "2010",
+            "doi": "10.1371/journal.pone.0011343.",
+            "pubmed_id": "20596538"
+        },
+        {
+            "title": "Aging of the innate immune system.",
+            "journal": "Curr Opin Immunol.",
+            "month": "Aug",
+            "year": "2010",
+            "doi": "10.1016/j.coi.2010.05.003.",
+            "pubmed_id": "20667703"
+        },
+        {
+            "title": "Caspase-12 controls West Nile virus infection via the viral RNA receptor RIG-I.",
+            "journal": "Nat Immunol.",
+            "month": "Oct",
+            "year": "2010",
+            "doi": "10.1038/ni.1933. Epub 2010 Sep 5.",
+            "pubmed_id": "20818395"
+        },
+        {
+            "title": "A paradoxical role for neutrophils in the pathogenesis of West Nile virus.",
+            "journal": "J Infect Dis.",
+            "month": "Dec",
+            "year": "2010",
+            "doi": "10.1086/657416. Epub 2010 Nov 4.",
+            "pubmed_id": "21050124"
+        },
+        {
+            "title": "Impaired interferon signaling in dendritic cells from older donors infected in vitro with West Nile virus.",
+            "journal": "J Infect Dis.",
+            "month": "May",
+            "year": "2011",
+            "doi": "10.1093/infdis/jir048. Epub 2011  Mar 11.",
+            "pubmed_id": "21398396"
+        },
+        {
+            "title": "Age-associated elevation in TLR5 leads to increased inflammatory responses in the elderly.",
+            "journal": "Aging Cell.",
+            "month": "Feb",
+            "year": "2012",
+            "doi": "10.1111/j.1474-9726.2011.00759.x. Epub 2011 Nov 28.",
+            "pubmed_id": "22023165"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "Innate Immune Responsiveness in the Elderly and the Immunosuppressed"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 154
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 1026
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 62
+            },
+            {
+                "race": "Black or African American",
+                "count": 86
+            },
+            {
+                "race": "Other",
+                "count": 13
+            },
+            {
+                "race": "Unknown",
+                "count": 11
+            },
+            {
+                "race": "White",
+                "count": 731
+            }
+        ],
+        "gender": [
+            {
+                "Female": 570
+            },
+            {
+                "Male": 333
+            }
+        ]
+    }
+}

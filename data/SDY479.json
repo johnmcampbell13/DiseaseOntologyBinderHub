@@ -1,0 +1,110 @@
+{
+    "study_accession": "SDY479",
+    "actual_completion_date": null,
+    "actual_enrollment": 494,
+    "actual_start_date": "2006-06-01",
+    "age_unit": "Years",
+    "brief_description": "This is an observational, uncontrolled and non-randomized study in which all deceased donor and living donor kidney allograft recipients at all participating centers are eligible for enrollment. The primary aims are : (1) To investigate whether the levels of mRNA encoding cytotoxic proteins perforin and granzyme B, and T cell marker CD3, are a sensitive and specific noninvasive diagnostic test for acute rejection in renal allografts; and (2) To determine whether mRNA profiles of sequential urine specimens predict the development of rejection. We will investigate whether mRNA profiles predict kidney graft function as assessed by estimated GFR at 12, 24 and 36 months after transplantation.",
+    "brief_title": "Urinary cell mRNA profiles of rejection (CTOT-04)",
+    "clinical_trial": "Y",
+    "condition_studied": "Kidney Transplantation",
+    "dcl_id": 2,
+    "description": "This is an observational, uncontrolled and non-randomized study in which all deceased donor and living donor kidney allograft recipients at all participating centers are eligible for enrollment. The primary aims are : (1) To investigate whether the levels of mRNA encoding cytotoxic proteins perforin and granzyme B, and T cell marker CD3, are a sensitive and specific noninvasive diagnostic test for acute rejection in renal allografts; and (2) To determine whether mRNA profiles of sequential urine specimens predict the development of rejection. We will investigate whether mRNA profiles predict kidney graft function as assessed by estimated GFR at 12, 24 and 36 months after transplantation.",
+    "doi": "10.21430/M3YP3ROBVT",
+    "endpoints": "mRNA profiling, real-time quantitative PCR assay.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Urinary cell mRNA profile is predictive of acute allograft rejection in the near future. Urinary cell mRNA profile at the time of a diagnostic biopsy predicts biopsy based diagnosis of rejection.",
+    "initial_data_release_date": "2016-06-17",
+    "initial_data_release_version": "DR19",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  77.00",
+    "minimum_age": "    .00",
+    "objectives": "To test the hypothesis that alterations in mRNA levels in sequential urine specimens predict the development of acute rejection. To test the hypothesis that urinary cell mRNA levels of granzyme B, perforin and CD3 are a sensitive and specific noninvasive diagnostic test for acute rejection of renal allografts.",
+    "official_title": "Noninvasive Diagnosis of Renal Allograft Rejection by Urinary Cell mRNA Profiling",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 450,
+    "workspace_id": 4060,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2530",
+            "description": "Patients who have recently undergone kidney transplant",
+            "name": "Kidney Allograft Recipients"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Abraham",
+            "last_name": "Shaked",
+            "organization": "University of Pennsylvania Medical Center, Department of Surgery",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Pennsylvania Medical Center, Department of Surgery"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Urinary-cell mRNA profile and acute cellular rejection in kidney allografts.",
+            "journal": "N Engl J Med.",
+            "month": "Jul",
+            "year": "2013",
+            "doi": "10.1056/NEJMoa1215555.",
+            "pubmed_id": "23822777"
+        },
+        {
+            "title": "Urine Metabolite Profiles Predictive of Human Kidney Allograft Status.",
+            "journal": "J Am Soc Nephrol.",
+            "month": "Feb",
+            "year": "2016",
+            "doi": "10.1681/ASN.2015010107. Epub 2015 Jun 5.",
+            "pubmed_id": "26047788"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Clinical Trials in Organ Transplantation (CTOT)",
+            "contract_name": "MOLECULAR PROFILING AND IMMUNOMODULATORY INTERVENTIONS (CTOT-03, CTOT-04)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 984
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 3883
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 139
+            },
+            {
+                "race": "Other",
+                "count": 60
+            },
+            {
+                "race": "Unknown",
+                "count": 10
+            },
+            {
+                "race": "White",
+                "count": 285
+            }
+        ],
+        "gender": [
+            {
+                "Female": 201
+            },
+            {
+                "Male": 293
+            }
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "study_accession": "SDY292",
+    "actual_completion_date": null,
+    "actual_enrollment": 636,
+    "actual_start_date": "2008-08-01",
+    "age_unit": "Years",
+    "brief_description": "The goal of this study was to study informed consent by the living donor. This study used surveys to evaluate the understanding of risk and psychological pressure that living organ donors felt when making the decision to donate. It compared participants' answers across geographic, racial and socio-economic backgrounds.",
+    "brief_title": "RELIVE Informed Consent Study (RELIVE-03)",
+    "clinical_trial": "Y",
+    "condition_studied": "Living Donors",
+    "dcl_id": 2,
+    "description": "The goal of this study was to study informed consent by the living donor. This study used surveys to evaluate the understanding of risk and psychological pressure that living organ donors felt when making the decision to donate. It compared participants' answers across geographic, racial and socio-economic backgrounds. ",
+    "doi": "10.21430/M3G310ZBSI",
+    "endpoints": "The primary endpoints of this study are:<ol><li>Pressure to donate expressed by donors</li><li>Understanding of the process of donor screening expressed by donors</li><li>Understanding of medical and psychosocial consequences of organ donation expressed by donors</li><li>Center variability in the first three primary endpoints</li><li>Ethnic/racial variability in the first three primary endpoints</li></ol>The secondary endpoints of this study are:<ol><li>Understanding of short-term medical risks of donation expressed by donors</li><li>Understanding of long-term medical risks of donation expressed by donors</li><li>Understanding of psychological risks of donation expressed by donors</li><li>Understanding that recipients may have variable outcomes expressed by donors</li></ol>",
+    "gender_included": "Not Specified",
+    "hypothesis": "The decision to become a living donor is affected by social influences on the donor as well as the donor's understanding of the risks of living donation.",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-01-31",
+    "latest_data_release_version": "DR20",
+    "maximum_age": "  70.00",
+    "minimum_age": "  19.00",
+    "objectives": "The first objective of this study is to evaluate the donor's understanding at a point in the donation process where he should possess all the information he is likely to have prior to consenting to donation. The second objective of this study is to evaluate if donors experience influences that result in an act of informed consent that is non-autonomous.",
+    "official_title": "RELIVE Informed Consent Study (RELIVE-03)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3546,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2097",
+            "description": "People who will donate a kidney at the University of Minnesota, Mayo Clinic, or University of Alabama",
+            "name": "Kidney Donors"
+        },
+        {
+            "arm_accession": "ARM2098",
+            "description": "People who will donate a lung at the Washington University School of Medicine or the University of Southern California",
+            "name": "Lung Donors"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Maryam",
+            "last_name": "Valapour",
+            "organization": "Cleveland Clinic",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Minnesota"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Assessing elements of informed consent among living donors.",
+            "journal": "Clin Transplant.",
+            "month": "Mar",
+            "year": "2011",
+            "doi": "10.1111/j.1399-0012.2010.01374.x.",
+            "pubmed_id": "21158924"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "RELIVE ",
+            "contract_name": "CLINICAL OUTCOMES OF LIVE ORGAN DONORS - DATA COORDINATING CENTER "
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 4
+            },
+            {
+                "race": "Asian",
+                "count": 7
+            },
+            {
+                "race": "Black or African American",
+                "count": 42
+            },
+            {
+                "race": "Other",
+                "count": 9
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 573
+            }
+        ],
+        "gender": [
+            {
+                "Female": 386
+            },
+            {
+                "Male": 250
+            }
+        ]
+    }
+}

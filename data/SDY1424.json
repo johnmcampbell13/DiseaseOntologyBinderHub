@@ -1,0 +1,65 @@
+{
+    "study_accession": "SDY1424",
+    "actual_completion_date": "2018-12-03",
+    "actual_enrollment": 7,
+    "actual_start_date": "2015-09-17",
+    "age_unit": "Years",
+    "brief_description": "MaHPIC: Experiment 15: Aotus nancymaae infected with P. vivax Brazil VII to produce clinical and omics measures of primary infections and relapses.",
+    "brief_title": "MaHPIC: Host Aotus nancymaae infected with P. vivax Brazil VII",
+    "clinical_trial": "N",
+    "condition_studied": "Malaria Infection",
+    "dcl_id": 2,
+    "description": "Malaria-naive Aotus nancymaae were inoculated intravenously with salivary gland sporozoites produced and isolated at the Centers for Disease Control and Prevention from multiple Anopheles species (An. gambiae, An. stephensi, and An. freeborni) then profiled for clinical, hematological, parasitological, immunological, functional genomic, and metabolomic measurements. The experiment was performed for 121 days. The first inoculation attempt was virtually unsuccessful as only one of seven animals developed blood-stage infection. This animal was treated for the blood-stage infection. All animals were re-challenged approximately one month later. Upon re-challenge all animals developed blood-stage infections with similar parasitological kinetics. After infections became chronic, the anti-malarial drug artemether was administered to curatively treat blood-stage infections. No sub-curative treatments were administered during this study because none of the animals developed severe disease. At the end of the study, the anti-malarial drugs primaquine and chloroquine were administered to all animals for curative treatment of the liver and blood-stage infections, respectively. Venous blood samples were collected only on clinically determined 'timepoint' days for the measurement of CBCs, reticulocytes, parasitemias, and downstream omics and immunological analyses. Small sample volumes were collected daily or every other day for the measurement of parasitemia. Within the MaHPIC, this project is known as 'Experiment 15'. This dataset was produced by John Barnwell at the CDC. To access other publicly available results from E15 and other MaHPIC Experiments, including clinical results (specifics on drugs administered), and other omics, visit http://plasmodb.org/plasmo/mahpic.jsp. This page will be updated as datasets are released to the public. The experimental design and protocols for this study were approved by the Emory University Institutional Animal Care and Use Committee (IACUC).",
+    "doi": "10.21430/M32LN9GIBL",
+    "endpoints": "Flow Cytometry",
+    "gender_included": "Male",
+    "hypothesis": "To produce clinical and omics measures of primary infections and relapses in non-human primates (Aotus nancymaae) infected with P. vivax Brazil VII",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "P. vivax Brazil VII",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "   4.00",
+    "minimum_age": "   4.00",
+    "objectives": "To produce clinical and omics measures of primary infections and relapses in non-human primates (Aotus nancymaae) infected with P. vivax Brazil VII",
+    "official_title": "MaHPIC: Experiment 15: Aotus nancymaae infected with P. vivax Brazil VII to produce clinical and omics measures of primary infections and relapses.",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 7,
+    "workspace_id": 5919,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4738",
+            "description": "Experimental cohort of 7 non-human primates",
+            "name": "Experimental cohort of 7 non-human primates"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mary",
+            "last_name": "Galinski",
+            "organization": "Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "N/A"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Systems Biology for Infectious Diseases Research",
+            "contract_name": "Integrated Approach To Host-Pathogen Interactions"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 135
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

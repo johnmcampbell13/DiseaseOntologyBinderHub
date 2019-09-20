@@ -1,0 +1,172 @@
+{
+    "study_accession": "SDY998",
+    "actual_completion_date": "2017-05-01",
+    "actual_enrollment": 62,
+    "actual_start_date": "2016-03-15",
+    "age_unit": "Years",
+    "brief_description": "The primary goal for RA arthroplasty P1 studies are:  To establish if molecular signatures and pathways identified using core AMP technologies differ between OA and RA in 20 RA surgical samples and 10 OA arthroplasty samples.",
+    "brief_title": "AMP Rheumatoid Arthritis Phase 1",
+    "clinical_trial": "N",
+    "condition_studied": "Rheumatoid Arthritis",
+    "dcl_id": 2,
+    "description": "The primary goal for RA arthroplasty P1 studies are:  To establish if molecular signatures and pathways identified using core AMP technologies differ between OA and RA in 20 RA surgical samples and 10 OA arthroplasty samples.",
+    "doi": "10.21430/M3KXJHSP4T",
+    "endpoints": "Clinical data, Histology, Flow cytometry, Mass cytometry Blood (PBMC and TL prep)\nMass cytometry synovium, Low input RNA Seq Synovium, Single Cell RNA Seq Synovium (plate based cell seq 2)",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "To ensure practical factors can be mastered prior to Phase II:   Tissue, Technology Validation and Clinical Site Qualification: A) 20 RA surgical tissue and 10 OA tissue will be processed for further validation of the tissue validation studies, work flow and for the technology core if needed for tech site validation. These, and potentially additional samples can be (acquired) and used for the study of nested technologies.",
+    "initial_data_release_date": "2017-11-07",
+    "initial_data_release_version": "DR24",
+    "intervention_agent": null,
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "  85.00",
+    "minimum_age": "  18.00",
+    "objectives": "To ensure practical factors can be mastered prior to Phase II:   Tissue, Technology Validation and Clinical Site Qualification: 20 RA surgical tissue and 10 OA tissue will be processed for further validation of the tissue validation studies, work flow and for the technology core if needed for tech site validation. These, and potentially additional samples can be (acquired) and used for the study of nested technologies.",
+    "official_title": "Identifying Novel Molecular Signatures and Pathways in Active RA for Targets of Therapy- AMP RA Network Study",
+    "sponsoring_organization": "NIH/NIAMS, NIH/NIAID",
+    "target_enrollment": 30,
+    "workspace_id": 5290,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3567",
+            "description": "20 patients with established RA",
+            "name": "RA arthroplasty"
+        },
+        {
+            "arm_accession": "ARM3568",
+            "description": "10 patients with OA",
+            "name": "OA arthroplasty"
+        },
+        {
+            "arm_accession": "ARM3569",
+            "description": "Synovial biopsy samples from RA subjects may be compared to arthroscopy RA samples",
+            "name": "Rheumatoid arthritis synovial biopsy"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jennifer",
+            "last_name": "Anolik",
+            "organization": "Rochester",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Rochester"
+        },
+        {
+            "first_name": "Vivian",
+            "last_name": "Bykerk",
+            "organization": "HSS",
+            "role_in_study": "Principal Investigator",
+            "site_name": "HSS"
+        },
+        {
+            "first_name": "Larry",
+            "last_name": "Moreland",
+            "organization": "Pittsburg",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Pittsburg"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Holers",
+            "organization": "Colorado",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Colorado"
+        },
+        {
+            "first_name": "Peter",
+            "last_name": "Gregersen",
+            "organization": "Northwell",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Northwell"
+        },
+        {
+            "first_name": "Gary",
+            "last_name": "Firestein",
+            "organization": "UCSD",
+            "role_in_study": "Principal Investigator",
+            "site_name": "UCSD"
+        },
+        {
+            "first_name": "PJ",
+            "last_name": "Utz",
+            "organization": "Stanford",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Weisman",
+            "organization": "Cedars Sinai",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Cedars Sinai"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass cytometry.",
+            "journal": "Nat Immunol.",
+            "month": "Jul",
+            "year": "2019",
+            "doi": "10.1038/s41590-019-0378-1. Epub 2019 May 6.",
+            "pubmed_id": "31061532"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Accelerating Medicines Partnership RA/SLE (AMP RA/SLE) RFA-AR-14-016",
+            "contract_name": "Accelerating Medicines Partnership RA/SLE (AMP RA/SLE)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 175
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 309
+        },
+        {
+            "measurement_technique": "Microscopy",
+            "number_of_expsamples": 421
+        },
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 10189
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "Black or African American",
+                "count": 7
+            },
+            {
+                "race": "Not Specified",
+                "count": 10
+            },
+            {
+                "race": "White",
+                "count": 43
+            }
+        ],
+        "gender": [
+            {
+                "Female": 44
+            },
+            {
+                "Male": 15
+            },
+            {
+                "Not Specified": 3
+            }
+        ]
+    }
+}

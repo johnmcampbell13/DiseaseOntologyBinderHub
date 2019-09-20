@@ -1,0 +1,69 @@
+{
+    "study_accession": "SDY653",
+    "actual_completion_date": null,
+    "actual_enrollment": 2,
+    "actual_start_date": "2011-11-01",
+    "age_unit": "Months",
+    "brief_description": "Direct mammalian target of rapamycin (Rapa) complex 1 inhibition by short-term low-dose Rapa treatment has recently been shown to improve CD8 T cell immunological memory. Whereas these studies focused on memory development, the impact of low-dose Rapa on the primary immune response, particularly as it relates to functional effector immunity, is far less clear. In this study, we investigated the impact of acute Rapa treatment on immune effector cell function during the primary immune response to several acute infections. We found that functional CD8 T cell and macrophage responses to both viral and intracellular bacterial pathogens were depressed in mice in vivo and in humans to phorbol ester and calcium ionophore stimulation in vitro in the face of low-dose Rapa treatment. Mechanistically, the CD8 defect was linked to impaired glycolytic switch in stimulated naive cells and the reduced formation of short-lived effector cells. Therefore, more than one cell type required for a protective effector immune response is impaired by Rapa in both mice and humans, at the dose shown to improve immune memory and extend lifespan. This urges caution with regard to the relative therapeutic costs and benefits of Rapa treatment as means to improve immune memory.",
+    "brief_title": "Immune Memory Boosting Dose of Rapamycin Impairs Macrophage Vesicle Acidification and Curtails Glycolysis in Effector CD8 Cells, Impairing Defense against Acute Infections",
+    "clinical_trial": "N",
+    "condition_studied": "Effects of Rapamycin on acute infection",
+    "dcl_id": 2,
+    "description": "Direct mammalian target of rapamycin (Rapa) complex 1 inhibition by short-term low-dose Rapa treatment has recently been shown to improve CD8 T cell immunological memory. Whereas these studies focused on memory development, the impact of low-dose Rapa on the primary immune response, particularly as it relates to functional effector immunity, is far less clear. In this study, we investigated the impact of acute Rapa treatment on immune effector cell function during the primary immune response to several acute infections. We found that functional CD8 T cell and macrophage responses to both viral and intracellular bacterial pathogens were depressed in mice in vivo and in humans to phorbol ester and calcium ionophore stimulation in vitro in the face of low-dose Rapa treatment. Mechanistically, the CD8 defect was linked to impaired glycolytic switch in stimulated naive cells and the reduced formation of short-lived effector cells. Therefore, more than one cell type required for a protective effector immune response is impaired by Rapa in both mice and humans, at the dose shown to improve immune memory and extend lifespan. This urges caution with regard to the relative therapeutic costs and benefits of Rapa treatment as means to improve immune memory.\n",
+    "doi": "10.21430/M3IY2GJYV6",
+    "endpoints": "FCM, challenge, Metabolism Assays",
+    "gender_included": "Male",
+    "hypothesis": "Rapamycin treatment during CD8 T cell priming may have negative effects during acute infection.",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": "Rapamycin",
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "   3.00",
+    "minimum_age": "   2.00",
+    "objectives": "Determine the effects of Rapamycin treatment on acute infection outomes",
+    "official_title": "Immune Memory Boosting Dose of Rapamycin Impairs Macrophage Vesicle Acidification and Curtails Glycolysis in Effector CD8 Cells, Impairing Defense against Acute Infections",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3365,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2900",
+            "description": "2-3 months old C57BL/6 mice",
+            "name": "Goldberg_JI_2014_Adult"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Janko",
+            "last_name": "Nikolich-Zugich",
+            "organization": "University of Arizona",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Arizona"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Immune memory-boosting dose of rapamycin impairs macrophage vesicle acidification and curtails glycolysis in effector CD8 cells, impairing defense against acute infections.",
+            "journal": "J Immunol.",
+            "month": "Jul",
+            "year": "2014",
+            "doi": "10.4049/jimmunol.1400188. Epub 2014 Jun 9.",
+            "pubmed_id": "24913978"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Immunological basis of age-related vulnerability in biodefense and emerging infections SP2 UAz"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

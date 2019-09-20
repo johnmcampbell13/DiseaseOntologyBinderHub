@@ -1,0 +1,101 @@
+{
+    "study_accession": "SDY1095",
+    "actual_completion_date": "2015-01-05",
+    "actual_enrollment": 180,
+    "actual_start_date": "2014-10-01",
+    "age_unit": "Years",
+    "brief_description": "This study is a multicenter, non-randomized, retrospective study to collect long term (4 years post-transplant) clinical outcome data on subjects previously enrolled in the CTOT-05 study.",
+    "brief_title": "A Retrospective Multicenter Study to Determine 4-Year Clinical Outcomes in Subjects Previously Enrolled in the CTOT-05 Study (CTOT-18)",
+    "clinical_trial": "Y",
+    "condition_studied": "Cardiac Transplantation",
+    "dcl_id": 2,
+    "description": "This study is a multicenter, non-randomized, retrospective study to collect long term (4 years post-transplant) clinical outcome data on subjects previously enrolled in the CTOT-05 study.",
+    "doi": "10.21430/M34I2CELSW",
+    "endpoints": "The primary endpoint is a composite of incidence of the following at 48 months (+/- 6 months) after primary transplantation: 1) Death, 2) Re-transplantation or re-listed for transplantation, 3) Coronary stent, 4) Myocardial Infarction, 5) Clinical evidence of CAV per ISHLT grading. The secondary endpoint is the individual components of the primary endpoint at 48 months (+/- 6 months) after primary transplantation.",
+    "gender_included": "Female, Male",
+    "hypothesis": "This study will evaluate patient and graft survival up to 48 months post primary heart transplantation.",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "transplant",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  75.00",
+    "minimum_age": "  19.00",
+    "objectives": "The study objective is to evaluate patient and graft survival up to 48 months post primary heart transplantation.",
+    "official_title": "A Retrospective Multicenter Study to Determine 4-Year Clinical Outcomes in Subjects Previously Enrolled in the CTOT-05 Study",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 180,
+    "workspace_id": 4058,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3846",
+            "description": "Cardiac Transplant Recipients",
+            "name": "Cardiac Transplant Recipients"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Peter",
+            "last_name": "Heeger",
+            "organization": "Mount Sinai School of Medicine, Ricanati Miller Transplant Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mount Sinai School of Medicine,"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Multicenter Analysis of Immune Biomarkers and Heart Transplant Outcomes: Results of the Clinical Trials in Organ Transplantation-05 Study.",
+            "journal": "Am J Transplant.",
+            "month": "Jan",
+            "year": "2016",
+            "doi": "10.1111/ajt.13422. Epub 2015 Aug 10.",
+            "pubmed_id": "26260101"
+        },
+        {
+            "title": "Early immune biomarkers and intermediate-term outcomes after heart transplant: Results of Clinical Trials in Organ Transplantation-18.",
+            "journal": "Am J Transplant.",
+            "month": "Dec",
+            "year": "2018",
+            "doi": "-",
+            "pubmed_id": "30549425"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Clinical Trials in Organ Transplantation (CTOT)",
+            "contract_name": "NONINVASIVE MARKERS AND TRANSPLANT OUTCOME IN HUMANS (CTOT-01, CTOT-05)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 30
+            },
+            {
+                "race": "Other",
+                "count": 9
+            },
+            {
+                "race": "Unknown",
+                "count": 6
+            },
+            {
+                "race": "White",
+                "count": 135
+            }
+        ],
+        "gender": [
+            {
+                "Female": 35
+            },
+            {
+                "Male": 145
+            }
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "study_accession": "SDY473",
+    "actual_completion_date": null,
+    "actual_enrollment": 64,
+    "actual_start_date": "2006-08-01",
+    "age_unit": "Years",
+    "brief_description": "Eighty adults will be enrolled in this study to evaluate lovastatin therapy in Rheumatoid Arthritis. Participants will receive 80 mg lovastatin po qd or 80 mg placebo po qd for twelve weeks.",
+    "brief_title": "Lovastatin Therapy in Rheumatoid Arthritis (ARA02)",
+    "clinical_trial": "Y",
+    "condition_studied": "Rheumatoid Arthritis",
+    "dcl_id": 2,
+    "description": "This is a double-blind, placebo-controlled, randomized trial determining whether treatment with a statin reduces the serum CRP in subjects with mildly active RA. After obtaining informed consent, subjects will complete a screening visit (visit 0) to determine whether inclusion and exclusion entry criteria are fulfilled. Eligible subjects will return within 7 days for visit 1 to receive study medication (lovastatin 80 mg/day vs. placebo). Under certain circumstances, the dose may be adjusted. Subjects will return for evaluation every 4 weeks for the duration of this 12-week study. In addition, subjects will have a blood sample drawn at Day 14 to assess CPK and transaminase levels for safety monitoring.",
+    "doi": "10.21430/M37QDD1EQF",
+    "endpoints": "The primary safety endpoints are the frequency of adverse events and serious adverse events over the course of the study and change in laboratory parameters from baseline to Day 84. The primary efficacy outcome for this study is the reduction in mean log CRP from baseline to Day 84. Secondary analyses will compare the following endpoints in the two treatment groups: Reduction of disease activity measured by the DAS28-CRP from baseline to Day 84; Percentage of patients achieving the ACR20 response criteria at Day 84; Change from baseline to Day 84 in RF titer; and Change from baseline to Day 84 in anti-CCP titer. Endpoints for the mechanistic studies are the change in autoreactive B cells and serum cytokines after treatment with lovastatin and the functional effect of lovastatin on mevalonate dependent and mevalonate independent pathways.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Treatment with Lovastatin reduces the serum CRP in subjects with mildly active Rheumatoid Arthritis.",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": "Lovastatin",
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "  70.00",
+    "minimum_age": "  27.00",
+    "objectives": "The primary objective of this study is to determine the reduction of CRP in patients with RA if treated with lovastatin (an HMG -CoA reductase inhibitor) vs. patients receiving placebo and to demonstrate that the reduction of CRP in patients treated with lovastatin is greater than in those treated with placebo. Secondary objectives include: evaluations of the reduction of disease activity measured by DAS28-CRP and ACR20 response criteria of patients treated with lovastatin vs. patients receiving placebo; reduction in RF titer for those subjects treated with lovastatin vs. placebo, and reduction in anti-CCP antibody titer for those subjects treated with lovastatin vs. placebo. The primary purpose of the mechanistic studies is to determine the effects of treatment with lovastatin on autoreactive B cells and serum cytokines. An additional mechanistic objective is to determine the functional effect of lovastatin on mevalonate dependent and mevalonate independent pathways.",
+    "official_title": "ARA02 - A Double Blind, Placebo Controlled, Phase II, Randomized Study of Lovastatin Therapy in the Treatment of Mildly Active Rheumatoid Arthritis",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 64,
+    "workspace_id": 4039,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2512",
+            "description": "Lovastatin 80 mg po qd x 12 weeks",
+            "name": "Lovastatin"
+        },
+        {
+            "arm_accession": "ARM2513",
+            "description": "Placebo 80 mg po qd x 12 weeks",
+            "name": "Placebo"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Cynthia",
+            "last_name": "Aranow",
+            "organization": "Feinstein Institute for Medical Research NS-LIJ Health System",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Feinstein Institute for Medical Research NS-LIJ Health System"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Autoimmunity Centers of Excellence (ACE) AI-12-060, AI-12-059",
+            "contract_name": "LOVASTATIN THERAPY IN THE TREATMENT OF MILDLY ACTIVE RHEUMATOID ARTHRITIS (ARA02)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 246
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 123
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 3
+            },
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 11
+            },
+            {
+                "race": "Other",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 47
+            }
+        ],
+        "gender": [
+            {
+                "Female": 60
+            },
+            {
+                "Male": 4
+            }
+        ]
+    }
+}

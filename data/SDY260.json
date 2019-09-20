@@ -1,0 +1,284 @@
+{
+    "study_accession": "SDY260",
+    "actual_completion_date": null,
+    "actual_enrollment": 110,
+    "actual_start_date": null,
+    "age_unit": "Not Specified",
+    "brief_description": "The role of TLR4 signaling in TH2 response to papain was measured by IL-4 and antibody production. The involvement of MyD88, TRIF, and oxidized phospholipids in the TLR4 pathway was examined. Basophil recruitment to the draining lymph node through dendritic-cell-secreted CCL7 was investigated as a component of the TLR4/TRIF pathway.",
+    "brief_title": "The role of TLR4 and TRIF signaling in TH2 response to papain",
+    "clinical_trial": "N",
+    "condition_studied": "TH2 cell response to challenge with OVA and papain",
+    "dcl_id": 2,
+    "description": "The role of TLR4 signalling in TH2 response to papain was measured by IL-4 and antibody production. The involvement of MyD88, TRIF, and oxidized phospholipids in the TLR4 pathway was examined. Basophil recruitment to the draining lymph node through dendritic-cell-secreted CCL7 was investigated as a component of the TLR4/TRIF pathway.",
+    "doi": "10.21430/M3KIQA4LOV",
+    "endpoints": "Flow Cytometry",
+    "gender_included": "Not Specified",
+    "hypothesis": "Dendritic cell response to papain requires both chemokine CCL7 signaling to basophils and reactive oxygen species activation of the TLR4/TRIF pathway.",
+    "initial_data_release_date": "2014-01-17",
+    "initial_data_release_version": "DR7",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-01-17",
+    "latest_data_release_version": "DR7",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "To investigate the mechanisms of dendritic-cell-dependent ROS-mediated papain response.",
+    "official_title": "The role of TLR4 and TRIF signaling in TH2 response to papain",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 1885,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1786",
+            "description": "Mouse strain: CD11c-DTR mouse, Subject treatment: 1) OVA 100ug+papain 50ug on day 0   2)100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp10_CD11cDTR"
+        },
+        {
+            "arm_accession": "ARM1787",
+            "description": "Mouse strain: CD11c-DTR mouse, Subject treatment: 1) OVA 100ug+papain 50ug on day 0, 2)100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp10_CD11cDTR DT treatment"
+        },
+        {
+            "arm_accession": "ARM1788",
+            "description": "Mouse strain: CD11c-DTR mouse, Subject treatment: 1) OVA 100ug+papain 50ug on day 0, 2)PBS on day -1",
+            "name": "Duke_Emory_Exp10_CD11cDTR no DT  treatment"
+        },
+        {
+            "arm_accession": "ARM1789",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+papain 50ug 2)once daily with NAC (150 mg per kg body weight) from 2 d before to 3 d after immunization",
+            "name": "Duke_Emory_Exp10_NAC treatment"
+        },
+        {
+            "arm_accession": "ARM1790",
+            "description": "Mouse strain: 4get, Subject treatment: 1) OVA 100ug+papain 50ug 2)once daily with NAC (150 mg per kg body weight) from 2 d before to 3 d after immunization",
+            "name": "Duke_Emory_Exp10_NAC+papain"
+        },
+        {
+            "arm_accession": "ARM1791",
+            "description": "Mouse strain: 4get, Subject treatment: 1) OVA 100ug+papain 50ug 2)once daily with PBS from 2 d before to 3 d after immunization",
+            "name": "Duke_Emory_Exp10_papain"
+        },
+        {
+            "arm_accession": "ARM1792",
+            "description": "Mouse strain: TLR4 KO, Subject treatment: OVA 100ug+papain 50ug on day 0,",
+            "name": "Duke_Emory_Exp10_TLR4 ko"
+        },
+        {
+            "arm_accession": "ARM1793",
+            "description": "Mouse strain: TRIF KO, Subject treatment: OVA 100ug+papain 50ug on day 0,",
+            "name": "Duke_Emory_Exp10_TRIF ko"
+        },
+        {
+            "arm_accession": "ARM1794",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+papain 50ug on day 0, 2)100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp10_WT DT treatment"
+        },
+        {
+            "arm_accession": "ARM1795",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+papain 50ug 2)once daily with NAC (150 mg per kg body weight) from 2 d before to 3 d after immunization",
+            "name": "Duke_Emory_Exp10_WT NAC treatment"
+        },
+        {
+            "arm_accession": "ARM1796",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: naive",
+            "name": "Duke_Emory_Exp10_WT naive"
+        },
+        {
+            "arm_accession": "ARM1797",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+papain 50ug on day 0,   2)PBS on day -1",
+            "name": "Duke_Emory_Exp10_WT no DT treatment"
+        },
+        {
+            "arm_accession": "ARM1798",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+papain 50ug 2)once daily with PBS from 2 d before to 3 d after immunization",
+            "name": "Duke_Emory_Exp10_WT PBS treatment"
+        },
+        {
+            "arm_accession": "ARM1799",
+            "description": "Mouse strain: PAR1 KO, Subject treatment: OVA 100ug+papain 50ug",
+            "name": "Duke_Emory_Exp19_PAR1 ko"
+        },
+        {
+            "arm_accession": "ARM1800",
+            "description": "Mouse strain: PAR2 KO, Subject treatment: OVA 100ug+papain 50ug",
+            "name": "Duke_Emory_Exp19_PAR2 ko"
+        },
+        {
+            "arm_accession": "ARM1801",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: OVA 100ug+papain 50ug",
+            "name": "Duke_Emory_Exp19_wt"
+        },
+        {
+            "arm_accession": "ARM1802",
+            "description": "Mouse strain: 4 get, Subject treatment: heat-inactivated papain 50ug",
+            "name": "Duke_Emory_Exp22_heat-inactivated-papain_4get"
+        },
+        {
+            "arm_accession": "ARM1803",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: heat-inactivated papain 50ug",
+            "name": "Duke_Emory_Exp22_heat-inactivated-papain_WT"
+        },
+        {
+            "arm_accession": "ARM1804",
+            "description": "Mouse strain: 4 get, Subject treatment: papain 50ug",
+            "name": "Duke_Emory_Exp22_papain_4get"
+        },
+        {
+            "arm_accession": "ARM1805",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: papain 50ug",
+            "name": "Duke_Emory_Exp22_papain_WT"
+        },
+        {
+            "arm_accession": "ARM1806",
+            "description": "Mouse strain: 4 get, Subject treatment: 1) heat inactivated papain 50ug  2) polymixin B 3mg/kg body weight",
+            "name": "Duke_Emory_Exp22_papain-polymyxinB"
+        },
+        {
+            "arm_accession": "ARM1807",
+            "description": "Mouse strain: 4 get, Subject treatment: polymixin B 3mg/kg body weight",
+            "name": "Duke_Emory_Exp22_polymyxinB"
+        },
+        {
+            "arm_accession": "ARM1808",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: naive",
+            "name": "Duke_Emory_Exp28_WT_naive"
+        },
+        {
+            "arm_accession": "ARM1809",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: OVA 100ug+papain 50ug",
+            "name": "Duke_Emory_Exp28_WT_OVA_papain"
+        },
+        {
+            "arm_accession": "ARM1810",
+            "description": "Mouse strain: ASC KO, Subject treatment: OVA 100ug+Papain 50 ug",
+            "name": "Duke_Emory_Exp4_ASC ko"
+        },
+        {
+            "arm_accession": "ARM1811",
+            "description": "Mouse strain: caspase-1-KO mice, Subject treatment: OVA 100ug+Papain 50 ug",
+            "name": "Duke_Emory_Exp4_casp1 ko"
+        },
+        {
+            "arm_accession": "ARM1812",
+            "description": "Mouse strain: NOD/ShiLtJ mice, Subject treatment: OVA 100ug+Papain 50 ug",
+            "name": "Duke_Emory_Exp4_casp1 wt"
+        },
+        {
+            "arm_accession": "ARM1813",
+            "description": "Mouse strain: IPAF KO mice, Subject treatment: OVA 100ug+Papain 50 ug",
+            "name": "Duke_Emory_Exp4_IPAF-ko"
+        },
+        {
+            "arm_accession": "ARM1814",
+            "description": "Mouse strain: IPAF KO mice, Subject treatment: OVA 100ug+Papain 50 ug, NAC 150mg/kg body weight",
+            "name": "Duke_Emory_Exp4_IPAF-ko-NAC"
+        },
+        {
+            "arm_accession": "ARM1815",
+            "description": "Mouse strain: MyD88 KO mice, Subject treatment: OVA 100ug+Papain 50 ug",
+            "name": "Duke_Emory_Exp4_MyD88"
+        },
+        {
+            "arm_accession": "ARM1816",
+            "description": "Mouse strain: MyD88 KO mice, Subject treatment: OVA 100ug+Papain 50 ug, NAC 150mg/kg body weight",
+            "name": "Duke_Emory_Exp4_MyD88-ko-NAC"
+        },
+        {
+            "arm_accession": "ARM1817",
+            "description": "Mouse strain: NALP KO mice, Subject treatment: OVA 100ug+Papain 50 ug",
+            "name": "Duke_Emory_Exp4_NALP-ko"
+        },
+        {
+            "arm_accession": "ARM1818",
+            "description": "Mouse strain: C57BL/6 mice, Subject treatment: OVA 100ug+Papain 50 ug",
+            "name": "Duke_Emory_Exp4_NALP-WT"
+        },
+        {
+            "arm_accession": "ARM1819",
+            "description": "Mouse strain: NALP3 KO mice, Subject treatment: OVA 100ug+Papain 50 ug",
+            "name": "Duke_Emory_Exp4_NALP3-ko"
+        },
+        {
+            "arm_accession": "ARM1820",
+            "description": "Mouse strain: NALP3 KO mice, Subject treatment: OVA 100ug+Papain 50 ug, NAC 150mg/kg body weight",
+            "name": "Duke_Emory_Exp4_NALP3-ko-NAC"
+        },
+        {
+            "arm_accession": "ARM1821",
+            "description": "Mouse strain: C57BL/6 mice, Subject treatment: 1)OVA 100ug+Papain 50 ug,2 day before to 3 day after immunization 2)Nifidipine,100 microgram per kilogram,",
+            "name": "Duke_Emory_Exp4_NIF"
+        },
+        {
+            "arm_accession": "ARM1822",
+            "description": "Mouse strain: C57BL/6 mice, Subject treatment: OVA 100ug+Papain 50 ug 2)PBS",
+            "name": "Duke_Emory_Exp4_PBS"
+        },
+        {
+            "arm_accession": "ARM1823",
+            "description": "Mouse strain: TLR4 KO mice, Subject treatment: OVA 100ug+Papain 50 ug",
+            "name": "Duke_Emory_Exp4_TLR4-ko"
+        },
+        {
+            "arm_accession": "ARM1824",
+            "description": "Mouse strain: TLR4 KO mice, Subject treatment: OVA 100ug+Papain 50 ug, NAC 150mg/kg body weight",
+            "name": "Duke_Emory_Exp4_TLR4-ko-NAC"
+        },
+        {
+            "arm_accession": "ARM1825",
+            "description": "Mouse strain: TRIF KO mice, Subject treatment: OVA 100ug+Papain 50 ug",
+            "name": "Duke_Emory_Exp4_TRIF-ko"
+        },
+        {
+            "arm_accession": "ARM1826",
+            "description": "Mouse strain: TRIF KO mice, Subject treatment: OVA 100ug+Papain 50 ug, NAC 150mg/kg body weight",
+            "name": "Duke_Emory_Exp4_TRIF-ko-NAC"
+        },
+        {
+            "arm_accession": "ARM1827",
+            "description": "Mouse strain: C57BL/6 mice, Subject treatment: OVA 100ug+Papain 50 ug",
+            "name": "Duke_Emory_Exp4_wt"
+        },
+        {
+            "arm_accession": "ARM1828",
+            "description": "Mouse strain: C57BL/6 mice, Subject treatment: OVA 100ug+Papain 50 ug, NAC 150mg/kg body weight",
+            "name": "Duke_Emory_Exp4_wt-NAC"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Thomas",
+            "last_name": "Kepler",
+            "organization": "Duke University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "The T helper type 2 response to cysteine proteases requires dendritic cell-basophil cooperation via ROS-mediated signaling.",
+            "journal": "Nat Immunol.",
+            "month": "Jul",
+            "year": "2010",
+            "doi": "10.1038/ni.1883. Epub 2010 May 23.",
+            "pubmed_id": "20495560"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "Multiscale Systems Immunology for Adjuvant Development"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 110
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

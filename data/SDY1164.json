@@ -1,0 +1,125 @@
+{
+    "study_accession": "SDY1164",
+    "actual_completion_date": "2014-12-26",
+    "actual_enrollment": 136,
+    "actual_start_date": "2013-01-01",
+    "age_unit": "Years",
+    "brief_description": "Conflicting results in recent years have raised doubt about whether maternal vaginal microbiota contributes to the pathophysiology of preterm birth (PTB). This study compared vaginal microbiota diversity through pregnancy in two cohorts at low and high risk for PTB to elucidate associations between PTB and vaginal microbiota composition.",
+    "brief_title": "Vaginal microbial signature for preterm birth",
+    "clinical_trial": "N",
+    "condition_studied": "Preterm Birth",
+    "dcl_id": 2,
+    "description": "Recent studies about association between maternal vaginal microbiota and risks for preterm birth (PTB) conflicted along similar lines: Caucasian and Asian women cohorts showed associations between PTB and low Lactobacillus vaginal communities (BV-like) while no significant association with PTB was detected in cohorts of African-American women. This study compares two new larger cohorts of women at low and high risk for PTB, addressing two challenges: (i) low power resulting from the combination of small study populations (30?91 pregnant women), the many taxa measured by metabarcoding, and the absence of initial hypotheses more specific than some difference between preterm and term gestations; and (ii) insufficient understanding of population-specific factors that might modulate the PTB?microbiota association.",
+    "doi": "10.21430/M37W3869AH",
+    "endpoints": "Amplicon Sequence Variants Profiles",
+    "gender_included": "Female, Other",
+    "hypothesis": "A case-control study of preterm birth will shed light on previous inconsistent findings regarding the role of altered vaginal microbiota composition in PTB and improve the ability to predict and understand the causes of PTB.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Not applicable",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "42",
+    "minimum_age": "17",
+    "objectives": "Identify microbiota profiles associated with preterm birth in low and high risk cohorts.",
+    "official_title": "Replication and refinement of a vaginal microbial signature of preterm birth in two racially distinct cohorts of US women.",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 135,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4083",
+            "description": "High Risk PTB - Case",
+            "name": "UAB Case Cohort"
+        },
+        {
+            "arm_accession": "ARM4084",
+            "description": "Low Risk PTB - Case",
+            "name": "Stanford Case Cohort"
+        },
+        {
+            "arm_accession": "ARM4091",
+            "description": "High Risk PTB ? Controls",
+            "name": "UAB Control Cohort"
+        },
+        {
+            "arm_accession": "ARM4092",
+            "description": "Low Risk PTB ? Controls",
+            "name": "Stanford Control Cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Relman",
+            "organization": "March of Dimes Prematurity Research Center at Stanford University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "March of Dimes Prematurity Research Center at Stanford University School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Replication and refinement of a vaginal microbial signature of preterm birth in two racially distinct cohorts of US women.",
+            "journal": "Proc Natl Acad Sci U S A.",
+            "month": "Aug",
+            "year": "2017",
+            "doi": "-",
+            "pubmed_id": "28847941"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "16S rRNA gene sequencing",
+            "number_of_expsamples": 2367
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 6
+            },
+            {
+                "race": "Black or African American",
+                "count": 80
+            },
+            {
+                "race": "Not Specified",
+                "count": 2
+            },
+            {
+                "race": "Other",
+                "count": 15
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 31
+            }
+        ],
+        "gender": [
+            {
+                "Female": 135
+            },
+            {
+                "Other": 1
+            }
+        ]
+    }
+}

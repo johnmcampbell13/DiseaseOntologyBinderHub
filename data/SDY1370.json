@@ -1,0 +1,79 @@
+{
+    "study_accession": "SDY1370",
+    "actual_completion_date": "2011-07-01",
+    "actual_enrollment": 8,
+    "actual_start_date": "2010-07-01",
+    "age_unit": "Years",
+    "brief_description": "Transcriptional analysis of global gene expression changes in naive subjects in response to smallpox vaccination with either DryVax or the replication-competent, attenuated LC16m8 vaccinia virus.",
+    "brief_title": "Smallpox vaccination with LC16m8 vaccinia virus provides a gene expression profile similar to DryVax vaccination",
+    "clinical_trial": "N",
+    "condition_studied": "Vaccine responses in naive people.?",
+    "dcl_id": 0,
+    "description": "Transcriptional analysis of global gene expression changes in naive subjects in response to smallpox vaccination with either DryVax or the replication-competent, attenuated LC16m8 vaccinia virus.",
+    "doi": "10.21430/M3QHF445NF",
+    "endpoints": "Post-vaccination versus pre-vaccination (days 0)",
+    "gender_included": "Unknown",
+    "hypothesis": "Smallpox vaccination with LC16m8 vaccinia virus provides a gene expression profile similar to DryVax vaccination",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": "DryVax, LC16m8 vaccine",
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "  90.00",
+    "minimum_age": "    .00",
+    "objectives": "Document the changes in cellular responses and gene expression patterns in subjects vaccinated with either DryVax or LC16m8 (5 from each group). Blood samples were taken at days 0, 3, 7, 10, 13, and 21 post-vaccination. PBMCs were isolated from the samples, and were then further separated into cell subpopulations using positive selection against CD markers (CD4+, CD20+). There are a total of 142 samples analyzed in this dataset.",
+    "official_title": "Smallpox vaccination with LC16m8 vaccinia virus provides a gene expression profile similar to DryVax vaccination",
+    "sponsoring_organization": "Boston University School of Medicine",
+    "target_enrollment": 10,
+    "workspace_id": 5875,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4640",
+            "description": "Naive participants that received DryVax",
+            "name": "DryVax"
+        },
+        {
+            "arm_accession": "ARM4641",
+            "description": "Naive participants that received LC16m8",
+            "name": "LC16m8"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Judy",
+            "last_name": "Yen",
+            "organization": "Boston University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Boston University School of Medicine"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "NIH Program",
+            "contract_name": "Stage-Specific Inhibitors Of Orthopoxviruses"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 142
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 8
+            }
+        ],
+        "gender": [
+            {
+                "Unknown": 8
+            }
+        ]
+    }
+}

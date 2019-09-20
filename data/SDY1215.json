@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY1215",
+    "actual_completion_date": null,
+    "actual_enrollment": 0,
+    "actual_start_date": "2005-01-01",
+    "age_unit": "Years",
+    "brief_description": "Genome-wide genotyping studies of cohorts of preterm and term individuals were evaluated. Mitochondrial haplogroup and nuclear ancestry for individuals were determined and used to develop a scoring for the degree to which mitochondrial ancestry is divergent from nuclear ancestry. Infants with higher degrees of divergent mitochondrial ancestry were at increased risk for preterm birth (0.124 for preterm vs 0.105 for term infants; P < .05). This finding was validated in 1 of 2 replication cohorts. Greater degrees of divergent ancestry correlating with earlier delivery within the primary study population was observed, but this finding was not replicated in secondary cohorts born preterm. Individuals with divergent patterns of mitochondrial and nuclear ancestry are at increased risk for preterm birth. These findings may in part explain the higher rates of preterm birth in African Americans and in individuals with a matrilineal family history of preterm birth.",
+    "brief_title": "Mitochondrial and Nuclear Ancestry Association to PTB",
+    "clinical_trial": "N",
+    "condition_studied": "Preterm Birth",
+    "dcl_id": 0,
+    "description": "The risk of preterm birth is unequally distributed between different ethnic groups. African American women are at increased risk for delivering preterm compared with the population as a whole. Determining the etiologies responsible for this heightened risk is complex, because it can be difficult to distinguish environmental and genetic influences. Attempts to elucidate such influences have evaluated carefully controlled populations, such as members of the military, to conclude that African ancestry is an independent risk factor. Specifying genetic risk factors in a related group is greatly complicated by false attribution, but a possible link between Americans of African descent is that African haplogroup mitochondrial DNA (mtDNA) is highly prevalent in this group. Matrilineal pedigree and mitochondrial ancestry are both consistent with a mitochondria-inherited risk factor. There is also evidence that mitochondrial function is important for the maintenance of pregnancy. However, attempts to link preterm birth to specific polymorphisms in mtDNA in case-control studies failed to identify polymorphisms associated with preterm birth. Thus, it remains unclear how a mtDNA-specific inheritance pattern could be associated with a common outcome like preterm birth.\nMitochondrial haplogroup and nuclear ancestry for individuals were determined and used to develop a scoring for the degree to which mitochondrial ancestry is divergent from nuclear ancestry. Infants with higher degrees of divergent mitochondrial ancestry were at increased risk for preterm birth (0.124 for preterm vs 0.105 for term infants; P < .05). This finding was validated in 1 of 2 replication cohorts. Greater degrees of divergent ancestry correlating with earlier delivery within the primary study population was observed, but this finding was not replicated in secondary cohorts born preterm. Individuals with divergent patterns of mitochondrial and nuclear ancestry are at increased risk for preterm birth. These findings may in part explain the higher rates of preterm birth in African Americans and in individuals with a matrilineal family history of preterm birth.",
+    "doi": "10.21430/M3VCNPMD4B",
+    "endpoints": "GWAS",
+    "gender_included": "Not Specified",
+    "hypothesis": "Mitochondrial and nuclear ancestry influence incidence of preterm birth.",
+    "initial_data_release_date": "2018-01-04",
+    "initial_data_release_version": "DR25",
+    "intervention_agent": "NA",
+    "latest_data_release_date": "2018-01-04",
+    "latest_data_release_version": "DR25",
+    "maximum_age": "0",
+    "minimum_age": "0",
+    "objectives": "Examine linkages between mitochondrial genetics and preterm birth by assessing the risk for preterm birth associated with the inheritance of nuclear haplotypes that are ancestrally distinct from mitochondrial haplogroup.",
+    "official_title": "Divergent Patterns of Mitochondrial and Nuclear Ancestry Are Associated with the Risk for Preterm Birth",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": null,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4211",
+            "description": "Eunice Kennedy Shriver Institute of Child Health and Human Development Genomic and Proteomic Network for Preterm Birth Research cohort",
+            "name": "GPN Cohort"
+        },
+        {
+            "arm_accession": "ARM4212",
+            "description": "Boston Birth Cohort",
+            "name": "BBC ? Validation"
+        },
+        {
+            "arm_accession": "ARM4213",
+            "description": "Danish National Birth Cohort Study",
+            "name": "DNBC ? Validation"
+        },
+        {
+            "arm_accession": "ARM4214",
+            "description": "Genome-Wide Association Studies of Prematurity and Its Complications",
+            "name": "GENEVA-AA ? Validation"
+        },
+        {
+            "arm_accession": "ARM4215",
+            "description": "Genome-Wide Association Study for Bronchopulmonary Dysplasia",
+            "name": "BPD ? Validation"
+        },
+        {
+            "arm_accession": "ARM4216",
+            "description": "Genetics Resource with the Health and Retirement Study",
+            "name": "HRS ? Controls"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Neal",
+            "last_name": "Sondheimer",
+            "organization": "Department of Pediatrics, The University of Toronto, Toronto, Ontario, Canada",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Pediatrics, The University of Toronto, Toronto, Ontario, Canada"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Divergent Patterns of Mitochondrial and Nuclear Ancestry Are Associated with the Risk for Preterm Birth.",
+            "journal": "J Pediatr.",
+            "month": "Dec",
+            "year": "2017",
+            "doi": "10.1016/j.jpeds.2017.10.052",
+            "pubmed_id": "29249523"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

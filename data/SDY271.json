@@ -1,0 +1,115 @@
+{
+    "study_accession": "SDY271",
+    "actual_completion_date": null,
+    "actual_enrollment": 36,
+    "actual_start_date": null,
+    "age_unit": "Not Specified",
+    "brief_description": "To demonstrate that the gene signatures identified in this study can generate new hypotheses, we selected one gene in the predictive signature, calcium/calmodulin-dependent protein kinase IV (CaMKIV), for functional validation experiments. The CamkIV gene is involved in several processes of the immune system, such as T cell development,inflammatory response and hematopoietic stem cell maintenance. However, nothing is known about the possible role of CaMKIV in B cell responses.  The fold-change in expression of the CaMKIV gene on day 3 post-TIV vaccination is negatively correlated with the antibody response on day 28 post-vaccination in two independent trials. Additionally, fold-change expression of CaMKIV is negatively correlated with the expansion of IgG-secreting plasmablasts at day 7, suggesting a possible role for this gene in the regulation of antibody responses to influenza vaccination.",
+    "brief_title": "Role for CaMKIV in the Regulation of Antibody Responses to Influenza Vaccine (See companion studies SDY61 2007 / SDY269 2008 / SDY270 2009)",
+    "clinical_trial": "N",
+    "condition_studied": "influenza vaccine response",
+    "dcl_id": 2,
+    "description": "To demonstrate that the gene signatures identified in this study can generate new hypotheses, we selected one gene in the predictive signature, calcium/calmodulin-dependent protein kinase IV (CaMKIV), for functional validation experiments. The CamkIV gene is involved in several processes of the immune system, such as T cell development,inflammatory response and hematopoietic stem cell maintenance. However, nothing is known about the possible role of CaMKIV in B cell responses.  The fold-change in expression of the CaMKIV gene on day 3 post-TIV vaccination is negatively correlated with the antibody response on day 28 post-vaccination in two independent trials. Additionally, fold-change expression of CaMKIV is negatively correlated with the expansion of IgG-secreting plasmablasts at day 7, suggesting a possible role for this gene in the regulation of antibody responses to influenza vaccination.",
+    "doi": "10.21430/M321YJ41HJ",
+    "endpoints": "anti-influenza antibodies, CaMKIV phosphorylation",
+    "gender_included": "Not Specified",
+    "hypothesis": " CaMKIV affects influenza vaccine antibody response",
+    "initial_data_release_date": "2014-04-01",
+    "initial_data_release_version": "DR8",
+    "intervention_agent": "influenza vaccine",
+    "latest_data_release_date": "2014-04-01",
+    "latest_data_release_version": "DR8",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "Confirm gene expression and vaccine studies results for CaMKIV (Pubmed 21743478)",
+    "official_title": "Role for CaMKIV in the Regulation of Antibody Responses to Influenza Vaccine (See companion studies SDY61 2007 / SDY269 2008 / SDY270 2009)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 4,
+    "workspace_id": 2149,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1892",
+            "description": "placeholder to be replaced by SDY61 arms",
+            "name": "placeholder to be replaced by SDY61 arms"
+        },
+        {
+            "arm_accession": "ARM458",
+            "description": "CamKIV -/-mouse",
+            "name": "CamKIV -/-mouse"
+        },
+        {
+            "arm_accession": "ARM459",
+            "description": "WT Mouse",
+            "name": "WT Mouse"
+        },
+        {
+            "arm_accession": "ARM460",
+            "description": "Control Mouse",
+            "name": "Control Mouse"
+        },
+        {
+            "arm_accession": "ARM461",
+            "description": "Healthy adults",
+            "name": "CamKIV Humans"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Bali",
+            "last_name": "Pulendran",
+            "organization": "Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory Vaccine Center,"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Systems biology of vaccination for seasonal influenza in humans.",
+            "journal": "Nat Immunol.",
+            "month": "Jul",
+            "year": "2011",
+            "doi": "10.1038/ni.2067.",
+            "pubmed_id": "21743478"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Systems Biological Analysis of Innate and Adaptive Responses to Vaccination"
+        },
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "Influenza Pathogenesis & Immunology Research Center (IPIRC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 100
+        },
+        {
+            "measurement_technique": "Immunoblot",
+            "number_of_expsamples": 26
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 4
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 2
+            }
+        ],
+        "gender": [
+            {
+                "Male": 2
+            }
+        ]
+    }
+}

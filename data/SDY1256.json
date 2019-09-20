@@ -1,0 +1,98 @@
+{
+    "study_accession": "SDY1256",
+    "actual_completion_date": "2018-03-01",
+    "actual_enrollment": 30,
+    "actual_start_date": "2015-10-19",
+    "age_unit": "Hours",
+    "brief_description": "Systems Biology Characterization in Early Life",
+    "brief_title": "Small Sample- Big Data: The Gambia",
+    "clinical_trial": "Y",
+    "condition_studied": "healthy appearing infants",
+    "dcl_id": 2,
+    "description": "To enable characterization of the molecular ontogeny in early life, we developed a robust experimental and analytical approach that applies system biology tools to peripheral blood samples from human newborns",
+    "doi": "10.21430/M3IXMI1PCO",
+    "endpoints": "transcriptomics, proteomics, metabolomics, cytokine/chemokine, flow cytometry assays",
+    "gender_included": "Female, Male",
+    "hypothesis": "There are rapid physiological changes that occur within days around birth.",
+    "initial_data_release_date": "2019-04-12",
+    "initial_data_release_version": "DR30",
+    "intervention_agent": "HBV, BCG",
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "  23.00",
+    "minimum_age": "    .00",
+    "objectives": "To develop a robust SOP that would allow the extraction and analysis of data using systems biology approaches from small blood sample volumes.",
+    "official_title": "Small Sample- Big Data: Systems Biology Reveals Dramatic Molecular Ontogeny over the First Week of Human Lifea: The Gambia",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 30,
+    "workspace_id": 6058,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4344",
+            "description": "This study with clinical site in The Gambia aims to understand the impact of early life immunization. Characterizing vaccine-induced molecular patterns (?signatures?) that correspond to vaccine-mediated protection will accelerate development and optimization of vaccines against early life infections of major global health importance.",
+            "name": "EPIC001: Gambian pilot newborns"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Ofer",
+            "last_name": "Levy",
+            "organization": "Boston Children's Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Boston Children's Hospital, Harvard Medical School"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Dynamic molecular changes during the first week of human life follow a robust developmental trajectory.",
+            "journal": "Nat Commun.",
+            "month": "Mar",
+            "year": "2019",
+            "doi": "10.1038/s41467-019-08794-x.",
+            "pubmed_id": "30862783"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+            "contract_name": "Systems Biology To Identify Biomarkers Of Neonatal Vaccine Immunogenicity (Boston Children's)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 52
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 60
+        },
+        {
+            "measurement_technique": "Mass Spectrometry",
+            "number_of_expsamples": 115
+        },
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 50
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 30
+            }
+        ],
+        "gender": [
+            {
+                "Female": 10
+            },
+            {
+                "Male": 20
+            }
+        ]
+    }
+}

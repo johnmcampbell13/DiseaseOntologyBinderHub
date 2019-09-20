@@ -1,0 +1,100 @@
+{
+    "study_accession": "SDY1341",
+    "actual_completion_date": null,
+    "actual_enrollment": 60,
+    "actual_start_date": "2012-01-01",
+    "age_unit": "Years",
+    "brief_description": "Higher vaginal eukaryotic DNA viral diversity during pregnancy is associated with",
+    "brief_title": "Vaginal Virome and Preterm Birth (See companion study SDY1206)",
+    "clinical_trial": "N",
+    "condition_studied": "Preterm Birth",
+    "dcl_id": 2,
+    "description": "Despite decades of attempts to link infectious agents to preterm birth, an exact causative microbe or community of microbes remains elusive. Culture-independent sequencing of vaginal bacterial communities demonstrates community characteristics are associated with preterm birth, although none are specific enough to apply clinically. Viruses are important components of the vaginal microbiome and have dynamic relationships with vaginal bacterial communities. The authors hypothesized that vaginal eukaryotic DNA viral communities either alone or in the context of bacterial communities are associated with preterm birth. In this nested case-control study, serial mid-vaginal swabs were obtained at routine prenatal visits and bacterial communities and eukaryotic viral communities were characterized from extracted DNA. Viral communities were analyzed according to presence/absence of viruses, diversity, dynamics over time, and association with bacterial community data obtained from the same specimens.",
+    "doi": "10.21430/M31K9QN0OM",
+    "endpoints": "DNA Sequencing",
+    "gender_included": "Female",
+    "hypothesis": "Vaginal eukaryotic DNA viral communities either alone or in the context of bacterial communities are associated with preterm birt",
+    "initial_data_release_date": "2019-06-19",
+    "initial_data_release_version": "DR31",
+    "intervention_agent": null,
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "  39.00",
+    "minimum_age": "  18.00",
+    "objectives": "Use high-throughput sequencing examine the vaginal eukaryotic DNA virome in a cohort of pregnant women and examine associations between vaginal community characteristics and preterm birth.",
+    "official_title": "The Vaginal Eukaryotic DNA Virome and Preterm Birth (see companion study SDY1206)",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 60,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4566",
+            "description": "Term delivery",
+            "name": "Term Birth Cohort"
+        },
+        {
+            "arm_accession": "ARM4567",
+            "description": "Preterm delivery",
+            "name": "Preterm Birth Cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Molly",
+            "last_name": "Stout",
+            "organization": "Washington University in St Louis School of Medicine, St. Louis, MO",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Washington University in St Louis School of Medicine, St. Louis, MO"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "The Vaginal Eukaryotic DNA Virome and Preterm Birth.",
+            "journal": "Am J Obstet Gynecol.",
+            "month": "May",
+            "year": "2018",
+            "doi": "-",
+            "pubmed_id": "29738749"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 136
+        },
+        {
+            "measurement_technique": "Whole Genome Sequencing",
+            "number_of_expsamples": 128
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 39
+            },
+            {
+                "race": "Other",
+                "count": 5
+            },
+            {
+                "race": "White",
+                "count": 16
+            }
+        ],
+        "gender": [
+            {
+                "Female": 60
+            }
+        ]
+    }
+}

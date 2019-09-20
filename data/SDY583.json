@@ -1,0 +1,76 @@
+{
+    "study_accession": "SDY583",
+    "actual_completion_date": "2014-12-26",
+    "actual_enrollment": 66,
+    "actual_start_date": "2011-09-09",
+    "age_unit": "Weeks",
+    "brief_description": "Seasonal influenza vaccine study with Murine subject",
+    "brief_title": "Immune Responses to Seasonal Influenza Vaccination in Mouse model",
+    "clinical_trial": "N",
+    "condition_studied": "Immune response in mouse model",
+    "dcl_id": 2,
+    "description": "Seasonal influenza vaccine study with Murine subject",
+    "doi": "10.21430/M3FUNSCZCK",
+    "endpoints": "Blood, spleen and lymph node samples prior to vaccination and daily sampling up to 10 days post vaccination",
+    "gender_included": "Female",
+    "hypothesis": "To understand and describe the multidimensional murine immune response to vaccination",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "TIV 2006-07 Seasonal Influenza Vaccine",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "  10.00",
+    "minimum_age": "  10.00",
+    "objectives": "Design and conduct in vivo murine experiments to build, identify and experimentally validate the proposed immune response models by generating high frequency sampling and high dimensional datasets from mice with TIV vaccinations.",
+    "official_title": "Immune Responses to Seasonal Influenza Vaccination in Mouse model",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 60,
+    "workspace_id": 2104,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2741",
+            "description": "Pool of mice primed with A/New Caledonia/20/99 (H1N1) inactivated whole virus and after 30-60 days boosted with 2006-07 TIV (A/New Caledonia/20/99 (H1N1), A/Wisconsin/67/2005-like (H3N2), and B/Malaysia/2506/2004-like viruses).",
+            "name": "Murine-TIV"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Martin",
+            "last_name": "Zand",
+            "organization": "University of Rochester Center for Biodefense Immune Modeling",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester Medical Center"
+        },
+        {
+            "first_name": "Mark",
+            "last_name": "Sangster",
+            "organization": "University of Rochester Center for Biodefense Immune Modeling",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester Medical Center"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "University of Rochester Center for Biodefense Immune Modeling II"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 802
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 197
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "study_accession": "SDY1436",
+    "actual_completion_date": null,
+    "actual_enrollment": 366,
+    "actual_start_date": "2013-05-01",
+    "age_unit": "Years",
+    "brief_description": "To assess potential alternative correlates of protection, blood samples from participants in a Nicaraguan household transmission study with confirmed exposure to A(H1N1)pdm virus were tested using the classical HI assay as well as in enzyme-linked immunosorbent assays (ELISAs) that measured antibodies against the full-length HA, the HA stalk domain or the neuraminidase (NA).",
+    "brief_title": "Novel correlates of protection against influenza A(H1N1)pdm virus infection",
+    "clinical_trial": "N",
+    "condition_studied": "Influenza correlates of protection",
+    "dcl_id": 2,
+    "description": "Novel influenza virus vaccines that target more conserved epitopes of influenza viruses, specifically the hemagglutinin stalk and neuraminidase, are currently being developed. However, HA stalk antibodies have not yet been correlated with protection from natural infection in humans. We performed a household transmission study to identify alternative correlates of protection in naturally exposed individuals. Pre-existing antibody levels measured in hemagglutinin inhibition (HI) and ELISA assays were linked to the risk of PCR-confirmed infection and disease after exposure. We identified 50% protective titers and levels for HI, full-length HA, NA, and HA stalk. HI, HA stalk and NA antibodies all remained protective against infection and disease when adjusted for age. When additionally adjusted for other antibody levels, we found HI and HA stalk, but not NA antibodies to be independently protective against infection. Similar reductions were observed for symptomatic influenza. Furthermore, ELISA assays were found to accurately predict seroconversion in addition to traditional HI assays. This study establishes HA stalk antibodies as an additional correlate of protection against influenza virus infection in humans in a natural exposure scenario and supports the HA stalk as a target for novel universal influenza virus vaccine candidates.",
+    "doi": "10.21430/M3HXYMFM42",
+    "endpoints": "real-time reverse-transcription polymerase chain reaction; HI assay; ELISA; antibody response",
+    "gender_included": "Female, Male",
+    "hypothesis": "Individuals with higher pre-exposure HI titers were less likely to become infected.",
+    "initial_data_release_date": "2019-06-19",
+    "initial_data_release_version": "DR31",
+    "intervention_agent": "influenza A(H1N1)pdm",
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "  14.00",
+    "minimum_age": "    .00",
+    "objectives": "Identify alternative correlates of protection in naturally exposed individuals.",
+    "official_title": "Novel correlates of protection against influenza A(H1N1)pdm virus infection",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 350,
+    "workspace_id": 6289,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4766",
+            "description": "Household members who lived with an influenza-positive index case. Study participants were monitoried for influenza virus infection. Daily symptoms were assessed, nasal and oropharyngeal swabs were taken every 2-3 days for 10-14 days and blood samples were collected at enrolment as well as 3-5 weeks later to determine infection outcomes and antibody responses.",
+            "name": "Household Participants"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Aubree",
+            "last_name": "Gordon",
+            "organization": "University of Michigan",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Michigan"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "NIAID Program Research Project Grant (Parent R01)",
+            "contract_name": "Dynamics Of Influenza Transmission In Nicaraguan Households"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 366
+            }
+        ],
+        "gender": [
+            {
+                "Female": 229
+            },
+            {
+                "Male": 137
+            }
+        ]
+    }
+}

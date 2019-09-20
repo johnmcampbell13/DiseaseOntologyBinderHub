@@ -1,0 +1,90 @@
+{
+    "study_accession": "SDY1371",
+    "actual_completion_date": "2017-12-04",
+    "actual_enrollment": 9,
+    "actual_start_date": "2016-05-05",
+    "age_unit": "Years",
+    "brief_description": "Identify NK cell ligands regulated by influenza A virus infection using a monocyte-NK co-culture system and a Helios Mass cytometer. Two major ligands we found that contributed to the variance between the two strains were CD54 and CD112.",
+    "brief_title": "Profiling of NK cell ligands on moocytes infected with Influenza A virus",
+    "clinical_trial": "N",
+    "condition_studied": "Influenza A virus regulation of NK cell ligands",
+    "dcl_id": 2,
+    "description": "Goal for the study was to identify NK cell ligands regulated by influenza A virus infection. More specifically we asked whether A/California/07/2009 or A/Victoria/361/2011 virus influenza A viruses differentially modulate NK cell ligands. Using 9 healthy Stanford blood bank donors, we isolated monocytes and NK cells. Monocytes were infected for 1 hr, followed by co-culture with NK cells for 6 or 23 hr hours. Brefeldin adn Monenin were added for the last 4 hours. They were then stained with a CyTOF panel and run on a Helios Mass cytometer. Two major ligands we found that contributed to the variance between the two strains were CD54 and CD112.",
+    "doi": "10.21430/M3KPGT3BYF",
+    "endpoints": "CyTOF",
+    "gender_included": "Female, Male",
+    "hypothesis": "Influenza A viruses differentially regulate NK cell ligands",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "influenza A virus MOI 3",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  65.00",
+    "minimum_age": "  18.00",
+    "objectives": "Identify NK cell ligands regulated by influenza A viral infection",
+    "official_title": "Profiling of NK cell ligands on moocytes infected with mock, A/California/07/2009 or A/Victoria/361/2011 virus",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 9,
+    "workspace_id": 6252,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4642",
+            "description": "9 healthy donors from the Stanford Blood Bank (SBB)",
+            "name": "Blood Bank Donors"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Lisa",
+            "last_name": "Kronstad",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Differential Induction of IFN-? and Modulation of CD112 and CD54 Expression Govern the Magnitude of NK Cell IFN-? Response to Influenza A Viruses.",
+            "journal": "J Immunol.",
+            "month": "Oct",
+            "year": "2018",
+            "doi": "10.4049/jimmunol.1800161. Epub 2018  Aug 24.",
+            "pubmed_id": "30143589"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Cooperative Centers on Human Immunology RFA-AI-17-040",
+            "contract_name": "Adaptive And Innate Immunity, Memory And Repertoire In Vaccination And Infection"
+        },
+        {
+            "program_name": "NIH Director's New Innovator Award Program (DP2) 2013",
+            "contract_name": "Harnessing Natural Killer Cell Memory To Fight Viruses"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 107
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 9
+            }
+        ],
+        "gender": [
+            {
+                "Female": 5
+            },
+            {
+                "Male": 4
+            }
+        ]
+    }
+}

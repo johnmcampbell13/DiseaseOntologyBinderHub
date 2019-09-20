@@ -1,0 +1,74 @@
+{
+    "study_accession": "SDY49",
+    "actual_completion_date": "2011-12-30",
+    "actual_enrollment": 2,
+    "actual_start_date": "2011-01-03",
+    "age_unit": "Years",
+    "brief_description": "In vitro analysis of STAT mediated dendritic cell activation mechanisms.",
+    "brief_title": "Analysis of STAT mediated dendritic cell activation mechanisms with different stimuli.",
+    "clinical_trial": "N",
+    "condition_studied": "STAT mediated signaling pathways regulating dendritic cell maturation.",
+    "dcl_id": 0,
+    "description": "Cells isolated from healthy subjects are used for the in vitro analysis of STAT mediated dendritic cell activation with different stimuli.  This is preformed by measuring cell responses to interleukin or other treatments with or without siRNA inhibition of signaling pathways mediating dendritic cell maturation.  Analysis of DC responses is measured with flow cytometry, siRNA inhibition, QPCR and western blots.",
+    "doi": "10.21430/M3S5MWVVTL",
+    "endpoints": "Analysis of STAT mediated responses as measured by flow cytometry, imaging flow cytometry, siRNA inhibition, QPCR and  western blots.",
+    "gender_included": "Not Specified",
+    "hypothesis": null,
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "\r",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "To identify STAT mediated mechanisms of dendritic cell activation with different stimuli.",
+    "official_title": "Analysis of STAT mediated dendritic cell activation mechanisms with different stimuli.",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 60,
+    "workspace_id": 1281,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM398",
+            "description": "Cells isolated from healthy subjects for in vitro studies.",
+            "name": "Healthy subjects"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Braun",
+            "organization": "Mount Sinai School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mount Sinai School of Medicine\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "Modeling Viral Immunity and Antagonism"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 46
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 2
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 2
+            }
+        ]
+    }
+}

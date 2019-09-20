@@ -1,0 +1,126 @@
+{
+    "study_accession": "SDY218",
+    "actual_completion_date": null,
+    "actual_enrollment": 55,
+    "actual_start_date": "2007-05-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to determine the safety and efficacy of the administration of  oral immunotherapy (OIT). The intent is to develop desensitization and eventually tolerance to egg allergen.",
+    "brief_title": "Oral Immunotherapy for Childhood Egg Allergy (CoFAR3)",
+    "clinical_trial": "Y",
+    "condition_studied": "Hypersensitivity, Immediate Hypersensitivity, Food Hypersensitivity",
+    "dcl_id": 1,
+    "description": "<p>In the United States, as many as 6% to 8% of children are affected by food allergy. In young children, allergic reactions to egg can range from mild rash to systemic anaphylaxis. The usual standard of care for allergy is complete avoidance of this food allergen and treatment of accidental systemic reactions by access to self-injected epinephrine. However, accidental exposure to allergens in processed foods may be difficult to avoid. Currently, several therapeutic strategies are being investigated to prevent and treat food allergies. Since standard injection (under the skin) immunotherapy for food allergy is associated with a high rate of allergic reactions, a few studies have recently tried oral immunotherapy (OIT) in food allergy. The purpose of this study is to determine the safety and efficacy of the administration of OIT. The intent is to develop desensitization and eventually tolerance to egg allergen. This study will evaluate tolerance to egg white solid that may be gained by gradually increasing the amounts of egg white solid given to a child over a long period of time. This study will last up to 48 months. The participants will be randomly assigned to receive oral immunotherapy treatment with egg white solid or placebo. This study will include dose escalation and maintenance followed by oral food challenge (OFC).</P><p>For participants receiving egg OIT, visit 1 consists of multiple small incremental doses of egg white solid. This is followed by 32-40 weeks of gradual dose escalation to a stable maintenance dose of egg white solid for at least 8 weeks. At approximately Week 44, participants are given an OFC using 5 grams of egg white solid to identify desensitized individuals. Participants and study staff are unblinded following this initial OFC. Maintenance egg OIT therapy is continued for an additional 1-3 years. Oral Food Challenges with 10 grams of egg white solid will be performed for participants on maintenance egg OIT at subsequent time points (approximately Week 96 and annually thereafter) to test for desensitization. If passed, a repeat OFC after being off therapy for 4-6 weeks will be performed to test for tolerance. An OFC to test for tolerance will use 10 grams of egg white solid and be followed by an open feeding of egg.</P><p>Participants receiving placebo during dose escalation and maintenance are given an OFC using 5 grams of egg white solid to test for desensitization at approximately 44 weeks. They are unblinded at that time, continue on an egg-restricted diet, and are followed until up to 2 years. These participants will only receive an OFC at a subsequent time point if their egg Immunoglobulin E (IgE) declines to be less than 2 kilounits of antibody per liter; this OFC will use 10 grams of egg white solid and be followed by an open feeding of egg.</P><p>At selected visits, blood and urine collection, physical examination, prick skin tests, and atopic dermatitis and asthma evaluations will occur.</p>",
+    "doi": "10.21430/M3Q2O0X9Z5",
+    "endpoints": "<p>Primary Outcome Measures:</p> <ul><p>Percent of Participants Who Successfully Consumed 10,000 mg of Egg White Solid Followed by Open Feeding of Egg [ Time Frame: At the 2 year time point; Egg OIT participants must be approximately 4-6 weeks post-discontinuation of therapy ] [ Designated as safety issue: No ]<p>Tolerance Assessment: Participants who successfully consumed without dose-limiting symptoms 10,000 mg of egg white solid during a double-blind placebo-controlled oral food challenge were then given an open feeding of egg and those who successfully consumed the open feeding of egg were counted as successes.</ul></p>Secondary Outcome Measures:</P><ul><li><p>Percent of Participants Who Successfully Consumed 5,000 mg of Egg White Solid [ Time Frame: Following the blinded desensitization phase at approximately Week 44 ] [ Designated as safety issue: No ]</p></li><li>Desensitization assessment: Participants who successfully consumed without dose-limiting symptoms 5,000 mg of egg white solid during a double-blind placebo-controlled oral food challenge were counted as successes.</li><li>  <p>  Percent of Participants Who Successfully Consumed a 50 mg Dose at Initial Escalation [ Time Frame: Initial day of dosing ] [ Designated as safety issue: Yes ]</p><p>On the initial day of dosing, participants were offered 0.1 mg of egg white solid or placebo followed by an approximate doubling every 30 minutes up to a 50 mg dose providing limiting reactions do not occur.</p></li><li><p>Percent of Participants Who Achieved a Maintenance Dose of 2,000 mg [ Time Frame: Following the blinded desensitization phase at approximately Week 44 ] [ Designated as safety issue: Yes ]</p><p>For participants whose maximum tolerated dose on the initial escalation day was less than 50 mg, doses were doubled every 2 weeks up to 50 mg. After 50 mg, dosing was increased to 75 mg, and then dosing increased by 25% until the 2000 mg dose was reached. The maximum time allowed for the build-up phase was 40 weeks; the dose achieved at 40 weeks was considered the maintenance dose.</p></li><li><p>Number of Participants With Serious Adverse Events (SAEs) [ Time Frame: Baseline through the 2-year primary endpoint ] [ Designated as safety issue: Yes ]</p><p>This study graded the severity of Adverse Events experienced by participants according to the criteria set forth in the National Cancer Institute's Common Terminology Criteria for Adverse Events Version 3.</p></li><li><p>Percent of Participants in the Egg OIT Treatment Arm Who Successfully Consume 10,000 mg of Egg White Solid [ Time Frame: 4 years ] [ Designated as safety issue: No ]</p><p>Tolerance Assessment: Participants in the Egg OIT treatment arm who were not tolerant at 2 years were offered an additional 2 years of therapy. A 10,000 mg double-blind placebo controlled oral food challenge to egg will be done the same way as the one performed at 2 years for these participants in order to identify tolerant individuals in the 2 year and 4 year extension segment.<p></li>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Oral immunotherapy (OIT) may desensitize a child with an allergy to egg.",
+    "initial_data_release_date": "2013-08-15",
+    "initial_data_release_version": "DR3",
+    "intervention_agent": "Egg oral immunotherapy",
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "  11.00",
+    "minimum_age": "   5.00",
+    "objectives": "The purpose of this study is to determine if oral immunotherapy (OIT) will desensitize a child with an allergy to egg and eventually lead to the development of tolerance to egg.",
+    "official_title": "Oral Immunotherapy for Childhood Egg Allergy",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 55,
+    "workspace_id": 3133,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM914",
+            "description": "Subjects ingest egg white solid (EWS) on Visit 1 (initial day dose escalation up to 50 mg), followed by a build-up phase (escalating daily egg doses every 2 wks, achieving a maintenance dose by 32-40 wks). Thereafter, subjects are on a maximally tolerated daily egg dose (306 mg to 2 gm) for >= 8 wks. After wk 44, subjects are given a 5 gm Oral Food Challenge (OFC) using EWS to identify desensitized [1] subjects. Subjects/study staff are unblinded following this OFC and either continue on their egg OIT maintenance dose of 2 gm/day or are allowed to attempt escalation up to 2 gm/day for the remainder of the study (1-3 years). A 10 gm OFC to identify desensitized [1] subjects occurs at specified intervals under prescribed conditions (yrs 2 - 4). Subjects who pass this 1st 10 gm OFC stop study therapy for 4-6 wks, then have a 2nd 10 gm OFC. Subjects that pass this 2nd 10 gm OFC are considered tolerant [2], stop EWS dosing and add egg to their diet.",
+            "name": "Egg Oral Immunotherapy (OIT)"
+        },
+        {
+            "arm_accession": "ARM915",
+            "description": "Subjects ingest placebo (cornstarch) during Visit 1 (initial day of dose escalation up to 50 mg), followed by a build-up phase (escalating daily placebo doses every 2 wks, achieving a maintenance dose by 32-40 wks). Thereafter, subjects were on a maximally tolerated daily placebo dose (306 mg to 2 gm) for >= 8 wks. After wk 44, subjects were given a 5 gm Oral Food Challenge (OFC) using egg white solid to identify desensitized [1] subjects. Subjects/study staff were unblinded following this initial 5 gm OFC. After unblinding, subjects discontinued further placebo dosing and continued on an egg-restricted diet. A 10 gm OFC was administered under prescribed conditions to subjects if their egg-specific serum IgE level was below 2 kUA/L. They were followed in the study up to 2 years. [1] Desensitized: Subject does not react to egg during OFC while taking daily doses of therapy. [2] Tolerant: Subject does not react to egg during OFC 4-6 wks after abstinence from egg consumption.",
+            "name": "Control Group"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Wesley",
+            "last_name": "Burks",
+            "organization": "Duke University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Multiple sites"
+        },
+        {
+            "first_name": "Stacie",
+            "last_name": "Jones",
+            "organization": "Arkansas Children's Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Multiple sites"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Oral immunotherapy for treatment of egg allergy in children.",
+            "journal": "N Engl J Med.",
+            "month": "Jul",
+            "year": "2012",
+            "doi": "10.1056/NEJMoa1200435.",
+            "pubmed_id": "22808958"
+        },
+        {
+            "title": "Long-term treatment with egg oral immunotherapy enhances sustained unresponsiveness that persists after cessation of therapy.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Apr",
+            "year": "2016",
+            "doi": "10.1016/j.jaci.2015.12.1316. Epub 2016 Mar 9.",
+            "pubmed_id": "26924470"
+        },
+        {
+            "title": "Component-resolved analysis of IgA, IgE, and IgG4 during egg OIT identifies markers associated with sustained unresponsiveness.",
+            "journal": "Allergy.",
+            "month": "Nov",
+            "year": "2016",
+            "doi": "10.1111/all.12895. Epub 2016 Jun 13.",
+            "pubmed_id": "27015954"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Immunobiology of Food Allergy and Its Treatment",
+            "contract_name": "Immunobiology of Food Allergy and Its Treatment (CoFAR)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 939
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 2370
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 5
+            },
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 48
+            }
+        ],
+        "gender": [
+            {
+                "Female": 21
+            },
+            {
+                "Male": 34
+            }
+        ]
+    }
+}

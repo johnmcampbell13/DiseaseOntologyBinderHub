@@ -1,0 +1,84 @@
+{
+    "study_accession": "SDY1487",
+    "actual_completion_date": null,
+    "actual_enrollment": null,
+    "actual_start_date": "2017-03-01",
+    "age_unit": "Weeks",
+    "brief_description": "Liposomal nanoparticles bearing an allergen and a high-affinity glycan ligand of the inhibitory receptor CD33 profoundly suppressed IgE-mediated activation of mast cells, prevented anaphylaxis in Tg mice with mast cells expressing human CD33, and desensitized mice to subsequent allergen challenge for several days",
+    "brief_title": "CD33 recruitment inhibits IgE-mediated anaphylaxis and desensitizes mast cells to allergen",
+    "clinical_trial": "N",
+    "condition_studied": "Allergen immunotherapy",
+    "dcl_id": 2,
+    "description": "Allergen immunotherapy for patients with allergies begins with weekly escalating doses of allergen under medical supervision to monitor and treat IgE mast cell?mediated anaphylaxis. There is currently no treatment to safely desensitize mast cells to enable robust allergen immunotherapy with therapeutic levels of allergen. Here, we demonstrated that liposomal nanoparticles bearing an allergen and a high-affinity glycan ligand of the inhibitory receptor CD33 profoundly suppressed IgE-mediated activation of mast cells, prevented anaphylaxis in Tg mice with mast cells expressing human CD33, and desensitized mice to subsequent allergen challenge for several days. We showed that high levels of CD33 were consistently expressed on human skin mast cells and that the antigenic liposomes with CD33 ligand prevented IgE-mediated bronchoconstriction in slices of human lung. The results demonstrated the potential of exploiting CD33 to desensitize mast cells to provide a therapeutic window for administering allergen immunotherapy without triggering anaphylaxis.",
+    "doi": "10.21430/M37G7PMJ7E",
+    "endpoints": "to enable robust allergen immunotherapy with therapeutic levels of allergen",
+    "gender_included": "Not Specified",
+    "hypothesis": "Antigenic liposomes bearing an allergen and glycan ligand of a mast cell?inhibitory Siglec might similar- ly result in recruitment to the IgE-Fc_RI complex and suppress mast cell degranulation.",
+    "initial_data_release_date": "2019-06-19",
+    "initial_data_release_version": "DR31",
+    "intervention_agent": "CD33 ligand",
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "8",
+    "minimum_age": "6",
+    "objectives": "Safely desensitize mast cells to enable robust allergen immunotherapy with therapeutic levels of allergen.",
+    "official_title": "CD33 recruitment inhibits IgE-mediated anaphylaxis and desensitizes mast cells to allergen",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 20,
+    "workspace_id": 6365,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4894",
+            "description": "human LAD2 mast cell line",
+            "name": "human LAD2 mast cell line"
+        },
+        {
+            "arm_accession": "ARM4895",
+            "description": "human CD33 CHO cell line",
+            "name": "human CD33 CHO cell line"
+        },
+        {
+            "arm_accession": "ARM4896",
+            "description": "murine C57BL/6 Mcpt5-Cre+/? Rosa26-Stopfl/fl-CD33+",
+            "name": "CD33-Tg mice"
+        },
+        {
+            "arm_accession": "ARM4897",
+            "description": "murine C57BL/6 Mcpt5-Cre? Rosa26-Stopfl/fl-CD33+",
+            "name": "Control-Tg"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "James",
+            "last_name": "Paulson",
+            "organization": "The Scripps Research Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "The Scripps Research Institute"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "CD33 recruitment inhibits IgE-mediated anaphylaxis and desensitizes mast cells to allergen.",
+            "journal": "J Clin Invest.",
+            "month": "Mar",
+            "year": "2019",
+            "doi": "10.1172/JCI125456. Epub 2019 Feb 18.",
+            "pubmed_id": "30645205"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Asthma and Allergic Diseases Cooperative Research Centers (AADCRC) RFA-AI-16-065",
+            "contract_name": "Using Siglecs and their ligands to treat allergic diseases SALTAD"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

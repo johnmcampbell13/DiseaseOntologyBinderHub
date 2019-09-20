@@ -1,0 +1,65 @@
+{
+    "study_accession": "SDY1176",
+    "actual_completion_date": "2017-02-28",
+    "actual_enrollment": 476,
+    "actual_start_date": "2014-08-01",
+    "age_unit": "Weeks",
+    "brief_description": "The Collaborative Cross (CC) is a panel of reproducible recombinant inbred mouse strains with high levels of standing genetic variation, thereby affording unprecedented opportunity to perform experiments in a small animal model containing controlled genetic diversity while allowing for genetic replicates. Here, we advance the utility of this unique mouse resource for immunology research, as it allows for both examination and genetic dissection of mechanisms behind adaptive immune states in mice with distinct and defined genetic makeups. This approach is founded on quantitative trait locus mapping: identifying genetically variant genome regions associated with phenotypic variance in traits-of-interest. Furthermore, the CC can be utilized for mouse model development; distinct strains have unique immunophenotypes and immune properties, making them suitable for research on particular diseases and infections. Here, we describe variation in cellular immune phenotypes across F1 crosses of CC strains, and reveal novel quantitative trait loci responsible for several immune phenotypes.",
+    "brief_title": "Extensive homeostatic T cell phenotypic variation within the Collaborative Cross",
+    "clinical_trial": "N",
+    "condition_studied": "Variation in steady state immune phenotypes within the Collaborative Cross mouse model, evaluated by flow cytometry assays",
+    "dcl_id": 2,
+    "description": "The Collaborative Cross (CC) is a panel of reproducible recombinant inbred mouse strains with high levels of standing genetic variation, thereby affording unprecedented opportunity to perform experiments in a small animal model containing controlled genetic diversity while allowing for genetic replicates. Here, we advance the utility of this unique mouse resource for immunology research, as it allows for both examination and genetic dissection of mechanisms behind adaptive immune states in mice with distinct and defined genetic makeups. This approach is founded on quantitative trait locus mapping: identifying genetically variant genome regions associated with phenotypic variance in traits-of-interest. Furthermore, the CC can be utilized for mouse model development; distinct strains have unique immunophenotypes and immune properties, making them suitable for research on particular diseases and infections. Here, we describe variation in cellular immune phenotypes across F1 crosses of CC strains, and reveal novel quantitative trait loci responsible for several immune phenotypes.",
+    "doi": "10.21430/M3RKBKOYKS",
+    "endpoints": "We fully describe a comprehensive screen of CC-RIX for cell subsets such as CD3+, CD4+, CD8+, and regulatory T cells (Treg), as well as activation markers and inflammatory cytokines.",
+    "gender_included": "Male",
+    "hypothesis": "We hypothesize that the use of the Collaborative Cross (CC), a panel of reproducible recominant inbred mouse strains, can enhance immunology research by better modeling the phenotypic diversity in human T-cell immunity. Additionally, the CC model allows for quantitative trait locus mapping to reveal novel candidate genes linked to T-cell phenotypes.",
+    "initial_data_release_date": "2017-11-07",
+    "initial_data_release_version": "DR24",
+    "intervention_agent": "None",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  10.00",
+    "minimum_age": "   8.00",
+    "objectives": "In our studies as part of the Collaborative Cross Systems Immunogenetics Group, we screened over 110 CC-RIX for a variety of immune response parameters at steady-state in adult male mice of 8-10 weeks of age. This initial proof-of-concept genetic mapping as well as our extensive dataset pave the way for future use of CC mice for genetic mapping of immune traits as well as targeted CC mouse strain selection for future immunology and immunogenetics studies.",
+    "official_title": "Extensive homeostatic T cell phenotypic variation within the Collaborative Cross",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 100,
+    "workspace_id": 5880,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4107",
+            "description": "CC-RIX lines, BALB/cJ and C57BL/6J T cell phenotypes",
+            "name": "T cell baseline phenotype"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jennifer",
+            "last_name": "Lund",
+            "organization": "Fred Hutchinson Cancer Research Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Vaccine and Infectious Disease Division"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Systems Approach to Immunity and Inflammation RFA-AI-11-017",
+            "contract_name": "Systems Immunogenetics of Biodefense Pathogens in the Collaborative Cross"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 822
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

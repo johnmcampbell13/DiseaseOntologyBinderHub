@@ -1,0 +1,105 @@
+{
+    "study_accession": "SDY295",
+    "actual_completion_date": null,
+    "actual_enrollment": 109,
+    "actual_start_date": "2010-07-06",
+    "age_unit": "Years",
+    "brief_description": "Assay development for HLA homozygous cell haplotype sequencing",
+    "brief_title": "HLA Homozygous Cell Haplotype Sequencing",
+    "clinical_trial": "N",
+    "condition_studied": "HLA Genotype",
+    "dcl_id": 2,
+    "description": "Assay development for HLA homozygous cell haplotype sequencing",
+    "doi": "10.21430/M3SIG93POM",
+    "endpoints": "96 complete 4.8Mb HLA haplotypes",
+    "gender_included": "Female, Male, Unknown",
+    "hypothesis": "Complete 4.8Mb HLA haplotypes can be sequenced",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": null,
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "    .00",
+    "minimum_age": "    .00",
+    "objectives": "Sequence HLA haplotypes",
+    "official_title": "Insights into immune related disease born from population genomics",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2506,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2101",
+            "description": "Homozygous cells",
+            "name": "Homozygous cells"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Peter",
+            "last_name": "Parham",
+            "organization": "Stanford",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Very long haplotype tracts characterized at high resolution from HLA homozygous cell lines.",
+            "journal": "Immunogenetics.",
+            "month": "Sep",
+            "year": "2015",
+            "doi": "10.1007/s00251-015-0857-y. Epub 2015  Jul 22.",
+            "pubmed_id": "26198775"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "HLA Region Genetics in Immune-mediated Diseases II",
+            "contract_name": "Insights into immune-related disease born from population genomics"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "SNP microarray",
+            "number_of_expsamples": 108
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 5
+            },
+            {
+                "race": "Asian",
+                "count": 12
+            },
+            {
+                "race": "Black or African American",
+                "count": 5
+            },
+            {
+                "race": "Unknown",
+                "count": 6
+            },
+            {
+                "race": "White",
+                "count": 80
+            }
+        ],
+        "gender": [
+            {
+                "Female": 38
+            },
+            {
+                "Male": 61
+            },
+            {
+                "Unknown": 9
+            }
+        ]
+    }
+}

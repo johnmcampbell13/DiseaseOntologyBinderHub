@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY358",
+    "actual_completion_date": null,
+    "actual_enrollment": 102,
+    "actual_start_date": "1999-07-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to compare treatment with the new drug sirolimus (SRL) versus the standard treatment with cyclosporine (CsA) or tacrolimus in children who have received kidney transplants. SRL is a new medication that may prevent the body's immune system from rejecting organ transplants. After receiving a kidney transplant, the body recognizes the donated kidney as a foreign invader and triggers the immune system to attack the kidney. This can lead to rejection of the new kidney and a failed transplant. To help reduce the risk of kidney rejection, transplant patients are given immunosuppressant drugs, which reduce the body's normal immune response and allow the transplanted organ to function. CsA or tacrolimus are two drugs that are often given to transplant patients. However, these are powerful drugs, and it can cause serious side effects and put a patient at increased risk for infections. SRL is a new drug that has been shown to reduce a transplant patient's chance of rejecting a new kidney, without serious side effects. This study is necessary to test the safety and effectiveness of SRL in children.",
+    "brief_title": "SRL1 A Study to Compare Treatment With Sirolimus Versus Standard Treatment in Patients Who Have Received a Kidney Transplant",
+    "clinical_trial": "Y",
+    "condition_studied": "End-Stage Renal Disease,Kidney Transplantation",
+    "dcl_id": 2,
+    "description": "Successful kidney transplantation has gradually improved over the years; much of the improvement has resulted from the use of CsA. However, adequate and tolerable immunosuppression is difficult to achieve with CsA, and rejection episodes are still frequent. CsA is nephrotoxic, with drug toxicity often masking rejection episodes. Other immunosuppressant therapies can result in a range of complications, including metabolic disturbances, adrenocortical insufficiency, and increased risk for infections. Therefore, more effective drugs with less toxicity are needed to prevent acute rejection, especially in the pediatric population where the overall graft survival rate remains significantly lower when compared with that of adult transplant recipients. SRL is an immunosuppressive agent being developed for the prophylaxis of acute renal allograft rejection. SRL has a unique mechanism of action. It inhibits T and B cell activity. In Phase I and II trials in adults, SRL was generally well tolerated and exhibited no apparent nephrotoxic properties, and significantly lower rates of rejection were seen with SRL when compared to placebo. Patients receive extensive prestudy screening, which includes a renal core biopsy, chest x-ray, bone density study, blood tests, and glomerular filtration rate (GFR). Patients are then randomly assigned to 1 of 2 study treatment groups in a 2:1 ratio (142 patients receive SRL, CsA/tacrolimus, and corticosteroids and 71 patients receive standard CsA or tacrolimus-based double or triple drug therapy). SRL is administered as an oral dose of 3 mg/m2/day. Patients are followed for 3 years on therapy, and then for 1 month of follow-up. A renal core biopsy is performed at the time of study entry and at Months 6, 18, and at early termination of patient in study. Patients undergo physical examinations and various blood tests at specified time intervals during the 37-month study period. Efficacy is assessed by comparing the composite endpoint of biopsy-proven acute rejection, graft loss, or death after 36 months of treatment. Safety is assessed by comparing the composite endpoint of graft loss or death after 36 months of treatment.",
+    "doi": "10.21430/M3XM74FAOK",
+    "endpoints": "Safety and efficacy of sirolimus. Composite endpoint of biopsy proven acute rejection, graft loss, or death. Rate of clinically diagnosed acute rejection. Rate of change in glomerular filtration rate. Mean change in volume of allograft fibrosis. Intragraft expression of cytokines. Cytokine expression and subsequent development of chronic allograft nephropathy.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Sirolimus (SRL) is a new medication that may prevent the body's immune system from rejecting organ transplants.",
+    "initial_data_release_date": "2014-08-07",
+    "initial_data_release_version": "DR11",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-08-07",
+    "latest_data_release_version": "DR11",
+    "maximum_age": "  21.00",
+    "minimum_age": "   2.00",
+    "objectives": "Our objective is a comparison of treatment with the new drug sirolimus (SRL) versus the standard treatment with cyclosporine (CsA) or tacrolimus in children who have received kidney transplants",
+    "official_title": "SRL1 An Open-Label, Comparative Study of the Effect of Sirolimus Versus Standard Treatment on Clinical Outcomes and Histologic Progression of Allograft Nephropathy in High Risk Pediatric Renal Transplant Patients",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 102,
+    "workspace_id": 3709,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2228",
+            "description": "Treatment with Sirolimus",
+            "name": "Treatment with Sirolimus"
+        },
+        {
+            "arm_accession": "ARM2229",
+            "description": "Standard treatment",
+            "name": "Standard treatment"
+        },
+        {
+            "arm_accession": "ARM2232",
+            "description": "unreported treatment",
+            "name": "unreported treatment"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "William",
+            "last_name": "Harmon",
+            "organization": "Children's Hospital Boston",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Children's Hospital Boston"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Cooperative Clinical Trials in Pediatric Transplantation (CCTPT)",
+            "contract_name": "Data Coordinating Center for Cooperative Clinical Trials in Pediatric Transplantation"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 13
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 87
+            }
+        ],
+        "gender": [
+            {
+                "Female": 36
+            },
+            {
+                "Male": 66
+            }
+        ]
+    }
+}

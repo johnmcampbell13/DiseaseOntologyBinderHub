@@ -1,0 +1,105 @@
+{
+    "study_accession": "SDY661",
+    "actual_completion_date": null,
+    "actual_enrollment": 20,
+    "actual_start_date": "2003-01-01",
+    "age_unit": "Years",
+    "brief_description": "This study will test the safety of a new drug called RG2077 that is designed to treat MS.  The study will not determine whether RG2077 is effective in treating MS, only whether it is safe.",
+    "brief_title": "Khoury ITN006AI: NMS02 Safety of RG2007 (CTLA4-IgG4m) in Patients with Multiple Sclerosis",
+    "clinical_trial": "Y",
+    "condition_studied": "Multiple sclerosis",
+    "dcl_id": 2,
+    "description": "Safety study of subjects diagnosed with relapsing-remitting multiple sclerosis treated with escalating intravenous doses of CTLA4-IgG4m (RG2077)",
+    "doi": "10.21430/M3YYEBXJ0L",
+    "endpoints": "Safety assessment, neurological and physical examinations",
+    "gender_included": "Female, Male",
+    "hypothesis": "RG2077 will arrest MS if administered early in the course of MS and decrease accumulation of lesions on MRI.",
+    "initial_data_release_date": "2015-12-14",
+    "initial_data_release_version": "DR16",
+    "intervention_agent": "RG2077 CTLA4-IgG4m T cell costimulation pathway blocker",
+    "latest_data_release_date": "2015-12-14",
+    "latest_data_release_version": "DR16",
+    "maximum_age": "  54.00",
+    "minimum_age": "  22.00",
+    "objectives": "Evaluate the safety of RG2077 treatment in subjects with MS",
+    "official_title": "A Phase I Study:  Safety of RG2077 (CTLA4-IgG4m) in Patients with Relapsing-Remitting Multiple Sclerosis",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 20,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2917",
+            "description": "Single IV infusion with 2mg/kg RG2077",
+            "name": "RG2077.2mg"
+        },
+        {
+            "arm_accession": "ARM2918",
+            "description": "Single IV infusion with 10mg/kg RG2077",
+            "name": "RG2077.10mg"
+        },
+        {
+            "arm_accession": "ARM2919",
+            "description": "Single IV infusion with 20mg/kg RG2077",
+            "name": "RG2077.20mg"
+        },
+        {
+            "arm_accession": "ARM2920",
+            "description": "Single IV infusion with 35mg/kg RG2077",
+            "name": "RG2077.35mg"
+        },
+        {
+            "arm_accession": "ARM2921",
+            "description": "Four IV infusions with 10mg/kg RG2077",
+            "name": "RG2077.4x10m"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Samia",
+            "last_name": "Khoury",
+            "organization": "Brigham and Women's Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Immune Tolerance Network"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "CTLA4Ig treatment in patients with multiple sclerosis: an open-label, phase 1 clinical trial.",
+            "journal": "Neurology.",
+            "month": "Sep",
+            "year": "2008",
+            "doi": "10.1212/01.wnl.0000325915.00112.61.",
+            "pubmed_id": "18794494"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 18
+            }
+        ],
+        "gender": [
+            {
+                "Female": 19
+            },
+            {
+                "Male": 1
+            }
+        ]
+    }
+}

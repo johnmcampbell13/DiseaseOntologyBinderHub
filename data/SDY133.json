@@ -1,0 +1,123 @@
+{
+    "study_accession": "SDY133",
+    "actual_completion_date": "2004-08-13",
+    "actual_enrollment": 272,
+    "actual_start_date": "2001-01-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to examine the effects of withdrawing steroids on graft rejection and kidney functions in kidney transplant recipients between the ages of 0 and 20 years (prior to their 21st birthday). Graft survival has improved in recent years in children with kidney transplants. One bad side effect of steroid maintenance therapy has been growth retardation. Doctors believe steroids might be safely withdrawn in patients that are receiving other maintenance therapies. If steroids are removed, children might catch up in their growth and also might have fewer side effects of other kinds. This study evaluates whether steroid therapy can be withdrawn in a way that does not increase graft rejection.",
+    "brief_title": "Steroid Withdrawal in Pediatric Kidney Transplant Recipients (SW01)",
+    "clinical_trial": "Y",
+    "condition_studied": "End stage renal disease and transplantation",
+    "dcl_id": 1,
+    "description": "<p>Children receiving kidney (renal) transplantation face distressing issues in post-transplantation including but not limited to growth retardation directly attributable to corticosteroids (steroids). It is hypothesized that robust immunosuppression with sirolimus and calcineurin inhibitors (cyclosporine or tacrolimus) in conjunction with induction therapy should enable successful steroid withdrawal. A steroid-free environment could lessen side effects by enabling a child to achieve catch-up growth, reducing the need for anti-hypertensive therapy, and reducing the risk of cardiovascular disease. This trial tests the objective of providing a steroid-free state without incurring the risk of increased incidence of acute transplant rejections.</p><p>Patients are enrolled prior to kidney transplantation and receive standard evaluations. Patients receive induction therapy with basiliximab preoperatively and on Day 4 after surgery. Immunosuppressive therapy begins with sirolimus and either cyclosporine or tacrolimus on Day 1 following surgery, and with corticosteroids the day of surgery. Infection prophylaxis with Bactrim is begun on Day 1 after surgery and center-specific anti-cytomegalovirus (CMV) therapy is given for all recipients of a CMV positive kidney. At 6 months post-transplantation, all patients who have not had an episode of acute rejection undergo a renal graft biopsy. Patients who are confirmed to be free of subclinical rejection are randomized to either undergo complete steroid withdrawal or continue maintenance on daily steroids. Patients receive either steroids or placebo, while continuing other immunosuppressive medications. Patients are segregated into weight groups for steroid withdrawal that occurs over months 7 to 13. Any acute rejection event during withdrawal is confirmed by renal biopsy and managed with methylprednisolone treatment. Patients are followed for 3 years post-transplantation for analysis of growth rate, blood pressure, lipid profile and renal function as measured by serum creatinine and calculated creatinine clearances. Post-transplantation clinic visits are weekly for the first 2 months, every 2 weeks until 13 months, weekly during Month 13, every 2 weeks through Month 18, and monthly until the study ends.</p><p>Patients who exhibit evidence of acute or subclinical rejection do not continue the steroid withdrawal trial and care is managed by their pediatric renal transplant center physicians.</p>",
+    "doi": "10.21430/M3HRUXROFP",
+    "endpoints": "<p><b>Primary endpoint:</b></p> <p>Growth measured as change in standardized height from 6 months to 2.5 years post-transplant.</p><p><b>Secondary endpoint:</b></p> <ol><li>Graft and patient survival<li>Biopsy-proven acute rejection<li>Renal function as measured by serum creatinine and the calculated creatinine clearances<li>Hypertension<li>Cushingoid features<li>Systolic and diastolic blood pressure levels<li>Fasting lipid profile</ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Robust immunosuppression, using Sirolimus and cyclosporine (or tacrolimus) in conjunction with induction therapy, will enable successful steroid withdrawal in patients with no evidence of clinical or subclinical rejection. We also hypothesize that the study of mRNA encoding CTL effector molecules and cytokines in the peripheral blood and urine cells will correlate with morphological and clinical diagnosis of rejection",
+    "initial_data_release_date": "2013-04-05",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Steroid",
+    "latest_data_release_date": "2013-04-05",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  20.60",
+    "minimum_age": "    .00",
+    "objectives": "<p><b>Primary Objectives:</b></p><p>To compare over a two-year period following steroid withdrawal:</p><ol><li>The frequency and severity of rejection episodes in the two study arms<li>Graft survival in the two study arms<li>Renal function as measured by serum creatinine and the calculated creatinine clearances</ol></p><p><b>Secondary objectives:</b></p><p>To compare at one and at two years following steroid withdrawal:</p><ol><li>The growth velocity and catch up growth in the two study arms<li>The lipid profile in the two study arms<li>The systolic and diastolic blood pressure levels in the two study arms<li>Evaluate the ability of ARMS PCR to demonstrate a hyporesponsive cytokine profile that a priori identifies patients who can be withdrawn from steroids<li>Evaluate the ability of RT-PCR to identify effector molecules and cytokines in the peripheral blood and urine cells that will serve as surrogate markers for intragraft gene expression</ol>",
+    "official_title": "A DOUBLE-BLIND RANDOMIZED TRIAL OF STEROID WITHDRAWAL IN SIROLIMUS- AND CYCLOSPORINE-TREATED PRIMARY TRANSPLANT RECIPIENTS (SW01)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 300,
+    "workspace_id": 2872,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM670",
+            "description": "Subjects in this arm will undergo complete steroid withdrawal by the end of 12 months post-transplant",
+            "name": "Steroid Withdrawal"
+        },
+        {
+            "arm_accession": "ARM671",
+            "description": "Subjects in this arm will be maintained on low-dose (0.15 mg/kg/day) daily steroids",
+            "name": "Steroid Maintenance"
+        },
+        {
+            "arm_accession": "ARM672",
+            "description": "All enrolled subjects not eligible for randomization",
+            "name": "Not randomized"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "William",
+            "last_name": "Harmon",
+            "organization": "Boston Children's Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Boston Children's Hospital"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Incidence of PTLD in pediatric renal transplant recipients receiving basiliximab, calcineurin inhibitor, sirolimus and steroids.",
+            "journal": "Am J Transplant.",
+            "month": "May",
+            "year": "2008",
+            "doi": "10.1111/j.1600-6143.2008.02167.x.",
+            "pubmed_id": "18416737"
+        },
+        {
+            "title": "A randomized double-blind, placebo controlled trial of steroid withdrawal after pediatric renal transplantation.",
+            "journal": "Am J Transplant.",
+            "month": "Jan",
+            "year": "2010",
+            "doi": "10.1111/j.1600-6143.2009.02767.x. Epub 2009 Jul 28.",
+            "pubmed_id": "19663893"
+        },
+        {
+            "title": "Steroids in pediatric kidney transplantation: a balancing act in progress.",
+            "journal": "Am J Transplant.",
+            "month": "Jan",
+            "year": "2010",
+            "doi": "10.1111/j.1600-6143.2009.02923.x. Epub  2009 Dec 17.",
+            "pubmed_id": "19958331"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Cooperative Clinical Trials in Pediatric Transplantation (CCTPT)",
+            "contract_name": "Data Coordinating Center for Cooperative Clinical Trials in Pediatric Transplantation"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 5
+            },
+            {
+                "race": "Asian",
+                "count": 7
+            },
+            {
+                "race": "Black or African American",
+                "count": 42
+            },
+            {
+                "race": "Other",
+                "count": 10
+            },
+            {
+                "race": "White",
+                "count": 208
+            }
+        ],
+        "gender": [
+            {
+                "Female": 114
+            },
+            {
+                "Male": 158
+            }
+        ]
+    }
+}

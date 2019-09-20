@@ -1,0 +1,143 @@
+{
+    "study_accession": "SDY984",
+    "actual_completion_date": "2017-01-31",
+    "actual_enrollment": 77,
+    "actual_start_date": "2011-08-23",
+    "age_unit": "Years",
+    "brief_description": "Double center, open label study in which adult healthy volunteers will be vaccinated with Zoster vaccine.",
+    "brief_title": "Zoster vaccine in young and elderly",
+    "clinical_trial": "N",
+    "condition_studied": "Vaccine efficacy",
+    "dcl_id": 2,
+    "description": "Study objective: To analyze the generic innate immune signatures that correlate with the magnitude of the adaptive immune responses (by gamma-interferon ELISPOT, responder-cell frequency (RCF) and flow cytometric studies) in young and elderly populations in order to identify the correlation signatures of the innate immune responses to Zoster vaccine.Study design: Double center, open label study in which adult healthy volunteers will be vaccinated with Zoster vaccine. Blood samples will be collected during a screening visit (between days D-56 to D-14) D0 (at vaccination) and D1, D3, D7, D14, D30, D90 and D180 post vaccination to study innate and adaptive immunity responses. Even though Zoster vaccine is considered safe, volunteers are asked to report and record any local or systemic AEs for 7 days post-vaccination. Also AEs will be reported for 30 days post-vaccination any SAE for 180 days post vaccination. AEs developing the day of the blood draw will also be reported",
+    "doi": "10.21430/M36N1BYFT5",
+    "endpoints": "Primary endpoint: 1. Identification of generic innate immune signatures [Traditional immune parameters measurements + array-based gene expression] at days 1, 3 and 7 post vaccination. 2. Measurement of VZV-specific effector and memory cell-mediated immunity (VZV-CMI) by gamma-interferon ELISPOT, responder-cell frequency (RCF) and flow cytometric studies at 7 (ELISPOT and flow) and 30 days post vaccination (flow and RCF). 3. Identification of correlation signatures of generic innate immune  responses at days 1, 3 and 7 that correlate to adaptive immune responses [effector and memory VZV-CMI] at days 7 and 30 post vaccination. Secondary endpoints: 1 .Identification of VZV-specific CD4 and CD8 T cell epitopes in a subset of vaccinees. 2. Comparison of magnitude, kinetics and polyfunctionality of T cell responses to the vaccine during from D0 to D 180 post-immunization, including D 7, 14, 30, 90 and 180.  3. Identification of correlation signatures of generic innate immune  responses at days 1, 3 and 7 that correlate to the magnitude, kinetics and polyfunctionality of T cell responses to the vaccine during the first 180 days after immunization.  Exploratory endpoints: 1. Comparison of VZV shedding by saliva collection at D3, and D7 in the young versus the elderly. 2. Comparison of VZV shedding in blood at D1, D3, D7, D14 in the young versus the elderly. 3. Comparison of antibody avidity at D 30 and 180 between the young and the elderly.",
+    "gender_included": "Not Specified",
+    "hypothesis": "Zoster vaccine is known to induce diminished antigen-specific T cell responses and lower protection in the elderly. Here we hypothesize that this is due to intrinsic defects in innate responses to the live attenuated virus, which translates into sub-optimal functional adaptive immune responses. Therefore, early innate signatures of vaccination should correlate with, and predict the immunogenicity of Zoster vaccine in the young and elderly.",
+    "initial_data_release_date": "2018-05-10",
+    "initial_data_release_version": "DR26",
+    "intervention_agent": "Zoster vaccine (Zostavax)",
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "  79.00",
+    "minimum_age": "  25.00",
+    "objectives": "To analyze the generic innate immune signatures that correlate with the magnitude of the adaptive immune responses (by gamma-interferon ELISPOT, responder-cell frequency (RCF) and flow cytometric studies) in young and elderly populations in order to identify the correlation signatures of the innate immune responses to Zoster vaccine.",
+    "official_title": "Systems Biology of Zoster vaccine (Zostavax) in young and elderly",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 77,
+    "workspace_id": 2516,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3536",
+            "description": "25-45 years of age",
+            "name": "young"
+        },
+        {
+            "arm_accession": "ARM3537",
+            "description": "60-79 years of age",
+            "name": "elderly"
+        },
+        {
+            "arm_accession": "ARM3989",
+            "description": "Cell line",
+            "name": "Cell line"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Nadine",
+            "last_name": "Rouphael",
+            "organization": "Emory Hope Clinic",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory"
+        },
+        {
+            "first_name": "Myron",
+            "last_name": "Levin",
+            "organization": "Vaccine Research Trials Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Denver"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Metabolic Phenotypes of Response to Vaccination in Humans.",
+            "journal": "Cell.",
+            "month": "May",
+            "year": "2017",
+            "doi": "10.1016/j.cell.2017.04.026. Epub 2017  May 11.",
+            "pubmed_id": "28502771"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+            "contract_name": "Systems Biological Analysis of Innate and Adaptive Responses to Vaccination (Emory)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 411
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 557
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 1166
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 100
+        },
+        {
+            "measurement_technique": "Mass Spectrometry",
+            "number_of_expsamples": 360
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 306
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 288
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "Black or African American",
+                "count": 11
+            },
+            {
+                "race": "Unknown",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 60
+            }
+        ],
+        "gender": [
+            {
+                "Female": 48
+            },
+            {
+                "Male": 29
+            }
+        ]
+    }
+}

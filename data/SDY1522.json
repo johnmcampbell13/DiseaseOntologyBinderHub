@@ -1,0 +1,114 @@
+{
+    "study_accession": "SDY1522",
+    "actual_completion_date": "2005-01-03",
+    "actual_enrollment": null,
+    "actual_start_date": "2004-06-15",
+    "age_unit": "Years",
+    "brief_description": "Goal: To understand the longevity of humoral immune protection and the role played by memory B cells after common vaccinations. To quantify the heterogeneity in antibody responses to different vaccines and viruses. To quantify the time to loss of protective immunity to each vaccine or virus at the population level.       Methods:  Performed longitudinal data analysis on antibody titers for viral antigens (vaccinia, measles, mumps, rubella, varicella-zoster virus, and Epstein-Barr virus) and nonreplicating antigens (tetanus and diphtheria) in 45 subjects for a period of up to 26 years. Used a mixed-effects modeling framework to characterize the heterogeneity in antibody responses and to determine how variation in the magnitude and decay rate affect how protective immunity is lost at the population level to different virus and vaccine antigens.     Results: Antiviral antibody responses were remarkably stable, with half-lives ranging from an estimated 50 years for varicella-zoster virus to more than 200 years for other viruses such as measles and mumps. Antibody responses against tetanus and diphtheria antigens waned more quickly, with estimated half-lives of 11 years and 19 years, respectively. B-cell memory was long-lived, but there was no significant correlation between peripheral memory B-cell numbers and antibody levels for five of the eight antigens tested. The statistical analysis and models helped to stratify the heterogenity factors and quantified each in a single plot to view interplays of factors, such as the fast-decay of anti-nonreplicating-antigens is compensated for by the higher magnitude of responses (relative to the level for protection) which explains a higher fraction of vaccinated individuals have protective immunity to tetanus and diphtheria than to measles, rubella, and vaccinia in the first 4 decades, suggesting the need for reevaluation of their boosting schedules.",
+    "brief_title": "Longitudinal study to common vaccines",
+    "clinical_trial": "N",
+    "condition_studied": "viral antigens (vaccinia, measles, mumps, rubella, varicella-zoster virus, and Epstein-Barr virus) and nonreplicating antigens (tetanus and diphtheria)",
+    "dcl_id": 2,
+    "description": "Goal: To understand the longevity of humoral immune protection and the role played by memory B cells after common vaccinations. To quantify the heterogeneity in antibody responses to different vaccines and viruses. To quantify the time to loss of protective immunity to each vaccine or virus at the population level.       Methods:  Performed longitudinal data analysis on antibody titers for viral antigens (vaccinia, measles, mumps, rubella, varicella-zoster virus, and Epstein-Barr virus) and nonreplicating antigens (tetanus and diphtheria) in 45 subjects for a period of up to 26 years. Used a mixed-effects modeling framework to characterize the heterogeneity in antibody responses and to determine how variation in the magnitude and decay rate affect how protective immunity is lost at the population level to different virus and vaccine antigens.     Results: Antiviral antibody responses were remarkably stable, with half-lives ranging from an estimated 50 years for varicella-zoster virus to more than 200 years for other viruses such as measles and mumps. Antibody responses against tetanus and diphtheria antigens waned more quickly, with estimated half-lives of 11 years and 19 years, respectively. B-cell memory was long-lived, but there was no significant correlation between peripheral memory B-cell numbers and antibody levels for five of the eight antigens tested. The statistical analysis and models helped to stratify the heterogenity factors and quantified each in a single plot to view interplays of factors, such as the fast-decay of anti-nonreplicating-antigens is compensated for by the higher magnitude of responses (relative to the level for protection) which explains a higher fraction of vaccinated individuals have protective immunity to tetanus and diphtheria than to measles, rubella, and vaccinia in the first 4 decades, suggesting the need for reevaluation of their boosting schedules.",
+    "doi": "10.21430/M3F210A2MA",
+    "endpoints": "ElISA, Software package for longitudinal data analysis",
+    "gender_included": "Not Specified",
+    "hypothesis": "A longitudinal analysis of antibody titers from banked serum of scheduled (annual) and event-based collections can help to quantify humoral immunity activities, straitfy effective factors, and so to build models to predict duration of antibody memory to viruses and vaccines",
+    "initial_data_release_date": "2019-09-16",
+    "initial_data_release_version": "DR32",
+    "intervention_agent": "vaccinia, measles, mumps, rubella, varicella-zoster virus, and Epstein-Barr virus)",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "67",
+    "minimum_age": "22",
+    "objectives": "To understand the longevity of humoral immune protection and the role played by memory B cells after common vaccinations",
+    "official_title": "Heterogeneity and longevity of antibody memory to viruses and vaccines",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 45,
+    "workspace_id": 6402,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4971",
+            "description": "diphtheria toxin (EMD Biosciences)",
+            "name": "Diphtheria"
+        },
+        {
+            "arm_accession": "ARM4972",
+            "description": "measles (Edmonston strain, Biodesign)",
+            "name": "Measles"
+        },
+        {
+            "arm_accession": "ARM4973",
+            "description": "mumps (Enders strain, Biodesign)",
+            "name": "Mumps"
+        },
+        {
+            "arm_accession": "ARM4974",
+            "description": "rubella (HPV77 strain, Viral Antigens)",
+            "name": "Rubella"
+        },
+        {
+            "arm_accession": "ARM4975",
+            "description": "tetanus toxin (C-fragment)",
+            "name": "Tetanus"
+        },
+        {
+            "arm_accession": "ARM4976",
+            "description": "vaccinia (WR strain prepared in our laboratory)",
+            "name": "Vaccinia"
+        },
+        {
+            "arm_accession": "ARM4977",
+            "description": "varicella?zoster virus (Rod strain, Biodesign)",
+            "name": "VZV"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark",
+            "last_name": "Slifka",
+            "organization": "Oregon Health & Science University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Vaccine and Gene Therapy Institute"
+        },
+        {
+            "first_name": "Rustom",
+            "last_name": "Antia",
+            "organization": "Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Biology"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Duration of humoral immunity to common viral and vaccine antigens.",
+            "journal": "N Engl J Med.",
+            "month": "Nov",
+            "year": "2007",
+            "doi": "-",
+            "pubmed_id": "17989383"
+        },
+        {
+            "title": "-",
+            "journal": "-",
+            "month": "-",
+            "year": "-",
+            "doi": "-",
+            "pubmed_id": "30096134"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense RFA-AI-14-028",
+            "contract_name": "Dynamics And Evolution Of Immune Responses To Influenza Viruses"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

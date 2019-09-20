@@ -1,0 +1,110 @@
+{
+    "study_accession": "SDY524",
+    "actual_completion_date": null,
+    "actual_enrollment": 83,
+    "actual_start_date": "2005-09-01",
+    "age_unit": "Years",
+    "brief_description": "Anti-CD3 monoclonal antibody (a.k.a. hOKT3gamma1 [Ala-Ala],teplizumab, MGA031) is a humanized antibody that is commonly used to prevent organ rejection. The purpose of this study is determine whether anti-CD3 mAb treatment can halt the progression of newly diagnosed type 1 diabetes.",
+    "brief_title": "AbATE ITN027AI:  Autoimmunity-blocking Antibody for Tolerance in Recently Diagnosed Type 1 Diabetes",
+    "clinical_trial": "Y",
+    "condition_studied": "Diabetes Mellitus, Type 1",
+    "dcl_id": 2,
+    "description": "Type 1 diabetes is an autoimmune disease in which the immune system mistakenly attacks insulin-producing beta cells in the pancreas. Without these cells, the body cannot maintain proper blood glucose levels in response to daily activities, such as eating or exercise. Generally, at the time of type 1 diabetes diagnosis, 60% to 85% of the diabetic person's beta cells have already been destroyed. However, between 15% and 40% of these cells remain and are able to produce insulin. Treatment that slows the destruction of additional beta cells may be able to decrease a patient's reliance on insulin and improve their quality of life. Anti-CD3 mAb is genetically engineered and directed against the CD3 antigen on T cells; this antibody selectively attacks the immune cells responsible for beta cell destruction. In a small exploratory clinical trial, patients with newly diagnosed type 1 diabetes who received a single, 2-week treatment with anti-CD3 mAb had preserved beta cell function and significantly lower insulin requirements than untreated patients for up to two years after therapy. This study will investigate whether a second course of anti-CD3 mAb administered one year after the first administration is able to prolong or improve the effects of the biologic in people who have recently diagnosed type 1 diabetes mellitus. Participants will be randomly assigned to one of two groups. The Experimental Group will receive anti-CD3 mAb treatment plus Diabetes Standard of Care Treatment; the Active Comparator Group will receive Diabetes Standard of Care Treatment. The Experimental Group will be treated with the antibody for the first 14 days of the study and again one year later. These participants will be admitted to the hospital for the first 5 days of a treatment cycle. Participants who live within 1 hour of the hospital may receive the remainder of a treatment cycle as an outpatient, but those who live farther away will be hospitalized for 14 days. For the first treatment cycle, there will be study visits on the 3 consecutive days after the treatment cycle and at Months 1, 2, 3, 6, 9, and 12. For the second treatment cycle, there will be study visits on the 3 consecutive days after the treatment cycle and at Months 13, 16, 19, 21, and 24.The Active Comparator Group will have 12 study visits over two years. At study entry, all participants will receive daily iron supplementation, either as ferrous sulfate or a multivitamin with iron. Participants will be followed for up to 2 years to assess their overall diabetes health and to capture laboratory measures of beta cell and immune system function. Medication history and adverse event assessment will occur at all visits. A physical exam, vital signs measurement, and blood collection will occur at most visits. Medical history and urine collection will occur at selected visits.",
+    "doi": "10.21430/M3YQ7O1CPL",
+    "endpoints": "Endpoints: Change in Mean C-peptide Area Under Curve (AUC) Response to a Mixed Meal TestChange in Glycosylated hemoglobin (HbA1c)Change in Average Total Insulin Dose Per Body Weight",
+    "gender_included": "Female, Male",
+    "hypothesis": "see protocol",
+    "initial_data_release_date": "2015-06-19",
+    "initial_data_release_version": "DR14",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  29.56",
+    "minimum_age": "   8.00",
+    "objectives": "Primary Objective: Assess the ability of a humanized FcR nonbinding anti-CD3 mAb to prevent immune-mediated beta cell destruction in individuals with new-onset diabetes.    Secondary Objectives:  Diabetes Related Objectives:\tAssess whether the drug has prolonged clinical efficacy.  \tAssess the effect of hOKT3-gamma1 (Ala-Ala) on selected secondary clinical outcomes.  Safety and pharmacokinetics:  \tDetermine the pharmacokinetics for HOKT3-gamma1 (Ala-Ala.  )\tGain additional information about the safety of HOKT3-gamma1 (Ala-Ala).  Mechanistic studies:  \tFurther characterize how the drug alters general and diabetes-specific immune responses.  \tBetter understand the mechanism of action for hOKT3-gamma1 (Ala-Ala) in maintenance of beta cell function",
+    "official_title": "Phase II Multiple-Dose Treatment of New Onset Type 1 Diabetes Mellitus With Anti-CD3 mAb",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 83,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2624",
+            "description": "hOKT3",
+            "name": "hOKT3"
+        },
+        {
+            "arm_accession": "ARM2625",
+            "description": "Control",
+            "name": "Control"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Kevan",
+            "last_name": "Herold",
+            "organization": "Yale University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Yale University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Teplizumab (anti-CD3 mAb) treatment preserves C-peptide responses in patients with new-onset type 1 diabetes in a randomized controlled trial: metabolic and immunologic features at baseline identify a subgroup of responders.",
+            "journal": "Diabetes.",
+            "month": "Nov",
+            "year": "2013",
+            "doi": "10.2337/db13-0345. Epub 2013 Jul 8.",
+            "pubmed_id": "23835333"
+        },
+        {
+            "title": "Partial exhaustion of CD8 T cells and clinical response to teplizumab in new-onset type 1 diabetes.",
+            "journal": "Sci Immunol.",
+            "month": "Nov",
+            "year": "2016",
+            "doi": "10.1126/sciimmunol.aai7793. Epub  2016 Nov 18.",
+            "pubmed_id": "28664195"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 3
+            },
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 75
+            }
+        ],
+        "gender": [
+            {
+                "Female": 35
+            },
+            {
+                "Male": 48
+            }
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "study_accession": "SDY662",
+    "actual_completion_date": null,
+    "actual_enrollment": 25,
+    "actual_start_date": "2006-05-01",
+    "age_unit": "Years",
+    "brief_description": "Antirejection medicines are prescribed to organ transplant recipients to prevent new organ rejection. Long-term use places transplant recipients at higher risk of serious infections and certain types of cancer. The purpose of this study is to determine whether immunosuppressive drugs can be safely withdrawn over a minimum of 9 months from children who received liver transplants at least 4 years ago.",
+    "brief_title": "WISP-R ITN029ST: Withdrawal of Immunosuppression in Pediatric Liver Transplant Recipients",
+    "clinical_trial": "Y",
+    "condition_studied": "Liver transplant immunosuppression",
+    "dcl_id": 2,
+    "description": "Immunosuppressive drugs are prescribed to organ transplant recipients to prevent organ rejection. Long-term use of these drugs places transplant recipients at higher risk of serious infections and certain types of cancer. The purpose of this study is to determine whether immunosuppressive drugs can be safely withdrawn over a minimum of 9 months from pediatric liver transplant recipents",
+    "doi": "10.21430/M3QJJF9A71",
+    "endpoints": "Proportion of subjects successfully withdrawn from immunosuppression treatment",
+    "gender_included": "Female, Male",
+    "hypothesis": "Gradual withdrawal of immunosuppressive medication is safe in children receiving liver transplant from parent",
+    "initial_data_release_date": "2015-12-14",
+    "initial_data_release_version": "DR16",
+    "intervention_agent": "Gradual withdrawal of immunosuppressive medication",
+    "latest_data_release_date": "2016-02-05",
+    "latest_data_release_version": "DR17",
+    "maximum_age": "  15.00",
+    "minimum_age": "   5.00",
+    "objectives": "Evaluate the safety of immunosuppression withdrawal in pediatric liver transplant recipients",
+    "official_title": "Immunosuppression Withdrawal for Pediatric Living-donor Liver Transplant Recipients (ITN029ST)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 20,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2922",
+            "description": "Gradual immunosuppression withdrawal",
+            "name": "Withdrawal"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Sandy",
+            "last_name": "Feng",
+            "organization": "University of California, San Francisco",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Immune Tolerance Network"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Complete immunosuppression withdrawal and subsequent allograft function among pediatric recipients of parental living donor liver transplants.",
+            "journal": "JAMA.",
+            "month": "Jan",
+            "year": "2012",
+            "doi": "10.1001/jama.2011.2014.",
+            "pubmed_id": "22253395"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 25
+            }
+        ],
+        "gender": [
+            {
+                "Female": 9
+            },
+            {
+                "Male": 16
+            }
+        ]
+    }
+}

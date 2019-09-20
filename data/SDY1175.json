@@ -1,0 +1,99 @@
+{
+    "study_accession": "SDY1175",
+    "actual_completion_date": "2016-12-30",
+    "actual_enrollment": 16,
+    "actual_start_date": "2016-01-01",
+    "age_unit": "Years",
+    "brief_description": "Sequence data from cell free DNA found in 1351 blood samples collected from 188 patient was analyzed and assembled. 3761 of the 7190 larger contiguous regions generated were novel, with little or no homology to existing sequencing data. Presence of coding sequences in the contigs was confirmed in independent experiments and by direct PCR. The organisms identified represent entirely novel taxa, showing a substantially broader diversity in the human microbiome than previously appreciated.",
+    "brief_title": "Human microbiome characterization through massive shotgun sequencing of circulating cell-free DNA.",
+    "clinical_trial": "N",
+    "condition_studied": "Human Microbiome",
+    "dcl_id": 2,
+    "description": "Cell-free DNA-derived microbiomes of 1,351 samples from 188 patients in four longitudinally sampled cohorts were analyzed. The majority of assembled sequences from cfDNA are derived from previously unidentified organisms, for instance numerous novel anelloviruses in immunocompromised patients, which represent a doubling of identified members in that viral family. Over two thirds of the sequences are bacterial, and the majority are most similar to proteobacteria; however, many large contigs can only be classified at the phylum or superkingdom level. Numerous novel phages were also found throughout the population. Multiple independent analyses confirm the existence of these novel sequences.",
+    "doi": "10.21430/M33PSZ2FHV",
+    "endpoints": "cfDNA sequencing",
+    "gender_included": "Female",
+    "hypothesis": "Cell-free DNA extracted from whole blood samples can be used to better characterize the human microbiome",
+    "initial_data_release_date": "2017-11-07",
+    "initial_data_release_version": "DR24",
+    "intervention_agent": null,
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "85",
+    "minimum_age": "18",
+    "objectives": "Human microbiome thorough characterization using analysis of massive shotgun sequencing of cell-free DNA from whole blood samples from 188 patients",
+    "official_title": "Numerous uncharacterized and highly divergent microbes which colonize humans are revealed by circulating cell-free DNA",
+    "sponsoring_organization": "March Of Dimes",
+    "target_enrollment": 15,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4106",
+            "description": "Pregnancy patients",
+            "name": "Pregnancy Cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Stephen",
+            "last_name": "Quake",
+            "organization": "March of Dimes Prematurity Research Center at Stanford University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "March of Dimes Prematurity Research Center at Stanford University School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Numerous uncharacterized and highly divergent microbes which colonize humans are revealed by circulating cell-free DNA.",
+            "journal": "Proc Natl Acad Sci U S A.",
+            "month": "Sep",
+            "year": "2017",
+            "doi": "10.1073/pnas.1707009114. Epub 2017 Aug 22.",
+            "pubmed_id": "28830999"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 58
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 10
+            }
+        ],
+        "gender": [
+            {
+                "Female": 16
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "study_accession": "SDY1115",
+    "actual_completion_date": "2017-01-27",
+    "actual_enrollment": 17,
+    "actual_start_date": "2016-12-01",
+    "age_unit": "Years",
+    "brief_description": "Rhinovirus infections during infancy account for the majority of respiratory illness health care utilization and are an associated risk factor for subsequent development of allergic asthma.  Neonatal type I interferon production is diminished compared to adults after stimulation with TLR agonists. However, broad profiling of immune cell responses to infectious rhinovirus has not been undertaken and we hypothesized that additional immune differences can be identified in neonates. Rhinovirus infections during infancy account for the majority of respiratory illness health care utilization and are an associated risk factor for subsequent development of allergic asthma.  Neonatal type I interferon production is diminished compared to adults after stimulation with TLR agonists. However, broad profiling of immune cell responses to infectious rhinovirus has not been undertaken and we hypothesized that additional immune differences can be identified in neonates.",
+    "brief_title": "Comparative analysis of neonatal and adult immune responses after in vitro rhinovirus stimulation",
+    "clinical_trial": "N",
+    "condition_studied": "Comparative analysis of neonatal and adult blood immune cell responses after in vitro incubation with infectious RV-A16 for 6 and 24 hours.",
+    "dcl_id": 2,
+    "description": "Rhinovirus infections during infancy account for the majority of respiratory illness health care utilization and are an associated risk factor for subsequent development of allergic asthma.  Neonatal type I interferon production is diminished compared to adults after stimulation with TLR agonists. However, broad profiling of immune cell responses to infectious rhinovirus has not been undertaken and we hypothesized that additional immune differences can be identified in neonates.",
+    "doi": "10.21430/M3IR2J7XWW",
+    "endpoints": "Flow Cytometry",
+    "gender_included": "Unknown",
+    "hypothesis": "In addition to diminished type I IFN response, neonates will have other anti-RV maturational immune differences compared to adults.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Rhinovirus",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "70",
+    "minimum_age": "0",
+    "objectives": "To define the phenotypic and functional differences in monocytes, mDCs, pDCs and B cells.",
+    "official_title": "Neonatal Immune Response to Rhinovirus A16 has Diminished Dendritic Cell Function and Increased B Cell Activation",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 20,
+    "workspace_id": 5824,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3939",
+            "description": "Healthy",
+            "name": "Full term infants"
+        },
+        {
+            "arm_accession": "ARM3940",
+            "description": "Healthy",
+            "name": "Healthy adults"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Christine",
+            "last_name": "Seroogy",
+            "organization": "Department of Pediatrics, University of Wisconsin School of Medicine and Public Health",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Wisconsin"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Neonatal immune response to rhinovirus A16 has diminished dendritic cell function and increased B cell activation.",
+            "journal": "PLoS One.",
+            "month": "Oct",
+            "year": "2017",
+            "doi": "10.1371/journal.pone.0180664. eCollection 2017.",
+            "pubmed_id": "29045416"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Asthma and Allergic Diseases Cooperative Research Centers (AADCRC) RFA-AI-12-006",
+            "contract_name": "Mechanisms and Enviromental Determinants of Rhinovirus Illness Severity (AADCRC1)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 56
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 17
+            }
+        ],
+        "gender": [
+            {
+                "Unknown": 17
+            }
+        ]
+    }
+}

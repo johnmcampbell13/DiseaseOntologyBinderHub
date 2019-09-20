@@ -1,0 +1,159 @@
+{
+    "study_accession": "SDY557",
+    "actual_completion_date": null,
+    "actual_enrollment": 280,
+    "actual_start_date": "2006-03-01",
+    "age_unit": "Years",
+    "brief_description": "This is a non randomized observational study to assess the sensitivity, specificity, and predictive value of a panel of noninvasive monitoring tests as correlates with acute rejection, graft loss, deterioration of renal function, and degree of graft fibrosis in renal allograft recipients receiving commonly used immunosuppressive regimens.",
+    "brief_title": "Noninvasive Monitoring in Kidney Transplantation (CTOT-01)",
+    "clinical_trial": "Y",
+    "condition_studied": "Kidney Transplanation",
+    "dcl_id": 2,
+    "description": "This is a non randomized observational study to assess the sensitivity, specificity, and predictive value of a panel of noninvasive monitoring tests as correlates with acute rejection, graft loss, deterioration of renal function, and degree of graft fibrosis in renal allograft recipients receiving commonly used immunosuppressive regimens.",
+    "doi": "10.21430/M3OPJVGUBK",
+    "endpoints": "The primary endpoint is a composite endpoint of death-censored graft failure, clinically evident acute rejection, or strictly defined abnormalities of renal histology. The secondary endpoint is the change in GFR between 6 and 24 months post transplantation. We propose to correlate non invasive test results during the initial 6 months post transplant with renal function and biopsy results obtained at those two time points.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Comprehensive noninvasive monitoring approaches will detect subclinical graft injury and thereby have a strong association with short- and long-term outcome in renal allograft recipients and providing an additional assessment of risk.",
+    "initial_data_release_date": "2016-06-17",
+    "initial_data_release_version": "DR19",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  89.00",
+    "minimum_age": "    .00",
+    "objectives": "The objective of this observational study is to determine whether any single test, or a combination of tests, obtained during the first 6 months after transplantation in adults is associated with the absence of the composite endpoint at 6 months (i.e., incidence of clinically evident acute rejection, subclinical injury, graft loss, death) identifying low risk patients. Each of the proposed noninvasive monitoring test results will be assessed individually and jointly for their discriminatory ability for outcomes.",
+    "official_title": "Noninvasive Monitoring to Predict Outcome in De Novo Kidney Transplant Recipients",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 360,
+    "workspace_id": 4058,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2686",
+            "description": "Kidney transplant recipients greater than or equal to 18",
+            "name": "Adult Kidney Transplant Recipients"
+        },
+        {
+            "arm_accession": "ARM2687",
+            "description": "Kidney transplant recipients less than 18",
+            "name": "Child Kidney Transplant Recipients"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Peter",
+            "last_name": "Heeger",
+            "organization": "Mount Sinai School of Medicine, Ricanati Miller Transplant Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mount Sinai School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Standardization and cross validation of alloreactive IFN-gamma ELISPOT assays within the clinical trials in organ transplantation consortium.",
+            "journal": "Am J Transplant.",
+            "month": "Jul",
+            "year": "2013",
+            "doi": "10.1111/ajt.12286. Epub 2013 May 24.",
+            "pubmed_id": "23710568"
+        },
+        {
+            "title": "Comprehensive assessment and standardization of solid phase multiplex-bead arrays for the detection of antibodies to HLA.",
+            "journal": "Am J Transplant.",
+            "month": "Jul",
+            "year": "2013",
+            "doi": "10.1111/ajt.12287. Epub 2013 Jun 13.",
+            "pubmed_id": "23763485"
+        },
+        {
+            "title": "Multicenter evaluation of a standardized protocol for noninvasive gene expression profiling.",
+            "journal": "Am J Transplant.",
+            "month": "Jul",
+            "year": "2013",
+            "doi": "10.1111/ajt.12284.",
+            "pubmed_id": "23802725"
+        },
+        {
+            "title": "Multicenter validation of urinary CXCL9 as a risk-stratifying biomarker for kidney transplant injury.",
+            "journal": "Am J Transplant.",
+            "month": "Oct",
+            "year": "2013",
+            "doi": "10.1111/ajt.12426. Epub 2013 Aug 22.",
+            "pubmed_id": "23968332"
+        },
+        {
+            "title": "Optimization for peptide sample preparation for urine peptidomics.",
+            "journal": "Clin Proteomics.",
+            "month": "Feb",
+            "year": "2014",
+            "doi": "10.1186/1559-0275-11-7.",
+            "pubmed_id": "24568099"
+        },
+        {
+            "title": "Interferon Gamma ELISPOT Testing as a Risk-Stratifying Biomarker for Kidney Transplant Injury: Results From the CTOT-01 Multicenter Study.",
+            "journal": "Am J Transplant.",
+            "month": "Dec",
+            "year": "2015",
+            "doi": "10.1111/ajt.13401. Epub 2015 Jul 30.",
+            "pubmed_id": "26226830"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Clinical Trials in Organ Transplantation (CTOT)",
+            "contract_name": "NONINVASIVE MARKERS AND TRANSPLANT OUTCOME IN HUMANS (CTOT-01, CTOT-05)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 1232
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 3771
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 560
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 2102
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 1935
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 80
+            },
+            {
+                "race": "Other",
+                "count": 18
+            },
+            {
+                "race": "Unknown",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 180
+            }
+        ],
+        "gender": [
+            {
+                "Female": 112
+            },
+            {
+                "Male": 168
+            }
+        ]
+    }
+}

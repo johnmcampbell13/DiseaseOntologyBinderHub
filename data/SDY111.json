@@ -1,0 +1,114 @@
+{
+    "study_accession": "SDY111",
+    "actual_completion_date": null,
+    "actual_enrollment": 48,
+    "actual_start_date": "2011-01-01",
+    "age_unit": "Years",
+    "brief_description": "Healthy adults (50+ years old) with history of varicella but no history of zoster are vaccinated with Zostavax. Blood and serum are taken prior to vaccination and at several points after. A systems biology approach will be used to identify age-related decreases in immune function and potential predictors and correlates of protection.",
+    "brief_title": "VZV vaccination in the elderly SLVP020",
+    "clinical_trial": "Y",
+    "condition_studied": "Shingles (Herpes zoster)",
+    "dcl_id": 2,
+    "description": "Healthy adults (50+ years old) with history of varicella but no history of zoster are vaccinated with Zostavax. Blood and serum are taken prior to vaccination and at several points after. A systems biology approach will be used to identify age-related decreases in immune function and potential predictors and correlates of protection.",
+    "doi": "10.21430/M3ODYABDL2",
+    "endpoints": "Frequency of VZV-specific T cells in peripheral blood, titre of VZV-specific antibodies in serum, gene expression in whole blood and blood cell subsets",
+    "gender_included": "Female, Male",
+    "hypothesis": "Comparing vaccine responses in middle-aged and elderly recipients",
+    "initial_data_release_date": "2015-02-18",
+    "initial_data_release_version": "DR12",
+    "intervention_agent": "Shingles vaccine (Zostavax)",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  75.70",
+    "minimum_age": "  42.30",
+    "objectives": "Vaccinate healthy older adults, measure virus-specific immune responses following vaccination.",
+    "official_title": "VZV vaccination in the elderly",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 100,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM641",
+            "description": "Goronzy lab Varicella Zoster Virus vaccination study 2011 cohort",
+            "name": "Vaccine cohort 2011"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jorg",
+            "last_name": "Goronzy",
+            "organization": "Stanford",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "B-cell repertoire responses to varicella-zoster vaccination in human identical twins.",
+            "journal": "Proc Natl Acad Sci U S A.",
+            "month": "Jan",
+            "year": "2015",
+            "doi": "10.1073/pnas.1415875112. Epub 2014 Dec 22.",
+            "pubmed_id": "25535378"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 20
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 80
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 10
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 168
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 20
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 44
+            }
+        ],
+        "gender": [
+            {
+                "Female": 26
+            },
+            {
+                "Male": 22
+            }
+        ]
+    }
+}

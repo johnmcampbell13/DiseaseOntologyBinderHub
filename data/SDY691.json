@@ -1,0 +1,113 @@
+{
+    "study_accession": "SDY691",
+    "actual_completion_date": null,
+    "actual_enrollment": 97,
+    "actual_start_date": "2010-07-06",
+    "age_unit": "Years",
+    "brief_description": "Assay development for HLA and KIR haplotype sequencing",
+    "brief_title": "HLA and KIR Haplotype Sequencing",
+    "clinical_trial": "N",
+    "condition_studied": "HLA Genotype",
+    "dcl_id": 2,
+    "description": "Assay development for complete HLA and KIR haplotype sequencing from cell lines",
+    "doi": "10.21430/M3RES1FXTG",
+    "endpoints": "95 Cell Lines",
+    "gender_included": "Female, Male, Unknown",
+    "hypothesis": "Complete 4.8Mb HLA haplotypes can be sequenced",
+    "initial_data_release_date": "2017-01-31",
+    "initial_data_release_version": "DR20",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "    .00",
+    "minimum_age": "    .00",
+    "objectives": "Sequence HLA and KIR haplotypes from cell lines",
+    "official_title": "Insights into immune related disease born from population genomics",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2506,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3544",
+            "description": "Homozygous cells",
+            "name": "Homozygous cells"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Paul",
+            "last_name": "Norman",
+            "organization": "Stanford",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Defining KIR and HLA Class I Genotypes at Highest Resolution via High-Throughput Sequencing.",
+            "journal": "Am J Hum Genet.",
+            "month": "Aug",
+            "year": "2016",
+            "doi": "10.1016/j.ajhg.2016.06.023.",
+            "pubmed_id": "27486779"
+        },
+        {
+            "title": "Sequences of 95 human MHC haplotypes reveal extreme coding variation in genes other than highly polymorphic HLA class I and II.",
+            "journal": "Genome Res.",
+            "month": "Mar",
+            "year": "2017",
+            "doi": "10.1101/gr.213538.116. [Epub ahead of print]",
+            "pubmed_id": "28360230"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "HLA Region Genetics in Immune-mediated Diseases II",
+            "contract_name": "Insights into immune-related disease born from population genomics"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 290
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 5
+            },
+            {
+                "race": "Asian",
+                "count": 11
+            },
+            {
+                "race": "Black or African American",
+                "count": 3
+            },
+            {
+                "race": "Unknown",
+                "count": 4
+            },
+            {
+                "race": "White",
+                "count": 74
+            }
+        ],
+        "gender": [
+            {
+                "Female": 33
+            },
+            {
+                "Male": 59
+            },
+            {
+                "Unknown": 5
+            }
+        ]
+    }
+}

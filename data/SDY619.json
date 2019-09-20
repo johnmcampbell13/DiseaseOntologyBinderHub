@@ -1,0 +1,108 @@
+{
+    "study_accession": "SDY619",
+    "actual_completion_date": "2016-01-01",
+    "actual_enrollment": 150,
+    "actual_start_date": "2014-04-01",
+    "age_unit": "Years",
+    "brief_description": "Atopic dermatitis, also called eczema, is a disease in which the skin is dry and scaly with severe itching. People with atopic dermatitis have defects in the skin barrier as well as defects in the immune system which fights off skin infections. People who have atopic dermatitis often have complications from viral and bacterial skin infections, such as recurring Staphylococcus aureus (S. aureus), or Staph infections. The purpose of this study is to look at how defects in the skin barrier and immune response affect risk for skin infections. The study will compare the skin barrier and immune response of people with and without atopic dermatitis in relation to whether Staph bacteria is growing on their skin.",
+    "brief_title": "ADRN Barrier/Immunoprofiling Exploratory Pilot Study (ADRN-04)",
+    "clinical_trial": "Y",
+    "condition_studied": "Atopic Dermatitis",
+    "dcl_id": 2,
+    "description": "Atopic dermatitis, also called eczema, is a disease in which the skin is dry and scaly with severe itching. People with atopic dermatitis have defects in the skin barrier as well as defects in the immune system which fights off skin infections. People who have atopic dermatitis often have complications from viral and bacterial skin infections, such as recurring Staphylococcus aureus (S. aureus), or Staph infections. The purpose of this study is to look at how defects in the skin barrier and immune response affect risk for skin infections. The study will compare the skin barrier and immune response of people with and without atopic dermatitis in relation to whether Staph bacteria is growing on their skin.",
+    "doi": "10.21430/M384Z5ZXPI",
+    "endpoints": "The primary endpoint for this study is the area under the TEWL curve. TEWL will be assessed on non-lesional skin prior to tape stripping and repeated after 5, 10, 15, and 20 tape strips.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Increased susceptibility to cutaneous colonization and infection in Atopic dermatitis (AD) is caused by both immune dysregulation (e.g., enhanced T helper cell (Th) 2 and diminished Th1/Th17) and cutaneous barrier dysfunction.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "S. aureus",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "  60.00",
+    "minimum_age": "  18.00",
+    "objectives": "The primary objective of this study is to determine whether S. aureus colonization is related to the impairment of barrier function (barrier integrity) as assessed by TEWL pre- and post- tape stripping.",
+    "official_title": "ADRN Barrier/Immunoprofiling Exploratory Pilot Study (ADRN-04)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 180,
+    "workspace_id": 1089,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2817",
+            "description": "Atopic Dermatitis without a history of Eczema Herpeticum and without S. aureus skin colonization.",
+            "name": "ADStaph-"
+        },
+        {
+            "arm_accession": "ARM2818",
+            "description": "Atopic Dermatitis without a history of Eczema Herpeticum and with S. aureus skin colonization.",
+            "name": "ADStaph+"
+        },
+        {
+            "arm_accession": "ARM2819",
+            "description": "Non-atopic healthy participants without S. aureus skin colonization.",
+            "name": "NAStaph-"
+        },
+        {
+            "arm_accession": "ARM2820",
+            "description": "Non-atopic healthy participants with S. aureus skin colonization.",
+            "name": "NAStaph+"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Lisa",
+            "last_name": "Beck",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester Medical Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Temporal and Racial Differences Associated with Atopic Dermatitis Staphylococcusaureus and Encoded Virulence Factors.",
+            "journal": "mSphere.",
+            "month": "Dec",
+            "year": "2016",
+            "doi": "10.1128/mSphere.00295-16",
+            "pubmed_id": "27981233"
+        },
+        {
+            "title": "Altered composition of epidermal lipids correlates with Staphylococcus aureus colonization status in atopic dermatitis.",
+            "journal": "Br J Dermatol.",
+            "month": "Oct",
+            "year": "2017",
+            "doi": "10.1111/bjd.15409. Epub 2017 Sep 5.",
+            "pubmed_id": "28244066"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Atopic Dermatitis Research Network (ADRN) 2011-2015",
+            "contract_name": "Atopic Dermatitis Research Network (ADRN)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 149
+            }
+        ],
+        "gender": [
+            {
+                "Female": 95
+            },
+            {
+                "Male": 55
+            }
+        ]
+    }
+}

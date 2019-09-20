@@ -1,0 +1,97 @@
+{
+    "study_accession": "SDY645",
+    "actual_completion_date": null,
+    "actual_enrollment": 11,
+    "actual_start_date": "2014-09-03",
+    "age_unit": "Years",
+    "brief_description": "Transcriptional profiling of peripheral blood of pediatric patients with juvenile dermatomyositis (JDM) before/after vaccination with seasonal influenza vaccine (Fluzone)",
+    "brief_title": "Systems Biology Approach to Study Influenza Vaccine in Children with Autoimmunity (Juvenile Dermatomyositis JDM) 2014/2015 Cohort (see companion studies SDY369, SDY376, SDY372)",
+    "clinical_trial": "N",
+    "condition_studied": "Vaccine response in pediatric patients with juvenile dermatomyositis (JDM)",
+    "dcl_id": 2,
+    "description": "This Project will study vaccine responses in healthy and sick children. It will address the following questions: 1) which are the best biomarkers of protective immune response to influenza vaccine in healthy children; 2) how unique autoimmune backgrounds set the stage for responsiveness/unresponsiveness to vaccines; 3) whether vaccination contributes to increase the breadth of autoimmunity in a disease-specific manner. Ultimately, we expect that these studies will shed light on basic aspects of humoral immune responses to vaccines and will permit us to discover biomarkers of response that can be applied to healthy children and to the general population.",
+    "doi": "10.21430/M35HMSDTHH",
+    "endpoints": "To gain a comprehensive view of the immune alterations associated with a potent response to flu vaccination using immunological and system biology approaches.",
+    "gender_included": "Female, Male",
+    "hypothesis": "We will be able to gain a comprehensive view of the immune alterations associated with a potent response to flu vaccination using immunological and system biology approaches. Furthermore, we theorize that the efficiency of vaccination is influenced by how unique autoimmune backgrounds set the stage for responsiveness to vaccines.",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": "Seasonal influenza vaccine (Fluzone)",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  19.00",
+    "minimum_age": "   4.00",
+    "objectives": "This Project will study vaccine responses in sick children. It will address the following questions: 1) which are the best biomarkers of protective immune response to influenza vaccine (in collaboration with Dr. Ramillo's study for healthy children and here for patients with JDM); 2) how unique autoimmune backgrounds set the stage for responsiveness/unresponsiveness to vaccines; 3) whether vaccination contributes to increase the breadth of autoimmunity in a disease-specific manner. Ultimately, we expect that these studies will shed light on basic aspects of humoral immune responses to vaccines and will permit us to discover biomarkers of response that can be applied to healthy children and to the general population",
+    "official_title": "Systems Biology Approach to Study Influenza Vaccine in Children with Autoimmunity (Juvenile Dermatomyositis JDM) 2014/2015 Cohort (see companion studies SDY369, SDY376, SDY372)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2799,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2875",
+            "description": "TIV Vaccine",
+            "name": "JDM_ 2014-2015"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Virginia",
+            "last_name": "Pascual",
+            "organization": "Baylor Institute for Immunology Research",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Baylor Institute for Immunology Research"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Systems Analysis Vaccine Responses in Healthy and Hyporesponsive Humans"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 160
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 464
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 39
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 464
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 9
+            }
+        ],
+        "gender": [
+            {
+                "Female": 9
+            },
+            {
+                "Male": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "study_accession": "SDY39",
+    "actual_completion_date": "2010-04-01",
+    "actual_enrollment": 22,
+    "actual_start_date": "2009-04-01",
+    "age_unit": "Years",
+    "brief_description": "ELISPOT was used to enumerate the number of IFN gamma-secreting CD4+ peripheral blood mononuclear cells isolated from healthy naive donors following stimulation with APCs treated with peptide pools or whole virus",
+    "brief_title": "CD4+ T Cells Generated from Encounter with Seasonal Influenza Viruses and Vaccines Can Recognize Epitopes Derived from Pandemic H1N1 Virus",
+    "clinical_trial": "N",
+    "condition_studied": "healthy naive donor PBMCs stimulated with APCs treated with whole influenza virus or peptide pools",
+    "dcl_id": 2,
+    "description": "ELISPOT was used to enumerate the number of IFN gamma-secreting CD4+ peripheral blood mononuclear cells isolated from healthy naive donors following stimulation with APCs treated with peptide pools or whole virus",
+    "doi": "10.21430/M3WC8VQ7OI",
+    "endpoints": "Enumerate the number of IFN gamma-secreting CD4+ peripheral blood mononuclear cells ",
+    "gender_included": "Female, Male",
+    "hypothesis": "Seasonal Influenza Viruses and Vaccines May Recognize Epitopes Derived from Pandemic H1N1 Virus",
+    "initial_data_release_date": "2011-06-01",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": null,
+    "latest_data_release_date": "2011-06-01",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  48.00",
+    "minimum_age": "  18.00",
+    "objectives": "Seasonal Influenza Viruses and Vaccines May Recognize Epitopes Derived from Pandemic H1N1 Virus",
+    "official_title": "CD4+ T Cells Generated from Encounter with Seasonal Influenza Viruses and Vaccines Can Recognize Epitopes Derived from Pandemic H1N1 Virus",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2014,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM218",
+            "description": "Healthy adults with ages 18-50 with informed consent and biosafety committee approval",
+            "name": "ELISPOT_Cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Andrea",
+            "last_name": "Sant",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester Medical Center\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Cutting edge: CD4 T cells generated from encounter with seasonal influenza viruses and vaccines have broad protein specificity and can directly recognize naturally generated epitopes derived from the live pandemic H1N1 virus.",
+            "journal": "J Immunol.",
+            "month": "Nov",
+            "year": "2010",
+            "doi": "10.4049/jimmunol.1001395. Epub 2010  Oct 1.",
+            "pubmed_id": "20889549"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "New York Influenza Center of Excellence"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 163
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 4
+            },
+            {
+                "race": "White",
+                "count": 15
+            }
+        ],
+        "gender": [
+            {
+                "Female": 13
+            },
+            {
+                "Male": 9
+            }
+        ]
+    }
+}

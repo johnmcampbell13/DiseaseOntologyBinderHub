@@ -1,0 +1,105 @@
+{
+    "study_accession": "SDY671",
+    "actual_completion_date": null,
+    "actual_enrollment": 20,
+    "actual_start_date": "2003-11-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to test the safety and effectiveness of alemtuzumab in combination with sirolimus and tacrolimus, to prevent organ rejection after kidney transplantation. This study will test whether the medications allow patients to withdraw from antirejection medications",
+    "brief_title": "Knechtle ITN013ST: Combination Immunosuppressive Therapy to Prevent Kidney Transplant Rejection in Adults",
+    "clinical_trial": "Y",
+    "condition_studied": "Kidney transplantation",
+    "dcl_id": 2,
+    "description": "This study will evaluate the effects of intravenous (IV) alemtuzumab and oral sirolimus and tacrolimus after kidney transplantation. The study will also evaluate this regimen's potential to allow eventual discontinuation of components of long-term immunosuppressive therapy.  Study duration will be 4 years. Participants will undergo kidney transplantation on Day 0, receive IV doses of alemtuzumab, acetaminophen, and diphenhydramine on Days 0, 1, and 2, as well as methylprednisolone on Day 0. Patients will receive up to 10 days of valganciclovir or acyclovir post transplant. Daily oral doses of tacrolimus will contiue for 60 days and sirolimus daily by mouth for at least 12 months after transplant. Participants will take sulfamethoxazole-trimethoprim 3 times a week, valganciclovir or acyclovir for up to 10 days post-transplant, and clotrimazole or nystatin by mouth for at least 3 months post-transplant. Sixty-to study visits are planned to be spread out over 4 years post transplant. Sirolimus withdrawal process will occur over a minimum of 3 months at an approximate rate of 33% of the pre-withdrawal dose per month. Participants eligible for sirolimus withdrawal will undergo several kidney biopsies, including one 2 weeks prior to the start of withdrawal, 6 and 12 months after completion of withdrawal, 1 year after study enrollment, and annually thereafter.",
+    "doi": "10.21430/M38BB6XTX9",
+    "endpoints": "Number of acute rejections in all participants over 4 years, number of acute rejections following treatment withdrawal, number of acute rejections between treatment withdrawal and end of study",
+    "gender_included": "Female, Male",
+    "hypothesis": "A new strategy of immunosuppression using alemtuzumab, tacrolimus, and sirolimus for human renal transplantation will permit a step-wise withdrawal from immunosuppressive drugs",
+    "initial_data_release_date": "2015-12-14",
+    "initial_data_release_version": "DR16",
+    "intervention_agent": "Alemtuzumab, sirolimus, tacrolimus, methylprednisone",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "  56.00",
+    "minimum_age": "  28.00",
+    "objectives": "Investigate the safety and efficacy of a treatment regimen consisting of induction therapy with Campath-1H (alemtuzumab) and tacrolimus, followed by sirolimus monotherapy in renal transplant patients and to evaluate the regimen's potential to enable eventual discontinuation of long-term immunosuppressive therapy",
+    "official_title": "Campath-1H/Tacrolimus/Sirolimus Withdrawal in Renal Transplantation (ITN013ST)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 10,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2940",
+            "description": "Treatment with Alemtuzumab, sirolimus, tacrolimus post kidney transplant",
+            "name": "Alemtuzumab treatment"
+        },
+        {
+            "arm_accession": "ARM3941",
+            "description": "Renal transplant donors with 0-3 HLA antigen mismatch",
+            "name": "Donor"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Stuart",
+            "last_name": "Knechtle",
+            "organization": "Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Immune Tolerance Network"
+        },
+        {
+            "first_name": "Arjang",
+            "last_name": "Djamali",
+            "organization": "University of Wisconsin, Madison",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Immune Tolerance Network"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Early and limited use of tacrolimus to avoid rejection in an alemtuzumab and sirolimus regimen for kidney transplantation: clinical results and immune monitoring.",
+            "journal": "Am J Transplant.",
+            "month": "May",
+            "year": "2009",
+            "doi": "10.1111/j.1600-6143.2009.02581.x. Epub 2009 Mar 16.",
+            "pubmed_id": "19344431"
+        },
+        {
+            "title": "Longitudinal studies of a B cell-derived signature of tolerance in renal transplant recipients.",
+            "journal": "Am J Transplant.",
+            "month": "Nov",
+            "year": "2015",
+            "doi": "10.1111/ajt.13480. Epub 2015 Oct 13.",
+            "pubmed_id": "26461968"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 19
+            }
+        ],
+        "gender": [
+            {
+                "Female": 9
+            },
+            {
+                "Male": 11
+            }
+        ]
+    }
+}

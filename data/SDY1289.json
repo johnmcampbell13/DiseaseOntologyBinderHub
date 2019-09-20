@@ -1,0 +1,103 @@
+{
+    "study_accession": "SDY1289",
+    "actual_completion_date": "2009-12-31",
+    "actual_enrollment": 30,
+    "actual_start_date": "2008-11-20",
+    "age_unit": "Years",
+    "brief_description": "Immunization with YF17D leades to an integrated immune response.",
+    "brief_title": "YFV integrated mulitlineage and polyfunctional responses",
+    "clinical_trial": "N",
+    "condition_studied": "yellow fever vaccine 17 D followed up to 1 yr after vaccination",
+    "dcl_id": 2,
+    "description": "Correlates of immune-mediated protection to most viral and cancer vaccines are still unknown. This impedes the development of novel vaccines to incurable diseases such as HIV and cancer. In this study, we have used functional genomics and polychromatic flow cytometry to define the signature of the immune response to the yellow fever (YF) vaccine 17D (YF17D) in a cohort of 40 volunteers followed for up to 1 yr after vaccination. We show that immunization with YF17D leads to an integrated immune response that includes several effector arms of innate immunity, including complement, the inflammasome, and interferons, as well as adaptive immunity as shown by an early T cell response followed by a brisk and variable B cell response. Development of these responses is preceded, as demonstrated in three independent vaccination trials and in a novel in vitro system of primary immune responses (modular immune in vitro construct [MIMIC] system), by the coordinated up-regulation of transcripts for specific transcription factors, including STAT1, IRF7, and ETS2, which are upstream of the different effector arms of the immune response. These results clearly show that the immune response to a strong vaccine is preceded by coordinated induction of master transcription factors that lead to the development of a broad, polyfunctional, and persistent immune response that integrates all effector cells of the immune system. peripheral blood samples from human newborns",
+    "doi": "10.21430/M37CO9E6FQ",
+    "endpoints": "expression profiles",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "Innate immunity, which is known to shape the development of adaptive immune responses, could also contribute to vaccine-mediated protection through mechanisms yet to be defined.",
+    "initial_data_release_date": "2018-07-06",
+    "initial_data_release_version": "DR27",
+    "intervention_agent": "Sanofi-Pasteur 17D-204 live-attenuated YF virus vaccine YF-Vax (Montreal and Emory cohort) and Stamaril (Lausanne cohort)",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  65.00",
+    "minimum_age": "  18.00",
+    "objectives": "we have used a systems biology approach combined with multiparametric flow cytometry and a novel in vitro system of primary immune responses (VaxDesign's modular immune in vitro construct [MIMIC] co-culture system), to identify the emerging protective immune response induced in humans by vaccination with YF17D, in an effort to unravel the correlates of protection conferred by one of the most potent vaccines ever generated.",
+    "official_title": "Yellow fever vaccine induces integrated multilineage and polyfunctional immune responses.",
+    "sponsoring_organization": "Genome Canada, Genome Quebec, the Canadian Network for Vaccines and Immunotherapeutics (CANVAC), the Institut National de la Sante et de la Recherche Medicale (INSERM), and the IAVI Innovation Fund",
+    "target_enrollment": 40,
+    "workspace_id": 6133,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4455",
+            "description": "in vivo vaccination study volunteers from Centre Hospitalier de l'Universite de Montreal",
+            "name": "in vivo vaccination study Montreal adult cohort"
+        },
+        {
+            "arm_accession": "ARM4456",
+            "description": "in vivo vaccination study volunteers from the Faculty of Biology and Medicine of the University of Lausanne",
+            "name": "in vivo vaccination study Lausanne adult cohort"
+        },
+        {
+            "arm_accession": "ARM4457",
+            "description": "in vitro system mimicing (VaxDesign Mimic experiment) the environment in a lymph node from purified CD4+ T-cells and autologus DC from 3 different donors, YF17D stimulated and unstimulated control samples were analyzed on day 0,3 and 7 after the start of co culturing of T-Cells and DC",
+            "name": "in vitro system mimicing (VaxDesign Mimic experiment) lymph node"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Rafick-Pierre",
+            "last_name": "Sekaly",
+            "organization": "McGill University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Department of Microbiology and Immunology, McGill University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Yellow fever vaccine induces integrated multilineage and polyfunctional immune responses.",
+            "journal": "J Exp Med",
+            "month": "December",
+            "year": "2008",
+            "doi": "10.1084/jem.20082292",
+            "pubmed_id": "19047440"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Other Programs",
+            "contract_name": "Canadian Network for Vaccines and Immunotherapeutics (CANVAC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Neutralizing Antibody Titer Assay",
+            "number_of_expsamples": 160
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 142
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 30
+            }
+        ],
+        "gender": [
+            {
+                "Female": 22
+            },
+            {
+                "Male": 5
+            },
+            {
+                "Not Specified": 3
+            }
+        ]
+    }
+}

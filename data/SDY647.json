@@ -1,0 +1,74 @@
+{
+    "study_accession": "SDY647",
+    "actual_completion_date": null,
+    "actual_enrollment": 6,
+    "actual_start_date": "2010-04-01",
+    "age_unit": "Months",
+    "brief_description": "Age-associated decline in immunity to infection has been documented",
+    "brief_title": "Age-associated alterations in CD8a+ dendritic cells impair CD8",
+    "clinical_trial": "N",
+    "condition_studied": "CD8 T cell priming in mice",
+    "dcl_id": 2,
+    "description": "Age-associated decline in immunity to infection has been documented\n",
+    "doi": "10.21430/M3J0S60RL6",
+    "endpoints": "FCM, challenge, cell transfer, FLT3-ligand treatment",
+    "gender_included": "Male",
+    "hypothesis": "T cell-extrinsic factors contribute to the waning of immune responses with age",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": null,
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "  22.00",
+    "minimum_age": "   3.00",
+    "objectives": "Understanding the totality of age-related changes in immunity, including",
+    "official_title": "Age-associated alterations in CD8a+ dendritic cells impair CD8",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3365,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2880",
+            "description": "2-3 months old C57BL/6 mice",
+            "name": "Li_Smithey_AgingCell_2012_Adult"
+        },
+        {
+            "arm_accession": "ARM2881",
+            "description": "18-22 months old C57BL/6 mice",
+            "name": "Li_Smithey_AgingCell_2012_Old"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Janko",
+            "last_name": "Nikolich",
+            "organization": "University of Arizona",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Arizona Center on Aging"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Age-associated alterations in CD8?+ dendritic cells impair CD8 T-cell expansion in response to an intracellular bacterium.",
+            "journal": "Aging Cell.",
+            "month": "Dec",
+            "year": "2012",
+            "doi": "10.1111/j.1474-9726.2012.00867.x. Epub 2012 Aug 30.",
+            "pubmed_id": "22862959"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Immunological basis of age-related vulnerability in biodefense and emerging infections SP2 UAz"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

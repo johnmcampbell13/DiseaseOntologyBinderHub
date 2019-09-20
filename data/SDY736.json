@@ -1,0 +1,126 @@
+{
+    "study_accession": "SDY736",
+    "actual_completion_date": null,
+    "actual_enrollment": 393,
+    "actual_start_date": "2015-04-21",
+    "age_unit": "Years",
+    "brief_description": "Delineate the effect of aging from that of cytomegalovirus (CMV) infection upon relative and absolute changes in blood T cell subsets.",
+    "brief_title": "Human Aging and CMV",
+    "clinical_trial": "N",
+    "condition_studied": "Aging and cytomegalovirus infection differentially and jointly affect distinct circulating T cell subsets in humans",
+    "dcl_id": 2,
+    "description": "Delineate the effect of aging from that of cytomegalovirus (CMV) infection upon relative and absolute changes in blood T cell subsets using a cohort of 391 individuals ranging in age from 21-101yrs, seperated into two subgroups based on serological CMV status.",
+    "doi": "10.21430/M3736K8GMY",
+    "endpoints": "Flow cytometry for Tcell phenotype, ELISA for CMV serology",
+    "gender_included": "Female, Male, Unknown",
+    "hypothesis": "Aging and CMV infeciton affect absolute numbers of T cell subsets.",
+    "initial_data_release_date": "2015-12-14",
+    "initial_data_release_version": "DR16",
+    "intervention_agent": null,
+    "latest_data_release_date": "2015-12-14",
+    "latest_data_release_version": "DR16",
+    "maximum_age": "  90.00",
+    "minimum_age": "  21.06",
+    "objectives": "Determine the distinct roles of chronological aging as well as prior CMV infection on the absolute changes in blood T cell subsets.",
+    "official_title": "Aging and cytomegalovirus infection differentially and jointly affect distinct circulating T cell subsets in humans",
+    "sponsoring_organization": "NIAID, Bowman Trust",
+    "target_enrollment": 391,
+    "workspace_id": 3366,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3054",
+            "description": "These donors were found to be seropositive for cytomegalo virus (CMV)",
+            "name": "CMV positive"
+        },
+        {
+            "arm_accession": "ARM3055",
+            "description": "These donors were found to be sero-negative for cytomegalo virus (CMV)",
+            "name": "CMV negative"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Janko",
+            "last_name": "Nikolich-Zugich",
+            "organization": "University of Arizona",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Arizona"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Aging and cytomegalovirus infection differentially and jointly affect distinct circulating T cell subsets in humans.",
+            "journal": "J Immunol.",
+            "month": "Mar",
+            "year": "2014",
+            "doi": "10.4049/jimmunol.1301721. Epub 2014 Feb 5.",
+            "pubmed_id": "24501199"
+        },
+        {
+            "title": "Human memory T cells with a naive phenotype accumulate with aging and respond to persistent viruses.",
+            "journal": "Nat Immunol.",
+            "month": "Aug",
+            "year": "2016",
+            "doi": "10.1038/ni.3483. Epub 2016 Jun 6.",
+            "pubmed_id": "27270402"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Immunological basis of age-related vulnerability in biodefense and emerging infections SP2 UAz"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 503
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 4
+            },
+            {
+                "race": "Asian",
+                "count": 4
+            },
+            {
+                "race": "Black or African American",
+                "count": 12
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 6
+            },
+            {
+                "race": "Unknown",
+                "count": 10
+            },
+            {
+                "race": "White",
+                "count": 356
+            }
+        ],
+        "gender": [
+            {
+                "Female": 242
+            },
+            {
+                "Male": 150
+            },
+            {
+                "Unknown": 1
+            }
+        ]
+    }
+}

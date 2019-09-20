@@ -1,0 +1,118 @@
+{
+    "study_accession": "SDY951",
+    "actual_completion_date": "2013-03-29",
+    "actual_enrollment": 108,
+    "actual_start_date": "2009-07-01",
+    "age_unit": "Years",
+    "brief_description": "This is a multi-center, prospective, observational cohort study in pediatric renal transplant recipients. Target accrual in this study is 75 subjects over 2 years. Enrolled subjects will be categorized based on pre-enrollment CMV and EBV serology testing and be placed in the viral positive group, viral negative group, or split serology group. Subjects in the split serology group will not count towards study accrual target but will be included in analyses. CMV and EBV serology tests obtained for transplant evaluation will be collected retrospectively and used to categorize subjects. Subjects with previously negative serologies but later have positive serology results as indicated by testing on day of transplantation will be placed into the viral positive group. Subjects will have 6 study visits over 12 months as participants in this study.",
+    "brief_title": "Immune Development in Pediatric Transplantation (CTOTC-02)",
+    "clinical_trial": "Y",
+    "condition_studied": "Pediatric Renal Transplantation",
+    "dcl_id": 2,
+    "description": "This is a multi-center, prospective, observational cohort study in pediatric renal transplant recipients. Target accrual in this study is 75 subjects over 2 years. Enrolled subjects will be categorized based on pre-enrollment CMV and EBV serology testing and be placed in the viral positive group, viral negative group, or split serology group. Subjects in the split serology group will not count towards study accrual target but will be included in analyses. CMV and EBV serology tests obtained for transplant evaluation will be collected retrospectively and used to categorize subjects. Subjects with previously negative serologies but later have positive serology results as indicated by testing on day of transplantation will be placed into the viral positive group. Subjects will have 6 study visits over 12 months as participants in this study.",
+    "doi": "10.21430/M3G5NIT3NL",
+    "endpoints": "The primary clinical endpoint is the incidence of biopsy proven and treated (steroid pulse, taper, immunosuppressant medication changes) acute rejection Banff grade borderline or higher at 6 months after transplantation. The secondary clinical endpoints are the incidence of treated, clinically suspected rejection without biopsy, the incidence of biopsy proven and clinically relevant chronic allograft nephropathy, the incidence of infection and malignancy, the incidence of medication non-adherence in pediatric kidney transplant recipients as determined by the proportion of subjects missing 1 dose of immunosuppressive medication per week as measured by the brief medication questionnaire, and the clinical impact of medication non-adherence with regard to the incidence of acute and chronic rejection.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Viral exposures, genetic endowment, and behavior influence the outcome of kidney transplantation in children",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": null,
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "  20.00",
+    "minimum_age": "   1.00",
+    "objectives": "The primary objective of this study is to examine the relationship between T cell memory and the risk of rejection in the first year after pediatric renal transplantation. The incidence of acute rejection will be evaluated for its relationship with peripheral T cell memory phenotype in general, and for its relationship with viral (CMV and EBV)-specific T cell memory in particular. The secondary objectives are to determine whether non-adherence can be detected prospectively and if so whether it has prognostic significance for rejection, the peripheral phenotype of T cells in children undergoing transplantation as determined by multi-parameter flow cytometry (MFC), and whether this changes with time and clinical circumstance, whether viral specific T cells have alloreactivity, a transcriptional profile for blood, biopsy and urine and relate it to outcome and T cell reactivity for alloantigen and viral antigens, the incidence of formation of anti-donor antibodies and relate it to T cell phenotype, and whether surrogate markers can be identified for transplant rejection.",
+    "official_title": "Immune Development and Alloimmunity in Pediatric Renal Transplant Recipients",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 75,
+    "workspace_id": 5882,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3484",
+            "description": "Pediatric Renal Transplant Recipients",
+            "name": "Pediatric Renal Transplant Recipients"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Allan",
+            "last_name": "Kirk",
+            "organization": "Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Optimization for peptide sample preparation for urine peptidomics.",
+            "journal": "Clin Proteomics.",
+            "month": "Feb",
+            "year": "2014",
+            "doi": "10.1186/1559-0275-11-7.",
+            "pubmed_id": "24568099"
+        },
+        {
+            "title": "Relationship Among Viremia/Viral Infection, Alloimmunity, and Nutritional Parameters in the First Year After Pediatric Kidney Transplantation.",
+            "journal": "Am J Transplant.",
+            "month": "Jun",
+            "year": "2017",
+            "doi": "10.1111/ajt.14169",
+            "pubmed_id": "27989013"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Clinical Trials in Organ Transplantation in Children (CTOT-C) RFA-AI-12-005",
+            "contract_name": "DEVELOPMENT OF TRANSPLANT STRATEGIES UNIQUELY RESPONSIVE TO THE NEEDS OF CHILDREN (CTOTC-02)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 424
+        },
+        {
+            "measurement_technique": "Protein microarray",
+            "number_of_expsamples": 40
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 79
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 10
+            },
+            {
+                "race": "Black or African American",
+                "count": 14
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 5
+            },
+            {
+                "race": "White",
+                "count": 78
+            }
+        ],
+        "gender": [
+            {
+                "Female": 37
+            },
+            {
+                "Male": 71
+            }
+        ]
+    }
+}

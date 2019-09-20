@@ -1,0 +1,145 @@
+{
+    "study_accession": "SDY289",
+    "actual_completion_date": null,
+    "actual_enrollment": 8922,
+    "actual_start_date": "2007-08-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study was to establish a multi-center kidney donor database containing renal failure, cardiovascular and overall mortality information for the complete cohorts of kidney donors who underwent living donor uninephrectomy.",
+    "brief_title": "Live Kidney Donor Study (RELIVE-01)",
+    "clinical_trial": "Y",
+    "condition_studied": "Kidney Transplantation",
+    "dcl_id": 2,
+    "description": "The purpose of this study was to establish a multi-center kidney donor database containing renal failure, cardiovascular and overall mortality information for the complete cohorts of kidney donors who underwent living donor uninephrectomy. ",
+    "doi": "10.21430/M3DM0S6FPM",
+    "endpoints": "The primary endpoints of this study are:<ol><li>Overall mortality</li><li>Cause-specific mortality</li><li>End stage renal disease (ESRD) defined as a composite endpoint of initiation of dialysis, listing for kidney transplantation or receipt of kidney transplantation</li></ol>The secondary endpoints of this study are:<ol><li>Cardiovascular and renal morbidity following donor nephrectomy</li><li>Six-month incidence of adverse events (to be defined) following donor nephrectomy for live donors after a date to be determined</li></ol>",
+    "gender_included": "Female, Male",
+    "hypothesis": "Overall mortality rates, cardiovascular mortality rates, and incidence of end stage renal disease of subjects who underwent living donor uninephrectomy are similar to expected age-, sex- and race-specific rates in the general US population.",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": null,
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "  77.00",
+    "minimum_age": "  15.00",
+    "objectives": "To compare the observed rates of overall mortality, cardiac-specific mortality, end stage renal disease to expected rates from the age-, sex- and race-specific US population, and to identify predictors of mortality in kidney donors who underwent living donor uninephrectomy.",
+    "official_title": "Live Kidney Donor Study (RELIVE-01)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3546,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2091",
+            "description": "People who donated a kidney at University of Alabama at Birmingham,  University of Minnesota, or Mayo Clinic from August 2007 until June 2011",
+            "name": "Living Kidney Donors"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Sandra",
+            "last_name": "Taler",
+            "organization": "Division of Nephrology and Hypertension, Mayo Clinic",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mayo Clinic"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Living donor age and kidney transplant outcomes.",
+            "journal": "Am J Transplant.",
+            "month": "Jun",
+            "year": "2011",
+            "doi": "10.1111/j.1600-6143.2011.03552.x. Epub 2011 May 12.",
+            "pubmed_id": "21564530"
+        },
+        {
+            "title": "Demographic, metabolic, and blood pressure characteristics of living kidney donors spanning five decades.",
+            "journal": "Am J Transplant.",
+            "month": "Feb",
+            "year": "2013",
+            "doi": "10.1111/j.1600-6143.2012.04321.x. Epub 2012 Nov 8.",
+            "pubmed_id": "23137211"
+        },
+        {
+            "title": "Health-related quality of life in kidney donors from the last five decades: results from the RELIVE study.",
+            "journal": "Am J Transplant.",
+            "month": "Nov",
+            "year": "2013",
+            "doi": "10.1111/ajt.12434. Epub 2013 Sep 6.",
+            "pubmed_id": "24011252"
+        },
+        {
+            "title": "Satisfaction With Life Among Living Kidney Donors: A RELIVE Study of Long-Term Donor Outcomes.",
+            "journal": "Transplantation.",
+            "month": "Dec",
+            "year": "2014",
+            "doi": "10.1097/TP.0000000000000360.",
+            "pubmed_id": "25136843"
+        },
+        {
+            "title": "Emotional well-being of living kidney donors: findings from the RELIVE Study.",
+            "journal": "Am J Transplant.",
+            "month": "Nov",
+            "year": "2014",
+            "doi": "10.1111/ajt.12906. Epub 2014 Oct 7.",
+            "pubmed_id": "25293374"
+        },
+        {
+            "title": "Emotional and Financial Experiences of Kidney Donors over the Past 50 Years: The RELIVE Study.",
+            "journal": "Clin J Am Soc Nephrol.",
+            "month": "Dec",
+            "year": "2015",
+            "doi": "10.2215/CJN.07120714. Epub 2015 Oct 13.",
+            "pubmed_id": "26463883"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "RELIVE ",
+            "contract_name": "CLINICAL OUTCOMES OF LIVE ORGAN DONORS - DATA COORDINATING CENTER "
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 89
+            },
+            {
+                "race": "Asian",
+                "count": 78
+            },
+            {
+                "race": "Black or African American",
+                "count": 841
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 4
+            },
+            {
+                "race": "Other",
+                "count": 29
+            },
+            {
+                "race": "Unknown",
+                "count": 162
+            },
+            {
+                "race": "White",
+                "count": 7719
+            }
+        ],
+        "gender": [
+            {
+                "Female": 5023
+            },
+            {
+                "Male": 3899
+            }
+        ]
+    }
+}

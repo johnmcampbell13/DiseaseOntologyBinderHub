@@ -1,0 +1,103 @@
+{
+    "study_accession": "SDY746",
+    "actual_completion_date": "2012-12-28",
+    "actual_enrollment": 115,
+    "actual_start_date": "2010-01-01",
+    "age_unit": "Years",
+    "brief_description": "Innate Immune Pathways in Elderly and Immunosuppressed Populations",
+    "brief_title": "Innate Immune Pathways in Elderly and Immunosuppressed Populations 2012",
+    "clinical_trial": "N",
+    "condition_studied": "Aging, immunosuppression (Rheumatoid Arthritis)",
+    "dcl_id": 1,
+    "description": "Innate Immune Pathways in Elderly and Immunosuppressed Populations",
+    "doi": "10.21430/M3E3ZNTJ56",
+    "endpoints": "Enrollment of sufficient subjects to achieve statistically significantly experimental results.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Age, functional status as manifested by frailty, and immunosuppressive medications will alter Nod-like receptor (NLR) and/or Rig-I like receptor (RLR) function.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Influenza vaccine",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "  90.00",
+    "minimum_age": "  21.00",
+    "objectives": "Define consequences of aging, functional status, and immunosuppression on NLR and RLR expression and function. Define mechanisms of immune dysregulation that reduce vaccine responsiveness and resistance to infection.",
+    "official_title": "Innate Immune Pathways in Elderly and Immunosuppressed Populations 2012",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 100,
+    "workspace_id": 2550,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3072",
+            "description": "Young adults 21-30 years old",
+            "name": "Young"
+        },
+        {
+            "arm_accession": "ARM3073",
+            "description": "Older adults >= 65 years old",
+            "name": "Old"
+        },
+        {
+            "arm_accession": "ARM3074",
+            "description": "Individuals age > 21 with Rheumatoid Arthritis (RA) who satisfy the 1987 American College of Rheumatology revised criteria for RA",
+            "name": "Immunosuppressed"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Erol",
+            "last_name": "Fikrig",
+            "organization": "Yale",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Yale"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Innate Immune Pathways in Elderly and Immunosuppressed Populations SP2 Yale"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 195
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 12
+            },
+            {
+                "race": "Black or African American",
+                "count": 6
+            },
+            {
+                "race": "Other",
+                "count": 2
+            },
+            {
+                "race": "Unknown",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 93
+            }
+        ],
+        "gender": [
+            {
+                "Female": 70
+            },
+            {
+                "Male": 45
+            }
+        ]
+    }
+}

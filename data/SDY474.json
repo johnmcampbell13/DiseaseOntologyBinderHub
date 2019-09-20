@@ -1,0 +1,108 @@
+{
+    "study_accession": "SDY474",
+    "actual_completion_date": null,
+    "actual_enrollment": 57,
+    "actual_start_date": "2008-11-01",
+    "age_unit": "Years",
+    "brief_description": "This is a double-blind, multi-center, placebo controlled, Phase II study designed to assess biologic effects of 12 weeks of vitamin D3 supplementation on patients with well-controlled stable systemic lupus erythematosus who have low serum levels of 25-OH vitamin D and an IFN alpha signature.",
+    "brief_title": "Vitamin D3 in Systemic Lupus Erythematosus (ALE02)",
+    "clinical_trial": "Y",
+    "condition_studied": "Systemic Lupus Erythematosus",
+    "dcl_id": 2,
+    "description": "This is a double-blind, multi-center, placebo controlled, Phase II study designed to assess biologic effects of 12 weeks of vitamin D3 supplementation on patients with well-controlled stable systemic lupus erythematosus who have low serum levels of 25-OH vitamin D and an IFN alpha signature.",
+    "doi": "10.21430/M30T59MPBU",
+    "endpoints": "The primary safety endpoint of this study is to measure the proportion of subjects in each study arm experiencing any adverse event > Grade 3 (NCI-CTCAE) over the duration of follow-up. This study is not designed to assess efficacy, but the impact of vitamin D repletion on clinical",
+    "gender_included": "Female, Male",
+    "hypothesis": "The proportion of subjects experiencing an IFN alpha signature response at Week 12 will be greater in the group supplemented with vitamin D3 compared to the group treated with placebo. A positive IFN alpha signature response for an individual is defined as a 50% decrease in expression of one IFN alpha responsive gene or a 25% decrease of two IFN alpha responsive genes, and no increase (of at least 25%) of the other IFN alpha inducible genes being assayed.",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": "Vitamin D3",
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "  64.00",
+    "minimum_age": "  18.00",
+    "objectives": "The primary objective of this study is to explore the impact of vitamin D3 supplementation on the expression of an IFNalpha signature",
+    "official_title": "ALE02 - Effect of Vitamin D3 on the IFN alpha Signature in Patients with Systemic Lupus Erythematosus",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 57,
+    "workspace_id": 4040,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2514",
+            "description": "vitamin D3 4000 IU per day",
+            "name": "4000 IU Vitamin D"
+        },
+        {
+            "arm_accession": "ARM2515",
+            "description": "vitamin D3 2000 IU per day",
+            "name": "2000 IU Vitamin D"
+        },
+        {
+            "arm_accession": "ARM2516",
+            "description": "placebo",
+            "name": "Placebo"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Cynthia",
+            "last_name": "Aranow",
+            "organization": "Feinstein Institute for Medical Research NS-LIJ Health System",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Feinstein Institute for Medical Research NS-LIJ Health System"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Randomized, Double-Blind, Placebo-Controlled Trial of the Effect of Vitamin D3 on the Interferon Signature in Patients With Systemic Lupus Erythematosus.",
+            "journal": "Arthritis Rheumatol.",
+            "month": "Jul",
+            "year": "2015",
+            "doi": "10.1002/art.39108.",
+            "pubmed_id": "25777546"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Autoimmunity Centers of Excellence (ACE) AI-12-060, AI-12-059",
+            "contract_name": "EFFECT OF VITAMIN D3 ON THE IFNA SIGNATURE IN PATIENTS WITH LUPUS (ALE02)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 162
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "Black or African American",
+                "count": 32
+            },
+            {
+                "race": "Other",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 20
+            }
+        ],
+        "gender": [
+            {
+                "Female": 54
+            },
+            {
+                "Male": 3
+            }
+        ]
+    }
+}

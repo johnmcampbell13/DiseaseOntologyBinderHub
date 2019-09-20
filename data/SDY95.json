@@ -1,0 +1,171 @@
+{
+    "study_accession": "SDY95",
+    "actual_completion_date": null,
+    "actual_enrollment": 499,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "The antibody response to influenza infection is largely dependent on CD4 T cell help for B cells. Cognate signals and secreted factors provided by CD4 T cells drive B cell activation and regulate antibody isotype switching for optimal antiviral activity. Recently, we analyzed HLA-DR1 transgenic (DR1) mice and C57BL/10 (B10) mice after infection with influenza virus A/New Caledonia/20/99 (NC) and defined epitopes recognized by virus-specific CD4 T cells. Using this information in the current study, we demonstrate that the pattern of secretion of IL-2, IFN-g, and IL-4 by CD4 T cells activated by NC infection is largely independent of epitope specificity and the magnitude of the epitope-specific response. Interestingly, however, the characteristics of the virus-specific CD4 T cell and the B cell response to NC infection differed in DR1 and B10 mice. The response in B10 mice featured predominantly IFN-g-secreting CD4 T cells and strong IgG2b/IgG2c production. In contrast, in DR1 mice most CD4 T cells secreted IL-2 and IgG production was IgG1-biased. Infection of DR1 mice with influenza PR8 generated a response that was comparable to that in B10 mice, with predominantly IFN-g-secreting CD4 T cells and greater numbers of IgG2c than IgG1 antibody-secreting cells. The response to intramuscular vaccination with inactivated NC was similar in DR1 and B10 mice; the majority of CD4 T cells secreted IL-2 and most IgG antibody-secreting cells produced IgG2b or IgG2c. Our findings identify inherent host influences on characteristics of the virus-specific CD4 T cell and B cell responses that are restricted to the lung environment. Furthermore, we show that these host influences are substantially modulated by the type of infecting virus via the early induction of innate factors. Our findings emphasize the importance of immunization strategy for demonstrating inherent host differences in CD4 T cell and B cell responses.",
+    "brief_title": "Host Differences in influenza-specific CD4 T cell and B cell responses are modulated by viral strain and route of immunization",
+    "clinical_trial": "N",
+    "condition_studied": "CD4 Tcell and B cell responses in B10 and HLA-DR1 transgenic mice",
+    "dcl_id": 2,
+    "description": "The antibody response to influenza infection is largely dependent on CD4 T cell help for B cells. Cognate signals and secreted factors provided by CD4 T cells drive B cell activation and regulate antibody isotype switching for optimal antiviral activity. Recently, we analyzed HLA-DR1 transgenic (DR1) mice and C57BL/10 (B10) mice after infection with influenza virus A/New Caledonia/20/99 (NC) and defined epitopes recognized by virus-specific CD4 T cells. Using this information in the current study, we demonstrate that the pattern of secretion of IL-2, IFN-g, and IL-4 by CD4 T cells activated by NC infection is largely independent of epitope specificity and the magnitude of the epitope-specific response. Interestingly, however, the characteristics of the virus-specific CD4 T cell and the B cell response to NC infection differed in DR1 and B10 mice. The response in B10 mice featured predominantly IFN-g-secreting CD4 T cells and strong IgG2b/IgG2c production. In contrast, in DR1 mice most CD4 T cells secreted IL-2 and IgG production was IgG1-biased. Infection of DR1 mice with influenza PR8 generated a response that was comparable to that in B10 mice, with predominantly IFN-g-secreting CD4 T cells and greater numbers of IgG2c than IgG1 antibody-secreting cells. The response to intramuscular vaccination with inactivated NC was similar in DR1 and B10 mice; the majority of CD4 T cells secreted IL-2 and most IgG antibody-secreting cells produced IgG2b or IgG2c. Our findings identify inherent host influences on characteristics of the virus-specific CD4 T cell and B cell responses that are restricted to the lung environment. Furthermore, we show that these host influences are substantially modulated by the type of infecting virus via the early induction of innate factors. Our findings emphasize the importance of immunization strategy for demonstrating inherent host differences in CD4 T cell and B cell responses.",
+    "doi": "10.21430/M3HHUFK741",
+    "endpoints": "The following assays were applied: 1) Cytokine ELISpot assay; 2) B cell ELISpot assay; 3) Ab ELISA; 4) Multiplex analysis for cytokines and chemokines & Cytokine ELISA; 5) TCID50 titration of infectious virus",
+    "gender_included": "Unknown",
+    "hypothesis": "The current study was undertaken to relate the specificity and frequency of CD4 T cells induced by infection with influenza A/New Caledonia/20/99 (NC) in DR1 mice with the secretion of IL-2, IFN-g and IL-4. Surprisingly, the pattern of secreted cytokines was inconsistent with the expected Th1-polarized response and included a relatively high proportion of IL-4-secretors among the specific CD4 T cells. This prompted us to extend the work by examining a conventional mouse strain with a defined NC-specific CD4 T cell repertoire. We also conducted a parallel analysis of the influenza-specific B cell response, since this is modulated by the character of the CD4 T cell response.",
+    "initial_data_release_date": "2013-09-30",
+    "initial_data_release_version": "DR4",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-09-30",
+    "latest_data_release_version": "DR4",
+    "maximum_age": "   8.00",
+    "minimum_age": "   8.00",
+    "objectives": "Measurements were made of: 1) The frequencies of virus-specific CD4 T cells secreting IL-2, IFN-?, and IL-4; 2) The frequencies of virus-specific Ab-secreting cells; 3) Serum levels of virus-specific Abs; 4) Concentrations of cytokines and chemokines in lung homogenates; 5) Viral titers in lung homogenates",
+    "official_title": "Host differences in Influenza-specific CD4 T cell and B cell responses are modulated by viral strain and route of Immunization",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2014,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM590",
+            "description": "B10.M/J-TgN-DR1 mice immunized intranasally with influenza A/New Caledonia/20/99",
+            "name": "DR1_IN.NC"
+        },
+        {
+            "arm_accession": "ARM591",
+            "description": "B10.M/J-TgN-DR1 mice immunized intranasally with higher dose of influenza A/New Caledonia/20/100",
+            "name": "DR1_IN.NC.Hi"
+        },
+        {
+            "arm_accession": "ARM592",
+            "description": "B10.M/J-TgN-DR1 mice immunized intranasally with influenza A/Puerto Rico/8/34",
+            "name": "DR1_IN.PR8"
+        },
+        {
+            "arm_accession": "ARM593",
+            "description": "B10.M/J-TgN-DR1 mice immunized intranasally with influenza A/HK/X31",
+            "name": "DR1_IN.X31"
+        },
+        {
+            "arm_accession": "ARM594",
+            "description": "B10.M/J-TgN-DR1 mice immunized intranasally with MHV68",
+            "name": "DR1_IN.MHV68"
+        },
+        {
+            "arm_accession": "ARM595",
+            "description": "B10.M/J-TgN-DR1 mice immunized intranasally with both influenza A/New Caledonia/20/99 and MHV68",
+            "name": "DR1_IN.NC+MHV68"
+        },
+        {
+            "arm_accession": "ARM596",
+            "description": "B10.M/J-TgN-DR1 mice mock immunized with PBS",
+            "name": "DR1_IN.MOCK"
+        },
+        {
+            "arm_accession": "ARM597",
+            "description": "Uninfected B10.M/J-TgN-DR1",
+            "name": "DR1"
+        },
+        {
+            "arm_accession": "ARM598",
+            "description": "B10.M/J-TgN-DR1 mice immunized intramuscularly",
+            "name": "DR1_IM.NC"
+        },
+        {
+            "arm_accession": "ARM599",
+            "description": "C57BL/10J mice immunized intranasally with influenza A/New Caledonia/20/99",
+            "name": "B10_IN.NC"
+        },
+        {
+            "arm_accession": "ARM600",
+            "description": "C57BL/10J mice immunized intranasally with higher dose of influenza A/New Caledonia/20/100",
+            "name": "B10_IN.NC.Hi"
+        },
+        {
+            "arm_accession": "ARM601",
+            "description": "C57BL/10J mice immunized intranasally with influenza A/Puerto Rico/8/34",
+            "name": "B10_IN.PR8"
+        },
+        {
+            "arm_accession": "ARM602",
+            "description": "C57BL/10J mice immunized intranasally with influenza A/HK/X31",
+            "name": "B10_IN.X31"
+        },
+        {
+            "arm_accession": "ARM603",
+            "description": "C57BL/10J mice immunized intranasally with MHV68",
+            "name": "B10_IN.MHV68"
+        },
+        {
+            "arm_accession": "ARM604",
+            "description": "C57BL/10J mice immunized intranasally with both influenza A/New Caledonia/20/99 and MHV68",
+            "name": "B10_IN.NC+MHV68"
+        },
+        {
+            "arm_accession": "ARM605",
+            "description": "C57BL/10J mice mock immunized with PBS",
+            "name": "B10_IN.MOCK"
+        },
+        {
+            "arm_accession": "ARM606",
+            "description": "Uninfected C57BL/10J mice",
+            "name": "B10"
+        },
+        {
+            "arm_accession": "ARM607",
+            "description": "C57BL/10J mice immunized intramuscularly",
+            "name": "B10_IM.NC"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark",
+            "last_name": "Sangster",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "ROC034"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Host differences in influenza-specific CD4 T cell and B cell responses are modulated by viral strain and route of immunization.",
+            "journal": "PLoS One.",
+            "month": "-",
+            "year": "2012",
+            "doi": "10.1371/journal.pone.0034377. Epub 2012 Mar 23.",
+            "pubmed_id": "22457834"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "New York Influenza Center of Excellence"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 422
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 2556
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 808
+        },
+        {
+            "measurement_technique": "TCID50",
+            "number_of_expsamples": 126
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

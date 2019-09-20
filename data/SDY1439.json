@@ -1,0 +1,82 @@
+{
+    "study_accession": "SDY1439",
+    "actual_completion_date": null,
+    "actual_enrollment": 196,
+    "actual_start_date": "2010-03-10",
+    "age_unit": "Years",
+    "brief_description": "We show that within 24 h of receiving adjuvanted swine flu vaccine, healthy individuals made expansive, complex molecular and cellular responses that included overt lymphoid as well as myeloid contributions. Unexpectedly, this early response was subtly but significantly different in people older than _35 years.",
+    "brief_title": "Adjuvanted influenza-H1N1 vaccination reveals lymphoid signatures of age-dependent early responses and of clinical adverse events.",
+    "clinical_trial": "N",
+    "condition_studied": "influenza H1N1 vaccination",
+    "dcl_id": 2,
+    "description": "Adjuvanted vaccines afford invaluable protection against disease, and the molecular and cellular changes they induce offer direct insight into human immunobiology. Here we show that within 24 h of receiving adjuvanted swine flu vaccine, healthy individuals made expansive, complex molecular and cellular responses that included overt lymphoid as well as myeloid contributions. Unexpectedly, this early response was subtly but significantly different in people older than _35 years. Wide-ranging adverse clinical events can seriously confound vaccine adoption, but whether there are immunological correlates of these is unknown. Here we identify a molecular signature of adverse events that was commonly associated with an existing B cell phenotype. Thus immunophenotypic variation among healthy humans may be manifest in complex pathophysiological responses.",
+    "doi": "10.21430/M3LJTCB0M1",
+    "endpoints": "serological vaccine response, adverse events, microarray analysis, flow cytometry",
+    "gender_included": "Not Specified",
+    "hypothesis": "Year-to-year similarity among seasonal flu strains, vaccine responses commonly reflect flu-specific memory cell reactivation8,13. Conversely, the human immune response dynamics (HIRD) study described here monitored the response to H1N1 'swine flu' that circulated in 2009 and was the first major H1N1 outbreak in several decades14. Whereas people older than 40 years might harbor swine flu?specific memory cells, this was unlikely in younger individuals who comprised the bulk of the HIRD cohort. Thus, the study offered an opportunity to investigate responses to flu vaccination that were not obviously dominated by recall responses.",
+    "initial_data_release_date": "2019-06-19",
+    "initial_data_release_version": "DR31",
+    "intervention_agent": "swine flu vaccine Pandemrix A/California/7/2009 H1N1 virus strain in adjuvant AS03",
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "  65.00",
+    "minimum_age": "  18.00",
+    "objectives": "We identify a molecular signature of adverse events that was commonly associated with an existing B cell phenotype. Thus immunophenotypic variation among healthy humans may be manifest in complex pathophysiological responses.",
+    "official_title": "Adjuvanted influenza-H1N1 vaccination reveals lymphoid signatures of age-dependent early responses and of clinical adverse events.",
+    "sponsoring_organization": "Cancer Research UK and the UK Department of Health via the National Institute for Health Research (NIHR) comprehensive Biomedical Research Centre award",
+    "target_enrollment": 178,
+    "workspace_id": 6133,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4772",
+            "description": "HIRD Study enrolled adult volunteers",
+            "name": "HIRD study cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Adrian",
+            "last_name": "Hayday",
+            "organization": "King's College London, Francis Crick Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Peter Gorer Department of Immunobiology, ImmunoSurveillance Laboratory"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Adjuvanted influenza-H1N1 vaccination reveals lymphoid signatures of age-dependent early responses and of clinical adverse events.",
+            "journal": "Nature Immunology",
+            "month": "February",
+            "year": "2016",
+            "doi": "10.1038/ni.3328",
+            "pubmed_id": "26726811"
+        }
+    ],
+    "program": [],
+    "assay": [
+        {
+            "measurement_technique": "Neutralizing Antibody Titer Assay",
+            "number_of_expsamples": 392
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 173
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 196
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 196
+            }
+        ]
+    }
+}

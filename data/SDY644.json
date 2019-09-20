@@ -1,0 +1,117 @@
+{
+    "study_accession": "SDY644",
+    "actual_completion_date": null,
+    "actual_enrollment": 94,
+    "actual_start_date": "2010-10-19",
+    "age_unit": "Years",
+    "brief_description": "Introduction: Previous priming with avian influenza vaccines results in more rapid and more robust neutralizing antibody responses upon revaccination, but the role CD4+ T cells play in this process is not currently known.",
+    "brief_title": "Effect of Influenza A (H5N1) Vaccine Prepandemic Priming on CD4+ T-Cell Responses",
+    "clinical_trial": "N",
+    "condition_studied": "CD4+ T-cell response to Influenza A (H5N1) vaccine",
+    "dcl_id": 2,
+    "description": "Previous priming with avian influenza vaccines results in more rapid and more robust neutralizing antibody responses upon revaccination, but the role CD4+ T cells play in this process is not currently known. ",
+    "doi": "10.21430/M3T5PSBA22",
+    "endpoints": "Pre- and post-vaccination CD4+ T-cell reactivity has been compared using IFN-g cytokine enzyme-linked immunosorbent spot assays with pools of overlapping synthetic peptides as recall antigen.  The neutralizing antibody response to rgA/Indonesia/05/2005 PR8-IBCDC-RG2 virus has been measured by microneutralization assay.",
+    "gender_included": "Female, Male",
+    "hypothesis": "The specificity of CD4+ T cells influences their ability to help B cells during infection or vaccination.",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": "Inactivated monovalent subvirion influenza A/H5N1/Indonesia/05/05 (clade 2) vaccine",
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "  64.00",
+    "minimum_age": "  18.00",
+    "objectives": "To evaluate how pre- and post-vaccination CD4 T cell responses impact the specificity and magnitude of the antibody response to H5 vaccination.",
+    "official_title": "Effect of Influenza A (H5N1) Vaccine Prepandemic Priming on CD4+ T-Cell Responses",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2014,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2871",
+            "description": "Unprimed healthy adults with no history of H5 vaccination who were not at risk for H5 exposure. Received a prime-boost regimen of influenza A/Indonesia/5/05 vaccine consisting of 2 identical 15ug dose vaccinations separated by 28 days.",
+            "name": "Unprimed_15ugdose"
+        },
+        {
+            "arm_accession": "ARM2872",
+            "description": "Unprimed healthy adults with no history of H5 vaccination who were not at risk for H5 exposure. Received a prime-boost regimen of influenza A/Indonesia/5/05 vaccine consisting of 2 identical 90ug dose vaccinations separated by 28 days.",
+            "name": "Unprimed_90ugdose"
+        },
+        {
+            "arm_accession": "ARM2873",
+            "description": "Subjects have previously received either egg-derived inactivated subvirion influenza A/Vietnam/1203/2004 vaccine (clade 1) with HA doses of 3.75-90 ?g in 2005-2006, or 2 doses of baculovirus-expressed recombinant influenza A/HongKong/156/1997 (clade 0) H5 protein in 1997-1998, followed by a single dose of unadjuvanted inactivated subvirion influenza A/Vietnam/1203/04 in 2006. This group received a single 15ug dose of influenza A/Indonesia/5/05 vaccine.",
+            "name": "Primed_15ugdose"
+        },
+        {
+            "arm_accession": "ARM2874",
+            "description": "Subjects have previously received either egg-derived inactivated subvirion influenza A/Vietnam/1203/2004 vaccine (clade 1) with HA doses of 3.75-90 ?g in 2005-2006, or 2 doses of baculovirus-expressed recombinant influenza A/HongKong/156/1997 (clade 0) H5 protein in 1997-1998, followed by a single dose of unadjuvanted inactivated subvirion influenza A/Vietnam/1203/04 in 2006. This group received a single 90ug dose of influenza A/Indonesia/5/05 vaccine.",
+            "name": "Primed_90ugdose"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jennifer",
+            "last_name": "Nayak",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "ROC034"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Effect of influenza A(H5N1) vaccine prepandemic priming on CD4+ T-cell responses.",
+            "journal": "J Infect Dis.",
+            "month": "May",
+            "year": "2015",
+            "doi": "10.1093/infdis/jiu616. Epub 2014 Nov 6.",
+            "pubmed_id": "25378637"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "New York Influenza Center of Excellence"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 651
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 373
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 91
+            }
+        ],
+        "gender": [
+            {
+                "Female": 59
+            },
+            {
+                "Male": 35
+            }
+        ]
+    }
+}

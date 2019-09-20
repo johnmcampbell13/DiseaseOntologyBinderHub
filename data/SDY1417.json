@@ -1,0 +1,60 @@
+{
+    "study_accession": "SDY1417",
+    "actual_completion_date": "2018-11-01",
+    "actual_enrollment": 39,
+    "actual_start_date": "2014-10-20",
+    "age_unit": "Years",
+    "brief_description": "Wrist actigraphy was obtained for two weeks before conception and then throughout pregnancy. Chronotype was measured by determining the time of sleep onset from the actigraphy profile of each 24-hour period (12 PM to 12 PM the next day) during the first (gestational weeks 4 through 13), second (weeks 14 through 27) and third trimesters (week 28 until delivery).",
+    "brief_title": "Pregnancy induces an earlier chronotype in both mice and women",
+    "clinical_trial": "N",
+    "condition_studied": "Pregnancy",
+    "dcl_id": 2,
+    "description": "Wrist actigraphy was obtained for two weeks before conception and then throughout pregnancy. Chronotype was measured by determining the time of sleep onset from the actigraphy profile of each 24-hour period (12 PM to 12 PM the next day) during the first (gestational weeks 4 through 13), second (weeks 14 through 27) and third trimesters (week 28 until delivery).",
+    "doi": "10.21430/M34RFPUKX4",
+    "endpoints": "Wrist actigraphy",
+    "gender_included": "Not Specified",
+    "hypothesis": "To better understand the mechanisms responsible for abnormal pregnancy outcomes following circadian disruption, we first need to understand normal maternal circadian rhythms during pregnancy",
+    "initial_data_release_date": "2019-06-19",
+    "initial_data_release_version": "DR31",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2019-06-19",
+    "latest_data_release_version": "DR31",
+    "maximum_age": "50",
+    "minimum_age": "18",
+    "objectives": "The objective of this study was to determine whether daily rhythms change during pregnancy in mice and women.",
+    "official_title": "Pregnancy induces an earlier chronotype in both mice and women",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 39,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4730",
+            "description": "Pregnant women",
+            "name": "Pregnant women"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Erik",
+            "last_name": "Herzog",
+            "organization": "Washington University in St. Louis",
+            "role_in_study": "Principal Investigator",
+            "site_name": "March of Dimes Prematurity Research Center at Washington University"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

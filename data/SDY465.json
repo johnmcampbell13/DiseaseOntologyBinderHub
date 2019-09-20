@@ -1,0 +1,127 @@
+{
+    "study_accession": "SDY465",
+    "actual_completion_date": null,
+    "actual_enrollment": 47,
+    "actual_start_date": "2011-01-01",
+    "age_unit": "Weeks",
+    "brief_description": "This study will characterize the human maternal microbiome and host response profiles associated with term and preterm births and identify features of each that are predicitive of preterm labor and delivery",
+    "brief_title": "Exploring the human maternal microbiome and its contribution to preterm birth",
+    "clinical_trial": "N",
+    "condition_studied": "Spontaneous preterm birth",
+    "dcl_id": 2,
+    "description": "Preterm births occur in 12 percent of pregnancies. Preterm infants are at risk for long term health problems such as impaired hearing and vision, cerebral palsy and developmental delays. This study will characterize the human maternal microbiome and host response profiles associated with term and preterm births and identify features of each that are predicitive of preterm labor and delivery",
+    "doi": "10.21430/M3D491LGDT",
+    "endpoints": "Microbiome counts (.BIOM files),",
+    "gender_included": "Female",
+    "hypothesis": "Pregnancy-associated microbiome does not differ between term and pre-term births",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  38.00",
+    "minimum_age": "  -9.00",
+    "objectives": "Characterize the pregnancy-associated human microbiome of term and pre-term births,  identify human microbiome features predictive of spontaneous pre-term labor and birth",
+    "official_title": "Exploring the human maternal microbiome and its contribution to preterm birth",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": null,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2493",
+            "description": "birth at 37 weeks or earlier",
+            "name": "Spontaneous Preterm Birth"
+        },
+        {
+            "arm_accession": "ARM2494",
+            "description": "birth at 38 weeks or later",
+            "name": "Full Term birth"
+        },
+        {
+            "arm_accession": "ARM2495",
+            "description": "Pregnancy ended was a result of fetal demise",
+            "name": "Fetal Demise"
+        },
+        {
+            "arm_accession": "ARM2496",
+            "description": "No delivery was recorded",
+            "name": "No Delivery Recorded"
+        },
+        {
+            "arm_accession": "ARM2497",
+            "description": "Withdrew from study",
+            "name": "Withdrew"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Relman",
+            "organization": "March of Dimes Prematurity Research Center at Stanford University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "March of Dimes Prematurity Research Center at Stanford University School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Temporal and spatial variation of the human microbiota during pregnancy.",
+            "journal": "Proc Natl Acad Sci U S A.",
+            "month": "Sep",
+            "year": "2015",
+            "doi": "10.1073/pnas.1502875112. Epub 2015 Aug 17.",
+            "pubmed_id": "26283357"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "16S rRNA gene sequencing",
+            "number_of_expsamples": 4122
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 3
+            },
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 4
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 3
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 6
+            },
+            {
+                "race": "White",
+                "count": 27
+            }
+        ],
+        "gender": [
+            {
+                "Female": 47
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "study_accession": "SDY299",
+    "actual_completion_date": null,
+    "actual_enrollment": 25,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "This project will contribute to the overall vision and goals of this U19 by analyzing the role of adjuvants in the humoral response to hep B vaccination in healthy individuals.",
+    "brief_title": "Systems Biology Analysis of the response to Licensed Hepatitis B Vaccine (HEPLISAV) in Whole Blood (see companion studies SDY816 and SDY690)",
+    "clinical_trial": "Y",
+    "condition_studied": "Vaccine responses in healthy adult population.",
+    "dcl_id": 2,
+    "description": "This project will contribute to the overall vision and goals of this U19 by analyzing the role of adjuvants in the humoral response to hep B vaccination in healthy individuals.",
+    "doi": "10.21430/M34QI37OT9",
+    "endpoints": "Patterns of cellular responses and gene activation induced by HEPLISAV. Correlation of patterns of cellular and gene activation with anti-HBs antibody levels at various time points after injection.",
+    "gender_included": "Female, Male",
+    "hypothesis": "That identifying cellular and transcriptional responses that correlate with different antibody responses to a single vaccine antigen will provide insights into to immune system dysfunctions that accompany age and disease (HIV and end stage renal failure).",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": "HEPLISAV",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  70.00",
+    "minimum_age": "  50.00",
+    "objectives": "Document the changes in cellular responses and gene expression patterns in serial blood samples collected from healthy older adults after vaccination with HEPLISAV. Determine which of these changes correlate with the development of protective levels of antibody (anti-HBsAg IgM 10 milli-International units per milliliter [mIU/mL]) to hepatitis B virus (HBV). Compare and contrast the cellular responses and gene expression patterns in healthy older adults after the first vs. second injection with HEPLISAV.",
+    "official_title": "Systems Biology Analysis of the response to Licensed Hepatitis B Vaccine (HEPLISAV) in Whole Blood (see companion studies SDY816 and SDY690)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2799,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2105",
+            "description": "Participants that received Heplisav",
+            "name": "HEPLISAV Cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Robert",
+            "last_name": "Coffman",
+            "organization": "Dynavax Technologies Corporation",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Dynavax Technologies Corporation"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Demonstration of safety and enhanced seroprotection against hepatitis B with investigational HBsAg-1018 ISS vaccine compared to a licensed hepatitis B vaccine.",
+            "journal": "Vaccine.",
+            "month": "Mar",
+            "year": "2012",
+            "doi": "10.1016/j.vaccine.2012.02.001. Epub 2012 Feb 14.",
+            "pubmed_id": "22342916"
+        },
+        {
+            "title": "Immunogenicity and safety of an investigational hepatitis B vaccine with a Toll-like receptor 9 agonist adjuvant (HBsAg-1018) compared to a licensed hepatitis B vaccine in healthy adults 40-70 years of age.",
+            "journal": "Vaccine.",
+            "month": "Nov",
+            "year": "2013",
+            "doi": "10.1016/j.vaccine.2013.05.068. Epub 2013  May 30.",
+            "pubmed_id": "23727002"
+        },
+        {
+            "title": "Immunogenicity of an investigational hepatitis B vaccine with a toll-like receptor 9 agonist adjuvant (HBsAg-1018) compared with a licensed hepatitis B vaccine in subpopulations of healthy adults 18-70 years of age.",
+            "journal": "Vaccine.",
+            "month": "Jul",
+            "year": "2015",
+            "doi": "10.1016/j.vaccine.2015.05.070. Epub 2015 Jun 9.",
+            "pubmed_id": "26067185"
+        },
+        {
+            "title": "Immunogenicity of a two-dose investigational hepatitis B vaccine, HBsAg-1018, using a toll-like receptor 9 agonist adjuvant compared with a licensed hepatitis B vaccine in adults.",
+            "journal": "Vaccine.",
+            "month": "Jan",
+            "year": "2018",
+            "doi": "10.1016/j.vaccine.2017.12.038. Epub 2017 Dec 27.",
+            "pubmed_id": "29289383"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Systems Analysis Vaccine Responses in Healthy and Hyporesponsive Humans"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Nanostring",
+            "number_of_expsamples": 75
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 225
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 22
+            }
+        ],
+        "gender": [
+            {
+                "Female": 14
+            },
+            {
+                "Male": 11
+            }
+        ]
+    }
+}

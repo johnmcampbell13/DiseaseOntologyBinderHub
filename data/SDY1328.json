@@ -1,0 +1,86 @@
+{
+    "study_accession": "SDY1328",
+    "actual_completion_date": "2011-07-29",
+    "actual_enrollment": 174,
+    "actual_start_date": "2010-07-01",
+    "age_unit": "Years",
+    "brief_description": "One hundred and seventy four (174) generally healthy, Hepatitis B virus (HBV) naive, adult residents of Quebec were vaccinated with two doses of Twinrix (HBsAg and Hepatitis A virus - Glaxo Smith-Kline), generic Tetanus-diphtheria booster (tetanus and diphtheria - Sanofi-Pasteur), and Dukoral (recombinant cholera toxin B subunit and whole killed Vibrios - Sanofi Pasteur) according to the respective product labels. Blood samples were taken immediately prior to vaccination. Pre-vaccination high dimensional analyses of blood using transcriptional profiling and flow cytometry revealed that subjects having increased memory B cell frequencies and higher expression of genes downstream of B cell receptor signaling responded more strongly to the HBV vaccine whereas subjects having higher expression of inflammatory related genes and greater numbers of activated innate immune cells showed a weaker response to this vaccine.",
+    "brief_title": "Transcriptional profiling of HBV-naive subjects before vaccination against Hepatitis A/B viruses, Diphtheria/Tetanus toxoids and Cholera.",
+    "clinical_trial": "Y",
+    "condition_studied": "Vaccine responses in healthy adult population.",
+    "dcl_id": 2,
+    "description": "Mechanisms of poor responses to vaccines remain unknown. Hepatitis B virus-naive elderly subjects received three vaccines, including a vaccine against hepatitis B virus (HBV). Pre-vaccination high dimensional analyses of blood using transcriptional profiling and flow cytometry revealed that subjects having increased memory B cell frequencies and higher expression of genes downstream of B cell receptor signaling responded more strongly to the HBV vaccine whereas subjects having higher expression of inflammatory related genes and greater numbers of activated innate immune cells showed a weaker response to this vaccine. The heme-induced response was associated with the poor response to the hepatitis B vaccine. Transcriptional profiling and flow cytometry results were validated in a distinct set of elderly subjects with accuracy greater than 60%. Our study is the first that identifies baseline predictors of responses to vaccines in a population of subjects known to be highly susceptible to infections.",
+    "doi": "10.21430/M3ID8ZC1AT",
+    "endpoints": "Correlation of patterns of cellular and gene expression with anti-HBs antibody levels measured after vaccination.",
+    "gender_included": "Female, Male",
+    "hypothesis": "That identifying cellular and transcriptional responses that correlate with different antibody responses to vaccination will provide insights into to immune system dysfunctions that accompany age.",
+    "initial_data_release_date": "2018-07-06",
+    "initial_data_release_version": "DR27",
+    "intervention_agent": "Twinrix (Hepatitis A/B), Td booster (Tetanus/Diphtheria) and Dukoral (Cholera).",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  83.00",
+    "minimum_age": "  25.00",
+    "objectives": "Document the changes in cellular responses and gene expression patterns in serial blood samples collected from healthy young aldults (n=30) and older adults (n=144) after vaccination with Twinrix, Td and Dukoral. Determine which of these changes correlate with the development of protective levels of antibody to hepatitis B virus (HBV). Compare and contrast the cellular markers and gene expression patterns in healthy older adults and healthy young aldults related to vaccine response.",
+    "official_title": "Transcriptional profiling of HBV-naive subjects before vaccination with Twinrix (Hepatitis A/B), Td booster (Tetanus/Diphtheria) and Dukoral (Cholera).",
+    "sponsoring_organization": "Merck & Co. Inc",
+    "target_enrollment": 174,
+    "workspace_id": 5875,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4537",
+            "description": "Healthy participants, aged 25 to 40 years or 65 years or over, that received Twinrix (Hepatitis A/B), Td booster (Tetanus/Diphtheria) and Dukoral (Cholera)",
+            "name": "healthy aldults"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Rafick-Pierre",
+            "last_name": "Sekaly",
+            "organization": "Case Western Reserve University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Case Western Reserve University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Pre-vaccination inflammation and B-cell signalling predict age-related hyporesponse to hepatitis B vaccination.",
+            "journal": "Nat Commun.",
+            "month": "Jan",
+            "year": "2016",
+            "doi": "10.1038/ncomms10369.",
+            "pubmed_id": "26742691"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Other Programs",
+            "contract_name": "Merck & Co. Inc"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 169
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "White",
+                "count": 174
+            }
+        ],
+        "gender": [
+            {
+                "Female": 95
+            },
+            {
+                "Male": 79
+            }
+        ]
+    }
+}

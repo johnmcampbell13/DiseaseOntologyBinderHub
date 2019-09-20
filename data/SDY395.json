@@ -1,0 +1,93 @@
+{
+    "study_accession": "SDY395",
+    "actual_completion_date": null,
+    "actual_enrollment": 33,
+    "actual_start_date": "2012-02-24",
+    "age_unit": "Years",
+    "brief_description": "To investigate the nasal transcriptional response and peripheral plasmablast response in acute influenza infection",
+    "brief_title": "Immune Responses to Influenza-Like Illness SLVP022 2012",
+    "clinical_trial": "N",
+    "condition_studied": "Acute influenza infection",
+    "dcl_id": 2,
+    "description": "To investigate the nasal transcriptional response and peripheral plasmablast response in acute influenza infection",
+    "doi": "10.21430/M33RY4IXN7",
+    "endpoints": "Gene expression by real time PCR; PPAb reactivity by Elisa.",
+    "gender_included": "Female, Male",
+    "hypothesis": "1. Host mucosal immune responses to influenza  can be characterised with nasal swab specimens. 2. Plasmablast responses in the blood correlate with certain mucosal transcriptional markers.",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": null,
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "  77.95",
+    "minimum_age": "   3.54",
+    "objectives": "1. To investigate the nasal transcriptional response with real time PCR. 2. To measure plasmablast response by PPAb analysis.",
+    "official_title": "Immune Responses to Influenza-Like Illness",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2342",
+            "description": "patients with acute influenza-like illness",
+            "name": "Influenza-Like Illness (ILI)"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Harry",
+            "last_name": "Greenberg",
+            "organization": "Stanford School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford School of Medicine"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 62
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 7
+            },
+            {
+                "race": "Black or African American",
+                "count": 3
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 2
+            },
+            {
+                "race": "Other",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 18
+            }
+        ],
+        "gender": [
+            {
+                "Female": 21
+            },
+            {
+                "Male": 12
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "study_accession": "SDY546",
+    "actual_completion_date": null,
+    "actual_enrollment": 96,
+    "actual_start_date": "2004-05-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this multi-center (observational) registry study is to establish a database of clinical and laboratory information that may help to identify any unique characteristics of tolerant participants that differ from participants who reject their kidney after discontinuing immunosuppressive drugs.",
+    "brief_title": "FACTOR ITN507ST:  Study of Tolerant Kidney Transplant Recipients",
+    "clinical_trial": "Y",
+    "condition_studied": "Transplant Rejection|Kidney Transplantation|Renal Transplantation|Renal Transplant|Transplant Tolerance",
+    "dcl_id": 2,
+    "description": "Following kidney (renal) transplantation, one possible complication is rejection of the new kidney. This occurs as a results of the bodys immune system attacking (or rejecting) the newly transplanted kidney. After transplant, medicines known as immunosuppressive or anti-rejection drugs are given to transplant recipients to help prevent rejection of the transplanted kidney. If a transplant recipient stops taking these medicines, they almost always reject their transplanted kidney. However, in some exceptionally rare instances, transplant recipients who stop taking these drugs do not reject their kidney, and the kidney keeps working. The recipients are said at that point to tolerate the transplanted kidney, and this condition is referred to as tolerance. In this study, participants will be asked to provide consent for the collection of extensive demographic and clinical information; medical histories; and blood and urine samples. Blood and urine samples collected will be used to perform specific assays to help define mechanisms of tolerance. Originally the study included 11 groups as listed; however, at present only groups 1,4, and 8 remain active. Whereas the initial study duration was 6 years, this was extended to 11 years in order to follow over more extended time a B cell signature identified for tolerant kidney subjects and how this signature may change. (Refer to publications section: Newell, Kirk et al, J Clin Invest. 2010).",
+    "doi": "10.21430/M3SBI9FQPC",
+    "endpoints": "Endpoints: An electronic registry of immune tolerant indiviuals with kidney transplants and comparison groups. Use registry data to perform hypothesis tests and create and assess predictive statistical models",
+    "gender_included": "Female, Male",
+    "hypothesis": "see protocol",
+    "initial_data_release_date": "2015-12-14",
+    "initial_data_release_version": "DR16",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-01-31",
+    "latest_data_release_version": "DR20",
+    "maximum_age": "77",
+    "minimum_age": "23",
+    "objectives": "Objectives:Establish a database of clinical and laboratory information that may help to identify any unique characteristics of tolerant participants that differ from participants who reject their kidney after discontinuing immunosuppressive drugs",
+    "official_title": "Identification and Mechanistic Investigations of Tolerant Transplant Recipients",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 151,
+    "workspace_id": 4117,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2667",
+            "description": "Tolerant",
+            "name": "Tolerant"
+        },
+        {
+            "arm_accession": "ARM2668",
+            "description": "Standard Immunotherapy",
+            "name": "Standard Immunotherapy"
+        },
+        {
+            "arm_accession": "ARM2993",
+            "description": "Transplant donors",
+            "name": "Donor"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Kenneth",
+            "last_name": "Newell",
+            "organization": "Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Immune Tolerance Network"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Identification of a B cell signature associated with renal transplant tolerance in humans.",
+            "journal": "J Clin Invest.",
+            "month": "Jun",
+            "year": "2010",
+            "doi": "10.1172/JCI39933. Epub 2010 May 24.",
+            "pubmed_id": "20501946"
+        },
+        {
+            "title": "Donor-specific indirect pathway analysis reveals a B-cell-independent signature which reflects outcomes in kidney transplant recipients.",
+            "journal": "Am J Transplant.",
+            "month": "Mar",
+            "year": "2012",
+            "doi": "10.1111/j.1600-6143.2011.03869.x. Epub 2011 Dec 7.",
+            "pubmed_id": "22151236"
+        },
+        {
+            "title": "Longitudinal studies of a B cell-derived signature of tolerance in renal transplant recipients.",
+            "journal": "Am J Transplant.",
+            "month": "Nov",
+            "year": "2015",
+            "doi": "10.1111/ajt.13480. Epub 2015 Oct 13.",
+            "pubmed_id": "26461968"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "ITN: Collaborative Network for Clinical Research on Immune Tolerance Network",
+            "contract_name": "Immune Tolerance Network"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 46
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 4
+            },
+            {
+                "race": "White",
+                "count": 88
+            }
+        ],
+        "gender": [
+            {
+                "Female": 47
+            },
+            {
+                "Male": 49
+            }
+        ]
+    }
+}

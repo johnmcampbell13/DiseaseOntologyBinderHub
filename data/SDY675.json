@@ -1,0 +1,98 @@
+{
+    "study_accession": "SDY675",
+    "actual_completion_date": null,
+    "actual_enrollment": 10,
+    "actual_start_date": "2010-01-01",
+    "age_unit": "Years",
+    "brief_description": "Determing the individual heritable differences result in unique B and T cell receptor repertoires of naive and antigen-experienced cells through next gerneration sequencing.",
+    "brief_title": "Heritable influence on the  B and T cell receptor repertoire",
+    "clinical_trial": "N",
+    "condition_studied": "Healthy monozygotic twins without recent vaccination in their 20s, both genders.",
+    "dcl_id": 2,
+    "description": "The adaptive immune systems capability to protect the body requires a highly diverse lymphocyte antigen receptor repertoire. However, the influence of individual genetic and epigenetic differences on these repertoires is frequently underestimated. By leveraging the unique characteristics of B, CD4+ T, and CD8+ T lymphocyte subsets isolated from monozygotic twins, we have elucidated the impact of heritable factors on the V(D)J recombination process and have shown that the repertoires of both naive and antigen experienced cells are subject to biases resulting from initial recombination differences. Moreover, we show that the relative usage of V and J gene segments is chromosomally biased, with approximately 1.5 times as many rearrangements originating from a single chromosome. These data refine our understanding of the heritable mechanisms affecting the repertoire, and show that bias exists on a chromosome-wide level.",
+    "doi": "10.21430/M3XMYVQI9X",
+    "endpoints": "B and T cell receptor sequences",
+    "gender_included": "Female, Male",
+    "hypothesis": "The B and T cell repertoire is genetically influenced",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "  27.44",
+    "minimum_age": "  22.10",
+    "objectives": "Determine the genetic and epigentic influence on the B cell and T cell receptor repertoire.",
+    "official_title": "Individual heritable differences result in unique B and T cell receptor repertoires of naive and antigen-experienced cells",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 5,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2945",
+            "description": "Healthy monozygotic twins without recent vaccination in their 20s, both genders.",
+            "name": "Healthy monozygotic twins without recent vaccination"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Mark M",
+            "last_name": "Davis",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Individual heritable differences result in unique cell lymphocyte receptor repertoires of naive and antigen-experienced cells.",
+            "journal": "Nat Commun.",
+            "month": "Mar",
+            "year": "2016",
+            "doi": "10.1038/ncomms11112.",
+            "pubmed_id": "27005435"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 10
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 3
+            }
+        ],
+        "gender": [
+            {
+                "Female": 4
+            },
+            {
+                "Male": 6
+            }
+        ]
+    }
+}

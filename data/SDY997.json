@@ -1,0 +1,137 @@
+{
+    "study_accession": "SDY997",
+    "actual_completion_date": "2017-05-01",
+    "actual_enrollment": 107,
+    "actual_start_date": "2016-03-01",
+    "age_unit": "Years",
+    "brief_description": "Phase I will be devoted to the study of at least 45 subjects with lupus nephritis and 25 controls with the intent of achieving the following goals: (i) to assess feasibility of obtaining a sufficient yield of high quality data based on current and refined AMP SOPs, (ii) to assess recruitment rates and the number of sites necessary to effectively recruit for Phase II, (iii) to ensure that the technologies developed in Phase 0 are working well, especially with regard to transport and scaling up to handle specimens from multiple sites; (iv) to demonstrate that the selected technologies can be used for the purpose of reliably differentiating lupus nephritis kidneys from kidney tissue without lupus nephritis, (v) where necessary, to further refine the technologies before embarking on a large-scale project; and most importantly (vi) to provide critical data upon which to make rational decisions about key elements of the Phase II study design (e.g., eligibility criteria, estimates of variation for power calculations, and site-specific capability regarding patient recruitment, specimen handling, etc.).",
+    "brief_title": "AMP Lupus Network Project: Molecular Characterization of Lupus Nephritis and Correlation with Response to Therapy",
+    "clinical_trial": "N",
+    "condition_studied": "lupus nephritis",
+    "dcl_id": 1,
+    "description": "Phase I will be devoted to the study of at least 45 subjects with lupus nephritis and 25 controls with the intent of achieving the following goals: (i) to assess feasibility of obtaining a sufficient yield of high quality data based on current and refined AMP SOPs, (ii) to assess recruitment rates and the number of sites necessary to effectively recruit for Phase II, (iii) to ensure that the technologies developed in Phase 0 are working well, especially with regard to transport and scaling up to handle specimens from multiple sites; (iv) to demonstrate that the selected technologies can be used for the purpose of reliably differentiating lupus nephritis kidneys from kidney tissue without lupus nephritis, (v) where necessary, to further refine the technologies before embarking on a large-scale project; and most importantly (vi) to provide critical data upon which to make rational decisions about key elements of the Phase II study design (e.g., eligibility criteria, estimates of variation for power calculations, and site-specific capability regarding patient recruitment, specimen handling, etc.).",
+    "doi": "10.21430/M35FLWNXH1",
+    "endpoints": "Clinical data, Flow Cytometry\nMass cytometry Blood (PBMC and TL prep), Single Cell RNA Seq kidney (plate based cell seq 2 and C1), Single cell RNA seq urine (plate based cell seq 2), Single Cell RNA seq Skin (C1)",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "The primary endpoint of the entire AMP Lupus Network Project is a three-level categorical variable describing responder status where responses will be divided into three categories using the ACCESS trial response definitions for complete response (CR) (UPCR <0.5, creatinine normal or, if abnormal, no greater than 125% of baseline; no outcome based upon urinary sediment; steroid taper required), partial response (PR) (>50% reduction in UPCR without meeting UPCR criterion for CR), and non- response (NR) (<50% improvement in UPCR and/or failure to meet serum creatinine criteria). Patients meeting CR, PR, and NR criteria will be compared to each other for distinct signatures. It may be that for Phase I activities analyses will need to focus on responders (CR + PR) versus non-responders.",
+    "initial_data_release_date": "2017-11-07",
+    "initial_data_release_version": "DR24",
+    "intervention_agent": "NA",
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "  85.00",
+    "minimum_age": "    .00",
+    "objectives": "The primary objective of the Phase I AMP Lupus Network Project is to assess the feasibility of obtaining high quality molecular data from lupus kidney biopsy specimens, to evaluate the ability of the pipeline technologies to distinguish SLE vs control in kidney tissue, to prioritize the data to be obtained, and to begin the process of molecular deconstruction of the disease, which is the central objective of Phase II.",
+    "official_title": "AMP Lupus Network Project: Molecular Characterization of Lupus Nephritis and Correlation with Response to Therapy",
+    "sponsoring_organization": "NIH/NIAMS, NIH/NIAID",
+    "target_enrollment": 70,
+    "workspace_id": 5290,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3565",
+            "description": "patients with class III,IV,V,or combination with class V",
+            "name": "lupus nephritis"
+        },
+        {
+            "arm_accession": "ARM3566",
+            "description": "donor kidney",
+            "name": "control"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "PJ",
+            "last_name": "Utz",
+            "organization": "Stanford",
+            "role_in_study": "Principal Investigator",
+            "site_name": "PEARL"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Holers",
+            "organization": "Colorado",
+            "role_in_study": "Principal Investigator",
+            "site_name": "PEARL"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Tubular cell and keratinocyte single-cell transcriptomics applied to lupus nephritis reveal type I IFN and fibrosis relevant pathways.",
+            "journal": "Nat Immunol.",
+            "month": "Jul",
+            "year": "2019",
+            "doi": "10.1038/s41590-019-0386-1. Epub 2019 May 20.",
+            "pubmed_id": "31110316"
+        },
+        {
+            "title": "The immune cell landscape in kidneys of patients with lupus nephritis.",
+            "journal": "Nat Immunol.",
+            "month": "Jul",
+            "year": "2019",
+            "doi": "10.1038/s41590-019-0398-x. Epub 2019 Jun 17.",
+            "pubmed_id": "31209404"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Accelerating Medicines Partnership RA/SLE (AMP RA/SLE) RFA-AR-14-016",
+            "contract_name": "Accelerating Medicines Partnership RA/SLE (AMP RA/SLE)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 259
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 171
+        },
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 13417
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 7
+            },
+            {
+                "race": "Black or African American",
+                "count": 28
+            },
+            {
+                "race": "Not Specified",
+                "count": 16
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 15
+            },
+            {
+                "race": "White",
+                "count": 40
+            }
+        ],
+        "gender": [
+            {
+                "Female": 79
+            },
+            {
+                "Male": 16
+            },
+            {
+                "Not Specified": 12
+            }
+        ]
+    }
+}

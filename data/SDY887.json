@@ -1,0 +1,107 @@
+{
+    "study_accession": "SDY887",
+    "actual_completion_date": "2008-12-31",
+    "actual_enrollment": 29,
+    "actual_start_date": "2007-10-01",
+    "age_unit": "Years",
+    "brief_description": "In an effort to identify benchmarks of immunological health, influenza vaccination was used in 10 young (20 to 30 years) and 19 older subjects (60 to 89 years) as models for strong and weak immune responses, respectively.",
+    "brief_title": "Defective signaling in aging, influenza vaccination 2007 SLVP015",
+    "clinical_trial": "N",
+    "condition_studied": "Influenza vaccine",
+    "dcl_id": 2,
+    "description": "Pilot year. Despite the importance of the immune system in many diseases, there are currently no objective benchmarks of immunological health. In an effort to indentify benchmarks of immunological health, influenza vaccination was used in 10 young (20-30 years) and 19 older subjects (60 to 89 years) as models for strong and weak immune responses, respectively. Serological responses to influenza strains as well as a wide variety of other parameters, including gene expression, antibodies to hemagglutinin peptides, serum cytokines, cell subset phenotypes and in vitro cytokine stimulation were measured. Using machine learning, nine variables predicting antibody response with 84% accuracy were identified. Two of these variables are involved in apoptosis, which positively associated with the response to vaccination and was confirmed to be a contributor to vaccine responsiveness in mice. The identification of these biomarkers provides new insights into what immune features may be most important for immune health.",
+    "doi": "10.21430/M33JMYFLF1",
+    "endpoints": "Blood baseline characterization using whole genome DNA microarrays .   Cytokine and chemokine analysis using multiplexed serum protein assays .  High-resolution immune phenotyping for 15 immune cell subsets .  Capture antibody response measurements to TIV .  Capture signaling response measurements to cytokines in various cell subsets from peripheral blood, using antibodies to phosphorylated STAT proteins, also known as phosphoFlow (pFlow).",
+    "gender_included": "Female, Male",
+    "hypothesis": "Pilot year. Baseline biomarkers from blood can predict the serological response to trivalent, inactivated seasonal influenzavaccine (TIV) in advance of its administration",
+    "initial_data_release_date": "2017-01-31",
+    "initial_data_release_version": "DR20",
+    "intervention_agent": "Influenza vaccine",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "  90.00",
+    "minimum_age": "  22.00",
+    "objectives": "To assess variability in immune features between young and old and among older adults",
+    "official_title": "Defective signaling in the JAK-STAT pathway tracks with chronic inflammation, cardiovascular risk,  influenza vaccination 2007,  in aging humans.",
+    "sponsoring_organization": "Ellison Foundation",
+    "target_enrollment": 30,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3312",
+            "description": "Young participants aged 20 to 30 years, vaccinated with Fluzone",
+            "name": "Young participants aged 20 to 30 years, vaccinated with Fluzone"
+        },
+        {
+            "arm_accession": "ARM3313",
+            "description": "Older participants aged 60 to 89 years, vaccinated with Fluzone",
+            "name": "Older participants aged 60 to 89 years, vaccinated with Fluzone"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Cornelia",
+            "last_name": "Dekker",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Defective Signaling in the JAK-STAT Pathway Tracks with Chronic Inflammation and Cardiovascular Risk in Aging Humans.",
+            "journal": "Cell Syst.",
+            "month": "Oct",
+            "year": "2016",
+            "doi": "10.1016/j.cels.2016.09.009. Epub 2016 Oct 13.",
+            "pubmed_id": "27746093"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 382
+        },
+        {
+            "measurement_technique": "Neutralizing Antibody Titer Assay",
+            "number_of_expsamples": 174
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Other",
+                "count": 2
+            },
+            {
+                "race": "Unknown",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 21
+            }
+        ],
+        "gender": [
+            {
+                "Female": 16
+            },
+            {
+                "Male": 13
+            }
+        ]
+    }
+}

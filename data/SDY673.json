@@ -1,0 +1,111 @@
+{
+    "study_accession": "SDY673",
+    "actual_completion_date": "2015-12-01",
+    "actual_enrollment": 50,
+    "actual_start_date": "2011-01-01",
+    "age_unit": "Years",
+    "brief_description": "This study assessed several recent RNA-seq methods on cfRNA samples, analyzed the dynamic changes of both the human transcriptome and the microbiome of plasma during pregnancy, and monitored the immune response and microbial infections during pregnancy.",
+    "brief_title": "Characterization of maternal serum gene expression and microbiome",
+    "clinical_trial": "N",
+    "condition_studied": "Spontaneous preterm birth",
+    "dcl_id": 2,
+    "description": "Plasma cell-free RNA (cfRNA) encompasses a broad spectrum of RNA species that can be derived from both human cells and microbes. Because  cfRNA is fragmented and of low concentration, it has been challenging to profile its transcriptome using standard RNA-seq methods. This study assessed several recent RNA-seq methods on cfRNA samples to analyze the dynamic changes of both the human transcriptome and the microbiome of plasma during pregnancy. cfRNA reflected a well-orchestrated immune modulation during pregnancy: an up-regulation of anti-inflammatory genes and an increased abundance of anti-microbial genes, while the plasma microbiome remained relatively stable during pregnancy. The bacteria Ureaplasma shows an increased prevalence and increased abundance at postpartum, which is likely to be associated with postpartum infection. This study demonstrated that cfRNA-seq can be used to detect a number of human pathogens, including high loads of human parvovirus B19 virus (B19V), known to be a potential cause of complications in pregnancy.",
+    "doi": "10.21430/M3OARGGSY0",
+    "endpoints": "cfRNA seq, microbiome and qPCR",
+    "gender_included": "Female",
+    "hypothesis": "Global profiling of cfRNA in maternal blood using a next-generation sequencing technique could simultaneously monitor immune response, infectious disease, and placental development during pregnancy.",
+    "initial_data_release_date": "2017-11-07",
+    "initial_data_release_version": "DR24",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "46",
+    "minimum_age": "18",
+    "objectives": "Assessment of RNA-seq method on cfRNA samples, and analysis of dynamic changes in transcriptome and microbiome of plasma during pregnancy",
+    "official_title": "Simultaneously Monitoring Immune Response and Microbial Infections During Pregnancy through Plasma cfRNA Sequencing",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 60,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2943",
+            "description": "Pregnant humans",
+            "name": "Observation"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Stephen",
+            "last_name": "Quake",
+            "organization": "March of Dimes Prematurity Research Center at Stanford University School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "March of Dimes Prematurity Research Center at Stanford University School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Simultaneously Monitoring Immune Response and Microbial Infections During Pregnancy through Plasma cfRNA Sequencing.",
+            "journal": "Clin Chem.",
+            "month": "Sep",
+            "year": "2017",
+            "doi": "-",
+            "pubmed_id": "28904056"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 111
+        },
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 130
+        },
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 58
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Asian",
+                "count": 5
+            },
+            {
+                "race": "Black or African American",
+                "count": 3
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 11
+            },
+            {
+                "race": "White",
+                "count": 29
+            }
+        ],
+        "gender": [
+            {
+                "Female": 50
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "study_accession": "SDY655",
+    "actual_completion_date": null,
+    "actual_enrollment": 20,
+    "actual_start_date": "2006-03-01",
+    "age_unit": "Years",
+    "brief_description": "Pemphigus vulgaris (PV) is a rare skin disorder that causes blistering of the skin and mucous membranes. Infliximab is a man-made antibody used to treat certain types of immune system disorders, including rheumatoid arthritis and Crohn's disease. This study will determine if infliximab given in combination with prednisone is a safe and effective treatment for adults with PV.",
+    "brief_title": "Use of Infliximab for the Treatment of Pemphigus Vulgaris (APV01)",
+    "clinical_trial": "Y",
+    "condition_studied": "Pemphigus Vulgaris",
+    "dcl_id": 2,
+    "description": "PV involves blistering of the outer layer of skin and mucous membranes, causing a separation of epidermal cells. The disease occurs when the immune system produces antibodies to specific proteins in the skin and mucous membranes; the cause for production of these autoantibodies is unknown. Infliximab is a genetically engineered monoclonal antibody directed against tumor necrosis factor (TNF)-alpha, a chemical messenger that activates an immune response. Infliximab has been used to treat other autoimmune disorders, including rheumatoid arthritis, ankylosing spondylitis, and Crohn's disease. This study will evaluate the safety and efficacy of infliximab given in combination with prednisone for the treatment of adults with PV.",
+    "doi": "10.21430/M3ZTR9VQ2U",
+    "endpoints": "The primary safety endpoint is the proportion of subjects who experience adverse events of grade 3 or more toxicity (based on the NCI-CTCAE system) defined as unlikely, possibly, probably, or definitely related to study treatment at 18 weeks. Adverse events of skin including rash, skin ulceration, and chelitis as defined by the NCI-CTCAE will be excluded. These skin changes will be assessed using the PV disease activity scoring system as described. Study arms will be compared. Safety will be monitored at all subject visits.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Treatment of pemphigus vulgaris patients with anti-TNF-alpha drugs will decrease severity of blistering and improve the speed of healing, decrease the titer of anti-DSG3 and/or DSG1 antibodies, and prevent the development of anti-DSG1 antibodies and disease progression.",
+    "initial_data_release_date": "2017-06-16",
+    "initial_data_release_version": "DR22",
+    "intervention_agent": "Infliximab",
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "  75.00",
+    "minimum_age": "  21.00",
+    "objectives": "The primary objective of this study is to compare the safety and efficacy of systemic prednisone plus infusion of infliximab to systemic prednisone plus infusion of placebo for treatment of pemphigus vulgaris.",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Phase II Trial of Infliximab in Subjects With Pemphigus Vulgaris Receiving Prednisone",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 20,
+    "workspace_id": 4454,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2905",
+            "description": "Intravenous infusions of infliximab at Weeks 0, 2, 6, and 14.",
+            "name": "Treatment Arm"
+        },
+        {
+            "arm_accession": "ARM2906",
+            "description": "Intravenous infusions of placebo at Weeks 0, 2, 6, and 14.",
+            "name": "Control Arm"
+        }
+    ],
+    "personnel": [],
+    "pubmed": [
+        {
+            "title": "A multicentre randomized trial of the treatment of patients with pemphigus vulgaris with infliximab and prednisone compared with prednisone alone.",
+            "journal": "Br J Dermatol.",
+            "month": "Mar",
+            "year": "2015",
+            "doi": "10.1111/bjd.13350. Epub 2015 Feb 5.",
+            "pubmed_id": "25123295"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Autoimmunity Centers of Excellence (ACE) AI-12-060, AI-12-059",
+            "contract_name": "MODULATION OF B CELL RESPONSES IN AUTOIMMUNITY (APV01)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 153
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 3
+            },
+            {
+                "race": "White",
+                "count": 17
+            }
+        ],
+        "gender": [
+            {
+                "Female": 8
+            },
+            {
+                "Male": 12
+            }
+        ]
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "study_accession": "SDY2",
+    "actual_completion_date": null,
+    "actual_enrollment": 71,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Young children have the highest prevalence of atopic dermatitis (AD) and are at significant risk complications from vaccinia. As a surrogate, we believe investigating the immune response to varicella vaccination will yield important information about alterations in the immune response to live virus vaccines  subjects with AD. Evaluation of 30 analyzable children with AD and 30 analyzable nonatopic controls is planned. Subjects immunized with varicella vaccine will have blood drawn for laboratory evaluations 3 weeks after immunization. The immune response to varicella will be assessed by measuring the proportion of varicella-zoster virus (VZV)-specific T cells, perforin production, and VZV-specific antibody titers. Because of the and systemic T helper cell 2 (Th2) polarization of subjects with AD, an altered response to varicella vaccination expected. Specifically, it is expected that AD subjects will exhibit decreased cell-mediated responses, but exhibit normal to increased humoral responses as evidenced by production of VZV-specific antibodies.",
+    "brief_title": "Immune Response to Varicella Vaccination in Subjects with Atopic Dermatitis Compared to Nonatopic Controls (VAR 05)",
+    "clinical_trial": "Y",
+    "condition_studied": "Immune Response to Varicella Vaccination in Subjects with Atopic Dermatitis",
+    "dcl_id": 2,
+    "description": "This is a mechanistic, double-aim, non-randomized study that will be conducted at 2 sites, Children's Hospital Boston and National Jewish Medical and Research Center. Study participants 12 to 36 months of age with AD and without AD will be enrolled to assess immune response after varicella vaccination.<br/><br/>Estimated Study Duration:<br/><br/>The study is scheduled to be completed in 36 months. Subjects will only complete one scheduled study visit.<br/><br/>Study Population:<br/><br/>Subjects will be enrolled over a 12 month period. Subjects will be recruited at Children's Hospital Boston and National Jewish Medical and Research Center.<br/>",
+    "doi": "10.21430/M3G33VVU77",
+    "endpoints": "Primary Endpoint:<br/>Cell-mediated immune responses as assessed by measurement of numbers of VZV-specific T cells utilizing an interferon (IFN)-gamma enzyme-linked immunosorbent spot (ELISPOT) assay and perforin generation using 2-color flow cytometry staining for both CD8 and perforin.<br/><br/>Secondary Endpoint:<br/>Comparison of VZV-specific (immunoglobin class and type) antibody between AD and nonatopic, control groups.",
+    "gender_included": "Female, Male",
+    "hypothesis": "The central hypothesis of this protocol is that children with AD who are immunized with varicella vaccine will have a decreased CMI to varicella in comparison to nonatopic controls, because of Th2 polarization of their immune system. We postulate that the polarization of their immune system toward a Th2 response will result in decreased CMI.",
+    "initial_data_release_date": "2012-11-16",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": null,
+    "latest_data_release_date": "2017-04-21",
+    "latest_data_release_version": "DR21",
+    "maximum_age": "   2.00",
+    "minimum_age": "   1.00",
+    "objectives": "Primary Objective:<br/>To determine if children with AD have VZV-specific cell mediated immune (CMI) responses to varicella vaccination that differ from those of nonatopic controls.<br/><br/>Secondary Objective:<br/>To determine if children with AD have VZV-specific humoral responses to varicella vaccination that differ from those of nonatopic controls.",
+    "official_title": "Immune Response to Varicella Vaccination in Subjects with Atopic Dermatitis Compared to Nonatopic Controls",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 60,
+    "workspace_id": 1089,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM234",
+            "description": "Healthy subjects with no systemic disorders.  Subjects with moderate to severe AD as defined by the Atopic Dermatitis Vaccinia Network (ADVN) Diagnostic Criteria definition (Appendix I of the study protocol), Rajka/Langeland Scale (4-9) and Eczema Area and Severity Index (EASI).",
+            "name": "Atopic Dermatitis (AD+)"
+        },
+        {
+            "arm_accession": "ARM235",
+            "description": "Healthy subjects with no systemic disorders.  Nonatopic, control subjects with no personal or family history of food allergy or AD that correspond to a modified ADVN Diagnostic Criteria definition (Appendix I).",
+            "name": "Healthy controls"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Lynda",
+            "last_name": "Schneider",
+            "organization": "Children's Hospital, Boston",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Children's Hospital Boston\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Atopic Dermatitis & Vaccinia Network (ADVN)",
+            "contract_name": "Atopic Dermatitis and Vaccinia Network (ADVN) Clinical Studies Consort-26629c"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 500
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 293
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 442
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 13
+            },
+            {
+                "race": "Other",
+                "count": 33
+            },
+            {
+                "race": "White",
+                "count": 25
+            }
+        ],
+        "gender": [
+            {
+                "Female": 24
+            },
+            {
+                "Male": 47
+            }
+        ]
+    }
+}

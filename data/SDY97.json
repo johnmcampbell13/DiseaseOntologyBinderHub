@@ -1,0 +1,111 @@
+{
+    "study_accession": "SDY97",
+    "actual_completion_date": null,
+    "actual_enrollment": 49,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Healthy adult human subjects were given monovalent inactivated pH1N1 vaccine and antibody responses were assessed using HAI and MN assays.  CD4 T cell reactivity was examined using IFNg Elispot assays to look at reactivity to unique and conserved peptide pools.",
+    "brief_title": "CD4 T cell response to pH1N1 vaccination",
+    "clinical_trial": "N",
+    "condition_studied": "CD4 T cell and neutralizing antibody responses",
+    "dcl_id": 2,
+    "description": "Healthy adult human subjects were given monovalent inactivated pH1N1 vaccine and antibody responses were assessed using HAI and MN assays.  CD4 T cell reactivity was examined using IFNg Elispot assays to look at reactivity to unique and conserved peptide pools.",
+    "doi": "10.21430/M3PHW2D08D",
+    "endpoints": "HAI assay and microneutralization assay to determine antibody titers, cytokine Elispot assay to quantify CD4 T cell response",
+    "gender_included": "Female, Male",
+    "hypothesis": "pH1N1 vaccination increases CD4 T cell reactivity to conserved CD4 T cell epitopes and this increase in CD4 T cell reactivity correlates with the development of neutralizing antibody responses.",
+    "initial_data_release_date": "2013-08-15",
+    "initial_data_release_version": "DR3",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-08-15",
+    "latest_data_release_version": "DR3",
+    "maximum_age": "  82.00",
+    "minimum_age": "  18.00",
+    "objectives": "Determine CD4 T cell reactivity to unique HA and NA, conserved HA, and conserved NP/M1 peptide pools and correlate baseline numbers and boosting of CD4 T cell responses with neutralizing antibody titers.",
+    "official_title": "CD4 T-cell expansion predicts neutralizing antibody responses to monovalent inactivated pandemic H1N1 influenza vaccine",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2014,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM610",
+            "description": "Subject's Age between 18 years to 32 years",
+            "name": "Age 18-32"
+        },
+        {
+            "arm_accession": "ARM611",
+            "description": "Subject's Age above 60 years",
+            "name": "Age 60+"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Andrea",
+            "last_name": "Sant",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "ROC034"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "CD4+ T-cell expansion predicts neutralizing antibody responses to monovalent, inactivated 2009 pandemic influenza A(H1N1) virus subtype H1N1 vaccine.",
+            "journal": "J Infect Dis.",
+            "month": "Jan",
+            "year": "2013",
+            "doi": "10.1093/infdis/jis684. Epub 2012 Nov 12.",
+            "pubmed_id": "23148285"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "New York Influenza Center of Excellence"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 950
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 194
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 194
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 45
+            }
+        ],
+        "gender": [
+            {
+                "Female": 25
+            },
+            {
+                "Male": 24
+            }
+        ]
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "study_accession": "SDY51",
+    "actual_completion_date": null,
+    "actual_enrollment": 18,
+    "actual_start_date": null,
+    "age_unit": "Weeks",
+    "brief_description": "Determining the extent to which original antigenic sin is induced by variant influenza viruses by using two related strains of influenza",
+    "brief_title": "Original Antigenic Sin Responses to Influenza Viruses",
+    "clinical_trial": "N",
+    "condition_studied": "tested the induction of original antigenic sin in mice using two H1N1 influenza virus strains A/PR/8/34 (PR8) and A/FM/1/47 (FM1)",
+    "dcl_id": 2,
+    "description": "Determining the extent to which original antigenic sin is induced by variant influenza viruses by using two related strains of influenza",
+    "doi": "10.21430/M3P8MVPEKB",
+    "endpoints": "Showing that sequential infection of mice with two live influenza virus strains leads to almost exclusive Ab responses to the first viral strain, suggesting that original antigenic sin could be a potential strategy by which variant influenza viruses subvert the immune system",
+    "gender_included": "Not Specified",
+    "hypothesis": "Show that original antigenic sin leads to a significant decrease in development of protective immunity and recall responses to the second virus",
+    "initial_data_release_date": "2012-04-23",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "H1N1 strains A/PR/8/34 (PR8) and A/FM/1/47 (FM1)",
+    "latest_data_release_date": "2012-04-23",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "   6.00",
+    "minimum_age": "   6.00",
+    "objectives": "Show that sequential infection of mice with two live influenza virus strains leads toalmost exclusive Ab responses to the first viral strain, suggesting that original antigenic sin could be a potential strategy by which variant influenza viruses subvert the immune system",
+    "official_title": "Original Antigenic Sin Responses to Influenza Viruses",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2149,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM412",
+            "description": "Primary infection: inactive virus PR8, Secondary infection: inactive virus FM1 1 month after primary, Challenge infection: FM1",
+            "name": "primary: inactive virus PR8, secondary: inactive virus FM1 1mo, challenge: FM1"
+        },
+        {
+            "arm_accession": "ARM413",
+            "description": "Primary infection: PBS, Secondary infection: inactive virus FM1 1 month after primary, Challenge infection: FM1",
+            "name": "primary: PBS, secondary: inactive virus FM1 1mo, challenge: FM1"
+        },
+        {
+            "arm_accession": "ARM414",
+            "description": "Primary infection: PBS, Secondary infection: PBS 1 month after primary, Challenge infection: FM1  (inactive PR8 control)",
+            "name": "primary: PBS, secondary: PBS 1mo, challenge: FM1"
+        },
+        {
+            "arm_accession": "ARM415",
+            "description": "Primary infection: PR8 HA DNA vaccine, Secondary infection: FM1 HA DNA vaccine",
+            "name": "primary: PR8 HA DNA vaccine, secondary: FM1 HA DNA vaccine"
+        },
+        {
+            "arm_accession": "ARM416",
+            "description": "Primary infection: PBS, Secondary infection: FM1 HA DNA vaccine",
+            "name": "primary: PBS, secondary: FM1 HA DNA vaccine"
+        },
+        {
+            "arm_accession": "ARM417",
+            "description": "Primary infection: live virus PR8, Secondary infection: live virus FM1 1 month after primary, Challenge infection: FM1",
+            "name": "primary: live virus PR8, secondary: live virus FM1 1mo, challenge: FM1"
+        },
+        {
+            "arm_accession": "ARM418",
+            "description": "Primary infection: PBS, Secondary infection: live virus FM1 1 month after primary, Challenge infection: FM1",
+            "name": "primary: PBS, secondary: live virus FM1 1mo, challenge: FM1"
+        },
+        {
+            "arm_accession": "ARM419",
+            "description": "Primary infection: PBS, Secondary infection: PBS  1 month after primary, Challenge infection: FM1   (live PR8 control)",
+            "name": "primary: PBS, secondary: PBS  1mo, challenge: FM1"
+        },
+        {
+            "arm_accession": "ARM420",
+            "description": "Primary infection: live virus PR8, Secondary infection: live virus FM1",
+            "name": "primary: live virus PR8, secondary: live virus FM1"
+        },
+        {
+            "arm_accession": "ARM421",
+            "description": "Primary infection: PBS, Secondary infection:  live virus FM1",
+            "name": "primary: PBS, secondary:  live virus FM1"
+        },
+        {
+            "arm_accession": "ARM422",
+            "description": "Primary infection: live virus PR8, Secondary infection: live virus FM1 3 months after primary, Challenge infection: FM1",
+            "name": "primary: live virus PR8, secondary: live virus FM1 3mos, challenge: FM1"
+        },
+        {
+            "arm_accession": "ARM423",
+            "description": "Primary infection: PBS, Secondary infection:  live virus FM1 3 months after primary, Challenge infection: FM1",
+            "name": "primary: PBS, secondary:  live virus FM1 3mos, challenge: FM1"
+        },
+        {
+            "arm_accession": "ARM424",
+            "description": "Primary infection: PBS, Secondary infection: PBS 3 months, Challenge infection: FM1  (live PR8 control)",
+            "name": "primary: PBS, secondary: PBS 3mos, challenge: FM1"
+        },
+        {
+            "arm_accession": "ARM425",
+            "description": "Primary infection: inactive virus PR8, Secondary infection: inactive virus FM1 3 months after primary, Challenge infection: FM1",
+            "name": "primary: inactive virus PR8, secondary: inactive virus FM1 3mos, challenge: FM1"
+        },
+        {
+            "arm_accession": "ARM426",
+            "description": "Primary infection: PBS, Secondary infection: inactive virus FM1 3 months after primary, Challenge infection: FM1",
+            "name": "primary: PBS, secondary: inactive virus FM1 3mos, challenge: FM1"
+        },
+        {
+            "arm_accession": "ARM427",
+            "description": "Primary infection: PBS, Secondary infection: PBS 3 months, Challenge infection: FM1  (inactive PR8 control)",
+            "name": "primary: PBS, secondary: PBS 3mos, challenge: FM1"
+        },
+        {
+            "arm_accession": "ARM428",
+            "description": "Primary infection: live virus FM1, Secondary infection:  live virus PR8",
+            "name": "primary: live virus FM1, secondary:  live virus PR8"
+        },
+        {
+            "arm_accession": "ARM429",
+            "description": "Primary infection: live virus PBS Secondary infection  live virus PR8",
+            "name": "primary: live virus PBS secondary  live virus PR8"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Joshy",
+            "last_name": "Jacob",
+            "organization": "Emory Vaccine Center, Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory Vaccine Center, Emory University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Original antigenic sin responses to influenza viruses.",
+            "journal": "J Immunol.",
+            "month": "Sep",
+            "year": "2009",
+            "doi": "10.4049/jimmunol.0900398. Epub 2009 Jul 31.",
+            "pubmed_id": "19648276"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "Influenza Pathogenesis & Immunology Research Center (IPIRC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 67
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 15
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 85
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

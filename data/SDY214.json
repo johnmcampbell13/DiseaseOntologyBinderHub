@@ -1,0 +1,93 @@
+{
+    "study_accession": "SDY214",
+    "actual_completion_date": null,
+    "actual_enrollment": 100,
+    "actual_start_date": null,
+    "age_unit": "Days",
+    "brief_description": "Comparing EAEC JM221 to EAEC 042; comparing infection in nourished vs malnourished mice; studying the effect of NTZ on EAEC 042 infection",
+    "brief_title": "Impact of Nutrition and Nitazoxanide on  Enteroaggregative Escherichia coli (EAEC) Infection",
+    "clinical_trial": "N",
+    "condition_studied": "EAEC infection",
+    "dcl_id": 2,
+    "description": "Enteroaggregative Escherichia coli (EAEC) is increasingly recognized as a common cause of diarrhoea in healthy, malnourished and immune-deficient adults and children. There is no reproducible non-neonatal animal model for longitudinal studies of disease mechanism or therapy. Using two strains of human-derived EAEC to challenge weaned C57BL/6 mice, we explored an in vivo model of EAEC infection in mice, in which disease was monitored quantitatively as the growth rate, stool shedding and tissue burden of organisms; nutritional status was varied, and a new class of therapeutics was assessed. A single oral challenge of EAEC strain 042 resulted in significant growth shortfalls (5-8?% of body weight in 12 days), persistent shedding of micro-organisms in stools [>10(3.2) c.f.u. (10 mg stool)(-1) for at least 14 days] and intestinal tissue burden [~10(3) c.f.u. (10 mg tissue)(-1) detectable up to 14 days post-challenge]. Moderate malnourishment of mice using a 'regional basic diet' containing 7?% protein and reduced fat and micronutrients heightened all parameters of infection. Nitazoxanide in subMIC doses, administered for 3 days at the time of EAEC challenge, lessened growth shortfalls (by >10?% of body weight), stool shedding [by 2-3 logs (10 mg stool)(-1)] and tissue burden of organisms (by >75?% in the jejunum and colon). Thus, weaned C57BL/6 mice challenged with EAEC is a convenient, readily inducible model of EAEC infection with three highly quantifiable outcomes in which disease severity is dependent on the nutritional status of the host, and which is modifiable in the presence of inhibitors of pyruvate ferredoxin oxidoreductase such as nitazoxanide.",
+    "doi": "10.21430/M3NQ3UF8O9",
+    "endpoints": "Growth, Stool shedding of organism, tissue burden of organism, biofilm",
+    "gender_included": "Not Specified",
+    "hypothesis": "EAEC 042 will be more virulent than EAEC JM221; Malnourished mice will have worse infection than nourished mice; NTZ will reduce infection",
+    "initial_data_release_date": "2013-11-01",
+    "initial_data_release_version": "DR5",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-11-01",
+    "latest_data_release_version": "DR5",
+    "maximum_age": "  26.00",
+    "minimum_age": "  24.00",
+    "objectives": "Comparing EAEC JM221 to EAEC 042; comparing infection in nourished vs malnourished mice; studying the effect of NTZ on EAEC 042 infection",
+    "official_title": "Enteroaggregative Escherichia coli (EAEC) Strain in a Novel Weaned Mouse Model: Exacerbation by Malnutrition, Biofilm as a Virulence Factor, and Treatment by Nitazoxanide",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM899",
+            "description": "treated or infected",
+            "name": "Case"
+        },
+        {
+            "arm_accession": "ARM900",
+            "description": "control",
+            "name": "Control"
+        },
+        {
+            "arm_accession": "ARM901",
+            "description": "unknown",
+            "name": "Unknown"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Richard",
+            "last_name": "Guerrant",
+            "organization": "UVA",
+            "role_in_study": "Principal Investigator",
+            "site_name": "UVA"
+        },
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        },
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Enteroaggregative Escherichia coli strain in a novel weaned mouse model: exacerbation by malnutrition, biofilm as a virulence factor and treatment by nitazoxanide.",
+            "journal": "J Med Microbiol.",
+            "month": "Jun",
+            "year": "2013",
+            "doi": "10.1099/jmm.0.046300-0. Epub 2013 Mar 8.",
+            "pubmed_id": "23475903"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

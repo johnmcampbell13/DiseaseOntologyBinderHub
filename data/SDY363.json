@@ -1,0 +1,284 @@
+{
+    "study_accession": "SDY363",
+    "actual_completion_date": null,
+    "actual_enrollment": 7,
+    "actual_start_date": "1999-01-01",
+    "age_unit": "Months",
+    "brief_description": "In a mouse model of age-related vulnerability to WNV, we demonstrate that death correlates with increased viral titers in the brain and that this loss of virus control with age was the result of defects in the CD4 and CD8 T cell response against WNV. Specific age-related defects in T cell responses against dominant WNV epitopes were detected at the level of cytokine and lytic granule production, each of which are essential for resistance against WNV, and in the ability to generate multifunctional anti-WNV effector T cells, which are believed to be critical for robust antiviral immunity. In contrast, at the peak of the response, old and adult T cells exhibited superimposable peptide sensitivity. Most importantly, although the adult CD4 or CD8 T cells readily protected immunodeficient mice upon adoptive transfer, old T cells of either subset were unable to provide WNV-specific protection. Consistent with a profound qualitative and quantitative defect in T cell immunity, old brains contained at least 12x fewer total effector CD8 T cells compared with adult mice at the peak of brain infection. These findings identify potential targets for immunomodulation and treatment to combat lethal WNV infection in the elderly",
+    "brief_title": "Key Role of T cell Defects in Age-Related Vulnerability to West Nile Virus",
+    "clinical_trial": "N",
+    "condition_studied": "West Nile Virus Infection",
+    "dcl_id": 2,
+    "description": "In a mouse model of age-related vulnerability to WNV, we demonstrate that death correlates with increased viral titers in the brain and that this loss of virus control with age was the result of defects in the CD4 and CD8 T cell response against WNV. Specific age-related defects in T cell responses against dominant WNV epitopes were detected at the level of cytokine and lytic granule production, each of which are essential for resistance against WNV, and in the ability to generate multifunctional anti-WNV effector T cells, which are believed to be critical for robust antiviral immunity. In contrast, at the peak of the response, old and adult T cells exhibited superimposable peptide sensitivity. Most importantly, although the adult CD4 or CD8 T cells readily protected immunodeficient mice upon adoptive transfer, old T cells of either subset were unable to provide WNV-specific protection. Consistent with a profound qualitative and quantitative defect in T cell immunity, old brains contained at least 12x fewer total effector CD8 T cells compared with adult mice at the peak of brain infection. These findings identify potential targets for immunomodulation and treatment to combat lethal WNV infection in the elderly",
+    "doi": "10.21430/M3ESFSL9VA",
+    "endpoints": "Survival, Viral Load, Antigen specific T cell Response as measured by Tetramer Binding, Cytokine Production, Immuno-Flourescence within tissues illustrating T cell infiltration.",
+    "gender_included": "Not Specified",
+    "hypothesis": "There are direct mechanistic links between a decline in T cell function and reduced immune defense against infectious diseases",
+    "initial_data_release_date": "2015-02-18",
+    "initial_data_release_version": "DR12",
+    "intervention_agent": "Infection with West Nile Virus strain WNV 385-99",
+    "latest_data_release_date": "2015-02-18",
+    "latest_data_release_version": "DR12",
+    "maximum_age": "  20.00",
+    "minimum_age": "   5.00",
+    "objectives": "We examined the immunological basis of the age-related increase in susceptibility to WNV, and we report in this paper that qualitative and quantitative impairment with age in effector T cell immunity at the site of critical affected tissue (the brain) leads to increased susceptibility to this virus.",
+    "official_title": "Key Role of T cell Defects in Age-Related Vulnerability to West Nile Virus",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3365,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2246",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "Adult_200pfu"
+        },
+        {
+            "arm_accession": "ARM2247",
+            "description": "male 18-22 months of age infected with WNV ip",
+            "name": "Old_200pfu"
+        },
+        {
+            "arm_accession": "ARM2248",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "Adult_1000pfu"
+        },
+        {
+            "arm_accession": "ARM2249",
+            "description": "male 18-22 months of age infected with WNV ip",
+            "name": "Old_1000pfu"
+        },
+        {
+            "arm_accession": "ARM2250",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "Adult_1200pfu"
+        },
+        {
+            "arm_accession": "ARM2251",
+            "description": "male 18-22 months of age infected with WNV ip",
+            "name": "Old_1200pfu"
+        },
+        {
+            "arm_accession": "ARM2252",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "Adult_2000pfu"
+        },
+        {
+            "arm_accession": "ARM2253",
+            "description": "male 18-22 months of age infected with WNV ip",
+            "name": "Old_2000pfu"
+        },
+        {
+            "arm_accession": "ARM2254",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "200pfu IFNAR -/-"
+        },
+        {
+            "arm_accession": "ARM2255",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "200pfu CTRL"
+        },
+        {
+            "arm_accession": "ARM2256",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "100pfu IFNAR -/-"
+        },
+        {
+            "arm_accession": "ARM2257",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "100pfu CTRL"
+        },
+        {
+            "arm_accession": "ARM2258",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "200pfu Rag1 -/-"
+        },
+        {
+            "arm_accession": "ARM2259",
+            "description": "male tranfered spleen cells from mouse 4-6months of age then infected with WNV ip100pfu",
+            "name": "Adult_Spl_Transfer to Rag1-/-"
+        },
+        {
+            "arm_accession": "ARM2260",
+            "description": "male tranfered spleen cells from mouse18-22months of age then infected with WNV 100pfu",
+            "name": "Old_Spl_Transfer to Rag1-/-"
+        },
+        {
+            "arm_accession": "ARM2261",
+            "description": "male no transfer just infect with WNV 100pfu",
+            "name": "NoTransfer"
+        },
+        {
+            "arm_accession": "ARM2262",
+            "description": "male tranfered T cells from mouse 4-6months of age then infected with WNV ip100pfu",
+            "name": "Adult_Tcells_Transfer to Rag1 -/-"
+        },
+        {
+            "arm_accession": "ARM2263",
+            "description": "male tranfered T cells from mouse 18-22months of age then infected with WNV ip 100pfu",
+            "name": "Old_Tcells_Transfer to Rag1 -/-"
+        },
+        {
+            "arm_accession": "ARM2264",
+            "description": "male tranfered T cells from mouse 4-6months of age then infected with WNV ip 200pfu Fig 5",
+            "name": "Adult_Tcells to Rag1 -/-"
+        },
+        {
+            "arm_accession": "ARM2265",
+            "description": "male tranfered T cells from IFNAR -/- mouse 4-6months of age then infected with WNV ip200pfu Fig 5",
+            "name": "IFNAR -/-_Tcells to Rag1 -/-"
+        },
+        {
+            "arm_accession": "ARM2266",
+            "description": "male tranfered T cells from perforin -/- mouse 4-6months of age then infected with WNV ip200pfu Fig 5",
+            "name": "Perforin -/-_Tcells to Rag1 -/-"
+        },
+        {
+            "arm_accession": "ARM2267",
+            "description": "male no transfer just infect with WNV 200pfu Fig 5",
+            "name": "NoTransfer"
+        },
+        {
+            "arm_accession": "ARM2268",
+            "description": "male tranfered CD4 cells from mouse 4-6months of age then infected with WNV ip 200pfu  Fig 5",
+            "name": "Adult_ CD4cells to Rag1 -/-"
+        },
+        {
+            "arm_accession": "ARM2269",
+            "description": "male tranfered CD8 cells from mouse 4-6months of age then infected with WNV ip 200pfu Fig 5",
+            "name": "Adult_ CD8cells to Rag1 -/-"
+        },
+        {
+            "arm_accession": "ARM2270",
+            "description": "male tranfered CD4 cells from mouse 18-22months of age then infected with WNV ip 200pfu Fig 5",
+            "name": "Old_ CD4cells to Rag1 -/-"
+        },
+        {
+            "arm_accession": "ARM2271",
+            "description": "male tranfered CD8 cells from mouse 18-22months of age then infected with WNV ip 200pfu Fig 5",
+            "name": "Old_ CD8cells to Rag1 -/-"
+        },
+        {
+            "arm_accession": "ARM2272",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "Adult_10pfu"
+        },
+        {
+            "arm_accession": "ARM2273",
+            "description": "male 18-22 months of age infected with WNV ip",
+            "name": "Old_10pfu"
+        },
+        {
+            "arm_accession": "ARM2274",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "Adult_3pfu"
+        },
+        {
+            "arm_accession": "ARM2275",
+            "description": "male 18-22 months of age infected with WNV ip",
+            "name": "Old_3pfu"
+        },
+        {
+            "arm_accession": "ARM2276",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "Adult_20pfu"
+        },
+        {
+            "arm_accession": "ARM2277",
+            "description": "male 18-22 months of age infected with WNV ip",
+            "name": "Old_20pfu"
+        },
+        {
+            "arm_accession": "ARM2278",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "Adult_6pfu"
+        },
+        {
+            "arm_accession": "ARM2279",
+            "description": "male 18-22 months of age infected with WNV ip",
+            "name": "Old_6pfu"
+        },
+        {
+            "arm_accession": "ARM2280",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "Adult_1pfu"
+        },
+        {
+            "arm_accession": "ARM2281",
+            "description": "male 18-22 months of age infected with WNV ip",
+            "name": "Old_1pfu"
+        },
+        {
+            "arm_accession": "ARM2282",
+            "description": "male 4-6months of age infected with WNV ip",
+            "name": "Adult_0.5pfu"
+        },
+        {
+            "arm_accession": "ARM2283",
+            "description": "male 18-22 months of age infected with WNV ip",
+            "name": "Old_0.5pfu"
+        },
+        {
+            "arm_accession": "ARM2284",
+            "description": "male 4-6months of age infected with WNV sc",
+            "name": "Adult_80pfu"
+        },
+        {
+            "arm_accession": "ARM2285",
+            "description": "male 18-22 months of age infected with WNV sc",
+            "name": "Old_80pfu"
+        },
+        {
+            "arm_accession": "ARM2286",
+            "description": "male 4-6months of age infected with WNV sc",
+            "name": "Adult_40pfu"
+        },
+        {
+            "arm_accession": "ARM2287",
+            "description": "male 18-22 months of age infected with WNV sc",
+            "name": "Old_40pfu"
+        },
+        {
+            "arm_accession": "ARM2288",
+            "description": "male 4-6months of age infected with WNV sc",
+            "name": "Adult_20pfu"
+        },
+        {
+            "arm_accession": "ARM2289",
+            "description": "male 18-22 months of age infected with WNV sc",
+            "name": "Old_20pfu"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Janko",
+            "last_name": "Nikolich-Zugich",
+            "organization": "University of Arizona",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Arizona"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Key role of T cell defects in age-related vulnerability to West Nile virus.",
+            "journal": "J Exp Med.",
+            "month": "Nov",
+            "year": "2009",
+            "doi": "10.1084/jem.20090222. Epub 2009 Nov  9.",
+            "pubmed_id": "19901080"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Immunological basis of age-related vulnerability in biodefense and emerging infections SP2 UAz"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

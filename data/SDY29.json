@@ -1,0 +1,140 @@
+{
+    "study_accession": "SDY29",
+    "actual_completion_date": null,
+    "actual_enrollment": 48,
+    "actual_start_date": "2007-05-25",
+    "age_unit": "Not Specified",
+    "brief_description": "Determine of anti-PA titer kinetics",
+    "brief_title": "Determine of anti-PA titer kinetics",
+    "clinical_trial": "N",
+    "condition_studied": "effect of alum on the immune response to rPA",
+    "dcl_id": 2,
+    "description": "Four groups of 12 mice will each be immunized with rPA &plusmn; Alum (alhydrogel).  Two groups will then be boosted on Day 227 with rPA alone.  Mice will be bled every 2-3 days over the course of 283 days.  Serum samples will be prepared and assayed for anti-PA titers using ELISA and/or anthrax toxin neutralization assays.",
+    "doi": "10.21430/M3VDXBDPRQ",
+    "endpoints": "Mice were sacrificed at designated time points. ELISA assays were done on serum collected from the mice.",
+    "gender_included": "Female",
+    "hypothesis": null,
+    "initial_data_release_date": "2014-01-17",
+    "initial_data_release_version": "DR7",
+    "intervention_agent": "rPA or rPA+Alum, with or without boost\r",
+    "latest_data_release_date": "2014-01-17",
+    "latest_data_release_version": "DR7",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "To comprehensively study the humoral response to immunization with rPA with or without Alum using in vitro antibody analyses.",
+    "official_title": "Determine of anti-PA titer kinetics",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 1885,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM318",
+            "description": "Prime with 10ug rPA; NO Boost. Bleed follow bleeding schedule A (days: -1, 15,29,43,57,71,85,109,137,165,193,221,249,277)",
+            "name": "Treatment_1_bleed_group_A"
+        },
+        {
+            "arm_accession": "ARM319",
+            "description": "Prime with 10ug rPA; NO Boost. Bleed follow bleeding schedule B (days: 18,32,46,60,74,88,116,144,172,200,228,256,284)",
+            "name": "Treatment_1_bleed_group_B"
+        },
+        {
+            "arm_accession": "ARM320",
+            "description": "Prime with 10ug rPA; NO Boost. Bleed follow bleeding schedule C (days:22,36,50,64,78,95,123,151,179,207,235,263)",
+            "name": "Treatment_1_bleed_group_C"
+        },
+        {
+            "arm_accession": "ARM321",
+            "description": "Prime with 10ug rPA; NO Boost. Bleed follow bleeding schedule D (days: 25,39,53,67,81,103,130,158,186,214,243,270)",
+            "name": "Treatment_1_bleed_group_D"
+        },
+        {
+            "arm_accession": "ARM322",
+            "description": "Prime with 10ug rPA; boost with 10ug rPA. Bleed follow bleeding schedule A (days: -1, 15,29,43,57,71,85,109,137,165,193,221,249,277)",
+            "name": "Treatment_2_bleed_group_A"
+        },
+        {
+            "arm_accession": "ARM323",
+            "description": "Prime with 10ug rPA; boost with 10ug rPA. Bleed follow bleeding schedule B (days: 18,32,46,60,74,88,116,144,172,200,228,256,284)",
+            "name": "Treatment_2_bleed_group_B"
+        },
+        {
+            "arm_accession": "ARM324",
+            "description": "Prime with 10ug rPA; boost with 10ug rPA. Bleed follow bleeding schedule C (days: 22,36,50,64,78,95,123,151,179,207,235,263)",
+            "name": "Treatment_2_bleed_group_C"
+        },
+        {
+            "arm_accession": "ARM325",
+            "description": "Prime with 10ug rPA; boost with 10ug rPA. Bleed follow bleeding schedule D (days:25,39,53,67,81,103,130,158,186,214,243,270)",
+            "name": "Treatment_2_bleed_group_D"
+        },
+        {
+            "arm_accession": "ARM326",
+            "description": "Prime with 10ug rPA + 1.3mg alhydrogel; NO Boost. Bleed follow bleeding schedule A (days: -1, 15,29,43,57,71,85,109,137,165,193,221,249,277)",
+            "name": "Treatment_3_bleed_group_A"
+        },
+        {
+            "arm_accession": "ARM327",
+            "description": "Prime with 10ug rPA + 1.3mg alhydrogel; NO Boost. Bleed follow bleeding schedule B (days: 18,32,46,60,74,88,116,144,172,200,228,256,284)",
+            "name": "Treatment_3_bleed_group_B"
+        },
+        {
+            "arm_accession": "ARM328",
+            "description": "Prime with 10ug rPA + 1.3mg alhydrogel; NO Boost. Bleed follow bleeding schedule C (days: 22,36,50,64,78,95,123,151,179,207,235,263)",
+            "name": "Treatment_3_bleed_group_C"
+        },
+        {
+            "arm_accession": "ARM329",
+            "description": "Prime with 10ug rPA + 1.3mg alhydrogel; NO Boost. Bleed follow bleeding schedule D (days: 25,39,53,67,81,103,130,158,186,214,243,270)",
+            "name": "Treatment_3_bleed_group_D"
+        },
+        {
+            "arm_accession": "ARM330",
+            "description": "Prime with 10ug rPA + 1.3mg alhydrogel; boost with 10ug rPA. Bleed follow bleeding schedule A (days: -1, 15,29,43,57,71,85,109,137,165,193,221,249,277)",
+            "name": "Treatment_4_bleed_group_A"
+        },
+        {
+            "arm_accession": "ARM331",
+            "description": "Prime with 10ug rPA + 1.3mg alhydrogel; boost with 10ug rPA. Bleed follow bleeding schedule B (days: 18,32,46,60,74,88,116,144,172,200,228,256,284)",
+            "name": "Treatment_4_bleed_group_B"
+        },
+        {
+            "arm_accession": "ARM332",
+            "description": "Prime with 10ug rPA + 1.3mg alhydrogel; boost with 10ug rPA. Bleed follow bleeding schedule C (days: 22,36,50,64,78,95,123,151,179,207,235,263)",
+            "name": "Treatment_4_bleed_group_C"
+        },
+        {
+            "arm_accession": "ARM333",
+            "description": "Prime with 10ug rPA + 1.3mg alhydrogel; boost with 10ug rPA; NO Boost. Bleed follow bleeding schedule D (days: 25,39,53,67,81,103,130,158,186,214,243,270)",
+            "name": "Treatment_4_bleed_group_D"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Thomas",
+            "last_name": "Kepler",
+            "organization": "Duke Human Vaccine Institute",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Duke Human Vaccine Institute\r"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "Multiscale Systems Immunology for Adjuvant Development"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 4192
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

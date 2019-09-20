@@ -1,0 +1,125 @@
+{
+    "study_accession": "SDY15",
+    "actual_completion_date": "2016-12-30",
+    "actual_enrollment": 82,
+    "actual_start_date": "2008-08-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to determine the immune response to a yellow fever vaccine in adults with Atopic Dermatitis.",
+    "brief_title": "Immune Response to Yellow Fever Vaccination in Adults With Atopic Dermatitis (YF08)",
+    "clinical_trial": "Y",
+    "condition_studied": "YFEV",
+    "dcl_id": 2,
+    "description": "The main objective of the Atopic Dermatitis and Vaccinia Network (ADVN) is to reduce the risk of eczema vaccinatum (EV) following smallpox vaccination. Since direct vaccination of atopic dermatitis (AD) subjects with live vaccinia virus (VV) is contraindicated due to the heightened risk of EV, a surrogate virus, yellow fever (YF) (the highly attenuated vaccine strain, 17D), was chosen. This is a live virus that can be administered transcutaneously (TC) with a bifurcated needle in a manner analogous to smallpox vaccination. In this study, AD subjects and controls will be vaccinated with the yellow fever virus (YFV) (YFV-17D) by the subcutaneous (SC) or TC route to determine: 1) whether there are quantitative differences in the antiviral immune responses elicited in these 2 distinct groups of subjects; and 2) whether the route of vaccination alters these immune responses, especially in AD subjects who may have altered cutaneous immunity. Using in-depth analysis of both innate and adaptive immunity in AD subjects and controls, an immunological signature may be identified that would aid in the screening process of individuals who might be at risk for EV. Moreover, this study will provide substantial information about normal and defective cutaneous immunity in AD subjects, which will be critical for future development of therapeutic drugs aimed at preventing or alleviating EV, as well as other more common viral skin infections.\r\n",
+    "doi": "10.21430/M3KTJ8SA7A",
+    "endpoints": "Primary Outcome Measures: Comparison of Anti-YF Antibody Levels by Measurement of Log10 Neutralization Index (LNI): YFV-17D TC- (AD) Participants Compared to YFV-17D TC- (Non-AD) Participants. Comparison of Anti-YF Antibody Levels by Measurement of Log10 Neutralization Index (LNI): YFV-17D SC - (AD) Participants Compared to YFV-17D SC- (Non-AD) Participants. Comparison of Anti-YF Antibody Levels by Measurement of Log10 Neutralizing Titer 50 (NT50): YFV-17D TC - (AD) Participants Compared to YFV-17D TC - (Non - AD) Participants. Comparison of Anti-YF Antibody Levels by Measurement of Log10 Neutralizing Titer 50 (NT50): YFV-17D SC - (AD) Participants Compared to YFV-17D SC - (Non-AD) Participants. Secondary Outcome Measures: Comparison of Count of Seroconverters: YFV-17D TC- (AD) Participants Compared to YFV-17D TC - (Non-AD) Participants. Comparison of Count of Seroconverters: YFV-17D SC - (AD) Participants Compared to YFV-17D SC - (Non-AD) Participants. Comparison in Log10 Transformed Lymphocyte Count on Day 30 Post YF Immunization: IFN-gamma Positive, Tumor Necrosis Factor- Alpha (TNF Alpha) Positive, CD4 Positive T-cells, YFV-17D SC - (AD) Compared to YFV-17D SC - (Non- AD) Participants. Comparison in Log10 Transformed Lymphocyte Count on Day 30 Post YF Immunization: IFN-gamma Positive, Tumor Necrosis Factor- Alpha (TNF Alpha) Positive , CD4 Positive T-cells, YFV-17D TC - (AD) Compared to YFV-17D TC - (Non-AD) Participants. Comparison in Log10 Transformed Lymphocyte Count on Day 30 Post YF Immunization: IFN-gamma Positive, Tumor Necrosis Factor- Alpha (TNF Alpha) Positive, CD8 Positive T-cells, YFV-17D SC -(AD) Compared to YFV-17D SC - (Non-AD) Participants. Comparison in Log10 Transformed Lymphocyte Count on Day 30 Post YF Immunization: IFN-gamma Positive, Tumor Necrosis Factor- Alpha (TNF Alpha) Positive, CD8 Positive T-cells, YFV-17D TC - (AD) Compared to YFV-17D TC - (Non-AD) Participants.\r\n",
+    "gender_included": "Female, Male",
+    "hypothesis": "The central hypothesis of this protocol is that TC vaccination in AD subjects will reveal lower levels of adaptive and/or innate immunity when compared to TC vaccination in non-atopic control subjects. This is based on the hypothesis that impaired antiviral immune response will result in lower anti-YF antibody levels measured on Day 30 post-vaccination.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Yellow Fever Vaccine",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "  43.70",
+    "minimum_age": "  26.90",
+    "objectives": "The primary objective of this study is to gain greater insight into the immunological parameters that distinguish AD subjects from controls. This will be accomplished by measuring YFV-specific antibody titers after TC and SC administration of vaccine, which may vary due to differences in innate and/or adaptive immune responses. The secondary objective of this study is to determine whether the subset of AD subjects with increased susceptibility to viral skin infection can be identified by biomarkers for increased T-helper type 2 (Th2) responses or decreased T-helper type 1 (Th1) responses, decreased natural killer (NK) cell numbers/function, complement consumption, and control of viremia.\r\n",
+    "official_title": "A Study of the Systemic and Cutaneous Immune Responses to Yellow Fever Vaccination in Atopic Dermatitis Subjects",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 1089,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3221",
+            "description": "AD Subjects AD+TC",
+            "name": "Transcutaneous Atopic Dermatitis Subjects"
+        },
+        {
+            "arm_accession": "ARM3222",
+            "description": "AD Subjects AD+SC",
+            "name": "Subcutaneous Atopic Dermatitis Subjects"
+        },
+        {
+            "arm_accession": "ARM3225",
+            "description": "Nonatopic Subjects AD+TC",
+            "name": "Transcutaneous Nonatopic Subjects"
+        },
+        {
+            "arm_accession": "ARM3226",
+            "description": "Nonatopic Subjects AD+SC",
+            "name": "Subcutaneous Nonatopic Subjects"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jon",
+            "last_name": "Hanifin",
+            "organization": "Oregon Health and Science University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Oregon Health and Science University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Transcutaneous yellow fever vaccination of subjects with or without atopic dermatitis.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Feb",
+            "year": "2014",
+            "doi": "10.1016/j.jaci.2013.10.037.  Epub 2013 Dec 10.",
+            "pubmed_id": "24331381"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Atopic Dermatitis & Vaccinia Network (ADVN)",
+            "contract_name": "Atopic Dermatitis and Vaccinia Network (ADVN) Clinical Studies Consort-26629c"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 348
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 405
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 225
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 5
+            },
+            {
+                "race": "Black or African American",
+                "count": 4
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 7
+            },
+            {
+                "race": "White",
+                "count": 65
+            }
+        ],
+        "gender": [
+            {
+                "Female": 47
+            },
+            {
+                "Male": 35
+            }
+        ]
+    }
+}

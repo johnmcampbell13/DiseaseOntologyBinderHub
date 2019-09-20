@@ -1,0 +1,197 @@
+{
+    "study_accession": "SDY286",
+    "actual_completion_date": null,
+    "actual_enrollment": 24,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Alveolar macrophages from mice and macaques following infection with viral and bacterial pathogens were used to determine the similarities and differences to invading pulmonary pathogens",
+    "brief_title": "Modeling Pulmonary Immunity:  Evaluation of the Innate Immune Response to Pathogens 1) Francisella tularensis 2) Mycobacterium tuberculosis and 3) Influenza A virus in cynomolgus macaque",
+    "clinical_trial": "N",
+    "condition_studied": "Immune response to pathogen",
+    "dcl_id": 2,
+    "description": "A greater understanding of how alveolar macrophages respond to pathogens is important for the design of novel therapeutic agents for treatment of potentially lethal pulmonary infections. To increase understanding of early pulmonary infection response of macaques following infection with viral and bacterial pathogen, alveolar macrophages were used to determine the similarities and differences between species to invading pulmonary pathogens",
+    "doi": "10.21430/M3EAOXZB4O",
+    "endpoints": "Assay lung APC immune response to pathogens and validate mathematical models",
+    "gender_included": "Not Specified",
+    "hypothesis": "Innate immune cells infected with pulmonary pathogens have both species-specific and cross-species responses",
+    "initial_data_release_date": "2014-05-30",
+    "initial_data_release_version": "DR10",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-05-30",
+    "latest_data_release_version": "DR10",
+    "maximum_age": "4",
+    "minimum_age": "4",
+    "objectives": "To develop and validate mathematical models of in vivo infection and ex vivo innate immune response of lung APCs to Francisella tularensis, Mycobacterium tuberculosis and influenza A virus",
+    "official_title": "Innate Immune Response to Pathogens:  Francisella tularensis, Mycobacterium tuberculosis and Influenza A virus",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 24,
+    "workspace_id": 1305,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1967",
+            "description": "HIV-1_VLP_ADA",
+            "name": "HIV-1_VLP_ADA"
+        },
+        {
+            "arm_accession": "ARM1968",
+            "description": "Rift Valley Fever virus ZH501",
+            "name": "Rift Valley Fever virus ZH501"
+        },
+        {
+            "arm_accession": "ARM1969",
+            "description": "Rift Valley Fever virus MP12",
+            "name": "Rift Valley Fever virus MP12"
+        },
+        {
+            "arm_accession": "ARM1970",
+            "description": "Influenza A A/PR",
+            "name": "Influenza A A/PR"
+        },
+        {
+            "arm_accession": "ARM1971",
+            "description": "Influenza A Fujian",
+            "name": "Influenza A Fujian"
+        },
+        {
+            "arm_accession": "ARM1972",
+            "description": "Influenza A A/PR-DelNS1",
+            "name": "Influenza A A/PR-DelNS1"
+        },
+        {
+            "arm_accession": "ARM1973",
+            "description": "Influenza A H5-PR8",
+            "name": "Influenza A H5-PR8"
+        },
+        {
+            "arm_accession": "ARM1974",
+            "description": "Influenza A H5-Indo",
+            "name": "Influenza A H5-Indo"
+        },
+        {
+            "arm_accession": "ARM1975",
+            "description": "Influenza A Wisconsin",
+            "name": "Influenza A Wisconsin"
+        },
+        {
+            "arm_accession": "ARM1976",
+            "description": "Influenza A New Caledonia",
+            "name": "Influenza A New Caledonia"
+        },
+        {
+            "arm_accession": "ARM1977",
+            "description": "Influenza A Solomon Island",
+            "name": "Influenza A Solomon Island"
+        },
+        {
+            "arm_accession": "ARM1978",
+            "description": "Influenza A New Caledonia_M/A",
+            "name": "Influenza A New Caledonia_M/A"
+        },
+        {
+            "arm_accession": "ARM1979",
+            "description": "Influenza A Shanghai-B",
+            "name": "Influenza A Shanghai-B"
+        },
+        {
+            "arm_accession": "ARM1980",
+            "description": "Influenza A H1N1_A/CA/07",
+            "name": "Influenza A H1N1_A/CA/07"
+        },
+        {
+            "arm_accession": "ARM1981",
+            "description": "Influenza A Vietnam",
+            "name": "Influenza A Vietnam"
+        },
+        {
+            "arm_accession": "ARM1982",
+            "description": "Influenza A A/WS/Mongolia/244/2005",
+            "name": "Influenza A A/WS/Mongolia/244/2005"
+        },
+        {
+            "arm_accession": "ARM1983",
+            "description": "Influenza A A/Mexico/4108/2009",
+            "name": "Influenza A A/Mexico/4108/2009"
+        },
+        {
+            "arm_accession": "ARM1984",
+            "description": "Influenza A A/Brisbane/59/2007",
+            "name": "Influenza A A/Brisbane/59/2007"
+        },
+        {
+            "arm_accession": "ARM1985",
+            "description": "Mycobacterium Tuberculosis H37Rv",
+            "name": "Mycobacterium Tuberculosis H37Rv"
+        },
+        {
+            "arm_accession": "ARM1986",
+            "description": "Mycobacterium Tuberculosis Erdman",
+            "name": "Mycobacterium Tuberculosis Erdman"
+        },
+        {
+            "arm_accession": "ARM1987",
+            "description": "Francisella Tularensis N/A",
+            "name": "Francisella Tularensis N/A"
+        },
+        {
+            "arm_accession": "ARM1988",
+            "description": "Francisella Tularensis Schu S4",
+            "name": "Francisella Tularensis Schu S4"
+        },
+        {
+            "arm_accession": "ARM1989",
+            "description": "Francisella Tularensis Live Vaccine Strain",
+            "name": "Francisella Tularensis Live Vaccine Strain"
+        },
+        {
+            "arm_accession": "ARM1990",
+            "description": "Uninfected PBS",
+            "name": "Uninfected PBS"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Penelope",
+            "last_name": "Morel",
+            "organization": "University of Pittsburgh",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Pittsburgh"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Large scale comparison of innate responses to viral and bacterial pathogens in mouse and macaque.",
+            "journal": "PLoS One.",
+            "month": "-",
+            "year": "2011",
+            "doi": "10.1371/journal.pone.0022401. Epub 2011 Jul 18.",
+            "pubmed_id": "21789257"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "University of Pittsburgh Center for Modeling Immunity for Biodefense"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 796
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 46
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 258
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

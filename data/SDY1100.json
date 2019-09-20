@@ -1,0 +1,91 @@
+{
+    "study_accession": "SDY1100",
+    "actual_completion_date": "2016-12-30",
+    "actual_enrollment": 7,
+    "actual_start_date": "2015-12-11",
+    "age_unit": "Years",
+    "brief_description": "Ex vivo infections of DCs DENV2 and DENV4",
+    "brief_title": "Project 3 - Optimization experiments DCs DV2 and DV4 - CyTOF",
+    "clinical_trial": "N",
+    "condition_studied": "Innate immune responses to dengue virus infection",
+    "dcl_id": 2,
+    "description": "Ex vivo infections of human monocyte derived DCs DENV2 and DENV4 analysis were performed to study the innate immune profile upon infection with those viruses using CyTOF and to elucidate the appropiated time points for future experiments.",
+    "doi": "10.21430/M3JDEIXF26",
+    "endpoints": "Virus replication (plaque assay), CyTOF",
+    "gender_included": "Unknown",
+    "hypothesis": "DV2 and DV4 induce diifferent activation profiles in DCs",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Not applicable",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "  80.00",
+    "minimum_age": "  18.00",
+    "objectives": "To study the expression of surface markers and intracellular cytokines after infection in DCs",
+    "official_title": "Project 3 - Optimization experiments DCs DV2 and DV4 - CyTOF",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 7,
+    "workspace_id": 4875,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3865",
+            "description": "De-identified buffy coats were obtained from the New York Blood Center",
+            "name": "NYBC_1"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Ana",
+            "last_name": "Fernandez-Sesma",
+            "organization": "Icahn School of Medicine at Mount Sinai",
+            "role_in_study": "Principal Investigator",
+            "site_name": "N/A"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "High-dimensional CyTOF analysis of dengue virus-infected human DCs reveals distinct viral signatures.",
+            "journal": "JCI Insight.",
+            "month": "Jul",
+            "year": "2017",
+            "doi": "10.1172/jci.insight.92424. [Epub  ahead of print]",
+            "pubmed_id": "28679950"
+        },
+        {
+            "title": null,
+            "journal": null,
+            "month": null,
+            "year": null,
+            "doi": null,
+            "pubmed_id": "N/A"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+            "contract_name": "Dengue Human Immunology Project Consortium (DHIPC MSSM)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 84
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 7
+            }
+        ],
+        "gender": [
+            {
+                "Unknown": 7
+            }
+        ]
+    }
+}

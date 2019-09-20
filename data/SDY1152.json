@@ -1,0 +1,74 @@
+{
+    "study_accession": "SDY1152",
+    "actual_completion_date": "2010-12-31",
+    "actual_enrollment": 2,
+    "actual_start_date": "2009-01-01",
+    "age_unit": "Years",
+    "brief_description": "2 different stimuli were used to activated DCs  LPS and Curdlan.   A time course experiment was conducted for 2 hr to measure the phosphorylation profiles of MAPKs, ERK1/2 and p38.",
+    "brief_title": "Phosphorylation profiles of ERK, p38, MAPKs in DCs in response to different pathogenic stimuli",
+    "clinical_trial": "N",
+    "condition_studied": "Normal immune system",
+    "dcl_id": 2,
+    "description": "2 different stimuli were used to activated DCs  LPS and Curdlan.   A time course experiment was conducted for 2 hr to measure the phosphorylation profiles of MAPKs, ERK1/2 and p38.",
+    "doi": "10.21430/M3N3RFL2E5",
+    "endpoints": "Flow cytometry",
+    "gender_included": "Not Specified",
+    "hypothesis": "DCs have different repsonses to different stimuli.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Pathogen",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "  89.00",
+    "minimum_age": "  18.00",
+    "objectives": "Define phosphoryaltion profiles of DCs after stimulation",
+    "official_title": "Phosphorylation profiles of ERK, p38, MAPKs in DCs in response to different pathogenic stimuli",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 1281,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4049",
+            "description": "DCs from healthy subjects used in in vitro studies",
+            "name": "Healthy subjects"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "S",
+            "last_name": "Patil",
+            "organization": "Mount Sinai School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "MSSM"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "Modeling Viral Immunity and Antagonism"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 37
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 2
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 2
+            }
+        ]
+    }
+}

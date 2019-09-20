@@ -1,0 +1,130 @@
+{
+    "study_accession": "SDY1437",
+    "actual_completion_date": null,
+    "actual_enrollment": 24,
+    "actual_start_date": "2008-07-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to assess the safety and effectiveness of low molecular weight sulfated dextran (LMW-SD) on post-transplant islet function in people with type 1 diabetes who have responded to intensive insulin therapy.",
+    "brief_title": "Safety and Effectiveness of Low Molecular Weight Sulfated Dextran in Islet Transplantation (CIT-01)",
+    "clinical_trial": "Y",
+    "condition_studied": "Type 1 Diabetes Mellitus",
+    "dcl_id": 2,
+    "description": "The CIT consortium conducted a total of 9 studies across North America (CIT02 through CIT08) and the Nordic region (CIT01). CIT08 was a long-term follow-up study for interested participants at the North American sites. The target population is individuals with type 1 diabetes, normal kidney function, and intractable hypoglycemia. All studies treated participants with up to 3 separate infusions of islets. CIT01 participants were randomized to study treatment including Low Molecular Weight Sulfated Dextran (LMW-DS) and study treatment without LMW-DS. Subjects in both arms received induction and maintenance immunosuppression consisting of ATG (basiliximab instead of ATG for the 2nd and 3rd transplants, if applicable), etanercept, sirolimus, and tacrolimus. CIT01 subjects randomized to the LMW-DS arm also received LMW-DS before and during islet transplant.",
+    "doi": "10.21430/M3YZY4PXCS",
+    "endpoints": "The level of stimulated c-peptide at 90-minutes derived from the mixed-meal tolerance test (MMTT) at 75+/-5 days following the first islet infusion.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Low molecular weight sulfated dextran (LMW-SD) is safe and effective in preventing instant blood-mediated inflammatory reaction (IBMIR) after islet transplantation in people with type 1 diabetes.",
+    "initial_data_release_date": "2019-04-12",
+    "initial_data_release_version": "DR30",
+    "intervention_agent": "Islet Cell Transplantation",
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "  63.80",
+    "minimum_age": "  27.50",
+    "objectives": "The primary objective is to evaluate the safety and efficacy of Low Molecular Weight Dextran Sulfate (LMW-DS) to enhance engraftment and prevent IBMIR in islet transplantation to Type 1 diabetic subjects. The secondary objective is to gather additional safety and efficacy information about the combination of Low Molecular Weight Sulfated Dextran with islet transplantation.",
+    "official_title": "Open Randomized Multi-Center Study to Evaluate Safety and Efficacy of Low Molecular Weight Sulfated Dextran in Islet Transplantation",
+    "sponsoring_organization": "NIAID, NIDDK",
+    "target_enrollment": 36,
+    "workspace_id": 6067,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4767",
+            "description": "Immunosuppression with LMW-DS",
+            "name": "Experimental Arm"
+        },
+        {
+            "arm_accession": "ARM4768",
+            "description": "Immunosuppression without LMW-DS",
+            "name": "Control Arm"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Olle",
+            "last_name": "Korsgren",
+            "organization": "Uppsala University Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Uppsala University Hospital"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Open Randomized Multicenter Study to Evaluate Safety and Efficacy of Low Molecular Weight Sulfated Dextran in Islet Transplantation.",
+            "journal": "Transplantation.",
+            "month": "Mar",
+            "year": "2019",
+            "doi": "10.1097/TP.0000000000002425.",
+            "pubmed_id": "30211831"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "ADVANCING ISLET TRANSPLANTS FOR TYPE 1 DIABETES CARE"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "B-LYMPHOCYTE IMMUNOTHERAPY IN ISLET TRANSPLANTATION"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "ISLET TRANSPLANT - COSTIMULATORY BLOCKADE WITH LEA29Y"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "CLINICAL ISLET TRANSPLANTATION: DATA COORDINATING CENTER"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "STRATEGIES TO IMPROVE LONG TERM ISLET GRAFT SURVIVAL"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "INNATE IMMUNITY IN CLINICAL ISLET TRANSPLANTATION"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "ADVANCING ISLET TRANSPLANT FOR TYPE 1 DIABETES CARE"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "CLINICAL REFINEMENT OF ISLET TRANSPLANTATION"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "CLINICAL ISLET TRANSPLANTATION AT NORTHWESTERN"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "IMMUNE TOLERANCE NETWORK"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "CLINICAL ISLET TRANSPLANTATION: CLINICAL CENTERS"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "Unknown",
+                "count": 22
+            },
+            {
+                "race": "White",
+                "count": 2
+            }
+        ],
+        "gender": [
+            {
+                "Female": 14
+            },
+            {
+                "Male": 10
+            }
+        ]
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "study_accession": "SDY241",
+    "actual_completion_date": "2011-12-30",
+    "actual_enrollment": 495,
+    "actual_start_date": "2007-01-01",
+    "age_unit": "Weeks",
+    "brief_description": "Modeling approaches were combined with experimental data to investigate innate and adaptive immune responses to IAV infection. Mathematical models developed describe the dynamic interactions between influenza virus, target cells, cytotoxic lymphocytes, and virus-specific IgG and IgM. In additon, a two-compartment model developed quantifies the effects of viral replication and adaptive immunity.",
+    "brief_title": "Simulation and Prediction of the Adaptive Immune Response and Quantification of Early and Adaptive Immune Response Kinetics to Influenza A Virus Infection",
+    "clinical_trial": "N",
+    "condition_studied": "Influenza infection response",
+    "dcl_id": 2,
+    "description": "Seasonal and pandemic influenza A virus (IAV) continues to be a public health threat. Modeling approaches were used combined with experimental data to investigate innate and adaptive immune responses to IAV infection. Mathematical models developed describe the dynamic interactions between influenza virus, target cells, cytotoxic lymphocytes, and virus-specific IgG and IgM. A two-compartment model developed quantifies the effects of viral replication and adaptive immunity.",
+    "doi": "10.21430/M3ERWHDJEO",
+    "endpoints": "Confirm the role of CD4 help for antibody persistence and the impacts of immune depletion.",
+    "gender_included": "Female, Male, Unknown",
+    "hypothesis": "Influennza virus infection outcome in the absence of B cells and antibody depends on differences in viral replication efficiency",
+    "initial_data_release_date": "2013-12-18",
+    "initial_data_release_version": "DR6",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-04-01",
+    "latest_data_release_version": "DR8",
+    "maximum_age": "16",
+    "minimum_age": "6",
+    "objectives": "Develop a two-compartment mathematical model to assess the individual contributions of antigen presentation and activation of naive T and B cells by antigen-presenting cells (APC), CD4 T-cell help, CD8 T-cell-mediated cytotoxicity, B cells and antibody to control influenza A virus (IAV) infection and to explore the influence of anatomical location.",
+    "official_title": "Simulation and Prediction of the Adaptive Immune Response and Quantification of Early and Adaptive Immune Response Kinetics to Influenza A Virus Infection",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 495,
+    "workspace_id": 1207,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1642",
+            "description": "Infected with WSN-OVA II influenza virus",
+            "name": "WSN-OVA II Treated"
+        },
+        {
+            "arm_accession": "ARM1830",
+            "description": "HeLa Infected with vaccinia virus Western Reserve (WR) with GFP fused to B5",
+            "name": "HeLa vBMW1 treated"
+        },
+        {
+            "arm_accession": "ARM982",
+            "description": "Intranasally infected with  A/Hong Kong/X31 influenza virus",
+            "name": "x31 Treated"
+        },
+        {
+            "arm_accession": "ARM989",
+            "description": "Control, no viral infection",
+            "name": "Control"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Topham",
+            "organization": "University of Rochester",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester"
+        },
+        {
+            "first_name": "Hulin",
+            "last_name": "Wu",
+            "organization": "University of Rochester",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Simulation and prediction of the adaptive immune response to influenza A virus infection.",
+            "journal": "J Virol.",
+            "month": "Jul",
+            "year": "2009",
+            "doi": "10.1128/JVI.00098-09. Epub 2009 May 13.",
+            "pubmed_id": "19439465"
+        },
+        {
+            "title": "Quantifying the early immune response and adaptive immune response kinetics in mice infected with influenza A virus.",
+            "journal": "J Virol.",
+            "month": "Jul",
+            "year": "2010",
+            "doi": "10.1128/JVI.00266-10. Epub 2010 Apr 21.",
+            "pubmed_id": "20410284"
+        },
+        {
+            "title": "Modeling of influenza-specific CD8+ T cells during the primary response indicates that the spleen is a major source of effectors.",
+            "journal": "J Immunol.",
+            "month": "Nov",
+            "year": "2011",
+            "doi": "10.4049/jimmunol.1101443. Epub 2011 Sep 23.",
+            "pubmed_id": "21948988"
+        },
+        {
+            "title": "Functionally Distinct Subpopulations of CpG-Activated Memory B Cells.",
+            "journal": "Sci Rep.",
+            "month": "-",
+            "year": "2012",
+            "doi": "10.1038/srep00345. Epub 2012 Mar 30.",
+            "pubmed_id": "22468229"
+        },
+        {
+            "title": "Ki-67 expression reveals strong, transient influenza specific CD4 T cell responses after adult vaccination.",
+            "journal": "Vaccine.",
+            "month": "Jun",
+            "year": "2012",
+            "doi": "10.1016/j.vaccine.2012.04.059. Epub 2012 Apr 30.",
+            "pubmed_id": "22554464"
+        },
+        {
+            "title": "High-resolution temporal response patterns to influenza vaccine reveal a distinct human plasma cell gene signature.",
+            "journal": "Sci Rep.",
+            "month": "-",
+            "year": "2013",
+            "doi": "10.1038/srep02327.",
+            "pubmed_id": "23900141"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "University of Rochester Center for Biodefense Immune Modeling"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 1866
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 485
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 5090
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

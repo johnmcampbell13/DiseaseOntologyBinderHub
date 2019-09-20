@@ -1,0 +1,424 @@
+{
+    "study_accession": "SDY258",
+    "actual_completion_date": null,
+    "actual_enrollment": 281,
+    "actual_start_date": null,
+    "age_unit": "Not Specified",
+    "brief_description": "TH2 cell differentiation was investigated by measuring IL-4 output after OVA plus papain challenge in normal and dendritic-cell depleted mice. The role of migrating dermal dendritic cells in OVA plus papain challenge by blocking migration and depleting dendritic cell subtypes.",
+    "brief_title": "Dendritic cells and TH2 differentiation in vivo",
+    "clinical_trial": "N",
+    "condition_studied": "TH2 cell response to challenge with OVA and papain",
+    "dcl_id": 2,
+    "description": "TH2 cell differentiation was investigated by measuring IL-4 output after OVA plus papain challenge in normal and dendritic-cell depleted mice. The role of migrating dermal dendritic cells in OVA plus papain challenge by blocking migration and depleting dendritic cell subtypes.",
+    "doi": "10.21430/M3F0JEOKSX",
+    "endpoints": "Flow Cytometry",
+    "gender_included": "Not Specified",
+    "hypothesis": "Dermal dendritic cells are required for TH2 cell response to OVA plus papain challenge. Dermal dendritic cells migate to the draining lymph node to initiate adaptive immune response.",
+    "initial_data_release_date": "2014-01-17",
+    "initial_data_release_version": "DR7",
+    "intervention_agent": null,
+    "latest_data_release_date": "2014-01-17",
+    "latest_data_release_version": "DR7",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "To investigate the role of dendritic cells in TH2 response to OVA plus papain challenge.",
+    "official_title": "Dendritic cells and TH2 differentiation in vivo",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 1885,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM1643",
+            "description": "Mouse strain: 4get (BALB/c back ground), Subject treatment: A488 labeled papain",
+            "name": "Duke_Emory_Exp13_papain-A488"
+        },
+        {
+            "arm_accession": "ARM1644",
+            "description": "Mouse strain: 4get (BALB/c back ground), Subject treatment: PBS",
+            "name": "Duke_Emory_Exp13_PBS"
+        },
+        {
+            "arm_accession": "ARM1645",
+            "description": "Mouse strain: 4get (BALB/c back ground), Subject treatment: PLGA-A488 nanoparticles",
+            "name": "Duke_Emory_Exp13_PLGA-A488"
+        },
+        {
+            "arm_accession": "ARM1646",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: OVA 100ug+papain 50ug",
+            "name": "Duke_Emory_Exp14_WT_OVA_papain"
+        },
+        {
+            "arm_accession": "ARM1647",
+            "description": "Mouse strain: 4get mouse, BALB/c background, Subject treatment: 100ug OVA+50ug CpG, once a week, 3 times",
+            "name": "Duke_Emory_Exp36_CpG_4get"
+        },
+        {
+            "arm_accession": "ARM1648",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 100ug OVA+ 50ug CpG",
+            "name": "Duke_Emory_Exp36_CpG_WT"
+        },
+        {
+            "arm_accession": "ARM1649",
+            "description": "Mouse strain: 4get mouse, BALB/c background, Subject treatment: 100ug OVA+50ug papain, once a week, 3 times",
+            "name": "Duke_Emory_Exp36_papain_4get"
+        },
+        {
+            "arm_accession": "ARM1650",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: OVA 100ug+papain 50ug",
+            "name": "Duke_Emory_Exp36_papain_WT"
+        },
+        {
+            "arm_accession": "ARM1651",
+            "description": "Mouse strain: 4get mouse, BALB/c background, Subject treatment: 100ug OVA, once a week, 3 times",
+            "name": "Duke_Emory_Exp36_PBS_4get"
+        },
+        {
+            "arm_accession": "ARM1652",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: OVA 100ug",
+            "name": "Duke_Emory_Exp36_PBS_WT"
+        },
+        {
+            "arm_accession": "ARM1653",
+            "description": "Mouse strain: 4get, Subject treatment: 1) OVA 100ug+papain 50ug on day 0,  2)  100 nM (100 ul) BW245c daily for 4 d, starting on day-1",
+            "name": "Duke_Emory_Exp7_BMW245c inhibitor"
+        },
+        {
+            "arm_accession": "ARM1654",
+            "description": "Mouse strain: 4get, Subject treatment: 1) OVA 100ug+papain 50ug on day 0, 2) NIF 10mg/kg, sc on day -1, daily for 4 days",
+            "name": "Duke_Emory_Exp7_Ca2++ inhibitor"
+        },
+        {
+            "arm_accession": "ARM1655",
+            "description": "Mouse strain: 4get, Subject treatment: 1) OVA 100ug+papain 50ug on day 0,  2)  DMSO (100 ul) daily for 4 d, starting on day-1",
+            "name": "Duke_Emory_Exp7_DMSO"
+        },
+        {
+            "arm_accession": "ARM1656",
+            "description": "Mouse strain: 4get, Subject treatment: 1) OVA 100ug+papain 50ug on day 0, 2) the site of immunization excised 6 h after immunization",
+            "name": "Duke_Emory_Exp7_earcut_4get"
+        },
+        {
+            "arm_accession": "ARM1657",
+            "description": "Mouse strain: 4get, Subject treatment: 1) OVA 100ug+papain 50ug on day 0, 2) BIS 0.5ug/mouse, sc on day -1, daily for 4 days",
+            "name": "Duke_Emory_Exp7_inhibitor"
+        },
+        {
+            "arm_accession": "ARM1658",
+            "description": "Mouse strain: wt, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0   2) 1x106 CFSE labeled OT II CD4 T cells were transferred into mice via i.v injection on day -1,     3) the site of immunization excised 48 h after immunization",
+            "name": "Duke_Emory_Exp7_LPS earcut 48h"
+        },
+        {
+            "arm_accession": "ARM1659",
+            "description": "Mouse strain: wt, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0   2) 1x106 CFSE labeled OT II CD4 T cells were transferred into mice via i.v injection on day -1,     3) the site of immunization excised 5 h after immunization",
+            "name": "Duke_Emory_Exp7_LPS earcut 5h"
+        },
+        {
+            "arm_accession": "ARM1660",
+            "description": "Mouse strain:  WT , Subject treatment: 1) OVA 100ug+LPS 50ug on day 0   2) the site of immunization excised 5 h after immunization",
+            "name": "Duke_Emory_Exp7_LPS earcut_WT"
+        },
+        {
+            "arm_accession": "ARM1661",
+            "description": "Mouse strain: wt, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0   2) 1x106 CFSE labeled OT II CD4 T cells were transferred into mice via i.v injection on day -1,",
+            "name": "Duke_Emory_Exp7_LPS intact"
+        },
+        {
+            "arm_accession": "ARM1662",
+            "description": "Mouse strain:  WT , Subject treatment: OVA 100ug+LPS 50ug on day 0",
+            "name": "Duke_Emory_Exp7_LPS_day 0"
+        },
+        {
+            "arm_accession": "ARM1663",
+            "description": "Mouse strain:  WT , Subject treatment: OVA 100ug+LPS 50ug on day1",
+            "name": "Duke_Emory_Exp7_LPS_day1"
+        },
+        {
+            "arm_accession": "ARM1664",
+            "description": "Mouse strain:  WT , Subject treatment: OVA 100ug+LPS 50ug on day2",
+            "name": "Duke_Emory_Exp7_LPS_day2"
+        },
+        {
+            "arm_accession": "ARM1665",
+            "description": "Mouse strain:  WT , Subject treatment: OVA 100ug+LPS 50ug on day3",
+            "name": "Duke_Emory_Exp7_LPS_day3"
+        },
+        {
+            "arm_accession": "ARM1666",
+            "description": "Mouse strain: 4get, Subject treatment: intact",
+            "name": "Duke_Emory_Exp7_naive"
+        },
+        {
+            "arm_accession": "ARM1667",
+            "description": "Mouse strain: 4get, Subject treatment: 1) OVA 100ug+papain 50ug on day 0,  2) 6 mg poly(ketal) microparticles (blank) on day -1",
+            "name": "Duke_Emory_Exp7_nanoparticle-blank control"
+        },
+        {
+            "arm_accession": "ARM1668",
+            "description": "Mouse strain: 4get, Subject treatment: 1) OVA 100ug+papain 50ug on day 0,  2) 6 mg poly(ketal) microparticles containing 300 ug tempol on day -1",
+            "name": "Duke_Emory_Exp7_nanoparticle-TEMPOL"
+        },
+        {
+            "arm_accession": "ARM1669",
+            "description": "Mouse strain:  WT , Subject treatment: 1) OVA 100ug+papain 50ug on day 0   2) the site of immunization excised 5 h after immunization",
+            "name": "Duke_Emory_Exp7_papain earcut"
+        },
+        {
+            "arm_accession": "ARM1670",
+            "description": "Mouse strain: wt, Subject treatment: 1) OVA 100ug+papain 50ug on day 0   2) 1x106 CFSE labeled OT II CD4 T cells were transferred into mice via i.v injection on day -1,     3) the site of immunization excised 48 h after immunization",
+            "name": "Duke_Emory_Exp7_papain earcut 48h"
+        },
+        {
+            "arm_accession": "ARM1671",
+            "description": "Mouse strain: wt, Subject treatment: 1) OVA 100ug+papain 50ug on day 0   2) 1x106 CFSE labeled OT II CD4 T cells were transferred into mice via i.v injection on day -1,     3) the site of immunization excised 5 h after immunization",
+            "name": "Duke_Emory_Exp7_papain earcut 5h"
+        },
+        {
+            "arm_accession": "ARM1672",
+            "description": "Mouse strain: wt, Subject treatment: 1) OVA 100ug+papain 50ug on day 0   2) 1x106 CFSE labeled OT II CD4 T cells were transferred into mice via i.v injection on day -1,",
+            "name": "Duke_Emory_Exp7_papain intact"
+        },
+        {
+            "arm_accession": "ARM1673",
+            "description": "Mouse strain: 4get, Subject treatment:  OVA 100ug+papain 50ug",
+            "name": "Duke_Emory_Exp7_papain positive control"
+        },
+        {
+            "arm_accession": "ARM1674",
+            "description": "Mouse strain:  WT , Subject treatment: OVA 100ug+papain 50ug on day3",
+            "name": "Duke_Emory_Exp7_papain_day3"
+        },
+        {
+            "arm_accession": "ARM1675",
+            "description": "Mouse strain:  WT , Subject treatment: OVA 100ug+papain 50ug on day4",
+            "name": "Duke_Emory_Exp7_papain_day4"
+        },
+        {
+            "arm_accession": "ARM1676",
+            "description": "Mouse strain:  WT , Subject treatment: OVA 100ug+papain 50ug on day5",
+            "name": "Duke_Emory_Exp7_papain_day5"
+        },
+        {
+            "arm_accession": "ARM1677",
+            "description": "Mouse strain:  WT , Subject treatment: OVA 100ug+papain 50ug on day6",
+            "name": "Duke_Emory_Exp7_papain_day6"
+        },
+        {
+            "arm_accession": "ARM1678",
+            "description": "Mouse strain:  WT , Subject treatment: OVA 100ug+papain 50ug on day7",
+            "name": "Duke_Emory_Exp7_papain_day7"
+        },
+        {
+            "arm_accession": "ARM1679",
+            "description": "Mouse strain: 4get, Subject treatment: 1) OVA 100ug+papain 50ug on day 0,  2)  0.5 ug pertussis toxin  daily for 4 d, starting on day-1",
+            "name": "Duke_Emory_Exp7_PTX inhibitor"
+        },
+        {
+            "arm_accession": "ARM1680",
+            "description": "Mouse strain: CD11c-DTR mouse, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0   2) 1x102 OT II CD4 T cells were transferred into mice via i.v injection on day -2, 3) 100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp8_100 OT II CD11cDTR-100ngDT"
+        },
+        {
+            "arm_accession": "ARM1681",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0   2) 1x102 OT II CD4 T cells were transferred into mice via i.v injection on day -2, 3) 100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp8_100 OTII-WT-100ngDT"
+        },
+        {
+            "arm_accession": "ARM1682",
+            "description": "Mouse strain: CD11c-DTR mouse, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0   2) 1x104 OT II CD4 T cells were transferred into mice via i.v injection on day -2, 3) 100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp8_10000 OT II CD11cDTR-100ngDT"
+        },
+        {
+            "arm_accession": "ARM1683",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0   2) 1x104 OT II CD4 T cells were transferred into mice via i.v injection on day -2, 3) 100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp8_10000 OT II WT-100ngDT"
+        },
+        {
+            "arm_accession": "ARM1684",
+            "description": "Mouse strain: CD11c-DTR mouse, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0   2) 1x106 OT II CD4 T cells were transferred into mice via i.v injection on day -2, 3) 100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp8_1000000 OT II CD11cDTR-100ngDT"
+        },
+        {
+            "arm_accession": "ARM1685",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0   2) 1x106 OT II CD4 T cells were transferred into mice via i.v injection on day -2, 3) 100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp8_1000000 OTII-WT-100ngDT"
+        },
+        {
+            "arm_accession": "ARM1686",
+            "description": "Mouse strain: CD11c-DTR mouse, Subject treatment: 100ng DT",
+            "name": "Duke_Emory_Exp8_CD11c-DTR_100ngDT"
+        },
+        {
+            "arm_accession": "ARM1687",
+            "description": "Mouse strain: CD11c-DTR mouse, Subject treatment: 800ng DT",
+            "name": "Duke_Emory_Exp8_CD11c-DTR_800ngDT"
+        },
+        {
+            "arm_accession": "ARM1688",
+            "description": "Mouse strain: CD11c-DTR mouse, Subject treatment: PBS",
+            "name": "Duke_Emory_Exp8_CD11c-DTR_PBS"
+        },
+        {
+            "arm_accession": "ARM1689",
+            "description": "Mouse strain: chimera mouse, Subject treatment: 1) OVA 100ug+papain 50ug on day 0  2) 800ng DT, ip. on day -1, 3)chimera mice: after lethal irradiation, wt mice were reconstituted with bone marrow from CD11cDTR mice and housed for 8 weeks before immunization",
+            "name": "Duke_Emory_Exp8_CD11c-WT chimera 800DT"
+        },
+        {
+            "arm_accession": "ARM1690",
+            "description": "Mouse strain: chimera mouse, Subject treatment: 1) OVA 100ug+papain 50ug on day 0  2) PBS 3)chimera mice: after lethal irradiation, wt mice were reconstituted with bone marrow from CD11cDTR mice and housed for 8 weeks before immunization",
+            "name": "Duke_Emory_Exp8_CD11c-WT chimera no DT"
+        },
+        {
+            "arm_accession": "ARM1691",
+            "description": "Mouse strain: CD11c-DTR mouse, Subject treatment: 1) OVA 100ug+papain 50ug on day 0  2) 800ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp8_CD11cDTR-800ngDT"
+        },
+        {
+            "arm_accession": "ARM1692",
+            "description": "Mouse strain: CD11c-DTR mouse, Subject treatment: 1) OVA 100ug+papain 50ug on day 0  2) PBS",
+            "name": "Duke_Emory_Exp8_CD11cDTR-no DT"
+        },
+        {
+            "arm_accession": "ARM1693",
+            "description": "Mouse strain: wild type littermate of CD11c-DTR mouse , Subject treatment: 1) OVA 100ug+papain 50ug on day 0  2) 100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp8_DTR litermate with DT"
+        },
+        {
+            "arm_accession": "ARM1694",
+            "description": "Mouse strain: CD11c-DTR mouse, Subject treatment: 1) OVA 100ug+papain 50ug on day 0  2) 100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp8_no OT II CD111cDTR 100ng DT"
+        },
+        {
+            "arm_accession": "ARM1695",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) PBS on day 0 2) 100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp8_no OT II WT_naive_100ngDT"
+        },
+        {
+            "arm_accession": "ARM1696",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+papain 50ug on day 0  2) 100ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp8_no OT II WT-100ngDT"
+        },
+        {
+            "arm_accession": "ARM1697",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+papain 50ug on day 0  2) 800ng DT, i.p. on day -1",
+            "name": "Duke_Emory_Exp8_WT 800ngDT"
+        },
+        {
+            "arm_accession": "ARM1698",
+            "description": "Mouse strain: langerin-DTR transgenic mouse, Subject treatment: 1) OVA 100ug+CpG 50ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_langerin-DTR-LN-CpG"
+        },
+        {
+            "arm_accession": "ARM1699",
+            "description": "Mouse strain: langerin-DTR transgenic mouse, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_langerin-DTR-LN-LPS"
+        },
+        {
+            "arm_accession": "ARM1700",
+            "description": "Mouse strain: langerin-DTR transgenic mouse, Subject treatment: 1) OVA 100ug+papain 50ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_langerin-DTR-LN-papain"
+        },
+        {
+            "arm_accession": "ARM1701",
+            "description": "Mouse strain: langerin-DTR transgenic mouse, Subject treatment: 1) OVA 100ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_langerin-DTR-LN-PBS"
+        },
+        {
+            "arm_accession": "ARM1702",
+            "description": "Mouse strain: langerin-DTR transgenic mouse, Subject treatment: 1) OVA 100ug+CpG 50ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_langerin-DTR-sp-CpG"
+        },
+        {
+            "arm_accession": "ARM1703",
+            "description": "Mouse strain: langerin-DTR transgenic mouse, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_langerin-DTR-sp-LPS"
+        },
+        {
+            "arm_accession": "ARM1704",
+            "description": "Mouse strain: langerin-DTR transgenic mouse, Subject treatment: 1) OVA 100ug+papain 50ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_langerin-DTR-sp-papain"
+        },
+        {
+            "arm_accession": "ARM1705",
+            "description": "Mouse strain: langerin-DTR transgenic mouse, Subject treatment: 1) OVA 100ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_langerin-DTR-sp-PBS"
+        },
+        {
+            "arm_accession": "ARM1706",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+CpG 50ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_wt-LN-CpG"
+        },
+        {
+            "arm_accession": "ARM1707",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_wt-LN-LPS"
+        },
+        {
+            "arm_accession": "ARM1708",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+papain 50ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_wt-LN-papain"
+        },
+        {
+            "arm_accession": "ARM1709",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_wt-LN-PBS"
+        },
+        {
+            "arm_accession": "ARM1710",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+CpG 50ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_wt-sp-CpG"
+        },
+        {
+            "arm_accession": "ARM1711",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+LPS 50ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_wt-sp-LPS"
+        },
+        {
+            "arm_accession": "ARM1712",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug+papain 50ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_wt-sp-papain"
+        },
+        {
+            "arm_accession": "ARM1713",
+            "description": "Mouse strain: C57BL/6 wild type mice, Subject treatment: 1) OVA 100ug on day 0, day7, day14   2) 1000ng DT, i.p. on day -14,",
+            "name": "Duke_Emory_Exp9_wt-sp-PBS"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Thomas",
+            "last_name": "Kepler",
+            "organization": "Duke University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "The T helper type 2 response to cysteine proteases requires dendritic cell-basophil cooperation via ROS-mediated signaling.",
+            "journal": "Nat Immunol.",
+            "month": "Jul",
+            "year": "2010",
+            "doi": "10.1038/ni.1883. Epub 2010 May 23.",
+            "pubmed_id": "20495560"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense I",
+            "contract_name": "Multiscale Systems Immunology for Adjuvant Development"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 281
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

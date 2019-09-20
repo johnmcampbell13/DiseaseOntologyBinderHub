@@ -1,0 +1,133 @@
+{
+    "study_accession": "SDY670",
+    "actual_completion_date": null,
+    "actual_enrollment": 311,
+    "actual_start_date": "2007-08-01",
+    "age_unit": "Years",
+    "brief_description": "A prospective observational cohort study designed to test the association of proinflammatory pathways of injury in thoracic (lung and heart) and abdominal (kidney and liver) donor organs, with immediate and short term allograft function as well as subsequent alloimmune response.",
+    "brief_title": "Molecular Profiling of Donor and Recipient Proinflammatory and Allograft Response (CTOT-03)",
+    "clinical_trial": "Y",
+    "condition_studied": "Transplantation",
+    "dcl_id": 2,
+    "description": "Inflammation and injuries to transplanted organs during the immediate post-operative period may be linked to early organ dysfunction and higher rates of transplant rejection in the recipient. Currently, mRNA expression of proinflammatory genes in donor tissues is thought to be a risk factor for early organ transplant dysfunction, increased expression of the recipients cell-mediated immunity genes, and organ rejection. The purpose of this study is to test the association between proinflammatory mRNA expression in donor samples and subsequent development of early organ dysfunction in kidney, lung, and liver transplant recipients. This study will also test the effects of proinflammatory mediators expressed in the transplanted organ pre- and post-reperfusion on organ rejection and genes expressed in cell mediated immune responses. This will be achieved by identifying the proinflammatory immune responses and their mechanisms.",
+    "doi": "10.21430/M3GLG1R2NY",
+    "endpoints": "Clinical Endpoints 1. Incidence of early organ dysfunction as defined by standard criteria for each organ. 2. Incidence of biopsy proven acute cellular rejection within the first 12 months after transplant. Acute cellular rejection will be determined according to specified standard pathological criteria for each organ. Mechanistic Endpoints 1. The identification of whole genome expression arrays associated with early organ dysfunction across organ groups. 2. Gene expression markers of allograft rejection in blood, graft, and urine. 3. Identification of specific proteins in urine as correlated with allograft rejection. Lung and Heart Transplant Cohorts: 4. Persistent proinflammatory mRNA expression in sequential BAL and cardiac biopsies characterized by the sustained elevation of proinflammatory cytokines. 5. Alloimmune and adaptive immunity mRNA expression profiles in sequential BAL and cardiac biopsies.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Our hypothesis is that mRNA expression of proinflammatory genes in donor tissues is a risk factor for development of early organ dysfunction (EOD) following transplantation. Furthermore, we hypothesize that early inflammatory mRNA expression in the allograft is associated with subsequent activation of cell mediated immunity as evidenced by increased incidence of acute rejection episodes and increased expression of cell mediated immunity genes during the first year post-transplant.",
+    "initial_data_release_date": "2016-06-17",
+    "initial_data_release_version": "DR19",
+    "intervention_agent": null,
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "  70.00",
+    "minimum_age": "  22.00",
+    "objectives": "The study has two aims: 1) test the association between proinflammatory mRNA expression in donor samples and subsequent development of early organ dysfunction in the immediate period following transplantation in recipients of kidney liver and lung; and 2) test the association between mRNA expression of proinflammatory mediators in the transplanted organ in the immediate pre and post-reperfusion period and subsequent incidence of acute rejection and expression of genes involved in cell mediated immunity in recipients of kidney, liver, lung and heart.",
+    "official_title": "Correlation of Donor Proinflammatory mRNA Profiles with Early Outcomes of Thoracic and Abdominal Transplantation",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 450,
+    "workspace_id": 4060,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2936",
+            "description": "Subjects are recipient of heart transplant",
+            "name": "Heart recipients"
+        },
+        {
+            "arm_accession": "ARM2937",
+            "description": "Subjects are recipient of kidney transplant",
+            "name": "Kidney recipients"
+        },
+        {
+            "arm_accession": "ARM2938",
+            "description": "Subjects are recipient of lung transplant",
+            "name": "Lung recipients"
+        },
+        {
+            "arm_accession": "ARM2939",
+            "description": "Subjects are recipient of liver transplant",
+            "name": "Liver recipients"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Abraham",
+            "last_name": "Shaked",
+            "organization": "University of Pennsylvania Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Pennsylvania Medical Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Validation of a current definition of early allograft dysfunction in liver transplant recipients and analysis of risk factors.",
+            "journal": "Liver Transpl.",
+            "month": "Aug",
+            "year": "2010",
+            "doi": "10.1002/lt.22091.",
+            "pubmed_id": "20677285"
+        },
+        {
+            "title": "Gene set enrichment analysis identifies key innate immune pathways in primary graft dysfunction after lung transplantation.",
+            "journal": "Am J Transplant.",
+            "month": "Jul",
+            "year": "2013",
+            "doi": "10.1111/ajt.12283. Epub 2013 May 24.",
+            "pubmed_id": "23710539"
+        },
+        {
+            "title": "Peripheral Blood Gene Expression Changes Associated With Primary Graft Dysfunction After Lung Transplantation.",
+            "journal": "Am J Transplant.",
+            "month": "Jul",
+            "year": "2017",
+            "doi": "10.1111/ajt.14209. Epub 2017 Feb  17.",
+            "pubmed_id": "28117940"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Clinical Trials in Organ Transplantation (CTOT)",
+            "contract_name": "MOLECULAR PROFILING AND IMMUNOMODULATORY INTERVENTIONS (CTOT-03, CTOT-04)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 495
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 286
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 11
+            },
+            {
+                "race": "Black or African American",
+                "count": 44
+            },
+            {
+                "race": "Unknown",
+                "count": 14
+            },
+            {
+                "race": "White",
+                "count": 242
+            }
+        ],
+        "gender": [
+            {
+                "Female": 102
+            },
+            {
+                "Male": 209
+            }
+        ]
+    }
+}

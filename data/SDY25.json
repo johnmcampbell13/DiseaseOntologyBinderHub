@@ -1,0 +1,101 @@
+{
+    "study_accession": "SDY25",
+    "actual_completion_date": null,
+    "actual_enrollment": 1426,
+    "actual_start_date": null,
+    "age_unit": "Years",
+    "brief_description": "Functionally important genetic variants (certain naturally occurring SNPs) in a set of candidate genes that are known to be relevant for immune response to protein antigens, are expected to be associated with AbPA response and B-cell physiology.",
+    "brief_title": "Genotyping and gene function in healthy volunteers",
+    "clinical_trial": "N",
+    "condition_studied": "Genotyping and gene function in healthy volunteers. ",
+    "dcl_id": 2,
+    "description": "<p>The goal of this study is to create a pool of potential subjects genotyped in a manner identical to that used in the AVA000 trial population.</p><p>Subjects were screened for exclusion based on history of chronic infectious or immune diseases and to avoid sampling during current acute infection.  Genotyping data are available for reference purposes. The subjects agreed to be available to be recalled for sampling of blood for ex vivo studies of differential immunologic function of genetic variants corresponding to those associated with variation in vaccine response.</p>",
+    "doi": "10.21430/M3L5GO913J",
+    "endpoints": "<ol><li>Genotyping - iSelect Bead Chip (Illumina)</li><li>Genotyping - HLA class I and II by PCR-based techniques</li><li>Genotyping - Pyrosequencing</li><li>Genotyping - ABI SNPlex</li><li>Genotyping - Genome-wide association study</li><li>Flow cytometric response to anthrax vaccine (AVA)</li><li>Genotyping - PCR for insertion polymorphism</li><li>Protein expression - Serum immunoglobulin levels</li><li>Quantification of serum cytokines and chemokines</li><li>Protein expression - Flow cytometry</li></ol>",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "1. Functionally important genetic variants (certain naturally occurring SNPs) in a set of candidate genes, which are known to be relevant for immune response to protein antigens, are expected to be associated with AbPA response and B-cell physiology.  ",
+    "initial_data_release_date": "2010-11-14",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "Anthrax Vaccine Adsorbed (AVA)\r",
+    "latest_data_release_date": "2013-08-15",
+    "latest_data_release_version": "DR3",
+    "maximum_age": null,
+    "minimum_age": null,
+    "objectives": "To create a pool of potential subjects genotyped in a manner identical to that used in the AVA000 trial population. ",
+    "official_title": "Genotyping and gene function in healthy volunteers",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 598,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM25",
+            "description": "Adult volunteers interviewed screened, and recruited to donate a sample of blood for genotying and cryopreservation",
+            "name": "Genotyping and gene function in healthy volunteers"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Richard",
+            "last_name": "Kaslow",
+            "organization": "University of Alabama at Birmingham",
+            "role_in_study": "Principal Investigator",
+            "site_name": "\"University of Alabama, Birmingham\"\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "The role of HLA-DR-DQ haplotypes in variable antibody responses to anthrax vaccine adsorbed.",
+            "journal": "Genes Immun.",
+            "month": "Sep",
+            "year": "2011",
+            "doi": "10.1038/gene.2011.15. Epub 2011 Mar 3.",
+            "pubmed_id": "21368772"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Population Genetics Analysis Program (1)",
+            "contract_name": "Population Genetics Analysis Program: Immunity to Vaccines/Infections"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 2
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 1
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 702
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 720
+            }
+        ],
+        "gender": [
+            {
+                "Female": 932
+            },
+            {
+                "Male": 490
+            },
+            {
+                "Not Specified": 1
+            }
+        ]
+    }
+}

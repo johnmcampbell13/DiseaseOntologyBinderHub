@@ -1,0 +1,130 @@
+{
+    "study_accession": "SDY305",
+    "actual_completion_date": null,
+    "actual_enrollment": 25,
+    "actual_start_date": "2012-09-01",
+    "age_unit": "Years",
+    "brief_description": "To study the plasmablast response to 2012 seasonal inactivated influenza vaccine",
+    "brief_title": "Plasmablast response to inactivated and live attenuated influenza vaccines (TIV3/TIV3 ID) SLVP021 2012",
+    "clinical_trial": "Y",
+    "condition_studied": "Peripheral plasmablast response to influenza vaccines at day 7 after vaccination",
+    "dcl_id": 2,
+    "description": "To study the plasmablast response to 2012 seasonal inactivated influenza vaccine",
+    "doi": "10.21430/M3U2R9IV87",
+    "endpoints": "PPAb titer by Elisa; vaccine-specific ASC counts by Elispot",
+    "gender_included": "Female, Male, Not Specified",
+    "hypothesis": "Immunization with inactivated influenza vaccine in the prior year resulted in reduced plasmablast response to a new immunization with the same type of influenza vaccine.",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": "Fluzone and Fluzone Intradermal (both from Sanofi Pasteur)",
+    "latest_data_release_date": "2018-05-10",
+    "latest_data_release_version": "DR26",
+    "maximum_age": "31.63",
+    "minimum_age": "19.79",
+    "objectives": "plasmablast response after TIV or ID TIV immunization in recipients of the same type of vaccines in the prior year.",
+    "official_title": "Plasmablast response to repeated influenza vaccination",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2114",
+            "description": "18-32 year old adults immunized intramuscularly with TIV",
+            "name": "TIV group"
+        },
+        {
+            "arm_accession": "ARM2115",
+            "description": "18-32 year old adults immunized intradermally with TIV",
+            "name": "ID TIV group"
+        },
+        {
+            "arm_accession": "ARM2521",
+            "description": "CyTOF control samples",
+            "name": "CyTOF control samples"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Harry",
+            "last_name": "Greenberg",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "CyTOF",
+            "number_of_expsamples": 23
+        },
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 23
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 23
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 296
+        },
+        {
+            "measurement_technique": "Hemagglutination Inhibition",
+            "number_of_expsamples": 48
+        },
+        {
+            "measurement_technique": "Luminex xMAP",
+            "number_of_expsamples": 30
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 24
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 8
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 2
+            },
+            {
+                "race": "Unknown",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 13
+            }
+        ],
+        "gender": [
+            {
+                "Female": 16
+            },
+            {
+                "Male": 8
+            },
+            {
+                "Not Specified": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "study_accession": "SDY591",
+    "actual_completion_date": "2015-12-31",
+    "actual_enrollment": 48,
+    "actual_start_date": "2014-10-21",
+    "age_unit": "Days",
+    "brief_description": "20 to 25-week old WT mice will be infected with 10^7 cfu/mouse of C. difficile by orogastric gavage. A control uninfected group will be included. The C difficile strain to use is VPI10463 (ATCC 43255).",
+    "brief_title": "Cdiff32",
+    "clinical_trial": "N",
+    "condition_studied": "Clostridium difficile infection",
+    "dcl_id": 2,
+    "description": "20 to 25-week old WT mice will be infected with 10^7 cfu/mouse of C. difficile by orogastric gavage. A control uninfected group will be included. The C difficile strain to use is VPI10463 (ATCC 43255).",
+    "doi": "10.21430/M3T1G3YFSX",
+    "endpoints": "Mice will be weighed and scored daily for mortality and morbidity and the presence of diarrhea and other symptoms. Animals judged to be in a moribund state will be euthanized and tissue samples will be collected. Mice are expected to become visibly ill at day 2 or 3 post-infection. Tissues will be collected at days 4, 7, and 10 post-infection and processed for cell immunophenotyping and bacterial loads.",
+    "gender_included": "Male",
+    "hypothesis": "We have previously reported novel evidence supporting a role of T cells in modulating host responses to C. difficile. Specifically, T cell alteration towards a pro-inflammatory phenotype due to lack of PPARgamma resulted in increased disease symptoms and colonic pathology, which correlated with the abrogation of T cell regulatory (Treg) responses and shift towards a Th17-driven cellular response. To better understand the role of T cells during C. difficile infection from initiation through expansion to resolution, we built computational model of the cellular host response to the bacterium.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Clostridium difficile",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": " 168.00",
+    "minimum_age": " 168.00",
+    "objectives": "To characterize immune cell responses towards C. difficile at days 4, 7, and 10 post-infection for further calibration of the C. difficile host response model.",
+    "official_title": "Characterizing the role of CD4+ T cells during C. difficile infection in mice.",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 48,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2753",
+            "description": "C. difficile 10^7 cfu/mouse",
+            "name": "Infected"
+        },
+        {
+            "arm_accession": "ARM2754",
+            "description": "Uninfected",
+            "name": "Uninfected"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 266
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 10
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

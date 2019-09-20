@@ -1,0 +1,107 @@
+{
+    "study_accession": "SDY100",
+    "actual_completion_date": null,
+    "actual_enrollment": 98,
+    "actual_start_date": null,
+    "age_unit": "Days",
+    "brief_description": "Clostridium difficile is typically a harmless anaerobic bacterium but recently it has re-emerged as a facultative pathogen that can cause nosocomial diarrhea, colitis and even death. Peroxisome proliferator-activated receptor (PPAR)  gamma has been implicated in the prevention of inflammation in autoimmune and infectious diseases; however, its role in the immunoregulatory mechanisms modulating host responses to C. difficile remains largely unknown. To characterize the role of PPAR gamma in C. difficile-associated disease (CDAD), immunity and gut pathology, we used a mouse model of C. difficile infection in wild-type and T cell-specific PPAR gamma null mice. The loss of PPAR gamma in T cells increased disease activity and colonic inflammatory lesions following C. difficile infection. Colonic expression of IL-17 was upregulated and IL-10 downregulated in colons of T cell-specific PPAR gamma null mice. Also, both the loss of PPAR gamma in T cells and C. difficile infection favored Th17 responses in spleen and colonic lamina propria of mice with CDAD. MicroRNA (miRNA)-sequencing analysis and RT-PCR validation indicated that miR-146b was significantly overexpressed in colons of C. difficile-infected mice. We next developed a computational model that predicts the upregulation of miR-146b, downregulation of the PPAR gamma co-activator NCOA4, and PPAR gamma, leading to upregulation of IL-17. Treatment of C. difficile-infected mice with the PPAR gamma agonist pioglitazone ameliorated colitis and suppressed pro-inflammatory gene expression. In conclusion, our data indicates that miRNA-146b and PPAR gamma may be implicated in the regulation of Th17 responses and colitis in C. difficile-infected mice.",
+    "brief_title": "PPARG and microRNA-146 in mucosal immune responses to C. difficile",
+    "clinical_trial": "N",
+    "condition_studied": "Wild type and tissue-specific PPAR gamma null mice were treated with an antibiotic mixture consisting of colistin 850 U/mL, gentamicin 0.035 mg/mL, metronidazole 0.215 mg/mL and vancomycin 0.045 mg/mL in the drinking water for 3 days. Afterwards all mice were given regular autoclaved water for 2 days and all mice received a single dose of clindamycin intraperitoneally 1 day before C. difficile challenge. On day 5, the mice were challenged intragastrically with Clostridium difficile strain VPI 10463.",
+    "dcl_id": 2,
+    "description": "Clostridium difficile is typically a harmless anaerobic bacterium but recently it has re-emerged as a facultative pathogen that can cause nosocomial diarrhea, colitis and even death. Peroxisome proliferator-activated receptor (PPAR)  gamma has been implicated in the prevention of inflammation in autoimmune and infectious diseases; however, its role in the immunoregulatory mechanisms modulating host responses to C. difficile remains largely unknown. To characterize the role of PPAR gamma in C. difficile-associated disease (CDAD), immunity and gut pathology, we used a mouse model of C. difficile infection in wild-type and T cell-specific PPAR gamma null mice. The loss of PPAR gamma in T cells increased disease activity and colonic inflammatory lesions following C. difficile infection. Colonic expression of IL-17 was upregulated and IL-10 downregulated in colons of T cell-specific PPAR gamma null mice. Also, both the loss of PPAR gamma in T cells and C. difficile infection favored Th17 responses in spleen and colonic lamina propria of mice with CDAD. MicroRNA (miRNA)-sequencing analysis and RT-PCR validation indicated that miR-146b was significantly overexpressed in colons of C. difficile-infected mice. We next developed a computational model that predicts the upregulation of miR-146b, downregulation of the PPAR gamma co-activator NCOA4, and PPAR gamma, leading to upregulation of IL-17. Treatment of C. difficile-infected mice with the PPAR gamma agonist pioglitazone ameliorated colitis and suppressed pro-inflammatory gene expression. In conclusion, our data indicates that miRNA-146b and PPAR gamma may be implicated in the regulation of Th17 responses and colitis in C. difficile-infected mice.",
+    "doi": "10.21430/M3XUDZGCYI",
+    "endpoints": "Bacterial challenge with C. difficile VPI 10463, RNA-seq analyses, assessment of systemic immune responses over time and local immune responses as well as pathology.",
+    "gender_included": "Not Specified",
+    "hypothesis": "Peroxisome proliferator-activated receptor  gamma (PPAR gamma) is a nuclear receptor and ligand-activated transcription factor that modulates mucosal immune responses and is involved in the prevention of inflammatory bowel disease (IBD). Moreover, mice with a targeted deletion of PPAR gamma in epithelial cells, macrophages or T cells display increased pro-inflammatory gene expression and susceptibility to colitis. PPAR gamma also suppresses Th1 responses and blocks the differentiation of CD4+ T cells into a Th17 phenotype, thus potentiating a regulatory T (Treg) cell response . However, no studies are available investigating the role of PPAR gamma in the pathogenesis and treatment of C. difficile associated disease. In this regard, we hypothesized a role of PPAR gamma in the  modulation of mucosal immune responses to C. difficile.",
+    "initial_data_release_date": "2013-04-05",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-04-05",
+    "latest_data_release_version": "DR1",
+    "maximum_age": " 512.00",
+    "minimum_age": "  53.00",
+    "objectives": "This study investigates the mechanisms underlying PPAR gamma modulation of mucosal immune responses to C. difficile, including a possible relationship between nuclear receptors and miRNAs. Specifically, we applied mathematical and computational modeling approaches in combination with mouse challenge studies to study the mechanisms underlying the interactions between PPAR gamma and miRNA-146b to regulate colitis during C. difficile infection. Next, we investigated how either T cell-specific deletion or pharmacological activation of PPAR gamma modulate colonic inflammatory cytokines and effector Th17 responses to C. difficile infection in mice.",
+    "official_title": "Modeling the role of peroxisome proliferator-activated receptor ? and microRNA-146 in mucosal immune responses to Clostridium difficile",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2815,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM626",
+            "description": "C. difficille infected",
+            "name": "Case"
+        },
+        {
+            "arm_accession": "ARM627",
+            "description": "Control group",
+            "name": "Control"
+        },
+        {
+            "arm_accession": "ARM628",
+            "description": "Unknown",
+            "name": "Unknown"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Josep",
+            "last_name": "Bassaganya-Riera",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        },
+        {
+            "first_name": "Raquel",
+            "last_name": "Hontecillas",
+            "organization": "NIMML",
+            "role_in_study": "Principal Investigator",
+            "site_name": "VBI"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Modeling the role of peroxisome proliferator-activated receptor gamma and microRNA-146 in mucosal immune responses to Clostridium difficile.",
+            "journal": "PLoS One.",
+            "month": "-",
+            "year": "2012",
+            "doi": "10.1371/journal.pone.0047525",
+            "pubmed_id": "23071818"
+        },
+        {
+            "title": "The role of peroxisome proliferator-activated receptor gamma in immune responses to enteroaggregative Escherichia coli infection.",
+            "journal": "PLoS One.",
+            "month": "-",
+            "year": "2013",
+            "doi": "10.1371/journal.pone.0057812.",
+            "pubmed_id": "23469071"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Modeling Immunity for Biodefense II",
+            "contract_name": "Virginia Bioinformatics Institute Modeling Immunity for Biodefense Contract"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 64
+        },
+        {
+            "measurement_technique": "Other",
+            "number_of_expsamples": 96
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 70
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

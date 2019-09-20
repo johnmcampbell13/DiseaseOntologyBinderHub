@@ -1,0 +1,7 @@
+name: disease_ontology_immport
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - pandas
+  - notebook

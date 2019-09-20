@@ -1,0 +1,95 @@
+{
+    "study_accession": "SDY1368",
+    "actual_completion_date": "2011-12-30",
+    "actual_enrollment": 18,
+    "actual_start_date": "2015-01-01",
+    "age_unit": "Years",
+    "brief_description": "Comparison of VZV vaccination in individuals of different ages to decipher the molecular mechanisms underlying variable vaccine responses.",
+    "brief_title": "Systems Biology of Varicella Zoster Vaccination",
+    "clinical_trial": "Y",
+    "condition_studied": "Varicella zoster virus (VZV) vaccine response",
+    "dcl_id": 2,
+    "description": "Vaccination with attenuated live varicella zoster virus (VZV) can prevent zoster reactivation, but protection is incomplete especially in an older population. To decipher the molecular mechanisms underlying variable vaccine responses, T- and B-cell responses to VZV vaccination were examined in individuals of different ages including identical twin pairs. Contrary to the induction of VZV-specific antibodies, antigen-specific T cell responses were significantly influenced by inherited factors. Diminished generation of long-lived memory T cells in older individuals was mainly caused by increased T cell loss after the peak response while the expansion of antigen-specific T cells was not affected by age. Gene expression in activated CD4 T cells at the time of the peak response identified gene modules related to cell cycle regulation and DNA repair that correlated with the contraction phase of the T cell response and consequently the generation of long-lived memory cells. These data identify cell cycle regulatory mechanisms as targets to reduce T cell attrition in a vaccine response and to improve the generation of antigen-specific T cell memory, in particular in an older population.",
+    "doi": "10.21430/M3P1TK6IXE",
+    "endpoints": "Immunological phenotypes; cytokine analysis; transcriptomics.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Mechanisms underlying variable age-related responses to vaccination with attenuated live varicella zoster virus (VZV) can be deciphered through a systems biology approach.",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": "Zostavax (Merck & Co. Inc.)",
+    "latest_data_release_date": "2018-09-21",
+    "latest_data_release_version": "DR28",
+    "maximum_age": "  75.00",
+    "minimum_age": "  51.00",
+    "objectives": "Assess transcriptional profiles of whole blood and of isolated activated CD4 T cells and serum concentrations of cytokines in individuals receiving zoster vaccination to build predictive models of T cell responses. Inclusion of adults between the age of 50 and 79 years and nine twin pairs to determine the influence of age and genetic factors.",
+    "official_title": "Defective T Memory Cell Differentiation after Varicella Zoster Vaccination in Older Individuals.",
+    "sponsoring_organization": "NIH",
+    "target_enrollment": 39,
+    "workspace_id": 2883,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4635",
+            "description": "Zostavax (non-twin)",
+            "name": "Zostavax (non-twin)"
+        },
+        {
+            "arm_accession": "ARM4636",
+            "description": "Zostavax (monozygotic twin pairs)",
+            "name": "Zostavax (monozygotic twin pairs)"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jorg",
+            "last_name": "Goronzy",
+            "organization": "Stanford University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Stanford University"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Defective T Memory Cell Differentiation after Varicella Zoster Vaccination in Older Individuals",
+            "journal": "PLOS Pathogens",
+            "month": "October",
+            "year": "2016",
+            "doi": "10.1371/journal.ppat.1005892",
+            "pubmed_id": "27764254"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Vaccination and infection: indicators of immunological health and responsiveness"
+        },
+        {
+            "program_name": "Cooperative Centers on Human Immunology RFA-AI-17-040",
+            "contract_name": "Adaptive And Innate Immunity, Memory And Repertoire In Vaccination And Infection"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 36
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 18
+            }
+        ],
+        "gender": [
+            {
+                "Female": 11
+            },
+            {
+                "Male": 7
+            }
+        ]
+    }
+}

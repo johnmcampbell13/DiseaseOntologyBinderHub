@@ -1,0 +1,84 @@
+{
+    "study_accession": "SDY646",
+    "actual_completion_date": null,
+    "actual_enrollment": 8,
+    "actual_start_date": "2009-04-01",
+    "age_unit": "Months",
+    "brief_description": "Older adults exhibit higher morbidity and mortality from infectious diseases compared with those of the general population.",
+    "brief_title": "Repeated In Vivo Stimulation of T and B Cell Responses",
+    "clinical_trial": "N",
+    "condition_studied": "West Nile Virus vaccine efficacy in aged mice",
+    "dcl_id": 2,
+    "description": "Older adults exhibit higher morbidity and mortality from infectious diseases compared with those of the general population. The\n",
+    "doi": "10.21430/M30LVXYFB2",
+    "endpoints": "FCM, challenge, ELISA, Neutralizing titers, Passive transfer, plaque assay",
+    "gender_included": "Male",
+    "hypothesis": "Age-related vulnerability to WNV infection can be overcome by vaccination",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": "RepliVAX WN (Replication deficient WNV vaccine)",
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "  22.00",
+    "minimum_age": "   3.00",
+    "objectives": "Determine immune-correlates of protection for successful vaccination to prevent WNV disease",
+    "official_title": "Repeated In Vivo Stimulation of T and B Cell Responses",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 3365,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2876",
+            "description": "3 months old C57BL/6 mice",
+            "name": "Uhrlaub_JI_2011_Adult"
+        },
+        {
+            "arm_accession": "ARM2877",
+            "description": "18-22 months old C57BL/6 mice",
+            "name": "Uhrlaub_JI_2011_Old"
+        },
+        {
+            "arm_accession": "ARM2878",
+            "description": "3 months old C57BL/6 mice",
+            "name": "Uhrlaub_JI_2011_Adult"
+        },
+        {
+            "arm_accession": "ARM2879",
+            "description": "18-22 months old C57BL/6 mice",
+            "name": "Uhrlaub_JI_2011_Old"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Janko",
+            "last_name": "Nikolich",
+            "organization": "University of Arizona",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Arizona Center on Aging"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Repeated in vivo stimulation of T and B cell responses in old mice generates protective immunity against lethal West Nile virus encephalitis.",
+            "journal": "J Immunol.",
+            "month": "Apr",
+            "year": "2011",
+            "doi": "10.4049/jimmunol.1002799. Epub 2011 Feb 21.",
+            "pubmed_id": "21339368"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Protective Immunity in Special Populations",
+            "contract_name": "Immunological basis of age-related vulnerability in biodefense and emerging infections SP2 UAz"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

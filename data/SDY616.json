@@ -1,0 +1,116 @@
+{
+    "study_accession": "SDY616",
+    "actual_completion_date": "2014-10-01",
+    "actual_enrollment": 84,
+    "actual_start_date": "2011-04-01",
+    "age_unit": "Years",
+    "brief_description": "Atopic dermatitis (AD) is a chronic skin disorder characterized by recurrent viral skin infections. A small subset of patients with AD suffer from disseminated viral infections, e.g., eczema herpeticum (ADEH+), after herpes simplex infection (HSV) or eczema vaccinatum (EV) after smallpox vaccination. Interferon (IFN)-g plays a critical role in the innate and acquired immune responses by activating macrophages, enhancing natural killer cell activation, and promoting T cell differentiation, as well as regulating B cell isotype switching to immunoglobulin (Ig) G2a. Recent studies have demonstrated that IFN-g generation was significantly decreased after stimulation with HSV ex vivo. The purpose of this study is to determine if deficient IFN-g induction leads to susceptibility to HSV infection in ADEH+ patients.",
+    "brief_title": "Interferon Responses in Eczema Herpeticum (ADRN-01)",
+    "clinical_trial": "Y",
+    "condition_studied": "Atopic Dermatitis",
+    "dcl_id": 2,
+    "description": "Atopic dermatitis (AD) is a chronic skin disorder characterized by recurrent viral skin infections. A small subset of patients with AD suffer from disseminated viral infections, e.g., eczema herpeticum (ADEH+), after herpes simplex infection (HSV) or eczema vaccinatum (EV) after smallpox vaccination. Interferon (IFN)-g plays a critical role in the innate and acquired immune responses by activating macrophages, enhancing natural killer cell activation, and promoting T cell differentiation, as well as regulating B cell isotype switching to immunoglobulin (Ig)G2a. Recent studies have demonstrated that IFN-g generation was significantly decreased after stimulation with HSV ex vivo. The purpose of this study is to determine if deficient IFN-g induction leads to susceptibility to HSV infection in ADEH+ patients.",
+    "doi": "10.21430/M34DAGM5W4",
+    "endpoints": "The primary endpoints for this study are protein and messenger ribonucleic acid (mRNA) levels of IFN-g, and the IFN-g promoting cytokine, IL-12, produced by CD14+ monocytes in response to stimulation with HSV-1, VV, and various PRR agonists.",
+    "gender_included": "Female, Male",
+    "hypothesis": "Defective IFN-g responses in PBMCs from ADEH+ patients results from aberrant PRR signaling in APCs resulting in low level production of IL-12, an essential cytokine for IFN-g generation.",
+    "initial_data_release_date": "2019-04-12",
+    "initial_data_release_version": "DR30",
+    "intervention_agent": "not applicable",
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "  63.00",
+    "minimum_age": "   7.00",
+    "objectives": "The primary objective of this study is to compare the levels of IFN-g and the IFN-g promoting cytokine IL-12 produced by CD14+ monocytes from ADEH+, ADEH-, and non-atopic participants, in response to HSV-1, VV, and various HSV related PRR agonists. An additional primary objective is to demonstrate a correlation between post-stimulation levels of IFN-g and IL-12. The primary objectives will be assessed for all study participants.",
+    "official_title": "Investigation of Reduced Interferon Responses in Peripheral Blood Mononuclear Cells of Participants with Atopic Dermatitis and a History of Eczema Herpeticum",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 120,
+    "workspace_id": 1089,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2807",
+            "description": "Participants with AD and history of previous EH",
+            "name": "ADEH+"
+        },
+        {
+            "arm_accession": "ARM2808",
+            "description": "Participants with AD without a history of EH",
+            "name": "ADEH-"
+        },
+        {
+            "arm_accession": "ARM2809",
+            "description": "Non-atopic controls",
+            "name": "Non-atopic controls"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Donald",
+            "last_name": "Leung",
+            "organization": "National Jewish Health",
+            "role_in_study": "Principal Investigator",
+            "site_name": "National Jewish Health"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Identification of novel gene signatures in patients with atopic dermatitis complicated by eczema herpeticum.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Oct",
+            "year": "2014",
+            "doi": "10.1016/j.jaci.2014.07.018.  Epub 2014 Aug 23.",
+            "pubmed_id": "25159465"
+        },
+        {
+            "title": "Ankyrin repeat domain 1 regulates innate immune responses against herpes simplex virus 1: A potential role in eczema herpeticum.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Jun",
+            "year": "2018",
+            "doi": "10.1016/j.jaci.2018.01.001. Epub 2018 Jan 31.",
+            "pubmed_id": "29371118"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Atopic Dermatitis Research Network (ADRN) 2011-2015",
+            "contract_name": "Atopic Dermatitis Research Network (ADRN)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "RNA sequencing",
+            "number_of_expsamples": 22
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 3
+            },
+            {
+                "race": "Black or African American",
+                "count": 13
+            },
+            {
+                "race": "Other",
+                "count": 6
+            },
+            {
+                "race": "White",
+                "count": 62
+            }
+        ],
+        "gender": [
+            {
+                "Female": 43
+            },
+            {
+                "Male": 41
+            }
+        ]
+    }
+}

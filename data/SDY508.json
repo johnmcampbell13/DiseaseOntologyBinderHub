@@ -1,0 +1,86 @@
+{
+    "study_accession": "SDY508",
+    "actual_completion_date": null,
+    "actual_enrollment": 12,
+    "actual_start_date": "2012-02-01",
+    "age_unit": "Years",
+    "brief_description": "Integrate two high-throughput technologies namely, microengraving-based screening of primary B cells and next-generation sequencing to examine the relationship between the diversity and quality of humoral responses raised and the severity of disease.",
+    "brief_title": "Humoral responses to West Nile virus",
+    "clinical_trial": "N",
+    "condition_studied": "Antibody responses to infection with West Nile virus",
+    "dcl_id": 2,
+    "description": "Integrate two high-throughput technologies namely, microengraving-based screening of primary B cells and next-generation sequencing to examine the relationship between the diversity and quality of humoral responses raised and the severity of disease.",
+    "doi": "10.21430/M3WVUCYBW9",
+    "endpoints": "Next-generation sequencing for pools of B cells isolated from subject.",
+    "gender_included": "Female, Male",
+    "hypothesis": "We hypothesize that differential production of antibody responses, limited clonotypic diversity, isotype biasing, or lower quality (affinity) antibodies may be key components of susceptibility to severe disease.",
+    "initial_data_release_date": "2016-03-18",
+    "initial_data_release_version": "DR18",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-03-18",
+    "latest_data_release_version": "DR18",
+    "maximum_age": "  67.00",
+    "minimum_age": "  20.00",
+    "objectives": "Determine how humoral responses relate to severity of disease to provide insight to predicting outcomes.",
+    "official_title": "High-throughput immunophenotypic analyses of humoral responses to West Nile virus",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2412,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2579",
+            "description": "WNV+; severe",
+            "name": "Severe"
+        },
+        {
+            "arm_accession": "ARM2580",
+            "description": "WNV+; asymptomatic",
+            "name": "Asymptomatic"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Hafler",
+            "organization": "Yale",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Yale"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Human Immunology Project Consortium (HIPC) RFA-AI-14-007",
+            "contract_name": "Defining signatures for immune responsiveness by functional systems immunology HIPC1"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 19
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 11
+            }
+        ],
+        "gender": [
+            {
+                "Female": 6
+            },
+            {
+                "Male": 6
+            }
+        ]
+    }
+}

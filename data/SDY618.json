@@ -1,0 +1,93 @@
+{
+    "study_accession": "SDY618",
+    "actual_completion_date": "2012-12-28",
+    "actual_enrollment": 40,
+    "actual_start_date": "2011-11-01",
+    "age_unit": "Years",
+    "brief_description": "A new flu vaccine which is injected into the skin instead of into the muscle has recently been approved by the Food and Drug Administration for vaccination of the general population including patients with atopic dermatitis (AD). This new vaccine has been shown to work as well as the vaccine which is injected into muscle when tested in people without atopic dermatitis. The primary endpoint of the study is to estimate the variance of the log fold change from baseline in HAI antibody titers for non-atopic controls and participants with atopic dermatitis without a history of eczema herpeticum (ADEH-), following administration of a single dose of the seasonal 2011-2012 Fluzone Intradermal vaccine.",
+    "brief_title": "ADRN Influenza Vaccine Pilot (ADRN-03)",
+    "clinical_trial": "Y",
+    "condition_studied": "Atopic Dermatitis",
+    "dcl_id": 2,
+    "description": "This is a single center, open-label, mechanistic study designed to determine the variance of the antibody response in non-atopic and ADEH- participants receiving a single dose of the 2011-2012 seasonal Fluzone Intradermal vaccine administered per label.",
+    "doi": "10.21430/M3AFZ310EE",
+    "endpoints": "HAI antibody titers against each strain of influenza present in the vaccine will be measured from serum samples collected before vaccination on Day 0 (Baseline) and post-vaccination on Day 28.",
+    "gender_included": "Female, Male",
+    "hypothesis": "The immunogenicity of Fluzone Intradermal vaccine is reduced in patients with atopic dermatitis.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Fluzone Intradermal vaccine",
+    "latest_data_release_date": "2017-09-29",
+    "latest_data_release_version": "DR23",
+    "maximum_age": "  54.00",
+    "minimum_age": "  18.00",
+    "objectives": "The primary objective of this study is to estimate the variance of the log fold change from baseline in HAI antibody titers for non-atopic controls and ADEH- participants, following administration per label of a single dose of the seasonal 2011-2012 Fluzone Intradermal vaccine.",
+    "official_title": "An Open Label Study in Adults With Atopic Dermatitis to Assess Variability in Immune Response to Fluzone Intradermal Vaccine",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 40,
+    "workspace_id": 1089,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2815",
+            "description": "Atopic Dermatitis without previous or current Eczema Herpeticum",
+            "name": "ADEH- (mild to severe AD)"
+        },
+        {
+            "arm_accession": "ARM2816",
+            "description": "Non-atopic, healthy control",
+            "name": "Non-atopic"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Donald",
+            "last_name": "Leung",
+            "organization": "National Jewish Health",
+            "role_in_study": "Principal Investigator",
+            "site_name": "National Jewish Health"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Atopic Dermatitis Research Network (ADRN) 2011-2015",
+            "contract_name": "Atopic Dermatitis Research Network (ADRN)"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 2
+            },
+            {
+                "race": "Asian",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 7
+            },
+            {
+                "race": "Other",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 28
+            }
+        ],
+        "gender": [
+            {
+                "Female": 26
+            },
+            {
+                "Male": 14
+            }
+        ]
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "study_accession": "SDY146",
+    "actual_completion_date": "2012-12-31",
+    "actual_enrollment": 344,
+    "actual_start_date": "2010-01-01",
+    "age_unit": "Years",
+    "brief_description": "A systematic study of human immune function with the goal of identifying defective mechanisms of immune response in patients treated with TNF-alpha blockade (anti-TNF)",
+    "brief_title": "Immune response evaluation in patients treated with TNF-alpha blockade (anti-TNF)",
+    "clinical_trial": "N",
+    "condition_studied": "Immune response of rheumatiod arthitis and psoriatic arthrits patients to influenza vaccine",
+    "dcl_id": 1,
+    "description": "This project is to develop and apply the University of Rochester Program for Biodefense of Immunocompromised Populations (URPBIP) to the systematic study of human immune function with the goal of identifying defective mechanisms of immune response in patients treated with TNF-alpha blockade (anti-TNF).  Studies are designed to detect changes that are likely to be induced by sustained TNF-alpha neutralization in the immune homeostasis and immune responsiveness of B-cells, T-cells and Dendritic cells.  Although the study is not specifically designed to understand immune function in the elderly, the inclusion of a subset of patients and controls over and under 50 may result in the discovery of age-specific defects.",
+    "doi": "10.21430/M3QXQFGTK5",
+    "endpoints": "<ol><li>Using flow cytometry, define immature, transitional, pre-GC, and marginal zone (CD1c) B-cells<li>Using flow cytometry, assess the activation status, migration potential, and the presence of survival signal receptors on naive and memory B cells subsets<li>Using flow cytometry, identify the effects of anti-TNF on monocyte function and maturation</ol>",
+    "gender_included": "Female, Male, Unknown",
+    "hypothesis": "We postulate that given the pleiotropic activities of TNFalpha, the immune function of patients on chronic TNFalpha blockade will be altered by the combination of two critical factors: the quantitative and qualitative changes on steady state immune homeostasis; and the quantitative and qualitative changes in the way that a TNFalpha-deprived immune system responds to mitogenic and antigen-specific stimulation.",
+    "initial_data_release_date": "2013-06-12",
+    "initial_data_release_version": "DR2",
+    "intervention_agent": null,
+    "latest_data_release_date": "2013-06-12",
+    "latest_data_release_version": "DR2",
+    "maximum_age": "53",
+    "minimum_age": "18",
+    "objectives": "<ol><li>To study the impact of anti-TNF in B-cell homeostasis by analyzing the steady state B-cell populations in anti-TNF patients and controls<li> To determine the impact of anti-TNF in B-cell responsiveness in vitro<li>Determine if anti-TNF agents increase the risk of infection in patients with inflammatory arthritis by inhibiting the maturation of monocytes into immature and mature myeloid DC<li>Determine if anti-TNF agents increase the risk of infection in patients with inflammatory arthritis by altering the function of both mature and immature myeloid DC subsets</ol>",
+    "official_title": "Immune response evaluation in patients treated with TNF-alpha blockade (anti-TNF)",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 280,
+    "workspace_id": 1860,
+    "research_focus": [
+        "Immune Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM695",
+            "description": "Rheumatoid arthritis patients with no immunomodulating treatment",
+            "name": "RA Untreated"
+        },
+        {
+            "arm_accession": "ARM696",
+            "description": "Rheumatoid Arthritis patients being treated with anti-Tissue Necrosis Factor",
+            "name": "RA anti-TNF"
+        },
+        {
+            "arm_accession": "ARM697",
+            "description": "Rheumatoid Arthritis patients being treated with methotrexate",
+            "name": "RA MTX"
+        },
+        {
+            "arm_accession": "ARM698",
+            "description": "Rheumatoid Arthritis patients being treated with methotrexate and anti-Tissue Necrosis Factor",
+            "name": "RA MTX and anti-TNF"
+        },
+        {
+            "arm_accession": "ARM699",
+            "description": "Psoritatic Arthritis patients being treated with methotrexate",
+            "name": "PsA MTX"
+        },
+        {
+            "arm_accession": "ARM700",
+            "description": "Psoritatic Arthritis patients being treated with methotrexate and anti-Tissue Necrosis Factor",
+            "name": "PsA MTX and anti-TNF"
+        },
+        {
+            "arm_accession": "ARM701",
+            "description": "Psoritatic Arthritis patients being treated with anti-Tissue Necrosis Factor",
+            "name": "PsA anti-TNF"
+        },
+        {
+            "arm_accession": "ARM702",
+            "description": "Rheumatoid Arthritis patients with changes in treatment",
+            "name": "RA Switch"
+        },
+        {
+            "arm_accession": "ARM703",
+            "description": "Psoritatic Arthritis patients with changes in treatment",
+            "name": "PsA Switch"
+        },
+        {
+            "arm_accession": "ARM704",
+            "description": "Healthy with no immunomodulating drug treatment",
+            "name": "Healthy"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Ignacio",
+            "last_name": "Sanz",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester Medical Center"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Peak frequencies of circulating human influenza-specific antibody secreting cells correlate with serum antibody response after immunization.",
+            "journal": "Vaccine.",
+            "month": "Apr",
+            "year": "2010",
+            "doi": "10.1016/j.vaccine.2010.02.088. Epub 2010 Mar 16.",
+            "pubmed_id": "20298818"
+        },
+        {
+            "title": "Decreased influenza-specific B cell responses in rheumatoid arthritis patients treated with anti-tumor necrosis factor.",
+            "journal": "Arthritis Res Ther.",
+            "month": "-",
+            "year": "2011",
+            "doi": "10.1186/ar3542. Epub 2011 Dec 16.",
+            "pubmed_id": "22177419"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "Function and Biodefense in patients with TNF-a Blockade"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 2003
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 2
+            },
+            {
+                "race": "Asian",
+                "count": 7
+            },
+            {
+                "race": "Black or African American",
+                "count": 7
+            },
+            {
+                "race": "Unknown",
+                "count": 6
+            },
+            {
+                "race": "White",
+                "count": 203
+            }
+        ],
+        "gender": [
+            {
+                "Female": 156
+            },
+            {
+                "Male": 69
+            }
+        ]
+    }
+}

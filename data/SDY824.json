@@ -1,0 +1,98 @@
+{
+    "study_accession": "SDY824",
+    "actual_completion_date": null,
+    "actual_enrollment": 63,
+    "actual_start_date": "2009-03-01",
+    "age_unit": "Years",
+    "brief_description": "The primary purpose of this study is to determine the effectiveness of two TNF inhibitors, etanercept and adalimumab, on memory B lymphocytes (B-cells) in the peripheral blood of participants with RA.",
+    "brief_title": "Anti-TNF Agents in RA (ARA06)",
+    "clinical_trial": "Y",
+    "condition_studied": "Arthritis",
+    "dcl_id": 2,
+    "description": "This is a Phase IV, investigator-initiated, partially blinded, randomized, multi-center clinical trial designed to evaluate the mechanistic effects of TNF-a inhibition on clinical and mechanistic measures in RA patients. Subjects will be randomized to one of two active treatment arms, etanercept or adalimumab, and will receive treatment using standard dosing regimens for 24 weeks. Subjects will be randomized in a 2:1 ratio until 40 and 20 subjects are treated with etanercept and adalimumab, respectively. Clinical responses and serologic changes will be monitored throughout the study in all participants. Study visits are scheduled for Screening, Baseline/Treatment-Initiation, and at Weeks 12 and 24. In addition, to assess safety, blood draws are scheduled for Weeks 8 and16, and phone calls are scheduled for Weeks 4, 8, 16, and 20. In order to assess peripheral blood B and T cell changes after treatment initiation, all participating subjects will have a blood sample analyzed by flow cytometry for B and T cell subsets at Baseline/Treatment Initiation and Weeks 12 and 24. Etanercept drug levels will be assessed from samples drawn at Weeks 12 and 24 as study drug levels may impact clinical response.",
+    "doi": "10.21430/M3LU5YSBYO",
+    "endpoints": "Change in the memory B cell fraction in the peripheral blood from Baseline/Treatment Initiation to Week 12 assessed by flow cytometry. Change in DAS28 score from Baseline/Treatment Initiation to Week 12 and also Baseline/Treatment Initiation to Week 24. ACR20 and ACR50 responses at Week 12 and also at Week 24. DAS28 Responder status: An ordinal measure of response defined at Week 12 and also at Week 24 using DAS28 at each post-baseline time-point and change in DAS28 from baseline accordingly: DAS28 non-responder (DAS28 change of < 0.6 OR DAS28 change 0.6-1.2 with a DAS28 > 5.1 OR Any flare that requires prednisone > 10 mg/day (or equivalent dose of another corticosteroid) beyond Week 8 for the 12 week endpoint and beyond Week 20 for the 24 week endpoint or the inability to taper prednisone to <= 10 mg/day (or equivalent dose of another corticosteroid) by Week 8 or Week 20 OR Any subject that requires prednisone > 20 mg/day (or equivalent dose of another corticosteroid) at any time point), DAS28 good responder (DAS28 decrease of >= 1.2 and a DAS28 <= 3.2), DAS28 moderate responder (All remaining subjects). B cell subset fractions in the peripheral blood. T cell subset fractions in the peripheral blood. Changes in autoantibody status. Serum levels of etanercept measured at Baseline/Treatment Initiation, and Weeks 12 and 24.",
+    "gender_included": "Female, Male",
+    "hypothesis": "TNF antagonism will inhibit GC reactions in secondary lymphoid tissue and ectopic GCs in synovial tissue, which will be reflected in defined changes in B cell subsets in the peripheral blood and correlate with clinical response.",
+    "initial_data_release_date": "2017-06-16",
+    "initial_data_release_version": "DR22",
+    "intervention_agent": "Etanercept, Adalimumab",
+    "latest_data_release_date": "2017-06-16",
+    "latest_data_release_version": "DR22",
+    "maximum_age": "  74.00",
+    "minimum_age": "  22.00",
+    "objectives": "The primary objective is to explore the differential impact of two TNF inhibitors, etanercept and adalimumab, on memory B lymphocytes in the peripheral blood of patients with RA. Specifically, etanercept, which blocks both LT and TNF signaling, is expected to induce a decrease in the fraction of memory B cells in the peripheral blood, whereas the fraction of memory B cells is expected to remain stable after treatment with adalimumab, which blocks only TNF.",
+    "official_title": "A Partially Blinded, Randomized, Multi-Center, Phase IV Trial to Evaluate Mechanism of Action of Anti-TNF Agents in Rheumatoid Arthritis",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 63,
+    "workspace_id": 5300,
+    "research_focus": [
+        "Autoimmune"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3215",
+            "description": "Participants receive a subcutaneous injection of etanercept once every week for 24 weeks",
+            "name": "Etanercept Experimental"
+        },
+        {
+            "arm_accession": "ARM3216",
+            "description": "Participants receive a subcutaneous injection of adalimumab once every 2 weeks for 24 weeks",
+            "name": "Adalimumab Experimental"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Jennifer",
+            "last_name": "Anolik",
+            "organization": "University of Rochester School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Rochester School of Medicine"
+        }
+    ],
+    "pubmed": [],
+    "program": [
+        {
+            "program_name": "Autoimmunity Centers of Excellence (ACE) AI-12-060, AI-12-059",
+            "contract_name": "Anti-TNF Agents in RA (ARA06)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 540
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 8
+            },
+            {
+                "race": "Other",
+                "count": 2
+            },
+            {
+                "race": "Unknown",
+                "count": 2
+            },
+            {
+                "race": "White",
+                "count": 50
+            }
+        ],
+        "gender": [
+            {
+                "Female": 49
+            },
+            {
+                "Male": 14
+            }
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "study_accession": "SDY1325",
+    "actual_completion_date": "2016-01-29",
+    "actual_enrollment": 20,
+    "actual_start_date": "2013-03-31",
+    "age_unit": "Years",
+    "brief_description": "Comparison of plain-polysaccharide and protein-polysaccharide conjugate vaccines.",
+    "brief_title": "B-cell responses to meningococcal vaccine.",
+    "clinical_trial": "N",
+    "condition_studied": "Meningococcal vaccine response.",
+    "dcl_id": 2,
+    "description": "Background: Neisseria meningitidis is a globally important cause of meningitis and septicaemia. Twelve capsular groups of meningococci are known, and quadrivalent vaccines against four of these (A, C, W and Y) are available as plain-polysaccharide and protein-polysaccharide conjugate vaccines. Here we apply contemporary methods to describe B-cell responses to meningococcal polysaccharide and conjugate vaccines. Methods: Twenty adults were randomly assigned to receive either a meningococcal plain-polysaccharide or conjugate vaccine; one month later all received the conjugate vaccine. Blood samples were taken pre-vaccination and 7, 21 and 28 days after vaccination; B-cell responses were assessed by ELISpot, serum bactericidal assay, flow cytometry and gene expression microarray. Results: Seven days after an initial dose of either vaccine, a gene expression signature characteristic of plasmablasts was detectable. The frequency of newly generated plasma cells (CXCR3+HLA-DR+) and the expression of transcripts derived from IGKC and IGHG2 correlated with immunogenicity. Notably, using an independent dataset, the expression of glucosamine (N-acetyl)-6-sulfatase was found to reproducibly correlate with the magnitude of immune response. Transcriptomic and flow cytometric data revealed depletion of switched memory B cells following plain-polysaccharide vaccine.",
+    "doi": "10.21430/M3Q1ZBWOG2",
+    "endpoints": "Immunological phenotypes; flow cytometry; transcriptomics.",
+    "gender_included": "Not Specified",
+    "hypothesis": "Mechanisms underlying hyporesponsiveness (inferior responses to subsequent doses), which is evident after plain-polysaccharide but not protein-conjugated vaccines, can be elucidated through systems biology approaches.",
+    "initial_data_release_date": "2018-09-21",
+    "initial_data_release_version": "DR28",
+    "intervention_agent": "MenACWY-CRM (Menveo; Novartis Vaccines, Bellario-Rosia, Italy) & MenACWY-PS (ACWYVax; GlaxoSmithKline, Rixensart, Belgium).",
+    "latest_data_release_date": "2019-01-16",
+    "latest_data_release_version": "DR29",
+    "maximum_age": "  70.00",
+    "minimum_age": "  30.00",
+    "objectives": "Apply contemporary systems biology tools (gene expression, multi-parameter flow cytometry and cellular and serological assays) to describe B-cell responses to the quadrivalent plain-polysaccharide",
+    "official_title": "High-dimensional assessment of B-cell responses to quadrivalent meningococcal conjugate and plain polysaccharide vaccine.",
+    "sponsoring_organization": "NIHR Oxford Biomedical Research Centre.",
+    "target_enrollment": 20,
+    "workspace_id": 6133,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4525",
+            "description": "Intramuscular injection of MenACWY-CRM (quadrivalent vaccine of meningococcal capsular polysaccharide conjugated to a carrier protein (CRM197: non-toxic mutant of diphtheria toxin or tetanus toxoid))",
+            "name": "Intramuscular MenACWY-CRM"
+        },
+        {
+            "arm_accession": "ARM4526",
+            "description": "Intramuscular injection of MenACWY-PS (quadrivalent plain-polysaccharide) vaccine",
+            "name": "Intramuscular MenACWY-PS"
+        },
+        {
+            "arm_accession": "ARM4527",
+            "description": "Subcutaneous  injection of MenACWY-PS (quadrivalent plain-polysaccharide) vaccine",
+            "name": "Subcutaneous MenACWY-PS"
+        },
+        {
+            "arm_accession": "ARM4528",
+            "description": "One-fifth dose intramuscular injection of MenACWY-PS  (quadrivalent plain-polysaccharide) vaccine",
+            "name": "One-fifth dose intramuscular MenACWY-PS"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Daniel",
+            "last_name": "O'Connor",
+            "organization": "NIHR Oxford Biomedical Research Centre.",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Oxford"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "High-dimensional assessment of B-cell responses to quadrivalent meningococcal conjugate and plain polysaccharide vaccine.",
+            "journal": "Genome Medicine",
+            "month": "January",
+            "year": "2017",
+            "doi": "10.1186/s13073-017-0400-x",
+            "pubmed_id": "28137280"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIHR Biomedical Research Centres (BRCs)",
+            "contract_name": "NIHR Oxford Biomedical Research Centre"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "Neutralizing Antibody Titer Assay",
+            "number_of_expsamples": 108
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 59
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Not Specified",
+                "count": 20
+            }
+        ],
+        "gender": [
+            {
+                "Not Specified": 20
+            }
+        ]
+    }
+}

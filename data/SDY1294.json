@@ -1,0 +1,85 @@
+{
+    "study_accession": "SDY1294",
+    "actual_completion_date": "2016-08-01",
+    "actual_enrollment": 21,
+    "actual_start_date": "2016-06-02",
+    "age_unit": "Years",
+    "brief_description": "In this study, we used a systems vaccinology approach to identify temporal changes in immune response signatures to the yellow fever (YF)-17D vaccine, with the aim of comprehensively characterizing immune responses associated with protective immunity.",
+    "brief_title": "A Systems Vaccinology Approach Reveals Temporal Transcriptomic Changes of Immune Responses to the Yellow Fever 17D Vaccine.",
+    "clinical_trial": "Y",
+    "condition_studied": "Yellow Fever 17D vaccination",
+    "dcl_id": 2,
+    "description": "In this study, we used a systems vaccinology approach to identify temporal changes in immune response signatures to the yellow fever (YF)-17D vaccine, with the aim of comprehensively characterizing immune responses associated with protective immunity. We conducted a cohort study in which 21 healthy subjects in China were administered one dose of the YF-17D vaccine; PBMCs were collected at 0 h and then at 4 h and days 1, 2, 3, 5, 7, 14, 28, 84, and 168 postvaccination, and analyzed by transcriptional profiling and immunological assays. At 4 h postvaccination, genes associated with innate cell differentiation and cytokine pathways were dramatically downregulated, whereas receptor genes were upregulated, compared with their baseline levels at 0 h. Immune response pathways were primarily upregulated on days 5 and 7, accompanied by the upregulation of the transcriptional factors JUP, STAT1, and EIF2AK2. We also observed robust activation of innate immunity within 2 d postvaccination and a durable adaptive response, as assessed by transcriptional profiling. Coexpression network analysis indicated that lysosome activity and lymphocyte proliferation were associated with dendritic cell (DC) and CD4+ T cell responses; FGL2, NFAM1, CCR1, and TNFSF13B were involved in these associations. Moreover, individuals who were baseline-seropositive for Abs against another flavivirus exhibited significantly impaired DC, NK cell, and T cell function in response to YF-17D vaccination. Overall, our findings indicate that YF-17D vaccination induces a prompt innate immune response and DC activation, a robust Ag-specific T cell response, and a persistent B cell/memory B cell response.",
+    "doi": "10.21430/M3LT8WVHVH",
+    "endpoints": "plaque assay for YFV neutralizing Abs quantitation, immunofluorescence assay, flow cytometry, microarray",
+    "gender_included": "Female, Male",
+    "hypothesis": "To perform systems vaccinology in understanding complex networks of genetic changes and vaccine-induced immune responses that confer protection",
+    "initial_data_release_date": "2019-01-16",
+    "initial_data_release_version": "DR29",
+    "intervention_agent": "yellow fever vaccine 17D (Beijing Tiantan Biological Products)",
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "  42.00",
+    "minimum_age": "  25.00",
+    "objectives": "The goal of this comprehensive analysis was to further characterize the YFV-induced immune response and to better understand the molecular mechanisms underlying vaccine-induced protection.",
+    "official_title": "A Systems Vaccinology Approach Reveals Temporal Transcriptomic Changes of Immune Responses to the Yellow Fever 17D Vaccine.",
+    "sponsoring_organization": "National Major Proj for Infectious Diseases Control and Prevention, the National Natural Science Foundation of China",
+    "target_enrollment": 21,
+    "workspace_id": 6133,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4462",
+            "description": "volunteers aged 25-42 y recruited at the Beijing CDC",
+            "name": "Chinese cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Yiming",
+            "last_name": "Shao",
+            "organization": "Chinese Center for Disease Control and Prevention",
+            "role_in_study": "Principal Investigator",
+            "site_name": "State Key Laboratory of Infectious Disease Prevention and Control"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "A Systems Vaccinology Approach Reveals Temporal Transcriptomic Changes of Immune Responses to the Yellow Fever 17D Vaccine.",
+            "journal": "Journal of Immunology",
+            "month": "August",
+            "year": "2017",
+            "doi": "https://doi.org/10.4049/jimmunol.1700083",
+            "pubmed_id": "28687661"
+        }
+    ],
+    "program": [],
+    "assay": [
+        {
+            "measurement_technique": "Neutralizing Antibody Titer Assay",
+            "number_of_expsamples": 63
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 109
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 21
+            }
+        ],
+        "gender": [
+            {
+                "Female": 11
+            },
+            {
+                "Male": 10
+            }
+        ]
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "study_accession": "SDY36",
+    "actual_completion_date": "2010-01-10",
+    "actual_enrollment": 58,
+    "actual_start_date": "2005-01-01",
+    "age_unit": "Years",
+    "brief_description": "Immunological changes play a physiological role in pregnancy, however they may also have consequences for vaccine response and immunotherapy, which ultimately could impact maternal and fetal survival in the event of transmission of infectious diseases and/or bioterrorism.<br/><br/>The purpose of this study is to characterize the changes in human immune response that occurs during pregnancy and lactation.",
+    "brief_title": "Immune response of patients during pregnancy",
+    "clinical_trial": "N",
+    "condition_studied": "Functions of innate and adaptive immunity during pregnancy conferring susceptibility or resistance to category A-C pathogens such as Newcastle's disease.",
+    "dcl_id": 2,
+    "description": "To study whether the different trimesters in a unique hormone environment are associated with...<br/><br/>(a) Identifiable, discrete changes in maternal systemic immunity and/or<br/><br/>(b) recognizable alterations in susceptibility to select biodefense pathogens.<br/><br/>By challenging patient's cells with chimeric NDV viruses the study will investigate immune antagonists from category A-C pathogens and determine whether pregnancy changes in immune responses may lead to more profound pathogen specific immunodeficiency.<br/><br/>NK, T, plasmacytoid and myeloid dendritic cells will be evaluated without stimulation as well as evaluated in experiments after virus challenge. Cytokine and chemokine expression will also be assessed to determine whether cytokine expression patterns can be predicted in an individual and whether a specific pattern of cytokine expression is related to gestational age.",
+    "doi": "10.21430/M3W4XGM811",
+    "endpoints": "<ol><li>Flow cytometric analysis to measure levels of different cell populations over the course of pregnancy.</li><li>Multiplex ELISA to measure secreted products from each cell type.</li><li>qPCR to measure activation of gene expression in each cell type.</li><li>Patient sera will be used for microneutralization assays to measure ability to inhibit Newcastle virus infection of cell monolayers with a GFP reporter.</li></ol>",
+    "gender_included": "Female, Unknown",
+    "hypothesis": "Pregnancy is characterized by alterations in maternal immunologic function that occur both locally as well as systemically. The existing data suggests that pregnant women may be most vulnerable in the third trimester.",
+    "initial_data_release_date": "2013-04-05",
+    "initial_data_release_version": "DR1",
+    "intervention_agent": "\r",
+    "latest_data_release_date": "2013-04-05",
+    "latest_data_release_version": "DR1",
+    "maximum_age": "  40.00",
+    "minimum_age": "    .00",
+    "objectives": "To measure changes in the immune response of patients during pregnancy using the post-partum samples as controls.<br/><br/>By challenging patient's cells with chimeric NDV viruses the study will investigate immune antagonists from category A-C pathogens and determine whether pregnancy changes in immune responses may lead to more profound pathogen specific immunodeficiency.",
+    "official_title": "Immune response of patients during pregnancy",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 75,
+    "workspace_id": 230,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM210",
+            "description": "Subject's cells divided into control and experimental groups for testing Newcastle virus and uninfected cell responses with immune antagonists.",
+            "name": "Healthy Pregnant Women"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Thomas",
+            "last_name": "Moran",
+            "organization": "School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mount Sinai Hospital\r"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Characterizing the pregnancy immune phenotype: results of the viral immunity and pregnancy (VIP) study.",
+            "journal": "J Clin Immunol.",
+            "month": "Apr",
+            "year": "2012",
+            "doi": "10.1007/s10875-011-9627-2. Epub 2011  Dec 24.",
+            "pubmed_id": "22198680"
+        },
+        {
+            "title": "Immunogenicity of trivalent inactivated influenza vaccination received during pregnancy or postpartum.",
+            "journal": "Obstet Gynecol.",
+            "month": "Mar",
+            "year": "2012",
+            "doi": "10.1097/AOG.0b013e318244ed20.",
+            "pubmed_id": "22353963"
+        },
+        {
+            "title": "The influence of pregnancy on systemic immunity.",
+            "journal": "Immunol Res.",
+            "month": "Dec",
+            "year": "2012",
+            "doi": "10.1007/s12026-012-8303-9.",
+            "pubmed_id": "22447351"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Immune Function and Biodefense in Children, Elderly, and Immunocompromised Populations",
+            "contract_name": "Immune Response to Virus Infection During Pregnancy"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 5362
+        },
+        {
+            "measurement_technique": "Flow Cytometry",
+            "number_of_expsamples": 259
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 1146
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 1
+            },
+            {
+                "race": "Black or African American",
+                "count": 25
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "Unknown",
+                "count": 29
+            },
+            {
+                "race": "White",
+                "count": 2
+            }
+        ],
+        "gender": [
+            {
+                "Female": 57
+            },
+            {
+                "Unknown": 1
+            }
+        ]
+    }
+}

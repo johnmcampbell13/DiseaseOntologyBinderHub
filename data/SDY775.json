@@ -1,0 +1,107 @@
+{
+    "study_accession": "SDY775",
+    "actual_completion_date": null,
+    "actual_enrollment": 7,
+    "actual_start_date": "2015-02-12",
+    "age_unit": "Years",
+    "brief_description": "Control study was unable to distinguish between placental and contamination control sample bacterial species and abundance",
+    "brief_title": "Evaluating differences between healthy placental microbiome and contamination control sample microbiomes",
+    "clinical_trial": "N",
+    "condition_studied": "Human placental microbiome",
+    "dcl_id": 2,
+    "description": "Placental samples from healthy deliveries were compared to an extensive set of  bacterial contamination controls as well as to oral and vaginal samples from the same women. This control study was unable to distinguish bacterial species and abundance between placental and contamination control samples",
+    "doi": "10.21430/M3PZM1ERD2",
+    "endpoints": "Operational taxonomic unit counts",
+    "gender_included": "Female, Other",
+    "hypothesis": "Placental bacteria is not derived from environmental contamination",
+    "initial_data_release_date": "2017-01-31",
+    "initial_data_release_version": "DR20",
+    "intervention_agent": "none",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "45",
+    "minimum_age": "18",
+    "objectives": "Distinguish between healthy placental and contamination control sample microbiomes",
+    "official_title": "Inability to distinguish placental microbiome samples from contamination controls",
+    "sponsoring_organization": "March of Dimes",
+    "target_enrollment": 6,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3122",
+            "description": "Environmental samples",
+            "name": "Environmental controls"
+        },
+        {
+            "arm_accession": "ARM3123",
+            "description": "Tissue harvested from placentas of healthy humans",
+            "name": "Healthy humans"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Frederic",
+            "last_name": "Bushman",
+            "organization": "University of Pennsylvania School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Pennsylvania School of Medicine"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Comparison of placenta samples with contamination controls does not provide evidence for a distinct placenta microbiota.",
+            "journal": "Microbiome.",
+            "month": "Jun",
+            "year": "2016",
+            "doi": "10.1186/s40168-016-0172-3.",
+            "pubmed_id": "27338728"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "16S rRNA gene sequencing",
+            "number_of_expsamples": 69
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 69
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Asian",
+                "count": 2
+            },
+            {
+                "race": "Black or African American",
+                "count": 2
+            },
+            {
+                "race": "Other",
+                "count": 1
+            },
+            {
+                "race": "White",
+                "count": 2
+            }
+        ],
+        "gender": [
+            {
+                "Female": 6
+            },
+            {
+                "Other": 1
+            }
+        ]
+    }
+}

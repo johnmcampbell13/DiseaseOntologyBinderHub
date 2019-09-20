@@ -1,0 +1,106 @@
+{
+    "study_accession": "SDY1205",
+    "actual_completion_date": "2008-12-31",
+    "actual_enrollment": 1349,
+    "actual_start_date": "2005-01-01",
+    "age_unit": "Days",
+    "brief_description": "This study is a genome-wide association study analysis on 1,349 cases of preterm birth (PTB) and 12,595 ancestry-matched controls. Over 2 million single nucleotide polymorphisms (SNPs) were tested for associations with PTB across five subpopulations: Africa (AFR), the Americas (AMR), Europe (EUR), South Asia (SAS), and East Asia (EAS). Two intergenic loci were associated with PTB at a genome-wide level of significance: rs17591250 (P=4.55E-09) on chromosome 1 in the AFR population and rs1979081 (P=3.72E-08) on chromosome 8 in the AMR group. Several existing replication cohorts were queried and no support of these associations were found.",
+    "brief_title": "PTB-associated ancestry variants identification through genome-wide analysis",
+    "clinical_trial": "N",
+    "condition_studied": "Preterm birth",
+    "dcl_id": 0,
+    "description": "Preterm birth (PTB), the delivery of an infant prior to 37 weeks of gestation, is a significant determinant of infant morbidity and mortality. The vast majority of PTBs are spontaneous, caused by either preterm labor or preterm premature rupture of membranes (PPROM). The exact mechanism of spontaneous PTB is unknown, though a multitude of social, environmental, and maternal factors have been implicated. Various observations, such as the tendency for recurrent PTBs and the increased risk of preterm delivery for women who themselves were born preterm, suggest a heritable component to the risk of PTB. Twin studies estimate that maternal genetic variants account for approximately 27% to 36% of the incidence of PTB. A recent study estimated that 11% of variation is due to fetal genetic effects, and a follow up study found a significant effect in individuals with European ancestry, but not African Americans. PTB rates vary among races and ethnicities, with significantly higher rates observed in African Americans, though it is currently unclear how the genetics of PTB differ across groups.\nThis study is a cross-ethnic, ancestry-informed GWAS analysis of 1,349 infants born prematurely. A large cohort of over 12,000 individuals obtained by leveraging publicly available data served as a control cohort. Using this approach, after extensive filtering and quality control, two intergenic variants, statistically significantly associated with PTB were identified. Several existing replication cohorts were queried and no support of these associations were found. \nThe authors concludes that the fetal genetic contribution to PTB is unlikely due to single common genetic variant, but could be explained by interactions of multiple common variants, or of rare variants affected by environmental influences, all not detectable using a GWAS alone.",
+    "doi": "10.21430/M37N6PJEQT",
+    "endpoints": "GWAS",
+    "gender_included": "Not Specified",
+    "hypothesis": "One or more variants are associated with incidence of PTB.",
+    "initial_data_release_date": "2018-01-04",
+    "initial_data_release_version": "DR25",
+    "intervention_agent": "NA",
+    "latest_data_release_date": "2018-01-04",
+    "latest_data_release_version": "DR25",
+    "maximum_age": "297",
+    "minimum_age": "250",
+    "objectives": "Identification of variants associated with PTB incidence through GWAS",
+    "official_title": "A genome-wide association study identifies only two ancestry specific variants associated with spontaneous preterm birth",
+    "sponsoring_organization": "March Of Dimes",
+    "target_enrollment": 1349,
+    "workspace_id": 4009,
+    "research_focus": [
+        "Preterm Birth"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4187",
+            "description": "Preterm infants",
+            "name": "Case - PTB infants CPQCC"
+        },
+        {
+            "arm_accession": "ARM4188",
+            "description": "Adults 50-80 years old",
+            "name": "Control ? Adults University of Michigan HRS"
+        },
+        {
+            "arm_accession": "ARM4189",
+            "description": "Study of African Americans, Asthma, Genes, and Environments Cohort",
+            "name": "Validation ? SAGE II"
+        },
+        {
+            "arm_accession": "ARM4190",
+            "description": "Genes-environments and Admixture in Latino Americans babies",
+            "name": "Validation ? GALA II"
+        },
+        {
+            "arm_accession": "ARM4191",
+            "description": "Inova Translational Medicine Institute?s study cohort",
+            "name": "Validation ? ITMI"
+        },
+        {
+            "arm_accession": "ARM4192",
+            "description": "Boston Birth Cohort PTB",
+            "name": "Maternal ? BBC"
+        },
+        {
+            "arm_accession": "ARM4193",
+            "description": "Finnish Cohort",
+            "name": "Maternal ? FIN"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Marina",
+            "last_name": "Sirota",
+            "organization": "University of California, San Fransisco",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of California, San Fransisco"
+        },
+        {
+            "first_name": "Atul",
+            "last_name": "Butte",
+            "organization": "University of California, San Fransisco",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of California, San Fransisco"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "A genome-wide association study identifies only two ancestry specific variants associated with spontaneous preterm birth.",
+            "journal": "Sci Rep.",
+            "month": "Jan",
+            "year": "2018",
+            "doi": "10.1038/s41598-017-18246-5.",
+            "pubmed_id": "29317701"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "March of Dimes",
+            "contract_name": "March of Dimes Human Microbiome"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

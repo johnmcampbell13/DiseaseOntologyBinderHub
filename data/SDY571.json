@@ -1,0 +1,133 @@
+{
+    "study_accession": "SDY571",
+    "actual_completion_date": null,
+    "actual_enrollment": 200,
+    "actual_start_date": "2007-06-01",
+    "age_unit": "Years",
+    "brief_description": "The purpose of this study is to identify a single test or a combination of noninvasive tests currently used for heart transplant monitoring that correlate to long-term graft survival.",
+    "brief_title": "Observational Study of Alloimmunity in Cardiac Transplant Recipients (CTOT-05)",
+    "clinical_trial": "Y",
+    "condition_studied": "Cardiac Transplantation",
+    "dcl_id": 2,
+    "description": "A major cause of heart transplant failure is the blockage of blood flow from lesions caused by ongoing injury and repair of the graft by the host's immune system. However, the role of T cells, antibodies, and other parts of the recipient's immune system are not well understood in transplant injury. Currently, there are no effective, noninvasive ways to detect or predict how an individual's immune system will react to a transplant. The purpose of this study is to correlate current noninvasive monitoring tests with long-term graft survival and function, and determine which tests are the most accurate predictors of this survival.",
+    "doi": "10.21430/M3AG2C6125",
+    "endpoints": "The primary endpoint of this study is a composite of incidence of the following at 12 months after study enrollment: death, re-transplantation or re-listed for transplantation, biopsy proven acute rejection (BPAR) of >= 2R, episode of rejection associated with hemodynamic compromise, and coronary artery vasculopathy defined by a change in MIT of >=0.5 mm between study entry and 12 months. The secondary endpoints of this study are: individual components of the primary composite endpoints at 12 months, incidence of death at 6 months, incidence of re-transplantation or re-listed at 6 months, incidence of BPAR (any grade) at 6 months, number of episodes of BPAR (any grade) per subject at 6, and 12 months, proportion of subjects with a change in mean intimal thickness of >0.5 mm from study entry until 12 months plus the proportion of subjects with significant diffuse CAD that prevents IVUS procedure, change in average MIT from study entry to 12 months, MIT, luminal area, intimal area, percent stenosis (intimal index), and initial volume (volumetric analysis) as measured by IVUS, decrement in GFR of >30% between study entry and 12 months.",
+    "gender_included": "Female, Male",
+    "hypothesis": "We hypothesize that noninvasive immune monitoring by multiple approaches will provide a reliable approach for assessment of post transplant graft injury and provide insight into mechanisms of graft injury when it occurs. The observational mechanistic studies to be performed in cardiac allograft recipients will provide new information regarding these and other issues related to the alloimmune response.",
+    "initial_data_release_date": "2016-06-17",
+    "initial_data_release_version": "DR19",
+    "intervention_agent": null,
+    "latest_data_release_date": "2016-06-17",
+    "latest_data_release_version": "DR19",
+    "maximum_age": "  64.00",
+    "minimum_age": "    .00",
+    "objectives": "The objective of this prospective observational study is to determine whether any single monitoring test or a combination of monitoring tests, obtained during the first year after cardiac transplantation is associated with the primary composite endpoint consisting of death, re-transplantation or re-listed for transplant, biopsy proven acute rejection >=2R, any episode of rejection associated with hemodynamic compromise, or cardiac transplant allograft vasculopathy as defined by an increase in maximum intimal thickness (MIT) >=0.5 mm between study entry and 12 months.",
+    "official_title": "Observational Study of Alloimmunity in Cardiac Transplant Recipients",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 4058,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2714",
+            "description": "Subjects who will have a heart transplant",
+            "name": "Heart Transplant Recipients"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Peter",
+            "last_name": "Heeger",
+            "organization": "Ricanati Miller Transplant Institute, Mount Sinai School of Medicine",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mount Sinai School of Medicine"
+        },
+        {
+            "first_name": "Mohamed",
+            "last_name": "Sayegh",
+            "organization": "Brigham and Women's Hospital, Harvard Medical School",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Brigham and Women's Hospital, Harvard Medical School"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Comprehensive assessment and standardization of solid phase multiplex-bead arrays for the detection of antibodies to HLA.",
+            "journal": "Am J Transplant.",
+            "month": "Jul",
+            "year": "2013",
+            "doi": "10.1111/ajt.12287. Epub 2013 Jun 13.",
+            "pubmed_id": "23763485"
+        },
+        {
+            "title": "Multicenter Analysis of Immune Biomarkers and Heart Transplant Outcomes: Results of the Clinical Trials in Organ Transplantation-05 Study.",
+            "journal": "Am J Transplant.",
+            "month": "Jan",
+            "year": "2016",
+            "doi": "10.1111/ajt.13422. Epub 2015 Aug 10.",
+            "pubmed_id": "26260101"
+        },
+        {
+            "title": "P2X7R mutation disrupts the NLRP3-mediated Th program and predicts poor cardiac allograft outcomes.",
+            "journal": "J Clin Invest.",
+            "month": "Aug",
+            "year": "2018",
+            "doi": "10.1172/JCI94524. Epub 2018 Jul  16.",
+            "pubmed_id": "30010623"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Clinical Trials in Organ Transplantation (CTOT)",
+            "contract_name": "NONINVASIVE MARKERS AND TRANSPLANT OUTCOME IN HUMANS (CTOT-01, CTOT-05)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 185
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 585
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 386
+        },
+        {
+            "measurement_technique": "Q-PCR",
+            "number_of_expsamples": 1300
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 32
+            },
+            {
+                "race": "Other",
+                "count": 9
+            },
+            {
+                "race": "Unknown",
+                "count": 10
+            },
+            {
+                "race": "White",
+                "count": 149
+            }
+        ],
+        "gender": [
+            {
+                "Female": 38
+            },
+            {
+                "Male": 162
+            }
+        ]
+    }
+}

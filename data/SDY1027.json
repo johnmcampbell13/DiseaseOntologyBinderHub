@@ -1,0 +1,121 @@
+{
+    "study_accession": "SDY1027",
+    "actual_completion_date": "2015-12-31",
+    "actual_enrollment": 200,
+    "actual_start_date": "2010-12-29",
+    "age_unit": "Years",
+    "brief_description": "The study is designed to determine the relation between methylation of CpG motifs and asthma in children residing in the inner city.",
+    "brief_title": "The Role of Epigenetics in Inner City Asthma (ICAC-15)",
+    "clinical_trial": "Y",
+    "condition_studied": "Asthma",
+    "dcl_id": 2,
+    "description": "The study is designed to determine the relation between methylation of CpG motifs and asthma in children residing in the inner city.",
+    "doi": "10.21430/M3SXDBHQTS",
+    "endpoints": "The primary endpoint for this protocol is the global DNA methylation patterns in PBMCs isolated from the persistent asthmatics and non-atopic healthy controls. The secondary endpoints are 1) Global DNA methylation patterns in nasal epithelial cells. 2) DNA methylation patterns in PBMCs isolated from the parent(s) and/or sibling for the determination of imprinting patterns. 3) Gene expression profiles of RNA extracted from PBMCs and nasal epithelial cells of the persistent asthmatics and non-atopic healthy controls.",
+    "gender_included": "Female, Male",
+    "hypothesis": "That epigenetic marks are responsive to unique exposures in the inner city and that these exposure responsive epigenetic marks play a fundamental role in the etiology and severity of asthma in the inner city, provides a provocative new direction for asthma research that is mechanistically based, is likely to have important public health implications, and will establish novel insights into the inner city asthma phenotype.",
+    "initial_data_release_date": "2017-09-29",
+    "initial_data_release_version": "DR23",
+    "intervention_agent": "Not applicable",
+    "latest_data_release_date": "2019-09-16",
+    "latest_data_release_version": "DR32",
+    "maximum_age": "  13.00",
+    "minimum_age": "   6.00",
+    "objectives": "The primary objective of this study is to determine the relationship between methylation marks in CpG motifs and asthma in children residing in the inner city. The secondary objectives are to obtain specimens that will enable us in future studies to determine 1) Whether epigenetic marks in peripheral blood mononuclear cells (PBMC) from asthmatics are also present in nasal epithelial cells. 2) Whether the epigenetic marks in the PBMCs are imprinted from the parental epigenome. 3) How the epigenetic marks affect gene expression.",
+    "official_title": "The Role of Epigenetics in Inner City Asthma",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": 200,
+    "workspace_id": 3134,
+    "research_focus": [
+        "Atopy/Allergy"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM3627",
+            "description": "The control group contains healthy inner-city non-atopic Black children.",
+            "name": "Control Group"
+        },
+        {
+            "arm_accession": "ARM3628",
+            "description": "The asthmatic group contains inner-city Black children with persistent asthma.",
+            "name": "Asthmatic Group"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "David",
+            "last_name": "Schwartz",
+            "organization": "National Jewish Health",
+            "role_in_study": "Principal Investigator",
+            "site_name": "National Jewish Health"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Liu",
+            "organization": "National Jewish Health",
+            "role_in_study": "Principal Investigator",
+            "site_name": "National Jewish Health"
+        },
+        {
+            "first_name": "Herman",
+            "last_name": "Mitchell",
+            "organization": "Rho, Inc.",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Rho, Inc."
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "DNA methylation and childhood asthma in the inner city.",
+            "journal": "J Allergy Clin Immunol.",
+            "month": "Jul",
+            "year": "2015",
+            "doi": "10.1016/j.jaci.2015.01.025",
+            "pubmed_id": "25769910"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Inner City Asthma Consortium (ICAC) RFA-AI-13-036",
+            "contract_name": "Inner City Asthma Consortium (ICAC)"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "DNA methylation profiling assay",
+            "number_of_expsamples": 194
+        },
+        {
+            "measurement_technique": "Transcription profiling by array",
+            "number_of_expsamples": 194
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "Black or African American",
+                "count": 166
+            },
+            {
+                "race": "Not Specified",
+                "count": 7
+            },
+            {
+                "race": "Other",
+                "count": 23
+            },
+            {
+                "race": "White",
+                "count": 4
+            }
+        ],
+        "gender": [
+            {
+                "Female": 100
+            },
+            {
+                "Male": 100
+            }
+        ]
+    }
+}

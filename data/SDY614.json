@@ -1,0 +1,145 @@
+{
+    "study_accession": "SDY614",
+    "actual_completion_date": null,
+    "actual_enrollment": 1061,
+    "actual_start_date": "2010-09-30",
+    "age_unit": "Years",
+    "brief_description": "Smallpox Vaccine Immunogenetics",
+    "brief_title": "Mayo Clinic Smallpox Vaccine Immunogenetics Replication Study",
+    "clinical_trial": "N",
+    "condition_studied": "Vaccinia(Smallpox) Immunity",
+    "dcl_id": 2,
+    "description": "Smallpox Vaccine Immunogenetics",
+    "doi": "10.21430/M3EEL6ILMK",
+    "endpoints": "HLA class I and class II alleles and vaccinia neutralizing antibody level and markers of cell-mediated vaccinia immunity.;  cell-mediated vaccinia immunity;",
+    "gender_included": "Female, Male, Unknown",
+    "hypothesis": "Objectives for Research Area 1. In our current N01 study, we conducted both a genome wide association study and a candidate gene SNP association study with 16 different measures of vaccinia-induced immunity. We also collected gene expression data using microarrays and Next-Gen mRNA sequencing platforms in a subset of our cohort carefully selected from the extremes of humoral (neutralizing antibodies) and cellular (IFN-g ELISPOT) immune responses to maximize our chances of finding significant differential gene expression in response to vaccinia stimulation. In this initial discovery cohort, we identified nearly 2,000 genotype-phenotype associations in class I and II HLA alleles, cytokine and cytokine receptor genes, and in other genes identified in our GWAS (See Appendix I - Preliminary Data). In the current proposal our main goal is to replicate a prioritized set of these associations between polymorphisms of immune response genes, and humoral and cell-mediated immune responses following primary smallpox vaccination in human subjects, similar to the manner recommended by Wiltshire et. al ; Objective for Research Area 2: Functional studies",
+    "initial_data_release_date": "2017-01-31",
+    "initial_data_release_version": "DR20",
+    "intervention_agent": "ACAM2000",
+    "latest_data_release_date": "2018-07-06",
+    "latest_data_release_version": "DR27",
+    "maximum_age": "40",
+    "minimum_age": "18",
+    "objectives": "Objective 1-1. To replicate significant associations identified between specific HLA class I and class II alleles and vaccinia neutralizing antibody level and markers of cell-mediated vaccinia immunity.; Objective 1-2. To replicate significant associations identified between polymorphisms of specific cytokine genes and vaccinia neutralizing antibody level and markers of cell-mediated vaccinia immunity; Objective 1-3. To replicate significant associations identified between polymorphisms of specific cytokine receptor genes and vaccinia neutralizing antibody level and markers of cell-mediated vaccinia immunity.;Objective 1-4. To replicate a prioritized set of significant associations between SNPs identified in our recently performed genome-wide SNP analysis, and vaccinia neutralizing antibody level and markers of cell-mediated vaccinia immunity. ; Objective 1-5. To replicate our analysis of the effect of copy number variation (CNV) on immune outcome in our initial discovery cohort.; Objective 1-6. To perform fine mapping of selected genetic intervals in order to narrow specific sequence intervals identified in the above objectives, and identify the specific genetic element(s) responsible for phenotypic immune response effects for use in Research Area 2 studies. Objective 2-7. To determine the functional consequence(s) of selected genetic variants associated with variations in immune response as validated in Research Area 1",
+    "official_title": "Mayo Clinic Smallpox Vaccine Immunogenetics Replication Study",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2512,
+    "research_focus": [
+        "Vaccine Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM2804",
+            "description": "Subjects recruited from military bases through US",
+            "name": "US Cohort"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Gregory",
+            "last_name": "Poland",
+            "organization": "Mayo Clinic",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Mayo Clinic"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Genome-wide association study of antibody response to smallpox vaccine.",
+            "journal": "Vaccine.",
+            "month": "Jun",
+            "year": "2012",
+            "doi": "10.1016/j.vaccine.2012.04.055. Epub 2012 Apr 25.",
+            "pubmed_id": "22542470"
+        },
+        {
+            "title": "A large population-based association study between HLA and KIR genotypes and measles vaccine antibody responses.",
+            "journal": "PLoS One.",
+            "month": "Feb",
+            "year": "2017",
+            "doi": "10.1371/journal.pone.0171261. eCollection 2017.",
+            "pubmed_id": "28158231"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "Population Genetics Analysis Program (2)",
+            "contract_name": "Population Genetics Analysis Program: Smallpox Vaccine Immunogenetics"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 43744
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 12288
+        },
+        {
+            "measurement_technique": "HLA Typing",
+            "number_of_expsamples": 1056
+        },
+        {
+            "measurement_technique": "Sequencing",
+            "number_of_expsamples": 108
+        },
+        {
+            "measurement_technique": "SNP microarray",
+            "number_of_expsamples": 6864
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 2136
+        }
+    ],
+    "subject": {
+        "race": [
+            {
+                "race": "American Indian or Alaska Native",
+                "count": 26
+            },
+            {
+                "race": "Asian",
+                "count": 17
+            },
+            {
+                "race": "Black or African American",
+                "count": 122
+            },
+            {
+                "race": "Native Hawaiian or Other Pacific Islander",
+                "count": 9
+            },
+            {
+                "race": "Not Specified",
+                "count": 1
+            },
+            {
+                "race": "Other",
+                "count": 20
+            },
+            {
+                "race": "Unknown",
+                "count": 19
+            },
+            {
+                "race": "White",
+                "count": 847
+            }
+        ],
+        "gender": [
+            {
+                "Female": 107
+            },
+            {
+                "Male": 953
+            },
+            {
+                "Unknown": 1
+            }
+        ]
+    }
+}

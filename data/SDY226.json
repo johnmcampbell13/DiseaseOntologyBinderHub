@@ -1,0 +1,127 @@
+{
+    "study_accession": "SDY226",
+    "actual_completion_date": null,
+    "actual_enrollment": 208,
+    "actual_start_date": null,
+    "age_unit": "Months",
+    "brief_description": "Influenza-specific immunity in humans is unique because there are repeated exposures to viral strains containing genetically conserved epitopes recruiting memory CD4 T cells and novel epitopes stimulating naive CD4 T cells, possibly resulting in competition between memory and naive lymphocytes. In this study, we evaluated the effect of this competition on CD4 T cell and B cell response specificity using a murine model of sequential influenza infection. We found striking and selective decreases in CD4 T cell reactivity to nonconserved hemagglutinin (HA) epitopes following secondary influenza infection. Surprisingly, this shift in CD4 T cell specificity was associated with dramatic decreases in HA-specific Ab. These results suggest that repeated exposure to influenza viruses and vaccines containing conserved internal proteins may have unintended and negative consequences on the ability to induce HA-specific Ab to novel pandemic strains of influenza. These finding could have important implications on pandemic influenza preparedness strategies.",
+    "brief_title": "Heterosubtypic Influenza infection antagonizes elicitation of immunological reactivity to hemagglutinin",
+    "clinical_trial": "N",
+    "condition_studied": "A murine model of sequential influenza infection was used to examine the specificity of CD4 T cell and Ab responses following heterosubtypic infection.",
+    "dcl_id": 2,
+    "description": "Influenza-specific immunity in humans is unique because there are repeated exposures to viral strains containing genetically conserved epitopes recruiting memory CD4 T cells and novel epitopes stimulating naive CD4 T cells, possibly resulting in competition between memory and naive lymphocytes. In this study, we evaluated the effect of this competition on CD4 T cell and B cell response specificity using a murine model of sequential influenza infection. We found striking and selective decreases in CD4 T cell reactivity to nonconserved hemagglutinin (HA) epitopes following secondary influenza infection. Surprisingly, this shift in CD4 T cell specificity was associated with dramatic decreases in HA-specific Ab. These results suggest that repeated exposure to influenza viruses and vaccines containing conserved internal proteins may have unintended and negative consequences on the ability to induce HA-specific Ab to novel pandemic strains of influenza. These finding could have important implications on pandemic influenza preparedness strategies. ",
+    "doi": "10.21430/M3NWMDUZ08",
+    "endpoints": "After primary and secondary influenza infection CD4 T cell reactivity was measured by accessing their IFN-g production by ELISPOT assay. Post infection presence of nutralizing antibody in sera was assayed to determine B cell response to specific influenza virus. ELISA is performed to access epitope specific Ab levels in serum.",
+    "gender_included": "Unknown",
+    "hypothesis": "Natural infection and yearly vaccination result in exposure to novel epitopes that elicit a naive T cell response and genetically conserved determinants that stimulate memory T cells. A competition among memory and naive T cells influences the specificity and functionality of the protective immune response.",
+    "initial_data_release_date": "2015-09-18",
+    "initial_data_release_version": "DR15",
+    "intervention_agent": null,
+    "latest_data_release_date": "2015-09-18",
+    "latest_data_release_version": "DR15",
+    "maximum_age": "   2.00",
+    "minimum_age": "   2.00",
+    "objectives": "Evaluating the effect of the competition between the naive and memory CD4 T cell by sequential influenza infection on subsequent T cell and B cell response specificity.",
+    "official_title": "Heterosubtypic Influenza infection antagonizes elicitation of immunological reactivity to hemagglutinin",
+    "sponsoring_organization": "NIAID",
+    "target_enrollment": null,
+    "workspace_id": 2014,
+    "research_focus": [
+        "Infection Response"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM934",
+            "description": "B10.S-H2s/SgMedJ mouse was infected with x139 influenza virus",
+            "name": "B10.S_x139prim"
+        },
+        {
+            "arm_accession": "ARM935",
+            "description": "B10.S-H2s/SgMedJ mouse was infected with X-31 influenza virus and then after 8-9 weeks it was rechallenged with x139 influenza virus.",
+            "name": "B10.S_X-31-x139"
+        },
+        {
+            "arm_accession": "ARM936",
+            "description": "B10.S-H2s/SgMedJ mouse was infected with X-31 influenza virus",
+            "name": "B10.S_X-31"
+        },
+        {
+            "arm_accession": "ARM937",
+            "description": "Naive B10.S-H2s/SgMedJ mouse",
+            "name": "B10.S_Naive"
+        },
+        {
+            "arm_accession": "ARM938",
+            "description": "C57BL/10 mouse mouse was infected with x139 influenza virus",
+            "name": "B10_x139prim"
+        },
+        {
+            "arm_accession": "ARM939",
+            "description": "C57BL/10 mouse mouse was infected with X-31 influenza virus and then after 8-9 weeks it was rechallenged with x139 influenza virus.",
+            "name": "B10_X-31-x139"
+        },
+        {
+            "arm_accession": "ARM940",
+            "description": "C57BL/10 mouse was infected with X-31 influenza virus",
+            "name": "B10_X-31"
+        },
+        {
+            "arm_accession": "ARM941",
+            "description": "B10 mouse infected with X-31 then injected with anti-CD8 Ab every other day beginning 2 days prior to x139 infection.",
+            "name": "B10_CD8"
+        },
+        {
+            "arm_accession": "ARM942",
+            "description": "B10 mouse injected with isotype Ab every other day beginning 2 days prior to x139 infection.",
+            "name": "B10_x139prim_iso"
+        },
+        {
+            "arm_accession": "ARM943",
+            "description": "B10 mouse infected with X-31 then injected with isotype Ab every other day beginning 2 days prior to x139 infection.",
+            "name": "B10_X-31-x139_iso"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Andrea",
+            "last_name": "Sant",
+            "organization": "University of Rochester Medical Center",
+            "role_in_study": "Principal Investigator",
+            "site_name": "ROC034"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Cutting edge: Heterosubtypic influenza infection antagonizes elicitation of immunological reactivity to hemagglutinin.",
+            "journal": "J Immunol.",
+            "month": "Aug",
+            "year": "2013",
+            "doi": "10.4049/jimmunol.1203520. Epub 2013 Jun 21.",
+            "pubmed_id": "23794632"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "NIAID Centers of Excellence for Influenza Research and Surveillance (CEIRS)",
+            "contract_name": "New York Influenza Center of Excellence"
+        }
+    ],
+    "assay": [
+        {
+            "measurement_technique": "ELISA",
+            "number_of_expsamples": 247
+        },
+        {
+            "measurement_technique": "ELISPOT",
+            "number_of_expsamples": 563
+        },
+        {
+            "measurement_technique": "Virus Neutralization",
+            "number_of_expsamples": 28
+        }
+    ],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}

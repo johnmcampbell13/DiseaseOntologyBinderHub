@@ -1,0 +1,267 @@
+{
+    "study_accession": "SDY1432",
+    "actual_completion_date": "2018-01-30",
+    "actual_enrollment": 0,
+    "actual_start_date": "2006-10-01",
+    "age_unit": "Years",
+    "brief_description": "The CIT consortium conducted a total of 9 studies across North America (CIT02 through CIT08) and the Nordic region (CIT01). CIT08 was a long-term follow-up study for interested participants at the North American sites. The target population is individuals with type 1 diabetes, normal kidney function, and intractable hypoglycemia. All studies treated participants with up to 3 separate infusions of islets.",
+    "brief_title": "Clinical Islet Transplantation Consortium (CITC)",
+    "clinical_trial": "Y",
+    "condition_studied": "Diabetes Mellitus, Type 1",
+    "dcl_id": 2,
+    "description": "The CIT consortium conducted a total of 9 studies across North America (CIT02 through CIT08) and the Nordic region (CIT01). CIT08 was a long-term follow-up study for interested participants at the North American sites. The target population is individuals with type 1 diabetes, normal kidney function, and intractable hypoglycemia. All studies treated participants with up to 3 separate infusions of islets.",
+    "doi": "10.21430/M34PPEBZA7",
+    "endpoints": "Endpoints vary by study.",
+    "gender_included": "Not Specified",
+    "hypothesis": "Islet transplantation is safe and effective for the treatment of patients with type 1 diabetes.",
+    "initial_data_release_date": "2019-04-12",
+    "initial_data_release_version": "DR30",
+    "intervention_agent": "Pancreatic Islet Cells",
+    "latest_data_release_date": "2019-04-12",
+    "latest_data_release_version": "DR30",
+    "maximum_age": "68",
+    "minimum_age": "18",
+    "objectives": "The studies investigated methods to improve the safety and efficacy of islet transplantation in treating patients with type 1 diabetes, with and without the complication of kidney failure.",
+    "official_title": "Clinical Islet Transplantation Consortium (CITC)",
+    "sponsoring_organization": "NIDDK, NIAID",
+    "target_enrollment": null,
+    "workspace_id": 6067,
+    "research_focus": [
+        "Transplantation"
+    ],
+    "arm": [
+        {
+            "arm_accession": "ARM4755",
+            "description": "Vary By Study",
+            "name": "Vary By Study"
+        }
+    ],
+    "personnel": [
+        {
+            "first_name": "Bernhard",
+            "last_name": "Hering",
+            "organization": "University of Minnesota",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Minnesota"
+        },
+        {
+            "first_name": "Xunrong",
+            "last_name": "Luo",
+            "organization": "Northwestern University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Northwestern University"
+        },
+        {
+            "first_name": "Olle",
+            "last_name": "Korsgren",
+            "organization": "Uppsala Univ. Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Uppsala Univ. Hospital"
+        },
+        {
+            "first_name": "Nicole",
+            "last_name": "Turgeon",
+            "organization": "Emory University",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Emory University"
+        },
+        {
+            "first_name": "Ali",
+            "last_name": "Naji",
+            "organization": "University of Pennsylvania",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Pennsylvania"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Posselt",
+            "organization": "University of California, San Francisco",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of California, San Francisco"
+        },
+        {
+            "first_name": "Camillo",
+            "last_name": "Ricordi",
+            "organization": "University of Miami",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Miami"
+        },
+        {
+            "first_name": "James",
+            "last_name": "Shapiro",
+            "organization": "University of Alberta",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Alberta"
+        },
+        {
+            "first_name": "Dixon",
+            "last_name": "Kaufman",
+            "organization": "University of Wisconsin",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Wisconsin"
+        },
+        {
+            "first_name": "James",
+            "last_name": "Markmann",
+            "organization": "Massachusetts General Hospital",
+            "role_in_study": "Principal Investigator",
+            "site_name": "Massachusetts General Hospital"
+        },
+        {
+            "first_name": "Jose",
+            "last_name": "Oberholzer",
+            "organization": "University of Illinois",
+            "role_in_study": "Principal Investigator",
+            "site_name": "University of Illinois"
+        }
+    ],
+    "pubmed": [
+        {
+            "title": "Improvement in ?-cell secretory capacity after human islet transplantation according to the CIT07 protocol.",
+            "journal": "Diabetes.",
+            "month": "Aug",
+            "year": "2013",
+            "doi": "10.2337/db12-1802. Epub 2013 Apr 29.",
+            "pubmed_id": "23630300"
+        },
+        {
+            "title": "Improvement in insulin sensitivity after human islet transplantation for type 1 diabetes.",
+            "journal": "J Clin Endocrinol Metab.",
+            "month": "Nov",
+            "year": "2013",
+            "doi": "10.1210/jc.2013-1764. Epub 2013 Oct 1.",
+            "pubmed_id": "24085506"
+        },
+        {
+            "title": "Insulin sensitivity index in type 1 diabetes and following human islet transplantation: comparison of the minimal model to euglycemic clamp measures.",
+            "journal": "Am J Physiol Endocrinol Metab.",
+            "month": "May",
+            "year": "2014",
+            "doi": "10.1152/ajpendo.00667.2013. Epub 2014 Apr 1.",
+            "pubmed_id": "24691031"
+        },
+        {
+            "title": "Restoration of Glucose Counterregulation by Islet Transplantation in Long-standing Type 1 Diabetes.",
+            "journal": "Diabetes.",
+            "month": "May",
+            "year": "2015",
+            "doi": "10.2337/db14-1620. Epub 2014 Dec 18.",
+            "pubmed_id": "25524910"
+        },
+        {
+            "title": "Consistency of quantitative scores of hypoglycemia severity and glycemic lability and comparison with continuous glucose monitoring system measures in long-standing type 1 diabetes.",
+            "journal": "Diabetes Technol Ther.",
+            "month": "Apr",
+            "year": "2015",
+            "doi": "10.1089/dia.2014.0289. Epub 2015 Jan 28.",
+            "pubmed_id": "25629445"
+        },
+        {
+            "title": "Phase 3 Trial of Transplantation of Human Islets in Type 1 Diabetes Complicated by Severe Hypoglycemia.",
+            "journal": "Diabetes Care.",
+            "month": "Jul",
+            "year": "2016",
+            "doi": "10.2337/dc15-1988. Epub 2016 Apr 18.",
+            "pubmed_id": "27208344"
+        },
+        {
+            "title": "Positron Emission Tomography to Assess the Outcome of Intraportal Islet Transplantation.",
+            "journal": "Diabetes.",
+            "month": "Sep",
+            "year": "2016",
+            "doi": "10.2337/db16-0222. Epub 2016 Jun 20.",
+            "pubmed_id": "27325286"
+        },
+        {
+            "title": "National Institutes of Health-Sponsored Clinical Islet Transplantation Consortium Phase 3 Trial: Manufacture of a Complex Cellular Product at Eight Processing Facilities.",
+            "journal": "Diabetes.",
+            "month": "Nov",
+            "year": "2016",
+            "doi": " 2016 Jul 27.",
+            "pubmed_id": "27465220"
+        },
+        {
+            "title": "Long-Term Improvement in Glucose Control and Counterregulation by Islet Transplantation for Type 1 Diabetes.",
+            "journal": "J Clin Endocrinol Metab.",
+            "month": "Nov",
+            "year": "2016",
+            "doi": " 2016 Aug 29.",
+            "pubmed_id": "27571180"
+        },
+        {
+            "title": "Tissue-specific exosome biomarkers for noninvasively monitoring immunologic rejection of transplanted tissue.",
+            "journal": "J Clin Invest.",
+            "month": "Apr",
+            "year": "2017",
+            "doi": "10.1172/JCI87993. Epub 2017 Mar  20.",
+            "pubmed_id": "28319051"
+        },
+        {
+            "title": "Improved Health-Related Quality of Life in a Phase 3 Islet Transplantation Trial in Type 1 Diabetes Complicated by Severe Hypoglycemia.",
+            "journal": "Diabetes Care.",
+            "month": "May",
+            "year": "2018",
+            "doi": "10.2337/dc17-1779. Epub 2018 Mar 21.",
+            "pubmed_id": "29563196"
+        },
+        {
+            "title": "Open Randomized Multicenter Study to Evaluate Safety and Efficacy of Low Molecular Weight Sulfated Dextran in Islet Transplantation.",
+            "journal": "Transplantation.",
+            "month": "Mar",
+            "year": "2019",
+            "doi": "10.1097/TP.0000000000002425.",
+            "pubmed_id": "30211831"
+        }
+    ],
+    "program": [
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "ADVANCING ISLET TRANSPLANTS FOR TYPE 1 DIABETES CARE"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "B-LYMPHOCYTE IMMUNOTHERAPY IN ISLET TRANSPLANTATION"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "ISLET TRANSPLANT - COSTIMULATORY BLOCKADE WITH LEA29Y"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "CLINICAL ISLET TRANSPLANTATION: DATA COORDINATING CENTER"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "STRATEGIES TO IMPROVE LONG TERM ISLET GRAFT SURVIVAL"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "INNATE IMMUNITY IN CLINICAL ISLET TRANSPLANTATION"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "ADVANCING ISLET TRANSPLANT FOR TYPE 1 DIABETES CARE"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "CLINICAL REFINEMENT OF ISLET TRANSPLANTATION"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "CLINICAL ISLET TRANSPLANTATION AT NORTHWESTERN"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "IMMUNE TOLERANCE NETWORK"
+        },
+        {
+            "program_name": "The Clinical Islet Transplantation Consortium",
+            "contract_name": "CLINICAL ISLET TRANSPLANTATION: CLINICAL CENTERS"
+        }
+    ],
+    "assay": [],
+    "subject": {
+        "race": [],
+        "gender": []
+    }
+}
